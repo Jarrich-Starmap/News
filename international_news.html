@@ -1,205 +1,185 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>国际新闻</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-    background: #fff;
-    color: #000;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  h1 {
-    font-size: 24px;
-    font-weight: 600;
-    border-bottom: 1px solid #000;
-    padding-bottom: 12px;
-    margin-bottom: 8px;
-  }
-  .gen-time {
-    font-size: 13px;
-    color: #555;
-    margin-bottom: 24px;
-  }
-  .news-item {
-    border: 1px solid #ccc;
-    padding: 14px 16px;
-    margin-bottom: 10px;
-  }
-  .news-item:hover {
-    border-color: #666;
-  }
-  .news-title {
-    font-size: 16px;
-    font-weight: 500;
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .news-title a {
-    color: #000;
-    text-decoration: none;
-    border-bottom: 1px dotted #999;
-  }
-  .news-title a:hover {
-    border-bottom: 1px solid #000;
-  }
-  .news-meta {
-    font-size: 13px;
-    color: #555;
-  }
-  .news-meta span {
-    margin-right: 16px;
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>International News (International)</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+            background: #f5f5f5; color: #333; line-height: 1.6;
+        }
+        .header {
+            background: linear-gradient(135deg, #1a73e8, #1557b0);
+            color: white; padding: 24px 32px;
+        }
+        .header h1 { font-size: 24px; margin-bottom: 4px; }
+        .header .time { font-size: 13px; opacity: 0.85; }
+        .container { max-width: 900px; margin: 0 auto; padding: 24px 16px; }
+        .news-item {
+            background: white; border-radius: 8px; padding: 16px 20px;
+            margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            transition: box-shadow 0.2s;
+        }
+        .news-item:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+        .news-title { font-size: 16px; font-weight: 600; margin-bottom: 8px; }
+        .news-title a { color: #1a73e8; text-decoration: none; }
+        .news-title a:hover { text-decoration: underline; }
+        .news-meta { display: flex; justify-content: space-between; font-size: 13px; color: #888; }
+        .news-source { background: #e8f0fe; color: #1a73e8; padding: 2px 8px; border-radius: 4px; }
+        .news-time { color: #999; }
+        .footer { text-align: center; padding: 32px; color: #aaa; font-size: 12px; }
+    </style>
 </head>
 <body>
-<h1>国际新闻</h1>
-<p class="gen-time">生成时间：2026-06-29 07:09</p>
-
-<div class="news-item">
-  <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7713904" target="_blank">巴基斯坦军方在边境展开反恐行动 打死29名武装分子</a></div>
-  <div class="news-meta">
-    <span>来源：川观新闻</span>
-    <span>时间：32分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://hk.on.cc/hk/bkn/cnt/news/20260628/bkn-20260628141654455-0628_00822_001_cn.html" target="_blank">冲绳惊见阴阳菜单中文点餐较日文贵近一倍｜即时新闻｜中港台｜on.cc东网</a></div>
-  <div class="news-meta">
-    <span>来源：on.cc東網</span>
-    <span>时间：52分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/tc/1179505" target="_blank">聲畫導讀｜英格蘭人及紐約人身份認同辯論：血統、出生地 VS 文化因素</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：20分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/sc/1179586" target="_blank">據報蘋果公司尋求白宮批准 可向長鑫存儲購記憶體晶片</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：17分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7713896" target="_blank">美官员：美伊计划于30日在卡塔尔首都举行会谈</a></div>
-  <div class="news-meta">
-    <span>来源：川观新闻</span>
-    <span>时间：31分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7713902" target="_blank">加拿大1-0南非 队史首次晋级16强</a></div>
-  <div class="news-meta">
-    <span>来源：川观新闻</span>
-    <span>时间：31分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7713908" target="_blank">马杜罗社交媒体账号再发文：感谢国际社会震后援助</a></div>
-  <div class="news-meta">
-    <span>来源：川观新闻</span>
-    <span>时间：33分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/tc/1179581" target="_blank">熱浪襲歐洲｜專家料未來一兩天西歐氣溫開始緩和 中歐及巴爾幹半島續受影響</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：37分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.newspress.com/2026/06/28/silvergreens-faces-brief-closure-after-its-soft-opening/" target="_blank">Silvergreens faces brief closure after its soft opening</a></div>
-  <div class="news-meta">
-    <span>来源：Santa Barbara News-Press</span>
-    <span>时间：6分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.moroccoworldnews.com/2026/06/326158/mohamed-ouahbi-netherlands-match-will-require-different-solutions/" target="_blank">Mohamed Ouahbi: Netherlands Match Will Require Different Solutions</a></div>
-  <div class="news-meta">
-    <span>来源：Morocco World News</span>
-    <span>时间：50分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://taylorvilledailynews.com/local-news/srn-world-news/1d837c80bd574710826597d81806cb36" target="_blank">From the rubble in Venezuela, an unexpected story of survival cuts through days of tragedy</a></div>
-  <div class="news-meta">
-    <span>来源：Taylorville Daily News</span>
-    <span>时间：9分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.ttnworldwide.com/ArticleTA/464185/saudi-arabia-rolls-out-ai-tourism-strategy-to-enhance-visitor-experience" target="_blank">Saudi Arabia rolls out AI tourism strategy to enhance visitor experience</a></div>
-  <div class="news-meta">
-    <span>来源：Travel & Tourism News Middle East</span>
-    <span>时间：49分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.skysports.com/football/news/30964/13479783/englands-world-cup-2026-fixtures-schedule-and-tournament-route-to-final" target="_blank">England's World Cup 2026 fixtures, schedule and tournament route to final</a></div>
-  <div class="news-meta">
-    <span>来源：Sky Sports</span>
-    <span>时间：10分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.channelnewsasia.com/sport/canada-score-late-winner-advance-last-16-world-cup-6216826" target="_blank">Canada score late winner to advance to last 16 at World Cup</a></div>
-  <div class="news-meta">
-    <span>来源：CNA</span>
-    <span>时间：23分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.abc.net.au/news/2026-06-29/qld-socceroos-to-play-brazil-lang-park-after-world-cup/106853902" target="_blank">Socceroos to play Brazil at Lang Park after World Cup</a></div>
-  <div class="news-meta">
-    <span>来源：Australian Broadcasting Corporation</span>
-    <span>时间：47分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.moroccoworldnews.com/2026/06/326170/ouahbi-defends-moroccos-dual-national-players-their-loyalty-is-to-the-shirt/" target="_blank">Ouahbi Defends Morocco's Dual-National Players: 'Their Loyalty Is to the Shirt'</a></div>
-  <div class="news-meta">
-    <span>来源：Morocco World News</span>
-    <span>时间：44分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.upi.com/Top_News/World-News/2026/06/28/air-defense-identification-zone-chniese-russian-military-aircraft/9401782684367/" target="_blank">China says warplanes entered South Korea's defense zone in drill</a></div>
-  <div class="news-meta">
-    <span>来源：upi</span>
-    <span>时间：20分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.wivb.com/video/worlds-largest-duck-returning-to-canalside/11923559/" target="_blank">World's largest duck returning to Canalside - News 4 Buffalo</a></div>
-  <div class="news-meta">
-    <span>来源：WIVB News 4</span>
-    <span>时间：47分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.cbsnews.com/miami/video/world-cup-fans-flock-to-miami-authorities-arrest-youtubers-amid-security-crackdown/" target="_blank">World Cup fans flock to Miami: Authorities arrest YouTubers amid security crackdown</a></div>
-  <div class="news-meta">
-    <span>来源：CBS News</span>
-    <span>时间：13分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.canberratimes.com.au/story/9300843/three-firefighters-killed-in-raging-us-wildfires/" target="_blank">Three firefighters killed in raging US wildfires</a></div>
-  <div class="news-meta">
-    <span>来源：The Canberra Times</span>
-    <span>时间：11分钟前</span>
-  </div>
-</div>
+    <div class="header">
+        <h1>International News (International)</h1>
+        <div class="time">Generated: 2026-06-29 08:11 | 20 articles | Source: Google News (Past Hour)</div>
+    </div>
+    <div class="container">
+        
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.vaticannews.va/en/vatican-city/news/2026-06/interdicasterial-commission-artificial-intelligence-meets-first.html" target="_blank">Vatican Commission on AI meets for first time</a></div>
+            <div class="news-meta">
+                <span class="news-source">Vatican News</span>
+                <span class="news-time">2026-06-29 08:06</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue" target="_blank">Israel kills four Palestinians in Gaza as attacks on tents continue</a></div>
+            <div class="news-meta">
+                <span class="news-source">Al Jazeera</span>
+                <span class="news-time">2026-06-29 07:28</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://abcnews.com/US/wireStory/photos-show-pride-world-monthlong-celebration-ends-iconic-134293245" target="_blank">Photos show Pride around the world: Monthlong celebration ends with iconic US parades</a></div>
+            <div class="news-meta">
+                <span class="news-source">ABC News</span>
+                <span class="news-time">2026-06-29 07:55</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks" target="_blank">Iran war live: Tehran insists on control of Hormuz amid reports of US talks</a></div>
+            <div class="news-meta">
+                <span class="news-source">Al Jazeera</span>
+                <span class="news-time">2026-06-29 08:00</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.cbsnews.com/colorado/news/mandatory-evacuations-wildfire-mount-massive-colorado/" target="_blank">Mandatory evacuations issued for wildfire west of Leadville, Colorado</a></div>
+            <div class="news-meta">
+                <span class="news-source">CBS News</span>
+                <span class="news-time">2026-06-29 07:57</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://taylorvilledailynews.com/local-news/srn-world-news/7fb3bdfca16fb52b0bd5c44a17577119" target="_blank">Russian attacks kill five in Ukraine, local officials say</a></div>
+            <div class="news-meta">
+                <span class="news-source">Taylorville Daily News (Reuters)</span>
+                <span class="news-time">2026-06-29 07:58</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://taylorvilledailynews.com/local-news/srn-world-news/9bc4e6fcb1f132039f5f4dc269fb108a" target="_blank">Capricious, violent, arbitrary: Venezuela’s twin quakes</a></div>
+            <div class="news-meta">
+                <span class="news-source">Taylorville Daily News (Reuters)</span>
+                <span class="news-time">2026-06-29 07:58</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.indailyqld.com.au/news/just-in/2026/06/29/iran-and-us-agree-to-halt-attacks-and-renew-talks" target="_blank">Iran and US agree to halt attacks and renew talks</a></div>
+            <div class="news-meta">
+                <span class="news-source">InDaily Queensland</span>
+                <span class="news-time">2026-06-29 07:17</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.bbc.co.uk/news/articles/c39y7w901vdo" target="_blank">Loved and loathed: The making of India’s viral liver doctor</a></div>
+            <div class="news-meta">
+                <span class="news-source">BBC</span>
+                <span class="news-time">2026-06-29 07:12</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.bbc.co.uk/news/articles/cly9nerqxyno" target="_blank">Newspaper headlines: Burnham’s ‘10-year mission’ and ‘Princess in peaks condition’</a></div>
+            <div class="news-meta">
+                <span class="news-source">BBC</span>
+                <span class="news-time">2026-06-29 07:49</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.1news.co.nz/2026/06/29/news-in-90-seconds-june-29/" target="_blank">News in 90 Seconds June 29</a></div>
+            <div class="news-meta">
+                <span class="news-source">1News (New Zealand)</span>
+                <span class="news-time">2026-06-29 07:21</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.indailysa.com.au/news/opinion/2026/06/29/why-adelaide-cant-afford-to-leave-talent-at-the-door" target="_blank">Why Adelaide can’t afford to leave talent at the door</a></div>
+            <div class="news-meta">
+                <span class="news-source">InDaily South Australia</span>
+                <span class="news-time">2026-06-29 08:01</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.indailysa.com.au/news/opinion/2026/06/29/stats-guy-migration-debate" target="_blank">The Stats Guy: The migration debate is outrageous by design</a></div>
+            <div class="news-meta">
+                <span class="news-source">InDaily South Australia</span>
+                <span class="news-time">2026-06-29 07:36</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.nine.com.au/entertainment/eliza-paschke-pregnant-surprises-parents-pregnancy-news-watch-video-20260629-p60ate.html" target="_blank">Parents’ hilarious reaction to Block star’s pregnancy news</a></div>
+            <div class="news-meta">
+                <span class="news-source">Nine.com.au</span>
+                <span class="news-time">2026-06-29 07:51</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.nzherald.co.nz/gisborne-herald/news/gisborne-news-digest-shed-fire-27k-lotto-win-firewood-scam-warning/DOS6G7P4LJDELI3YMYPHFRXPLI/" target="_blank">Gisborne News Digest: Shed fire, $27k Lotto win, firewood scam warning</a></div>
+            <div class="news-meta">
+                <span class="news-source">NZ Herald</span>
+                <span class="news-time">2026-06-29 07:41</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.news4jax.com/tropics-watch/" target="_blank">Tropics Watch | Hurricane News</a></div>
+            <div class="news-meta">
+                <span class="news-source">News4JAX</span>
+                <span class="news-time">2026-06-29 08:00</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://sports.yahoo.com/articles/rays-announce-disappointing-yandy-diaz-202400281.html" target="_blank">Rays Announce Disappointing Yandy Diaz News After Diamondbacks Game</a></div>
+            <div class="news-meta">
+                <span class="news-source">Yahoo Sports</span>
+                <span class="news-time">2026-06-29 08:01</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.dvidshub.net/news/568873/srf-jrmc-delivers-two-more-ships-fleet-time" target="_blank">SRF-JRMC delivers two more ships to fleet on time</a></div>
+            <div class="news-meta">
+                <span class="news-source">DVIDS (US Defense)</span>
+                <span class="news-time">2026-06-29 07:12</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.cbs8.com/video/news/live_stream/cbs-8-news-working-for-you-5pm-sunday/509-9b8a90f4-9043-4e30-b8fa-39cf7d15ca77" target="_blank">CBS 8 News & Working For You @ 5pm Sunday</a></div>
+            <div class="news-meta">
+                <span class="news-source">cbs8.com (San Diego)</span>
+                <span class="news-time">2026-06-29 08:02</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.tampabay28.com/news/local-news/news-tonight-top-headlines-and-weather-for-june-28" target="_blank">News Tonight - Top Headlines and Weather for June 28</a></div>
+            <div class="news-meta">
+                <span class="news-source">Tampa Bay 28</span>
+                <span class="news-time">2026-06-29 07:30</span>
+            </div>
+        </div>
+    </div>
+    <div class="footer">Generated by Marvis Browser Agent &copy; 2026</div>
 </body>
 </html>

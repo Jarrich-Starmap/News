@@ -1,199 +1,185 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>国内新闻</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-    background: #fff;
-    color: #000;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  h1 {
-    font-size: 24px;
-    font-weight: 600;
-    border-bottom: 1px solid #000;
-    padding-bottom: 12px;
-    margin-bottom: 8px;
-  }
-  .gen-time {
-    font-size: 13px;
-    color: #555;
-    margin-bottom: 24px;
-  }
-  .news-item {
-    border: 1px solid #ccc;
-    padding: 14px 16px;
-    margin-bottom: 10px;
-  }
-  .news-item:hover { border-color: #666; }
-  .news-title {
-    font-size: 16px;
-    font-weight: 500;
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .news-title a {
-    color: #000;
-    text-decoration: none;
-    border-bottom: 1px dotted #999;
-  }
-  .news-title a:hover { border-bottom: 1px solid #000; }
-  .news-meta {
-    font-size: 13px;
-    color: #555;
-  }
-  .news-meta span { margin-right: 16px; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domestic News (Domestic)</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+            background: #f5f5f5; color: #333; line-height: 1.6;
+        }
+        .header {
+            background: linear-gradient(135deg, #1a73e8, #1557b0);
+            color: white; padding: 24px 32px;
+        }
+        .header h1 { font-size: 24px; margin-bottom: 4px; }
+        .header .time { font-size: 13px; opacity: 0.85; }
+        .container { max-width: 900px; margin: 0 auto; padding: 24px 16px; }
+        .news-item {
+            background: white; border-radius: 8px; padding: 16px 20px;
+            margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            transition: box-shadow 0.2s;
+        }
+        .news-item:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+        .news-title { font-size: 16px; font-weight: 600; margin-bottom: 8px; }
+        .news-title a { color: #1a73e8; text-decoration: none; }
+        .news-title a:hover { text-decoration: underline; }
+        .news-meta { display: flex; justify-content: space-between; font-size: 13px; color: #888; }
+        .news-source { background: #e8f0fe; color: #1a73e8; padding: 2px 8px; border-radius: 4px; }
+        .news-time { color: #999; }
+        .footer { text-align: center; padding: 32px; color: #aaa; font-size: 12px; }
+    </style>
 </head>
 <body>
-<h1>国内新闻</h1>
-<p class="gen-time">生成时间：2026-06-29 07:09</p>
-
-<div class="news-item">
-  <div class="news-title"><a href="http://news.china.com.cn/2026-06/29/content_118572258.shtml" target="_blank">新闻分析：香港高校何以"闪亮"？</a></div>
-  <div class="news-meta">
-    <span>来源：中国网新闻中心</span>
-    <span>时间：27分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/sc/1179517" target="_blank">全球競爭力續升鞏固經濟基本面 樓市蓄力再上｜樓·言板</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：5分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7713416" target="_blank">盆地多分散阵雨，闷热感开始加重（2026.6.29）丨小观看天</a></div>
-  <div class="news-meta">
-    <span>来源：川观新闻</span>
-    <span>时间：4分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/sc/1179557" target="_blank">經濟日報社論｜港變超級轉換器 北都承載新動能｜全文</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：6分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/tc/1179565" target="_blank">社評｜星島：政府上任4年滿意度再上升／經濟：港變超級轉換器</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：39分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/tc/1179579" target="_blank">新質數字發盈警 料年度虧損將按年擴大最少1.4倍</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：49分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/sc/1179578" target="_blank">藥捷安康擬斥資最多1億元人民幣回購股份</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：49分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/sc/1179564" target="_blank">天氣家族｜有驟雨及雷暴 短暫有陽光 玩瀡滑梯小心整濕褲</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：52分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.tvb.com/sc/1179577" target="_blank">洲際船務斥資3920萬美元購買兩艘船舶</a></div>
-  <div class="news-meta">
-    <span>来源：TVB</span>
-    <span>时间：49分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="http://www.tynews.com.cn/system/2026/06/29/031037921.shtml" target="_blank">市民享受户外时光</a></div>
-  <div class="news-meta">
-    <span>来源：太原新闻网</span>
-    <span>时间：9分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://news.iqilu.com/shandong/yuanchuang/2026/0629/5924953.shtml" target="_blank">就业季的"隐藏地图"：这些新职业正在疯狂抢人</a></div>
-  <div class="news-meta">
-    <span>来源：齐鲁网</span>
-    <span>时间：8分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://std.stheadline.com/realtime/article/123456" target="_blank">新闻追击︱威院推骨科分流计划 物理治疗师介入新症 平均2.66日即获评估</a></div>
-  <div class="news-meta">
-    <span>来源：星島頭條</span>
-    <span>时间：7分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.dzwww.com/xinwen/dzwpl/202606/t20260629_123456.htm" target="_blank">大众日报评论 | 为民造福是最大政绩</a></div>
-  <div class="news-meta">
-    <span>来源：大众网</span>
-    <span>时间：12分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.myzaker.com/article/123456" target="_blank">望梅止渴 .gif</a></div>
-  <div class="news-meta">
-    <span>来源：ZAKER新闻</span>
-    <span>时间：58分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://m.sohu.com/a/1042888642_121286085" target="_blank">6月29日·上海早新闻</a></div>
-  <div class="news-meta">
-    <span>来源：搜狐网</span>
-    <span>时间：38分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="http://news.cnnb.com.cn/system/2026/06/29/123456.shtml" target="_blank">老房大改造他们迎来了"暖暖的新家"-新闻中心</a></div>
-  <div class="news-meta">
-    <span>来源：中国宁波网</span>
-    <span>时间：20分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.thepaper.cn/newsDetail_forward_123457" target="_blank">省府前街1号｜奔赴下一场丰收</a></div>
-  <div class="news-meta">
-    <span>来源：大众网</span>
-    <span>时间：29分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.thepaper.cn/newsDetail_forward_123457" target="_blank">太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了</a></div>
-  <div class="news-meta">
-    <span>来源：ThePaper.cn</span>
-    <span>时间：38分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7714001" target="_blank">在全面学习全面把握全面落实上下功夫——四川持续推动学习贯彻习近平党建思想走深走实（上）</a></div>
-  <div class="news-meta">
-    <span>来源：川观新闻</span>
-    <span>时间：2分钟前</span>
-  </div>
-</div>
-<div class="news-item">
-  <div class="news-title"><a href="https://www.ntdtv.com/gb/2026/06/29/a123456.html" target="_blank">【全球新聞】6月28日完整版</a></div>
-  <div class="news-meta">
-    <span>来源：新唐人電視台</span>
-    <span>时间：18分钟前</span>
-  </div>
-</div>
+    <div class="header">
+        <h1>Domestic News (Domestic)</h1>
+        <div class="time">Generated: 2026-06-29 08:11 | 20 articles | Source: Google News (Past Hour)</div>
+    </div>
+    <div class="container">
+        
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.bbc.com/zhongwen/articles/cvg5jl7gd4ro/simp" target="_blank">RAMageddon：为何科技企业加价时纷纷怪罪AI</a></div>
+            <div class="news-meta">
+                <span class="news-source">BBC中文</span>
+                <span class="news-time">2026-06-29 07:50</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.moomoo.com/news/post/72146116" target="_blank">油价涨幅收窄 美伊据报同意停止互袭</a></div>
+            <div class="news-meta">
+                <span class="news-source">Moomoo/格隆汇</span>
+                <span class="news-time">2026-06-29 07:58</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://news.cnr.cn/native/gd/sz/20260629/t20260629_527681054.shtml" target="_blank">时政微周刊丨总书记的一周（6月22日—6月28日）</a></div>
+            <div class="news-meta">
+                <span class="news-source">央广网/央视新闻</span>
+                <span class="news-time">2026-06-29 07:46</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.stheadline.com/zh-hans/football-news/3588056/" target="_blank">体坛早报｜加拿大挛南非晋16强 将斗荷兰、摩洛哥胜方 洪明甫请辞</a></div>
+            <div class="news-meta">
+                <span class="news-source">星島頭條</span>
+                <span class="news-time">2026-06-29 07:57</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="http://www.qhnews.com/newscenter/system/2026/06/29/030575700.shtml" target="_blank">高原半马的激情和挑战 ——2026招商银行西宁半程马拉松见闻</a></div>
+            <div class="news-meta">
+                <span class="news-source">青海新闻网</span>
+                <span class="news-time">2026-06-29 07:47</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.yzwb.net/news/txs/202606/t20260629_366977.html" target="_blank">紫牛早新闻｜江苏新一轮降雨已发货，沿江苏南有中到大雨</a></div>
+            <div class="news-meta">
+                <span class="news-source">紫牛新闻</span>
+                <span class="news-time">2026-06-29 07:15</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7703884" target="_blank">不定不切实际的目标，不开不解决问题的会丨天天学习</a></div>
+            <div class="news-meta">
+                <span class="news-source">川观新闻</span>
+                <span class="news-time">2026-06-29 07:18</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.news.cn/legal/20260629/58fa88e78ccc456c89d17cf564fcf1b1/c.html" target="_blank">让网络测评经得起“测”与“评”——《网络测评活动规范》出台</a></div>
+            <div class="news-meta">
+                <span class="news-source">新华网</span>
+                <span class="news-time">2026-06-29 07:53</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://news.cctv.com/2026/06/29/ARTIIiSrYWscX91FDeePOIIg260629.shtml" target="_blank">稳步增长、向新向优！我国多领域发布亮眼“成绩单”</a></div>
+            <div class="news-meta">
+                <span class="news-source">央视网</span>
+                <span class="news-time">2026-06-29 07:16</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.jfdaily.com/news/detail?id=1136137" target="_blank">武契奇又说要辞职，亲吻国旗到底啥意思</a></div>
+            <div class="news-meta">
+                <span class="news-source">上观新闻</span>
+                <span class="news-time">2026-06-29 07:45</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://hk.on.cc/cnt/news/20260628/bkn-20260628160004643-0628_00822_001_cn.html" target="_blank">捣贩毒集团搜香港仔避风塘2游艇检1.8亿元可卡因拘主脑骨干3人</a></div>
+            <div class="news-meta">
+                <span class="news-source">on.cc東網</span>
+                <span class="news-time">2026-06-29 07:14</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://cbgc.scol.com.cn/news/7714010" target="_blank">地震后的第一个早上，震中沙河镇包子铺正常营业</a></div>
+            <div class="news-meta">
+                <span class="news-source">川观新闻</span>
+                <span class="news-time">2026-06-29 07:56</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.zaobao.com.sg/news/world/story20260629-9280085" target="_blank">普京：俄罗斯准备继续与美国讨论乌克兰问题</a></div>
+            <div class="news-meta">
+                <span class="news-source">联合早报</span>
+                <span class="news-time">2026-06-29 07:50</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.zaobao.com.sg/news/world/story20260629-9280034" target="_blank">消息：美国伊朗同意停止相互攻击 重启对话</a></div>
+            <div class="news-meta">
+                <span class="news-source">联合早报</span>
+                <span class="news-time">2026-06-29 07:25</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.sina.cn/news/detail/5315052009685318.html" target="_blank">加拿大绝杀南非进16强</a></div>
+            <div class="news-meta">
+                <span class="news-source">新浪网</span>
+                <span class="news-time">2026-06-29 07:50</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.xmnn.cn/news/gnxw/202606/t20260629_436890.html" target="_blank">事关个税，明日截止！这两种情况要重点留意</a></div>
+            <div class="news-meta">
+                <span class="news-source">厦门网</span>
+                <span class="news-time">2026-06-29 07:31</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="https://www.sina.cn/news/detail/5315043178840679.html" target="_blank">宜宾地震祈愿平安</a></div>
+            <div class="news-meta">
+                <span class="news-source">新浪网</span>
+                <span class="news-time">2026-06-29 07:15</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="http://www.sinopecnews.com.cn/xnews/content/2026-06/29/content_7150998.html" target="_blank">胜利油田：分层分类强教育 以案为鉴敲警钟</a></div>
+            <div class="news-meta">
+                <span class="news-source">中国石化新闻网</span>
+                <span class="news-time">2026-06-29 07:47</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="http://www.sinopecnews.com.cn/xnews/content/2026-06/29/content_7150976.html" target="_blank">顺北油气田联合站连续安稳运行超1800天</a></div>
+            <div class="news-meta">
+                <span class="news-source">中国石化新闻网</span>
+                <span class="news-time">2026-06-29 07:29</span>
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-title"><a href="http://www.sinopecnews.com.cn/xnews/content/2026-06/29/content_7150992.html" target="_blank">“水杉”诞生记——江汉平原深井岩盐品牌故事</a></div>
+            <div class="news-meta">
+                <span class="news-source">中国石化新闻网</span>
+                <span class="news-time">2026-06-29 07:44</span>
+            </div>
+        </div>
+    </div>
+    <div class="footer">Generated by Marvis Browser Agent &copy; 2026</div>
 </body>
 </html>
