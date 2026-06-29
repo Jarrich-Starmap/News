@@ -1,0 +1,97 @@
+{
+  "title": "GitHub 本周热门 AI 项目",
+  "period": "2026.06.23 – 06.29",
+  "updated": "2026-06-29",
+  "projects": [
+    {
+      "rank": 1,
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "开源 AI 视频生产系统，12 条流水线、52 个工具、500+ Agent Skills，将 AI 推向完整视频生产工作流。",
+      "stars": "25.7k",
+      "weekly_stars": 428
+    },
+    {
+      "rank": 2,
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "高性能代码知识图谱 MCP，支持 158 种语言，毫秒级索引、低 Token 成本，让 AI 真正理解代码库。",
+      "stars": "18.1k",
+      "weekly_stars": 262
+    },
+    {
+      "rank": 3,
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "AI Agent 一键接入全网，覆盖 X、Reddit、YouTube、GitHub、B站、小红书等平台，自动处理 API 认证与反爬。",
+      "stars": "43.8k",
+      "weekly_stars": 204
+    },
+    {
+      "rank": 4,
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统，涵盖行情、新闻、看板与自动推送，AI 进入具体决策场景。",
+      "stars": "50.6k",
+      "weekly_stars": 168
+    },
+    {
+      "rank": 5,
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "开源 AI 长期记忆平台，为 Agent 提供跨会话的知识图谱记忆能力，告别「每次见你都像第一次」。",
+      "stars": "24.2k",
+      "weekly_stars": 139
+    },
+    {
+      "rank": 6,
+      "owner": "xbtlin",
+      "repo": "ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的价值投资研究框架，用多 Agent 并行做投研分析，将投资大师方法论拆解为可调用工作流。",
+      "stars": "4.8k",
+      "weekly_stars": 136
+    },
+    {
+      "rank": 7,
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "AI Coding Agent 一键克隆任意网站模板，让 Agent 直接照着目标拆页面，效率工具新范式。",
+      "stars": "22.3k",
+      "weekly_stars": 124
+    },
+    {
+      "rank": 8,
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "提升 AI 前端审美与页面品味的 Skill，不满足于「做出来」而是要求「做得像样」。",
+      "stars": "52.2k",
+      "weekly_stars": 124
+    },
+    {
+      "rank": 9,
+      "owner": "hugohe3",
+      "repo": "ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI 从文档生成真实可编辑 PPT，支持原生形状与动画，走向真正可交付的生产力工具。",
+      "stars": "33.4k",
+      "weekly_stars": 104
+    },
+    {
+      "rank": 10,
+      "owner": "bikini",
+      "repo": "exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "公开漏洞利用 PoC 与安全研究归档库，AI 越往工程里走，安全问题越绕不开。",
+      "stars": "1.4k",
+      "weekly_stars": 83
+    }
+  ]
+}
