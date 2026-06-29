@@ -3,234 +3,243 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>国内新闻（过去1小时）</title>
+    <title>国内新闻 - 2026年6月29日 13:25</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
-        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 24px 20px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
-        .header h1 { font-size: 1.6rem; font-weight: 700; margin-bottom: 8px; }
-        .header p { font-size: 0.85rem; opacity: 0.9; }
-        .container { max-width: 800px; margin: 0 auto; padding: 16px; }
-        .news-item { display: flex; background: white; border-radius: 12px; margin-bottom: 10px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; }
-        .news-item:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
-        .news-number { flex-shrink: 0; width: 32px; height: 32px; background: linear-gradient(135deg, #667eea, #764ba2); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.85rem; font-weight: 700; margin-right: 14px; margin-top: 2px; }
-        .news-content { flex: 1; min-width: 0; }
-        .news-title { font-size: 1rem; font-weight: 600; margin-bottom: 6px; line-height: 1.4; }
-        .news-title a { color: #1a1a1a; text-decoration: none; }
-        .news-title a:hover { color: #667eea; }
-        .news-meta { display: flex; align-items: center; font-size: 0.8rem; color: #888; gap: 12px; flex-wrap: wrap; }
-        .news-source { background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
-        .news-time { color: #aaa; }
-        .footer { text-align: center; padding: 20px; color: #aaa; font-size: 0.8rem; }
-        @media (max-width: 480px) { .header h1 { font-size: 1.3rem; } .news-item { padding: 12px; } .news-title { font-size: 0.95rem; } }
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background: #fff;
+            color: #000;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 24px 16px 48px;
+        }
+        header {
+            border-bottom: 1px solid #000;
+            padding-bottom: 16px;
+            margin-bottom: 24px;
+        }
+        header h1 {
+            font-size: 24px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+        header .subtitle {
+            font-size: 13px;
+            color: #666;
+            margin-top: 6px;
+        }
+        .news-item {
+            padding: 14px 0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .news-title {
+            font-size: 16px;
+            font-weight: 500;
+            color: #000;
+            text-decoration: none;
+            display: block;
+            line-height: 1.5;
+        }
+        .news-title:hover {
+            text-decoration: underline;
+        }
+        .news-meta {
+            margin-top: 6px;
+            font-size: 13px;
+            color: #888;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .news-source {
+            font-weight: 500;
+            color: #555;
+        }
+        .news-time {
+            color: #999;
+        }
+        footer {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 12px;
+            color: #aaa;
+            text-align: center;
+        }
+        @media (max-width: 480px) {
+            .container {
+                padding: 16px 12px 32px;
+            }
+            header h1 {
+                font-size: 20px;
+            }
+            .news-title {
+                font-size: 15px;
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>国内新闻（过去1小时）</h1>
-        <p>共 20 条新闻 · 生成时间：2026-06-29 11:00 · 数据来源：Google News（过去1小时）</p>
-    </div>
     <div class="container">
-        <div class="news-item">
-            <div class="news-number">1</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://news.tongji.edu.cn/info/1006/95027.htm" target="_blank" rel="noopener">中国国内首个国产千卡级工科智算集群正式在沪启动</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">同济大学新闻网</span>
-                    <span class="news-time">2026-06-29 10:38</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">2</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="http://www.csteelnews.com/xwzx/djbd/202606/t20260629_111042.html" target="_blank" rel="noopener">晋南钢铁集团向中国冶金报社发来创刊70周年贺信</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">中国钢铁新闻网</span>
-                    <span class="news-time">2026-06-29 10:04</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">3</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://cbgc.scol.com.cn/news/7714709" target="_blank" rel="noopener">解放军南部战区组织海空力量位南海海域进行例行巡航</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">川观新闻</span>
-                    <span class="news-time">2026-06-29 10:46</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">4</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.stcn.com/live/detail/1412.html" target="_blank" rel="noopener">国新办举行新闻发布会 介绍推进水运高质量发展有关情况</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">证券时报</span>
-                    <span class="news-time">2026-06-29 10:32</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">5</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.kunming.cn/news/c/2026-06-29/14055179.shtml" target="_blank" rel="noopener">国新办举行新闻发布会 介绍中国与南亚经贸合作及第10届中国—南亚博览会有关情况</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">昆明信息港</span>
-                    <span class="news-time">2026-06-29 10:09</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">6</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.news.cn/politics/20260629/c6ad26c8e36f4a09b8226a1e1b51c3a3/c.html" target="_blank" rel="noopener">南部战区新闻发言人发表谈话</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">新华网</span>
-                    <span class="news-time">2026-06-29 10:46</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">7</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://cbgc.scol.com.cn/news/7714580" target="_blank" rel="noopener">习近平会见白俄罗斯总统卢卡申科</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">川观新闻</span>
-                    <span class="news-time">2026-06-29 10:13</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">8</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://cbgc.scol.com.cn/news/7714654" target="_blank" rel="noopener">中国战机大片上新！压迫感又多了亿点点……</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">川观新闻</span>
-                    <span class="news-time">2026-06-29 10:26</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">9</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.dzwww.com/xinwen/guoneixinwen/202606/t20260629_17882140.htm" target="_blank" rel="noopener">新一批支持消费品以旧换新资金下达</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">大众网</span>
-                    <span class="news-time">2026-06-29 10:34</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">10</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.shx.chinanews.com.cn/news/2026/0629/111003.html" target="_blank" rel="noopener">首届西部商业航天大会在西安启幕</a></h2>
+        <header>
+            <h1>国内新闻</h1>
+            <div class="subtitle">2026年6月29日 13:25 · 共 20 条</div>
+        </header>
+        <main>
+            
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/ty/shipin/2026/06-29/news1059789.shtml" target="_blank" rel="noopener">现场直击！葡萄牙战平哥伦比亚 哥伦比亚小组头名出线</a>
                 <div class="news-meta">
                     <span class="news-source">中国新闻网</span>
-                    <span class="news-time">2026-06-29 10:19</span>
+                    <span class="news-time">2026-06-29 13:16</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">11</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://static.nfnews.com/content/202606/29/c12572862.html" target="_blank" rel="noopener">茂新闻·一周盘点 | 省残运会开赛；全市工业园区赛马会举行</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649190.shtml" target="_blank" rel="noopener">入列十年，运-20家族如今发展到什么程度？</a>
                 <div class="news-meta">
-                    <span class="news-source">南方+</span>
-                    <span class="news-time">2026-06-29 10:31</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:54</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">12</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.whnews.cn/news/node/2026-06/29/content_-34169.htm" target="_blank" rel="noopener">喜报！环翠区成功入选省级名单</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649200.shtml" target="_blank" rel="noopener">轻舟试验飞船第二批在轨试验成果发布</a>
                 <div class="news-meta">
-                    <span class="news-source">威海新闻网</span>
-                    <span class="news-time">2026-06-29 10:15</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 13:13</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">13</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://cbgc.scol.com.cn/news/7714525" target="_blank" rel="noopener">2026年初升高，多少分可冲成都石室中学？</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/cj/2026/06-29/10649187.shtml" target="_blank" rel="noopener">新一批支持消费品以旧换新资金下达</a>
                 <div class="news-meta">
-                    <span class="news-source">川观新闻</span>
-                    <span class="news-time">2026-06-29 10:04</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:53</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">14</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://cbgc.scol.com.cn/news/7714494" target="_blank" rel="noopener">2026年初升高，多少分可冲成都二中（成都科技中学）？</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/cj/2026/06-29/10649184.shtml" target="_blank" rel="noopener">供需良性互动 不断开辟内需新空间</a>
                 <div class="news-meta">
-                    <span class="news-source">川观新闻</span>
-                    <span class="news-time">2026-06-29 10:04</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:49</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">15</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://cbgc.scol.com.cn/news/7714524" target="_blank" rel="noopener">怎么用分数去匹配学校？冲稳保到底啥意思？丨四川2026高考直通车</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649191.shtml" target="_blank" rel="noopener">学习手记：细节之中抓作风</a>
                 <div class="news-meta">
-                    <span class="news-source">川观新闻</span>
-                    <span class="news-time">2026-06-29 10:50</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:49</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">16</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.thepaper.cn/newsDetail_forward_33474481" target="_blank" rel="noopener">百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649178.shtml" target="_blank" rel="noopener">神舟二十三号乘组满月！天宫Vlog来了</a>
                 <div class="news-meta">
-                    <span class="news-source">ThePaper.cn</span>
-                    <span class="news-time">2026-06-29 10:40</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:45</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">17</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://news.cctv.com/2026/06/29/ARTILUutHywDqdCbkZMSLHzt260629.shtml" target="_blank" rel="noopener">专家提醒AI荐彩背后的网络赌球风险</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="http://www.fj.chinanews.com.cn/news/2026/2026-06-29/586792.html" target="_blank" rel="noopener">厦金大桥（厦门段）环岛路隧道左线盾构始发</a>
                 <div class="news-meta">
-                    <span class="news-source">央视网</span>
-                    <span class="news-time">2026-06-29 10:16</span>
+                    <span class="news-source">中新网福建</span>
+                    <span class="news-time">2026-06-29 12:35</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">18</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://mtz.china.com/toutiaos/20260629/0629244889.html" target="_blank" rel="noopener">周锡玮接受共工新闻总社采访：中山精神在两岸持续弘扬</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/cj/2026/06-29/10649182.shtml" target="_blank" rel="noopener">金观平：为灵活就业者消除后顾之忧</a>
                 <div class="news-meta">
-                    <span class="news-source">中华网</span>
-                    <span class="news-time">2026-06-29 10:30</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:47</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">19</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://hb.dzwww.com/p/pfAtzPgg8Gc.html" target="_blank" rel="noopener">小米汽车被禁止进校园？校方回应</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="http://www.fj.chinanews.com.cn/news/2026/2026-06-29/586790.html" target="_blank" rel="noopener">盛世华诞颂忠魂 福州纪念有史可查第一位烈士</a>
                 <div class="news-meta">
-                    <span class="news-source">海报新闻</span>
-                    <span class="news-time">2026-06-29 10:24</span>
+                    <span class="news-source">中新网福建</span>
+                    <span class="news-time">2026-06-29 12:30</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">20</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_33474511" target="_blank" rel="noopener">时光昆明｜金马碧鸡坊</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649192.shtml" target="_blank" rel="noopener">学习手记：从半条被子到幸福日子</a>
                 <div class="news-meta">
-                    <span class="news-source">ThePaper.cn</span>
-                    <span class="news-time">2026-06-29 10:51</span>
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:50</span>
                 </div>
             </div>
-        </div></div>
-    <div class="footer"><p>Generated by AI Browser Agent · 2026-06-29 11:00</p></div>
+            <div class="news-item">
+                <a class="news-title" href="http://www.fj.chinanews.com.cn/news/2026/2026-06-29/586789.html" target="_blank" rel="noopener">畲歌新唱，山坳里飞出金凤凰</a>
+                <div class="news-meta">
+                    <span class="news-source">中新网福建</span>
+                    <span class="news-time">2026-06-29 12:28</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/cj/2026/06-29/10649189.shtml" target="_blank" rel="noopener">将非鲜牛奶宣传为鲜牛奶，Costco被罚</a>
+                <div class="news-meta">
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:48</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/sh/2026/06-29/10649180.shtml" target="_blank" rel="noopener">何以中国：竹影摇青拔节生 点绿成金产业兴</a>
+                <div class="news-meta">
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:42</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649193.shtml" target="_blank" rel="noopener">学习知行：深入田间地头 总书记心系三夏农情</a>
+                <div class="news-meta">
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:53</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649185.shtml" target="_blank" rel="noopener">汲取闽宁协作智慧 推动实现共同富裕</a>
+                <div class="news-meta">
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:51</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/gn/2026/06-29/10649194.shtml" target="_blank" rel="noopener">国务院抗震救灾指挥部派出工作组赶赴四川宜宾震区</a>
+                <div class="news-meta">
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 13:00</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/sh/2026/06-29/10649188.shtml" target="_blank" rel="noopener">7月起买智能摄像头不再盲选：一看星二扫码</a>
+                <div class="news-meta">
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 12:35</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.chinanews.com.cn/sh/2026/06-29/10649199.shtml" target="_blank" rel="noopener">葫芦岛一居民楼发生疑似液化气泄漏闪爆 3人失联</a>
+                <div class="news-meta">
+                    <span class="news-source">中国新闻网</span>
+                    <span class="news-time">2026-06-29 13:18</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="http://www.fj.chinanews.com.cn/news/2026/2026-06-29/586788.html" target="_blank" rel="noopener">长征组歌合唱音乐会举行 纪念红军长征胜利90周年</a>
+                <div class="news-meta">
+                    <span class="news-source">中新网福建</span>
+                    <span class="news-time">2026-06-29 12:25</span>
+                </div>
+            </div>
+        </main>
+        <footer>
+            Generated at 2026-06-29 13:25 · Jarrich-Starmap/News
+        </footer>
+    </div>
 </body>
 </html>

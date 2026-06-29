@@ -3,234 +3,243 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>国际新闻（过去1小时）</title>
+    <title>国际新闻 - 2026年6月29日 13:25</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
-        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 24px 20px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
-        .header h1 { font-size: 1.6rem; font-weight: 700; margin-bottom: 8px; }
-        .header p { font-size: 0.85rem; opacity: 0.9; }
-        .container { max-width: 800px; margin: 0 auto; padding: 16px; }
-        .news-item { display: flex; background: white; border-radius: 12px; margin-bottom: 10px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; }
-        .news-item:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
-        .news-number { flex-shrink: 0; width: 32px; height: 32px; background: linear-gradient(135deg, #667eea, #764ba2); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.85rem; font-weight: 700; margin-right: 14px; margin-top: 2px; }
-        .news-content { flex: 1; min-width: 0; }
-        .news-title { font-size: 1rem; font-weight: 600; margin-bottom: 6px; line-height: 1.4; }
-        .news-title a { color: #1a1a1a; text-decoration: none; }
-        .news-title a:hover { color: #667eea; }
-        .news-meta { display: flex; align-items: center; font-size: 0.8rem; color: #888; gap: 12px; flex-wrap: wrap; }
-        .news-source { background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
-        .news-time { color: #aaa; }
-        .footer { text-align: center; padding: 20px; color: #aaa; font-size: 0.8rem; }
-        @media (max-width: 480px) { .header h1 { font-size: 1.3rem; } .news-item { padding: 12px; } .news-title { font-size: 0.95rem; } }
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background: #fff;
+            color: #000;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 24px 16px 48px;
+        }
+        header {
+            border-bottom: 1px solid #000;
+            padding-bottom: 16px;
+            margin-bottom: 24px;
+        }
+        header h1 {
+            font-size: 24px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+        header .subtitle {
+            font-size: 13px;
+            color: #666;
+            margin-top: 6px;
+        }
+        .news-item {
+            padding: 14px 0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .news-title {
+            font-size: 16px;
+            font-weight: 500;
+            color: #000;
+            text-decoration: none;
+            display: block;
+            line-height: 1.5;
+        }
+        .news-title:hover {
+            text-decoration: underline;
+        }
+        .news-meta {
+            margin-top: 6px;
+            font-size: 13px;
+            color: #888;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .news-source {
+            font-weight: 500;
+            color: #555;
+        }
+        .news-time {
+            color: #999;
+        }
+        footer {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 12px;
+            color: #aaa;
+            text-align: center;
+        }
+        @media (max-width: 480px) {
+            .container {
+                padding: 16px 12px 32px;
+            }
+            header h1 {
+                font-size: 20px;
+            }
+            .news-title {
+                font-size: 15px;
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>国际新闻（过去1小时）</h1>
-        <p>共 20 条新闻 · 生成时间：2026-06-29 11:00 · 数据来源：Google News（过去1小时）</p>
-    </div>
     <div class="container">
-        <div class="news-item">
-            <div class="news-number">1</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1860289-20260629.htm" target="_blank" rel="noopener">Raducanu withdraws from Wimbledon with leg injury</a></h2>
+        <header>
+            <h1>国际新闻</h1>
+            <div class="subtitle">2026年6月29日 13:25 · 共 20 条</div>
+        </header>
+        <main>
+            
+            <div class="news-item">
+                <a class="news-title" href="https://www.bbc.co.uk/news/articles/c872rjw17qpo" target="_blank" rel="noopener">US says it agreed with Iran for both to stand down after exchange of strikes</a>
                 <div class="news-meta">
-                    <span class="news-source">RTHK</span>
-                    <span class="news-time">2026-06-29 10:19</span>
+                    <span class="news-source">BBC</span>
+                    <span class="news-time">2026-06-29 13:00</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">2</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.euronews.com/2026/06/29/pakistan-strikes-eastern-afghanistan-killing-dozens-following-karachi-attack" target="_blank" rel="noopener">Pakistan's airstrikes kill dozens in eastern Afghanistan</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.bbc.co.uk/news/articles/c24ylyv40y5o" target="_blank" rel="noopener">Germany may be reunited, but its divisions are still apparent</a>
+                <div class="news-meta">
+                    <span class="news-source">BBC</span>
+                    <span class="news-time">2026-06-29 12:56</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.bbc.co.uk/news/articles/cdep67jnn9zo" target="_blank" rel="noopener">First dinosaur bone from Antarctica found in a drawer</a>
+                <div class="news-meta">
+                    <span class="news-source">BBC</span>
+                    <span class="news-time">2026-06-29 12:47</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.bbc.co.uk/news/articles/c2eymz7p2y8o" target="_blank" rel="noopener">Heavy Metal band Metallica donate to buy 9000 meals for Cardiff food bank</a>
+                <div class="news-meta">
+                    <span class="news-source">BBC</span>
+                    <span class="news-time">2026-06-29 12:49</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.bbc.co.uk/news/articles/ckg4kv5k0pjo" target="_blank" rel="noopener">BA flight attendant recounts dire 1982 volcanic ash scare</a>
+                <div class="news-meta">
+                    <span class="news-source">BBC</span>
+                    <span class="news-time">2026-06-29 13:18</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.bbc.co.uk/news/articles/cvg75zqdj92o" target="_blank" rel="noopener">Plans for hydrogen production plant in Manston submitted</a>
+                <div class="news-meta">
+                    <span class="news-source">BBC</span>
+                    <span class="news-time">2026-06-29 13:17</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.euronews.com/video/2026/06/29/latest-news-bulletin-june-29th-2026-morning" target="_blank" rel="noopener">Latest news bulletin - June 29th, 2026 Morning</a>
                 <div class="news-meta">
                     <span class="news-source">Euronews</span>
-                    <span class="news-time">2026-06-29 10:46</span>
+                    <span class="news-time">2026-06-29 13:10</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">3</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.skysports.com/football/news/12098/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england-scotland" target="_blank" rel="noopener">2026 World Cup knockout schedule and kick-off times</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.ihf.info/competitions/junior-women/309/25th-ihf-womens-junior-u20-world-championship-2026-china/266275/news/284987" target="_blank" rel="noopener">The main round of the 2026 IHF Women's Junior World Championship</a>
                 <div class="news-meta">
-                    <span class="news-source">Sky Sports</span>
-                    <span class="news-time">2026-06-29 10:16</span>
+                    <span class="news-source">IHF</span>
+                    <span class="news-time">2026-06-29 13:12</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">4</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://ktla.com/news/nationworld/north-america-shatters-world-cup-attendance-records-fifa-says/" target="_blank" rel="noopener">North America shatters World Cup attendance records, FIFA says</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.globalcosmeticsnews.com/shiseido-raises-%C2%A513-billion-through-unsecured-bond-issuance/" target="_blank" rel="noopener">Shiseido raises 13 billion yen through unsecured bond issuance</a>
                 <div class="news-meta">
-                    <span class="news-source">KTLA</span>
-                    <span class="news-time">2026-06-29 10:32</span>
+                    <span class="news-source">Global Cosmetics News</span>
+                    <span class="news-time">2026-06-29 13:10</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">5</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.abc.net.au/news/sport/score-centre/fifa-world-cup/2026-06-29/south-africa-canada/2608313" target="_blank" rel="noopener">South Africa v Canada - Round of 32 - FIFA World Cup Score Centre</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.arabnews.jp/en/middle-east/article_173112/" target="_blank" rel="noopener">How sanitation collapse compounded Gaza's public health emergency</a>
+                <div class="news-meta">
+                    <span class="news-source">Arab News Japan</span>
+                    <span class="news-time">2026-06-29 12:42</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.cascadiadaily.com/2026/jun/28/westerns-journalism-program-can-play-part-in-success-of-cdn-other-news-media/" target="_blank" rel="noopener">Western's journalism program can play part in success of CDN, other news media</a>
+                <div class="news-meta">
+                    <span class="news-source">Cascadia Daily News</span>
+                    <span class="news-time">2026-06-29 12:55</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.globalcosmeticsnews.com/amorepacific-updates-sustainability-linked-financing-agreement-with-ifc/" target="_blank" rel="noopener">Amorepacific updates sustainability-linked financing agreement with IFC</a>
+                <div class="news-meta">
+                    <span class="news-source">Global Cosmetics News</span>
+                    <span class="news-time">2026-06-29 12:25</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.globalcosmeticsnews.com/louis-vuitton-defends-sustainability-of-paris-fashion-week-installation/" target="_blank" rel="noopener">Louis Vuitton defends sustainability of Paris Fashion Week installation</a>
+                <div class="news-meta">
+                    <span class="news-source">Global Cosmetics News</span>
+                    <span class="news-time">2026-06-29 12:25</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://english.kyodonews.net/articles/-/78855" target="_blank" rel="noopener">Toyota's May export volume to Middle East plunges 65.9%</a>
+                <div class="news-meta">
+                    <span class="news-source">Kyodo News</span>
+                    <span class="news-time">2026-06-29 12:25</span>
+                </div>
+            </div>
+            <div class="news-item">
+                <a class="news-title" href="https://www.abc.net.au/news/2026-06-29/vic-crime-spree-melbourne-south-teenagers-charged/106856812" target="_blank" rel="noopener">Teenagers charged after alleged crime spree in Melbourne's south</a>
                 <div class="news-meta">
                     <span class="news-source">ABC Australia</span>
-                    <span class="news-time">2026-06-29 10:06</span>
+                    <span class="news-time">2026-06-29 12:25</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">6</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.postguam.com/news/world/venezuela-quake-death-toll-rises-to-1-450-as-aftershocks-hamper-rescues/article_79b643b7-2ec3-4c04-8846-221500f13fdc.html" target="_blank" rel="noopener">Venezuela quake death toll rises to 1,450 as aftershocks hamper rescues</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.news.cn/world/20260629/b7a938027bb44252a7f6f100714e38de/c.html" target="_blank" rel="noopener">Poland heatwave breaks century-old national record</a>
                 <div class="news-meta">
-                    <span class="news-source">The Guam Daily Post</span>
-                    <span class="news-time">2026-06-29 10:36</span>
+                    <span class="news-source">新华网</span>
+                    <span class="news-time">2026-06-29 12:56</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">7</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.wral.com/news/ap/6742f-australia-to-double-potential-fines-for-facebook-and-instagram-over-child-social-media-accounts/" target="_blank" rel="noopener">Australia to double potential fines for Facebook and Instagram over child social media accounts</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.news.cn/world/20260629/56d55078a52b469bb37b5137e274e97a/c.html" target="_blank" rel="noopener">Venezuela 60-year-old survivor rescued from rubble after 86 hours</a>
                 <div class="news-meta">
-                    <span class="news-source">WRAL</span>
-                    <span class="news-time">2026-06-29 10:08</span>
+                    <span class="news-source">新华网</span>
+                    <span class="news-time">2026-06-29 12:56</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">8</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.telegraph.co.uk/world-news/2026/06/28/eleven-killed-france-plane-skydiving-crash/" target="_blank" rel="noopener">Nurses among 11 killed in France skydiving plane crash</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://www.zaobao.com.sg/news/world/story20260629-9281008" target="_blank" rel="noopener">Japan-US joint live-fire drill 'Resolute Dragon' opens to media</a>
                 <div class="news-meta">
-                    <span class="news-source">The Telegraph</span>
-                    <span class="news-time">2026-06-29 10:23</span>
+                    <span class="news-source">联合早报</span>
+                    <span class="news-time">2026-06-29 13:14</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">9</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.cbsnews.com/miami/video/thousands-flock-to-miami-for-rare-viewing-of-fifa-world-cup-trophy/" target="_blank" rel="noopener">Thousands flock to Miami for rare viewing of FIFA World Cup Trophy</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://mil.news.sina.com.cn/2026-06-29/doc-iniezxay2302954.shtml" target="_blank" rel="noopener">Pakistan carries out ground strikes near Afghanistan border</a>
                 <div class="news-meta">
-                    <span class="news-source">CBS News</span>
-                    <span class="news-time">2026-06-29 10:39</span>
+                    <span class="news-source">新浪军事</span>
+                    <span class="news-time">2026-06-29 13:24</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">10</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.nbcsports.com/soccer/news/2026-world-cup-top-goalscorers-full-list-latest-on-race-for-the-golden-boot" target="_blank" rel="noopener">2026 World Cup top goalscorers: Full list, latest on race for the Golden Boot</a></h2>
+            <div class="news-item">
+                <a class="news-title" href="https://news.tvb.com/sc/1179667" target="_blank" rel="noopener">Uganda military chief orders closure of two news organizations</a>
                 <div class="news-meta">
-                    <span class="news-source">NBC Sports</span>
-                    <span class="news-time">2026-06-29 10:10</span>
+                    <span class="news-source">TVB</span>
+                    <span class="news-time">2026-06-29 13:09</span>
                 </div>
             </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">11</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.ntnews.com.au/sport/world-cup-knockouts-ronaldos-fairytale-gone-can-england-recover/video/3411859793f0baff36f9321b3850725b" target="_blank" rel="noopener">World Cup Knockouts: Ronaldo's fairytale gone, can England recover?</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">NT News</span>
-                    <span class="news-time">2026-06-29 10:25</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">12</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.wvnews.com/newsfeed/us/2026-nyc-pride-march/image_a6732f1d-e7cc-517b-a5e7-b5e9ce08f464.html" target="_blank" rel="noopener">2026 NYC Pride March</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">WV News</span>
-                    <span class="news-time">2026-06-29 10:20</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">13</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://en.tempo.co/read/2110889/the-world-cup-broadcast-controversy" target="_blank" rel="noopener">The World Cup Broadcast Controversy</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">Tempo.co</span>
-                    <span class="news-time">2026-06-29 10:32</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">14</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.skysports.com/football/news/30964/13479783/englands-world-cup-2026-fixtures-schedule-and-tournament-route-to-final-how-three-lions-could-lift-trophy-on-july-19" target="_blank" rel="noopener">England's World Cup 2026 fixtures, schedule and tournament route to final</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">Sky Sports</span>
-                    <span class="news-time">2026-06-29 10:35</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">15</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.cbsnews.com/miami/video/brazilian-fans-relive-world-cup-magic-as-team-advances-to-knockout-stage/" target="_blank" rel="noopener">Brazilian fans relive World Cup magic as team advances to knockout stage</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">CBS News</span>
-                    <span class="news-time">2026-06-29 10:37</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">16</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.business-standard.com/world-news/hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrender-126062900089_1.html" target="_blank" rel="noopener">Hezbollah rejects US-brokered Israel-Lebanon security deal as surrender</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">Business Standard</span>
-                    <span class="news-time">2026-06-29 10:02</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">17</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.skynews.com.au/world-news/united-states/enraged-georgia-man-allegedly-kills-wife-daughter-during-fight-over-his-elderly-mother-i-lost-it/news-story/c9b750dfe1e390414aaa801192677d6f" target="_blank" rel="noopener">Enraged Georgia man allegedly kills wife, daughter during fight over his elderly mother</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">Sky News Australia</span>
-                    <span class="news-time">2026-06-29 10:17</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">18</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.cricbuzz.com/cricket-team/india-u19/54/results" target="_blank" rel="noopener">India U19 Cricket Team matches, scorecards, news and statistics</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">Cricbuzz</span>
-                    <span class="news-time">2026-06-29 10:12</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">19</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="http://news.subaoxw.com/guoji/2026/0629/274405.html" target="_blank" rel="noopener">欧洲热浪向东蔓延，多国频创高温纪录</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">速豹新闻网</span>
-                    <span class="news-time">2026-06-29 10:17</span>
-                </div>
-            </div>
-        </div>
-        <div class="news-item">
-            <div class="news-number">20</div>
-            <div class="news-content">
-                <h2 class="news-title"><a href="https://www.asiaresearchnews.com/content/abnormally-long-mitochondria-leak-rna-activating-anti-tumor-immunity" target="_blank" rel="noopener">Abnormally long mitochondria leak RNA: activating anti-tumor immunity</a></h2>
-                <div class="news-meta">
-                    <span class="news-source">Asia Research News</span>
-                    <span class="news-time">2026-06-29 10:08</span>
-                </div>
-            </div>
-        </div></div>
-    <div class="footer"><p>Generated by AI Browser Agent · 2026-06-29 11:00</p></div>
+        </main>
+        <footer>
+            Generated at 2026-06-29 13:25 · Jarrich-Starmap/News
+        </footer>
+    </div>
 </body>
 </html>
