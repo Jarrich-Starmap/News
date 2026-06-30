@@ -1,122 +1,80 @@
 [
   {
-    "title": "报告得出结论，中国是特朗普中东战争的明显赢家",
-    "url": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
-    "source": "The Guardian",
-    "time": "2026-06-30 22:01"
-  },
-  {
-    "title": "铜：中国 PMI 支持，美国关税风险 - 德国商业银行",
-    "url": "https://www.fxstreet.com/news/copper-china-pmi-support-us-tariff-risk-commerzbank-202606301409",
-    "source": "FXStreet",
-    "time": "2026-06-30 22:21"
-  },
-  {
-    "title": "随着美国规则收紧，中国人工智能股票散户投资者正在关注",
-    "url": "https://simplywall.st/stocks/cn/semiconductors/shse-688041/hygon-information-technology-shares/news/chinese-ai-stocks-retail-investors-are-watching-as-us-rules",
-    "source": "Simply Wall Street",
-    "time": "2026-06-30 22:51"
-  },
-  {
-    "title": "中国向委内瑞拉地震灾区提供卫星图像支持",
-    "url": "https://news.cgtn.com/news/2026-06-30/China-lends-satellite-imagery-support-to-quake-hit-Venezuela-1Op4xJwy0Pm/p.html",
-    "source": "CGTN",
-    "time": "2026-06-30 22:05"
-  },
-  {
-    "title": "丰田表示可靠性使其比中国竞争对手更具优势",
-    "url": "https://www.motor1.com/news/800143/toyota-reliability-edge-chinese-rivals/",
-    "source": "Motor1.com",
-    "time": "2026-06-30 22:14"
-  },
-  {
-    "title": "美国立法者调查默克和艾伯维中国临床试验",
-    "url": "https://grafa.com/en/news/united-states/merck-abbvie-us-probe-china-clinical-trials",
-    "source": "grafa.com",
-    "time": "2026-06-30 22:34"
-  },
-  {
-    "title": "用新的视角看中国",
-    "url": "https://wcmbnews.com/swan-valley-star-and-times-community/item/12432-seeing-china-through-a-new-lens",
-    "source": "WCMB News",
-    "time": "2026-06-30 22:03"
-  },
-  {
-    "title": "新加坡航空与中国国际航空深化战略旅游合作并签署重大合资协议",
-    "url": "https://www.travelandtourworld.com/news/article/ytpra5ijeay6/",
-    "source": "Travel And Tour World",
-    "time": "2026-06-30 22:22"
-  },
-  {
-    "title": "滞留在中国的学生回国时UNILAG进行干预",
-    "url": "https://guardian.ng/breakingnews/unilag-intervenes-as-students-stranded-in-china-head-home/?utm_source=news-flash&utm_medium=web",
-    "source": "The Guardian Nigeria News",
-    "time": "2026-06-30 22:18"
-  },
-  {
-    "title": "习近平同塞舌尔总统互致贺电庆祝建交50周年",
-    "url": "https://iol.co.za/news/world/2026-06-30-xi-seychelles-president-exchange-congratulations-over-50th-anniversary-of-ties/",
-    "source": "IOL",
-    "time": "2026-06-30 21:59"
-  },
-  {
-    "title": "辛厄姆被指控在印度推动中国宣传，因资助左翼团体而在美国面临调查",
-    "url": "https://www.news18.com/world/singham-accused-of-pushing-chinese-propaganda-in-india-faces-probe-in-us-over-funding-left-wing-groups-ws-l-10182794.html",
-    "source": "News18",
-    "time": "2026-06-30 22:33"
-  },
-  {
-    "title": "沃克索普学校热烈欢迎中国学生并为其提供“鼓舞人心的体验”",
-    "url": "https://www.worksopguardian.co.uk/news/worksop-schools-give-warm-welcome-and-inspirational-experience-to-chinese-students-8770371",
-    "source": "Worksop Guardian",
-    "time": "2026-06-30 22:16"
-  },
-  {
-    "title": "西安咸阳国际机场进入全球旅行新时代，中国全新豪华机场酒店揭幕",
-    "url": "https://www.travelandtourworld.com/news/article/khqu4oslpwzz/",
-    "source": "Travel And Tour World",
-    "time": "2026-06-30 22:05"
-  },
-  {
-    "title": "美国对华打击力度加大，阿斯麦股价暴跌",
-    "url": "https://www.tipranks.com/news/catalyst/asml-stock-slumps-as-u-s-china-crackdown-bites",
-    "source": "TipRanks",
-    "time": "2026-06-30 22:17"
-  },
-  {
-    "title": "中国褐皮书：强劲制造业拉动中国6月经济增长",
-    "url": "https://www.bastillepost.com/global/article/5976444-strong-manufacturing-drives-chinas-economic-growth-in-june-china-beige-book",
-    "source": "巴士的報",
-    "time": "2026-06-30 22:30"
-  },
-  {
-    "title": "中国2950亿美元的人工智能雄心将推动国内高科技股上涨",
-    "url": "https://thediplomat.com/2026/06/chinas-295-billion-ambitions-for-ai-will-drive-up-domestic-high-tech-stocks/",
-    "source": "The Diplomat – Asia-Pacific",
-    "time": "2026-06-30 22:39"
-  },
-  {
-    "title": "中国在战略航空材料领域加大对美日的挑战",
-    "url": "https://www.scmp.com/economy/china-economy/article/3358896/china-challenges-us-japans-grip-high-end-carbon-fibre-new-t1100-production-line",
+    "title": "英国可能干预派拉蒙1100亿美元收购华纳兄弟探索公司",
+    "url": "https://www.scmp.com/news/world/europe/article/3358947/uk-may-intervene-paramounts-us110-billion-takeover-warner-bros-discovery",
     "source": "South China Morning Post",
-    "time": "2026-06-30 22:03"
+    "time": "2026-07-01 01:39"
   },
   {
-    "title": "解读西方“中国冲击2.0”叙事背后的逻辑",
-    "url": "https://www.globaltimes.cn/page/202606/1364820.shtml",
-    "source": "Global Times",
-    "time": "2026-06-30 22:14"
+    "title": "中国数字视频控股有限公司公布截至2026年3月31日全年财报",
+    "url": "https://www.marketscreener.com/news/china-digital-video-holdings-limited-reports-earnings-results-for-the-full-year-ended-march-31-2026-ce7f5fdcd181f22c",
+    "source": "MarketScreener",
+    "time": "2026-07-01 01:10"
   },
   {
-    "title": "与中国的芯片战正在失败",
-    "url": "https://fpif.org/the-chip-war-with-china-is-failing/",
-    "source": "Foreign Policy in Focus",
-    "time": "2026-06-30 22:53"
+    "title": "中国呼吁保持伊朗谈判势头",
+    "url": "https://www.arabnews.pk/node/2649151/saudi-arabia",
+    "source": "Arab News PK",
+    "time": "2026-07-01 01:04"
   },
   {
-    "title": "随着人工智能出口需求的增加，中国工厂活动有所回升",
-    "url": "https://qz.com/china-factory-activity-pmi-june-2026-ai-exports-063026",
-    "source": "qz.com",
-    "time": "2026-06-30 22:46"
+    "title": "美国立法者调查默克和艾伯维涉华临床试验与军方关联",
+    "url": "https://pluang.com/en/news-feed/merck-abbvie-diselidiki-oleh-legislatif-as-soal-uji-klinis-di-china",
+    "source": "Pluang",
+    "time": "2026-07-01 01:06"
+  },
+  {
+    "title": "超微台湾办公室因涉嫌向中国走私英伟达芯片被搜查",
+    "url": "https://www.pcmag.com/news/supermicro-offices-raided-in-taiwan-over-nvidia-chip-smuggling-to-china",
+    "source": "PCMag",
+    "time": "2026-07-01 00:48"
+  },
+  {
+    "title": "南方共同市场启动与日本的经济伙伴关系谈判，着眼中国",
+    "url": "https://wtaq.com/2026/06/30/mercosur-launches-economic-partnership-talks-with-japan-eyes-china/",
+    "source": "WTAQ",
+    "time": "2026-07-01 01:26"
+  },
+  {
+    "title": "继中国之后，OpenAI削减英伟达芯片用量：为何NVDA股价仍上涨？",
+    "url": "https://beincrypto.com/openai-nvidia-chips-stock-impact/",
+    "source": "BeInCrypto",
+    "time": "2026-07-01 01:25"
+  },
+  {
+    "title": "本田如何应对中国市场的挑战",
+    "url": "https://www.canberratimes.com.au/story/9302451/how-honda-plans-to-tackle-china/",
+    "source": "The Canberra Times",
+    "time": "2026-07-01 01:15"
+  },
+  {
+    "title": "美国海关查获从中国欺诈进口的价值17万美元汽车支柱和减震器",
+    "url": "https://www.wtkr.com/news/in-the-community/norfolk/170k-in-automotive-struts-shocks-seized-in-fraudulent-import-from-china-cbp",
+    "source": "WTKR",
+    "time": "2026-07-01 01:41"
+  },
+  {
+    "title": "特朗普发出军事警告：我们制造了最大的炸弹",
+    "url": "https://news.az/news/we-built-the-biggest-bombs-trump-says-in-military-warning",
+    "source": "News.az",
+    "time": "2026-07-01 01:34"
+  },
+  {
+    "title": "RWA Global签署3亿美元协议将中国清洁能源基础设施代币化",
+    "url": "https://news.bitcoin.com/rwa-global-signs-300-million-deal-to-tokenize-chinas-clean-energy-infrastructure/",
+    "source": "Bitcoin News",
+    "time": "2026-07-01 01:43"
+  },
+  {
+    "title": "电动车计划受挫：英国超级工厂建设速度比中国慢四倍",
+    "url": "https://www.gbnews.com/lifestyle/cars/electric-car-plans-uk-gigafactories-china",
+    "source": "GB News",
+    "time": "2026-07-01 01:10"
+  },
+  {
+    "title": "美以伊战争最新消息：以色列总理内塔尼亚胡称在真主党威胁结束前不会从南黎巴嫩撤军",
+    "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-israeli-pm-benjamin-netanyahu-says-troops-will-not-withdraw-from-southern-lebanon-until-hezbollah-threat-ends-221562/amp/",
+    "source": "The Sunday Guardian",
+    "time": "N/A"
   }
 ]
