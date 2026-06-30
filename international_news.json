@@ -1,122 +1,149 @@
-[
-  {
-    "title": "John Lee invites ASEAN companies to invest in Northern Metropolis",
-    "url": "https://news.tvb.com/tc/1179885-JohnLeeinvitesASEANcompaniestoinvestinNorthernMetropolis",
-    "source": "TVB",
-    "time": "2026-06-30 13:02"
-  },
-  {
-    "title": "Latest news bulletin | June 30th, 2026 – Morning",
-    "url": "https://www.euronews.com/video/2026/06/30/latest-news-bulletin-june-30th-2026-morning",
-    "source": "Euronews.com",
-    "time": "2026-06-30 13:07"
-  },
-  {
-    "title": "Perfect Diary expands into Sephora China",
-    "url": "https://www.globalcosmeticsnews.com/perfect-diary-expands-into-sephora-china/",
-    "source": "Global Cosmetics News",
-    "time": "2026-06-30 13:08"
-  },
-  {
-    "title": "Have you been saying this word wrong?",
-    "url": "https://www.bbc.co.uk/news/videos/cvgqnlxr7gdo",
-    "source": "BBC",
-    "time": "2026-06-30 13:43"
-  },
-  {
-    "title": "DHSS Makes Cooling Centers Available During Extreme Heat",
-    "url": "https://news.delaware.gov/2026/06/29/dhss-makes-cooling-centers-available-during-extreme-heat/",
-    "source": "State of Delaware News",
-    "time": "2026-06-30 13:48"
-  },
-  {
-    "title": "Iran News in Brief – June 30, 2026",
-    "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-june-30-2026/",
-    "source": "NCRI",
-    "time": "2026-06-30 13:36"
-  },
-  {
-    "title": "Doha talks push oil prices down as traders await clarity",
-    "url": "https://mezha.net/eng/bukvy/db418513_doha_talks_push/",
-    "source": "Межа. Новини України",
-    "time": "2026-06-30 13:51"
-  },
-  {
-    "title": "FINRA imposes $1.1M fine on DriveWealth",
-    "url": "https://fxnewsgroup.com/forex-news/regulatory/finra-imposes-1-1m-fine-on-drivewealth/",
-    "source": "FX News Group",
-    "time": "2026-06-30 13:27"
-  },
-  {
-    "title": "KREM 2 News at 10 Headlines: Monday, June 29, 2026",
-    "url": "https://www.krem.com/video/news/raw-video/krem-2-news-at-10-headlines-monday-june-29-2026/293-f1c89356-495c-48d1-a2a6-d6b75d68adc2",
-    "source": "KREM",
-    "time": "2026-06-30 13:31"
-  },
-  {
-    "title": "CCTV of Simon Carman's movements the day of alleged murder",
-    "url": "https://www.abc.net.au/news/2026-06-30/cctv-of-simon-carman-s-movements-the-day-of-alleged-murder/106861988",
-    "source": "ABC Australia",
-    "time": "2026-06-30 13:37"
-  },
-  {
-    "title": "KHL News & Notes: Ovechkin, Privalov, Haukeland & More",
-    "url": "https://sports.yahoo.com/articles/khl-news-notes-ovechkin-privalov-044703871.html",
-    "source": "Yahoo Sports",
-    "time": "2026-06-30 12:53"
-  },
-  {
-    "title": "Funds agreed for 'vital' community transport service in Guernsey",
-    "url": "https://www.bbc.co.uk/news/articles/ce8mgn4e16lo",
-    "source": "BBC",
-    "time": "2026-06-30 13:36"
-  },
-  {
-    "title": "Indonesia scales back military training after five trainees die",
-    "url": "https://mezha.net/eng/bukvy/a49b5366_indonesia_scales_back/",
-    "source": "Межа. Новини України",
-    "time": "2026-06-30 13:16"
-  },
-  {
-    "title": "Scotland's papers: Burnham's 'pitch to Scotland' and Caribbean shooting",
-    "url": "https://www.bbc.co.uk/news/articles/c74yvg71vmdo",
-    "source": "BBC",
-    "time": "2026-06-30 13:42"
-  },
-  {
-    "title": "Norfolk: Bus users fear impact of roadworks on village",
-    "url": "https://www.bbc.co.uk/news/articles/cp8l5v11ldko",
-    "source": "BBC",
-    "time": "2026-06-30 13:48"
-  },
-  {
-    "title": "Jersey meningitis B survivor wants others to get vaccinated",
-    "url": "https://www.bbc.co.uk/news/articles/cj4g12wrnddo",
-    "source": "BBC",
-    "time": "2026-06-30 13:38"
-  },
-  {
-    "title": "Cornwall volunteers involved in Venezuela earthquake response",
-    "url": "https://www.bbc.co.uk/news/articles/c621n0gep5eo",
-    "source": "BBC",
-    "time": "2026-06-30 13:33"
-  },
-  {
-    "title": "Advertising has helped shape the nation, says Norfolk trust boss",
-    "url": "https://www.bbc.co.uk/news/articles/cn75xpk4544o",
-    "source": "BBC",
-    "time": "2026-06-30 13:46"
-  },
-  {
-    "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
-    "url": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud",
-    "source": "Al Jazeera",
-    "time": "2026-06-30 13:26"
-  },
-  {
-    "title": "Byfield disability care home champions people's 'independence'",
-    "url": "https://www.bbc.co.uk/news/articles/cly7g026l8eo",
-    "source": "BBC",
-    "time": "2026-06-30 13:31"
-  }
-]
+{
+  "category": "国际新闻 (International News)",
+  "count": 20,
+  "filter": "Past hour (tbs=qdr:h)",
+  "fetched_at": "2026-06-30 14:48",
+  "source": "Google News via google.com",
+  "articles": [
+    {
+      "id": 1,
+      "title": "Iran Prioritizes Implementation of War-Termination MoU: Spokesman",
+      "url": "https://www.tasnimnews.ir/en/news/2026/06/30/3629605/iran-prioritizes-implementation-of-war-termination-mou-spokesman",
+      "source": "Tasnim News Agency",
+      "time": "2026-06-30 14:39"
+    },
+    {
+      "id": 2,
+      "title": "Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-06/pope-leo-xiv-mass-homily-solemnity-of-saints-peter-and-paul-2026.html",
+      "source": "Vatican News",
+      "time": "2026-06-30 14:07"
+    },
+    {
+      "id": 3,
+      "title": "Universities welcome sign-off of restored Dutch research spending",
+      "url": "https://www.researchprofessionalnews.com/rr-news-europe-netherlands-2026-6-universities-welcome-sign-off-of-restored-dutch-research-spending/",
+      "source": "Research Professional News",
+      "time": "2026-06-30 14:43"
+    },
+    {
+      "id": 4,
+      "title": "Transfer news LIVE: Yan Diomande rejects Liverpool as Barcelone eye Harry Kane",
+      "url": "https://www.transfermarkt.com/transfer-news-live-yan-diomande-rejects-liverpool-as-barcelone-eye-harry-kane/view/news/445145",
+      "source": "Transfermarkt",
+      "time": "2026-06-30 13:56"
+    },
+    {
+      "id": 5,
+      "title": "Learn the bass-ics of Rhythm Paradise Groove—then try it for yourself!",
+      "url": "https://www.nintendo.com/au/news-and-articles/learn-the-bass-ics-of-rhythm-paradise-groove-then-try-it-for-yourself/",
+      "source": "Nintendo",
+      "time": "2026-06-30 14:30"
+    },
+    {
+      "id": 6,
+      "title": "Today in Sweden: A roundup of the latest news on Tuesday",
+      "url": "https://www.thelocal.se/20260630/today-in-sweden-a-roundup-of-the-latest-news-on-tuesday-253",
+      "source": "The Local Sweden",
+      "time": "2026-06-30 14:31"
+    },
+    {
+      "id": 7,
+      "title": "Morgan Rogers: Arsenal target valued at British-record £130m by Aston Villa - Paper Talk",
+      "url": "https://www.skysports.com/transfer/news/12691/13559016/morgan-rogers-arsenal-target-valued-at-british-record-lb130m-by-aston-villa-paper-talk",
+      "source": "Sky Sports",
+      "time": "2026-06-30 14:39"
+    },
+    {
+      "id": 8,
+      "title": "YouTube Captures More Than 65% of Japan's Digital VOD Hours, With News and Baseball Leading Viewership",
+      "url": "https://variety.com/2026/global/news/youtube-japan-vod-hours-ampd-analytics-1236799015/",
+      "source": "Variety",
+      "time": "2026-06-30 14:31"
+    },
+    {
+      "id": 9,
+      "title": "5 Big News Stories Overnight - Tuesday, June 30, 2026",
+      "url": "https://www.golocalprov.com/news/5-big-news-stories-overnight-tuesday-june-30-2026",
+      "source": "Go Local Prov",
+      "time": "2026-06-30 14:29"
+    },
+    {
+      "id": 10,
+      "title": "Security and AI news from the week beginning 22 June 2026",
+      "url": "https://www.enterprisetimes.co.uk/2026/06/30/security-and-ai-news-from-the-week-beginning-22-june-2026/",
+      "source": "Enterprise Times",
+      "time": "2026-06-30 14:34"
+    },
+    {
+      "id": 11,
+      "title": "Paraguay fans celebrate historic win over Germany",
+      "url": "https://sg.news.yahoo.com/paraguay-fans-celebrate-historic-win-055156298.html",
+      "source": "Yahoo News Singapore",
+      "time": "2026-06-30 13:52"
+    },
+    {
+      "id": 12,
+      "title": "Late News Tonight",
+      "url": "https://www.abc10.com/video/news/live_stream/late-news-tonight/103-35cb8bcb-5112-4753-a420-e83dc58fd469",
+      "source": "ABC10",
+      "time": "2026-06-30 14:00"
+    },
+    {
+      "id": 13,
+      "title": "Iran, France Discuss Implementation of Islamabad MoU",
+      "url": "https://www.tasnimnews.ir/en/news/2026/06/30/3629585/iran-france-discuss-implementation-of-islamabad-mou",
+      "source": "Tasnim News Agency",
+      "time": "2026-06-30 14:19"
+    },
+    {
+      "id": 14,
+      "title": "UK university insolvency 'would bring wider contagion risk'",
+      "url": "https://www.researchprofessionalnews.com/rr-news-uk-universities-2026-6-uk-university-insolvency-would-bring-wider-contagion-risk/",
+      "source": "Research Professional News",
+      "time": "2026-06-30 14:38"
+    },
+    {
+      "id": 15,
+      "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
+      "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700",
+      "source": "Al Jazeera",
+      "time": "2026-06-30 14:33"
+    },
+    {
+      "id": 16,
+      "title": "Dollar Weakens, Yen Stumbles to 40-year Low",
+      "url": "https://qna.org.qa/en/News-Area/News/2026-6/30/dollar-weakens-yen-stumbles-to-40-year-low",
+      "source": "Qatar News Agency (QNA)",
+      "time": "2026-06-30 14:13"
+    },
+    {
+      "id": 17,
+      "title": "'I object!': What critics are saying about Legally Blonde prequel Elle",
+      "url": "https://www.abc.net.au/news/2026-06-30/what-critics-are-saying-about-legally-blonde-prequel-elle/106862144",
+      "source": "Australian Broadcasting Corporation",
+      "time": "2026-06-30 14:39"
+    },
+    {
+      "id": 18,
+      "title": "Crash shuts A11 in Cambridgeshire",
+      "url": "https://www.bbc.co.uk/news/articles/cd95gdqpwp4o",
+      "source": "BBC",
+      "time": "2026-06-30 13:55"
+    },
+    {
+      "id": 19,
+      "title": "Funding pulled from Victorian service over child safety | Evening News Bulletin 30 June 2026",
+      "url": "https://www.sbs.com.au/news/podcast-episode/funding-pulled-from-victorian-service-over-child-safety-evening-news-bulletin-30-june-2026/tqmr43zqx",
+      "source": "SBS",
+      "time": "2026-06-30 14:27"
+    },
+    {
+      "id": 20,
+      "title": "Cash taken at gunpoint in betting shop robbery",
+      "url": "https://www.bbc.co.uk/news/articles/cd0m35vng7no",
+      "source": "BBC",
+      "time": "2026-06-30 14:16"
+    }
+  ]
+}

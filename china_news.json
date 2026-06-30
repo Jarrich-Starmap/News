@@ -1,0 +1,149 @@
+{
+  "category": "国内新闻 (China News)",
+  "count": 20,
+  "filter": "Past hour (tbs=qdr:h)",
+  "fetched_at": "2026-06-30 14:48",
+  "source": "Google News via google.com",
+  "articles": [
+    {
+      "id": 1,
+      "title": "China, EU officially launch trade mechanism",
+      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1860488-20260630.htm",
+      "source": "香港電台 (RTHK)",
+      "time": "2026-06-30 14:11"
+    },
+    {
+      "id": 2,
+      "title": "China launches research software compatibility platform",
+      "url": "https://news.cgtn.com/news/2026-06-30/China-launches-research-software-compatibility-platform-1OovRsz3sqI/p.html",
+      "source": "CGTN",
+      "time": "2026-06-30 14:23"
+    },
+    {
+      "id": 3,
+      "title": "Serbia heads for elections as EU-China trade tensions grow",
+      "url": "https://sg.news.yahoo.com/serbia-heads-elections-eu-china-060234163.html",
+      "source": "Yahoo News Singapore",
+      "time": "2026-06-30 14:05"
+    },
+    {
+      "id": 4,
+      "title": "Lilly hands Innovent China rights to breast cancer drug Verzenios",
+      "url": "https://www.stocktitan.net/news/LLY/innovent-biologics-and-lilly-enter-into-commercialization-agreement-tdca23f793gt.html",
+      "source": "Stock Titan",
+      "time": "2026-06-30 13:51"
+    },
+    {
+      "id": 5,
+      "title": "Beijing and Brussels talk trade",
+      "url": "https://www.irishtimes.com/world/2026/06/30/eu-china-talks-on-trade-imbalance-is-best-news-for-their-relations-in-years/",
+      "source": "The Irish Times",
+      "time": "2026-06-30 14:08"
+    },
+    {
+      "id": 6,
+      "title": "Keep out of China's clutches, Taiwan's president tells military cadets",
+      "url": "https://www.asiaone.com/asia/keep-out-chinas-clutches-taiwans-president-tells-military-cadets",
+      "source": "AsiaOne",
+      "time": "2026-06-30 14:34"
+    },
+    {
+      "id": 7,
+      "title": "China's humanoid robot valuations soar as investment frenzy stokes bubble fears",
+      "url": "https://biz.chosun.com/en/en-international/2026/06/30/K7XPT2OH3FGFJHTN7RMHYV2UN4/",
+      "source": "Chosunbiz",
+      "time": "2026-06-30 14:23"
+    },
+    {
+      "id": 8,
+      "title": "This is the biggest and boldest GWM Haval hybrid SUV yet",
+      "url": "https://www.drive.com.au/news/gwm-haval-h10-flagship-plug-in-hybrid-suv-gets-official-name-interior-revealed/",
+      "source": "Drive",
+      "time": "2026-06-30 14:18"
+    },
+    {
+      "id": 9,
+      "title": "Erik Solheim: China proves ecology and development are not mutually exclusive",
+      "url": "https://news.cgtn.com/news/2026-06-30/Erik-Solheim-China-proves-ecology-and-development-are-not-mutually-exclusive-1OosE4Iu03S/p.html",
+      "source": "CGTN",
+      "time": "2026-06-30 13:55"
+    },
+    {
+      "id": 10,
+      "title": "'Only India can rival China on engineering workforce, talent pool': Top US official",
+      "url": "https://www.hindustantimes.com/india-news/only-india-can-rival-china-on-engineering-workforce-talent-pool-top-us-official-jacob-helberg-101782799653980.html",
+      "source": "Hindustan Times",
+      "time": "2026-06-30 14:36"
+    },
+    {
+      "id": 11,
+      "title": "Army Chief To NDTV: 'Border Situation With China Stable, Deployment Posture Maintained'",
+      "url": "https://www.ndtv.com/video/army-chief-to-ndtv-border-situation-with-china-stable-deployment-posture-maintained-1120330",
+      "source": "NDTV",
+      "time": "2026-06-30 13:59"
+    },
+    {
+      "id": 12,
+      "title": "China's Fixed Communications Market to Reach USD 47.6B by 2030",
+      "url": "https://www.telecomreviewasia.com/news/industry-news/29585-chinas-fixed-communications-market-to-reach-usd-47-6b-by-2030/",
+      "source": "Telecom Review Asia",
+      "time": "2026-06-30 14:00"
+    },
+    {
+      "id": 13,
+      "title": "Ralph Lauren Wins China Superfans by Selling the American Dream - at the Right Price",
+      "url": "https://www.usnews.com/news/top-news/articles/2026-06-30/ralph-lauren-wins-china-superfans-by-selling-the-american-dream-at-the-right-price",
+      "source": "U.S. News & World Report",
+      "time": "2026-06-30 14:06"
+    },
+    {
+      "id": 14,
+      "title": "Renewed Media Partnership: Kenya And China Embrace Collaboration For Future Storytelling",
+      "url": "https://news.broadcastmediaafrica.com/2026/06/30/renewed-media-partnership-kenya-and-china-embrace-collaboration-for-future-storytelling/",
+      "source": "Broadcast Media Africa",
+      "time": "2026-06-30 14:08"
+    },
+    {
+      "id": 15,
+      "title": "Thailand Stands With Vietnam, Cambodia, And Philippines As China Shifts Tourism Focus Toward Japan and South Korea",
+      "url": "https://www.travelandtourworld.com/news/article/4z0kwijpm3gj/",
+      "source": "Travel And Tour World",
+      "time": "2026-06-30 13:49"
+    },
+    {
+      "id": 16,
+      "title": "AI-fueled exports lift China manufacturing back to expansion in June",
+      "url": "https://biz.chosun.com/en/en-international/2026/06/30/L3AKDWQNQJHPXAP36FXJD74E6I/",
+      "source": "Chosunbiz",
+      "time": "2026-06-30 14:31"
+    },
+    {
+      "id": 17,
+      "title": "Fall of a Tycoon: Guo Wengui jailed 30 years in $1bn U.S. fraud scandal",
+      "url": "https://pmnewsnigeria.com/2026/06/30/fall-of-a-tycoon-guo-wengui-jailed-30-years-in-1bn-u-s-fraud-scandal/",
+      "source": "PM News Nigeria",
+      "time": "2026-06-30 14:19"
+    },
+    {
+      "id": 18,
+      "title": "Explained: China backs Bangladesh's Teesta project again, what is the project and why it matters?",
+      "url": "https://www.news9live.com/world/explained-china-backs-bangladeshs-teesta-project-again-what-is-the-project-and-why-it-matters-2984859",
+      "source": "News9live",
+      "time": "2026-06-30 14:35"
+    },
+    {
+      "id": 19,
+      "title": "Operation Sindoor Defined My Tenure: Outgoing Army Chief Dwivedi Reflects On China Border, Future Of Warfare",
+      "url": "https://news.abplive.com/news/india/operation-sindoor-tenure-army-chief-upendra-dwivedi-reflects-on-china-border-future-of-warfare-1853533",
+      "source": "ABP Live English",
+      "time": "2026-06-30 13:59"
+    },
+    {
+      "id": 20,
+      "title": "Australia and Vanuatu Sign Security Pact Blocking Foreign Military Bases as China Objects",
+      "url": "https://streamlinefeed.co.ke/news/australia-vanuatu-nakamal-security-pact-china-military-bases",
+      "source": "streamlinefeed.co.ke",
+      "time": "2026-06-30 14:10"
+    }
+  ]
+}
