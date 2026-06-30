@@ -1,149 +1,122 @@
-{
-  "category": "国际新闻 (International News)",
-  "count": 20,
-  "filter": "Past hour (tbs=qdr:h)",
-  "fetched_at": "2026-06-30 14:48",
-  "source": "Google News via google.com",
-  "articles": [
-    {
-      "id": 1,
-      "title": "Iran Prioritizes Implementation of War-Termination MoU: Spokesman",
-      "url": "https://www.tasnimnews.ir/en/news/2026/06/30/3629605/iran-prioritizes-implementation-of-war-termination-mou-spokesman",
-      "source": "Tasnim News Agency",
-      "time": "2026-06-30 14:39"
-    },
-    {
-      "id": 2,
-      "title": "Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-06/pope-leo-xiv-mass-homily-solemnity-of-saints-peter-and-paul-2026.html",
-      "source": "Vatican News",
-      "time": "2026-06-30 14:07"
-    },
-    {
-      "id": 3,
-      "title": "Universities welcome sign-off of restored Dutch research spending",
-      "url": "https://www.researchprofessionalnews.com/rr-news-europe-netherlands-2026-6-universities-welcome-sign-off-of-restored-dutch-research-spending/",
-      "source": "Research Professional News",
-      "time": "2026-06-30 14:43"
-    },
-    {
-      "id": 4,
-      "title": "Transfer news LIVE: Yan Diomande rejects Liverpool as Barcelone eye Harry Kane",
-      "url": "https://www.transfermarkt.com/transfer-news-live-yan-diomande-rejects-liverpool-as-barcelone-eye-harry-kane/view/news/445145",
-      "source": "Transfermarkt",
-      "time": "2026-06-30 13:56"
-    },
-    {
-      "id": 5,
-      "title": "Learn the bass-ics of Rhythm Paradise Groove—then try it for yourself!",
-      "url": "https://www.nintendo.com/au/news-and-articles/learn-the-bass-ics-of-rhythm-paradise-groove-then-try-it-for-yourself/",
-      "source": "Nintendo",
-      "time": "2026-06-30 14:30"
-    },
-    {
-      "id": 6,
-      "title": "Today in Sweden: A roundup of the latest news on Tuesday",
-      "url": "https://www.thelocal.se/20260630/today-in-sweden-a-roundup-of-the-latest-news-on-tuesday-253",
-      "source": "The Local Sweden",
-      "time": "2026-06-30 14:31"
-    },
-    {
-      "id": 7,
-      "title": "Morgan Rogers: Arsenal target valued at British-record £130m by Aston Villa - Paper Talk",
-      "url": "https://www.skysports.com/transfer/news/12691/13559016/morgan-rogers-arsenal-target-valued-at-british-record-lb130m-by-aston-villa-paper-talk",
-      "source": "Sky Sports",
-      "time": "2026-06-30 14:39"
-    },
-    {
-      "id": 8,
-      "title": "YouTube Captures More Than 65% of Japan's Digital VOD Hours, With News and Baseball Leading Viewership",
-      "url": "https://variety.com/2026/global/news/youtube-japan-vod-hours-ampd-analytics-1236799015/",
-      "source": "Variety",
-      "time": "2026-06-30 14:31"
-    },
-    {
-      "id": 9,
-      "title": "5 Big News Stories Overnight - Tuesday, June 30, 2026",
-      "url": "https://www.golocalprov.com/news/5-big-news-stories-overnight-tuesday-june-30-2026",
-      "source": "Go Local Prov",
-      "time": "2026-06-30 14:29"
-    },
-    {
-      "id": 10,
-      "title": "Security and AI news from the week beginning 22 June 2026",
-      "url": "https://www.enterprisetimes.co.uk/2026/06/30/security-and-ai-news-from-the-week-beginning-22-june-2026/",
-      "source": "Enterprise Times",
-      "time": "2026-06-30 14:34"
-    },
-    {
-      "id": 11,
-      "title": "Paraguay fans celebrate historic win over Germany",
-      "url": "https://sg.news.yahoo.com/paraguay-fans-celebrate-historic-win-055156298.html",
-      "source": "Yahoo News Singapore",
-      "time": "2026-06-30 13:52"
-    },
-    {
-      "id": 12,
-      "title": "Late News Tonight",
-      "url": "https://www.abc10.com/video/news/live_stream/late-news-tonight/103-35cb8bcb-5112-4753-a420-e83dc58fd469",
-      "source": "ABC10",
-      "time": "2026-06-30 14:00"
-    },
-    {
-      "id": 13,
-      "title": "Iran, France Discuss Implementation of Islamabad MoU",
-      "url": "https://www.tasnimnews.ir/en/news/2026/06/30/3629585/iran-france-discuss-implementation-of-islamabad-mou",
-      "source": "Tasnim News Agency",
-      "time": "2026-06-30 14:19"
-    },
-    {
-      "id": 14,
-      "title": "UK university insolvency 'would bring wider contagion risk'",
-      "url": "https://www.researchprofessionalnews.com/rr-news-uk-universities-2026-6-uk-university-insolvency-would-bring-wider-contagion-risk/",
-      "source": "Research Professional News",
-      "time": "2026-06-30 14:38"
-    },
-    {
-      "id": 15,
-      "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
-      "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700",
-      "source": "Al Jazeera",
-      "time": "2026-06-30 14:33"
-    },
-    {
-      "id": 16,
-      "title": "Dollar Weakens, Yen Stumbles to 40-year Low",
-      "url": "https://qna.org.qa/en/News-Area/News/2026-6/30/dollar-weakens-yen-stumbles-to-40-year-low",
-      "source": "Qatar News Agency (QNA)",
-      "time": "2026-06-30 14:13"
-    },
-    {
-      "id": 17,
-      "title": "'I object!': What critics are saying about Legally Blonde prequel Elle",
-      "url": "https://www.abc.net.au/news/2026-06-30/what-critics-are-saying-about-legally-blonde-prequel-elle/106862144",
-      "source": "Australian Broadcasting Corporation",
-      "time": "2026-06-30 14:39"
-    },
-    {
-      "id": 18,
-      "title": "Crash shuts A11 in Cambridgeshire",
-      "url": "https://www.bbc.co.uk/news/articles/cd95gdqpwp4o",
-      "source": "BBC",
-      "time": "2026-06-30 13:55"
-    },
-    {
-      "id": 19,
-      "title": "Funding pulled from Victorian service over child safety | Evening News Bulletin 30 June 2026",
-      "url": "https://www.sbs.com.au/news/podcast-episode/funding-pulled-from-victorian-service-over-child-safety-evening-news-bulletin-30-june-2026/tqmr43zqx",
-      "source": "SBS",
-      "time": "2026-06-30 14:27"
-    },
-    {
-      "id": 20,
-      "title": "Cash taken at gunpoint in betting shop robbery",
-      "url": "https://www.bbc.co.uk/news/articles/cd0m35vng7no",
-      "source": "BBC",
-      "time": "2026-06-30 14:16"
-    }
-  ]
-}
+[
+  {
+    "title": "Vietnam to fine social media users for spreading fake news starting July 1",
+    "url": "https://www.chinadailyasia.com/article/635731",
+    "source": "chinadailyhk",
+    "time": "2026-06-30 14:56"
+  },
+  {
+    "title": "Exclusive | Indian officials said to be in talks to allow reporters from China to return",
+    "url": "https://amp.scmp.com/news/china/diplomacy/article/3358843/indian-officials-said-be-talks-allow-reporters-china-return",
+    "source": "South China Morning Post",
+    "time": "2026-06-30 15:02"
+  },
+  {
+    "title": "Kai Tak Sports Park emerges as mega-event economy driver, says tourism chief",
+    "url": "https://www.thestandard.com.hk/news/article/335987/Kai-Tak-Sports-Park-emerges-as-mega-event-economy-driver-says-tourism-chief",
+    "source": "The Standard (HK)",
+    "time": "2026-06-30 14:56"
+  },
+  {
+    "title": "Nowadays enables planning via AI tools with MCP server",
+    "url": "https://www.businesstravelnewseurope.com/Meetings/Nowadays-enables-planning-via-AI-tools-with-MCP-server",
+    "source": "Business Travel News Europe",
+    "time": "2026-06-30 15:28"
+  },
+  {
+    "title": "Kyodo News Digest: June 30, 2026",
+    "url": "https://english.kyodonews.net/articles/-/78915",
+    "source": "Kyodo News",
+    "time": "2026-06-30 15:05"
+  },
+  {
+    "title": "IG Japan to add more assets to 24-hour trading",
+    "url": "https://fxnewsgroup.com/forex-news/retail-forex/ig-japan-to-add-more-assets-to-24-hour-trading/",
+    "source": "FX News Group",
+    "time": "2026-06-30 15:33"
+  },
+  {
+    "title": "TV interview with Minister McAllister, Sky News - 30 June, 2026",
+    "url": "https://www.health.gov.au/ministers/senator-the-hon-jenny-mcallister/media/tv-interview-with-minister-mcallister-sky-news-30-june-2026?language=en",
+    "source": "Australian Government",
+    "time": "2026-06-30 15:14"
+  },
+  {
+    "title": "Sweden face France's attacking firepower at the World Cup",
+    "url": "https://sg.news.yahoo.com/sweden-face-frances-attacking-firepower-071557152.html",
+    "source": "Yahoo News Singapore",
+    "time": "2026-06-30 15:18"
+  },
+  {
+    "title": "Gold Falls Over 1%, Heads for Biggest Monthly Drop Since Late 2008",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-6/30/gold-falls-over-1-heads-for-biggest-monthly-drop-since-late-2008",
+    "source": "Qatar News Agency",
+    "time": "2026-06-30 15:32"
+  },
+  {
+    "title": "Japan futures rises on tumbling yen, positive China factory data",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43206F:0-japan-futures-rises-on-tumbling-yen-positive-china-factory-data/",
+    "source": "TradingView",
+    "time": "2026-06-30 15:21"
+  },
+  {
+    "title": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+    "url": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths",
+    "source": "Al Jazeera",
+    "time": "2026-06-30 15:39"
+  },
+  {
+    "title": "Why Serbia's most powerful politician just quit the presidency",
+    "url": "https://sg.news.yahoo.com/watch-why-serbia-most-powerful-070058704.html",
+    "source": "Yahoo News Singapore",
+    "time": "2026-06-30 15:02"
+  },
+  {
+    "title": "GTN UK setup leads to $3.3 million loss in 2025",
+    "url": "https://fxnewsgroup.com/forex-news/institutional/gtn-uk-setup-leads-to-3-3-million-loss-in-2025/",
+    "source": "FX News Group",
+    "time": "2026-06-30 15:38"
+  },
+  {
+    "title": "WhatsApp to let users go by usernames, not phone numbers",
+    "url": "https://www.aljazeera.com/news/2026/6/30/whatsapp-to-let-users-go-by-usernames-not-phone-numbers",
+    "source": "Al Jazeera",
+    "time": "2026-06-30 15:08"
+  },
+  {
+    "title": "Proclamation: Andy Burnham sets out his vision for government",
+    "url": "https://www.researchprofessionalnews.com/rr-he-government-playbook-2026-6-proclamation/",
+    "source": "Research Professional News",
+    "time": "2026-06-30 15:14"
+  },
+  {
+    "title": "Nigeria Targets N500bn Investment to Drive Digital Health Transformation",
+    "url": "https://techafricanews.com/2026/06/30/nigeria-targets-%E2%82%A6500bn-investment-to-drive-digital-health-transformation/",
+    "source": "TechAfrica News",
+    "time": "2026-06-30 15:12"
+  },
+  {
+    "title": "Czech news in brief for June 30: Tuesday's top morning headlines",
+    "url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-june-30-2026-tuesday-top-morning-headlines",
+    "source": "Expats.cz",
+    "time": "2026-06-30 15:01"
+  },
+  {
+    "title": "Wartsila brings 150-MW Aussie battery online for Revera",
+    "url": "https://renewablesnow.com/news/wartsila-brings-150-mw-aussie-battery-online-for-revera-1297258/",
+    "source": "Renewables Now",
+    "time": "2026-06-30 15:17"
+  },
+  {
+    "title": "Marshall Islands Foreign Minister leads delegation to Taiwan",
+    "url": "https://www.rti.org.tw/en/news?uid=3&pid=217553",
+    "source": "Rti",
+    "time": "2026-06-30 14:48"
+  },
+  {
+    "title": "The floating answer to the green steel challenge",
+    "url": "https://www.eco-business.com/news/the-floating-answer-to-the-green-steel-challenge/",
+    "source": "Eco-Business",
+    "time": "2026-06-30 15:13"
+  }
+]

@@ -1,135 +1,122 @@
-{
-  "category": "香港新闻 (HK News)",
-  "count": 18,
-  "filter": "Past hour (tbs=qdr:h)",
-  "fetched_at": "2026-06-30 14:48",
-  "source": "Google News via google.com",
-  "articles": [
-    {
-      "id": 1,
-      "title": "China, EU officially launch trade mechanism",
-      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1860488-20260630.htm?spTabChangeable=0",
-      "source": "香港電台 (RTHK)",
-      "time": "2026-06-30 14:08"
-    },
-    {
-      "id": 2,
-      "title": "Frederick Ma says HKTDC supports five-year development blueprints",
-      "url": "https://www.thestandard.com.hk/news/article/335980/Frederick-Ma-says-HKTDC-supports-five-year-development-blueprints",
-      "source": "The Standard (HK)",
-      "time": "2026-06-30 14:18"
-    },
-    {
-      "id": 3,
-      "title": "Chang Guang Chenxin (03277.HK) surged more than 20%, approaching its all-time high",
-      "url": "https://news.futunn.com/en/post/75297165/chang-guang-chenxin-03277-hk-surged-more-than-20-approaching",
-      "source": "富途牛牛 (Futunn)",
-      "time": "2026-06-30 14:16"
-    },
-    {
-      "id": 4,
-      "title": "Apple Supplier Luxshare Set for Hong Kong's Biggest Listing This Year",
-      "url": "https://www.marketscreener.com/news/apple-supplier-luxshare-set-for-hong-kong-s-biggest-listing-this-year-update-ce7f5fdfd080f220",
-      "source": "marketscreener.com",
-      "time": "2026-06-30 14:18"
-    },
-    {
-      "id": 5,
-      "title": "Apple supplier Luxshare set for Hong Kong's biggest listing so far this year",
-      "url": "https://www.livemint.com/global/apple-supplier-luxshare-set-for-hong-kong-s-biggest-listing-so-far-this-year-11782799300236.html",
-      "source": "Mint",
-      "time": "2026-06-30 14:08"
-    },
-    {
-      "id": 6,
-      "title": "香港國安法公布實施六周年",
-      "url": "https://www.news.gov.hk/chi/2026/06/20260630/20260630_122135_118.html",
-      "source": "香港政府新聞網",
-      "time": "2026-06-30 14:15"
-    },
-    {
-      "id": 7,
-      "title": "國安部評論文章：國安法推動香港由治及興 是「一國兩制」行穩致遠堅實保障",
-      "url": "https://www.orangenews.hk/hongkong/VO0RNf9/%E5%9C%8B%E5%AE%89%E9%83%A8%E8%A9%95%E8%AB%96%E6%96%87%E7%AB%A0-%E5%9C%8B%E5%AE%89%E6%B3%95%E6%8E%A8%E5%8B%95%E9%A6%99%E6%B8%AF%E7%94%B1%E6%B2%BB%E5%8F%8A%E8%88%88-%E6%98%AF-%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6-%E8%A1%8C%E7%A9%A9%E8%87%B4%E9%81%A0%E5%A0%85%E5%AF%A6%E4%BF%9D%E9%9A%9C.shtml",
-      "source": "橙新聞",
-      "time": "2026-06-30 14:37"
-    },
-    {
-      "id": 8,
-      "title": "F三星原油期(03175.HK)盘中涨0.58%，单位净值8.751港元",
-      "url": "https://news.fx168news.com/cooperate/2606/7467783.shtml",
-      "source": "FX168财经",
-      "time": "2026-06-30 14:32"
-    },
-    {
-      "id": 9,
-      "title": "內地居民赴港澳定居4類審批條件 明起實施",
-      "url": "https://hk.on.cc/hk/bkn/cnt/news/20260630/bkn-20260630132348499-0630_00822_001.html",
-      "source": "on.cc東網",
-      "time": "2026-06-30 14:31"
-    },
-    {
-      "id": 10,
-      "title": "香港回歸29載創八大突破 國際殊榮彰顯「一國兩制」活力",
-      "url": "https://www.dotdotnews.com/a/202606/30/AP6a43583ae4b04b6c5d31e7ec.html",
-      "source": "dotdotnews",
-      "time": "2026-06-30 13:50"
-    },
-    {
-      "id": 11,
-      "title": "「紫荊創作者計劃」全面升級 「看見香港」短視頻大賽啟動",
-      "url": "https://www.orangenews.hk/vgly/VO0N0mh/%E7%B4%AB%E8%8D%8A%E5%89%B5%E4%BD%9C%E8%80%85%E8%A8%88%E5%8A%83-%E5%85%A8%E9%9D%A2%E5%8D%87%E7%B4%9A--%E7%9C%8B%E8%A6%8B%E9%A6%99%E6%B8%AF-%E7%9F%AD%E8%A6%96%E9%A0%BB%E5%A4%A7%E8%B3%BD%E5%95%9F%E5%8B%95.shtml",
-      "source": "橙新聞",
-      "time": "2026-06-30 14:34"
-    },
-    {
-      "id": 12,
-      "title": "安硕中国(02801.HK)盘中涨0.44%，报22.76港元",
-      "url": "https://news.fx168news.com/cooperate/2606/7467774.shtml",
-      "source": "FX168财经",
-      "time": "2026-06-30 14:22"
-    },
-    {
-      "id": 13,
-      "title": "南寧艦衡陽艦周四來港 民航處設臨時限制飛行區",
-      "url": "https://www.dotdotnews.com/a/202606/30/AP6a435defe4b04b6c5d31e870.html",
-      "source": "dotdotnews",
-      "time": "2026-06-30 14:12"
-    },
-    {
-      "id": 14,
-      "title": "劉淑怡｜「科創+金融」構建醫藥創科新藍圖",
-      "url": "https://www.orangenews.hk/hkviews/VNtsoBF/%E5%8A%89%E6%B7%91%E6%80%A1--%E7%A7%91%E5%89%B5-%E9%87%91%E8%9E%8D-%E6%A7%8B%E5%BB%BA%E9%86%AB%E8%97%A5%E5%89%B5%E7%A7%91%E6%96%B0%E8%97%8D%E5%9C%96.shtml",
-      "source": "橙新聞",
-      "time": "2026-06-30 14:14"
-    },
-    {
-      "id": 15,
-      "title": "安硕MS台湾(03074.HK)午后涨2.08%，最新单位净值464.699港元",
-      "url": "https://news.fx168news.com/cooperate/2606/7467772.shtml",
-      "source": "FX168财经",
-      "time": "2026-06-30 14:21"
-    },
-    {
-      "id": 16,
-      "title": "安硕亚洲除日(03010.HK)盘中涨0.82%，资产规模428.85亿港元",
-      "url": "https://news.fx168news.com/cooperate/2606/7467765.shtml",
-      "source": "FX168财经",
-      "time": "2026-06-30 14:12"
-    },
-    {
-      "id": 17,
-      "title": "南方两倍做多沪深300(07233.HK)盘中涨1.37%，单位净值5.49港元",
-      "url": "https://news.fx168news.com/cooperate/2606/7467757.shtml",
-      "source": "FX168财经",
-      "time": "2026-06-30 14:01"
-    },
-    {
-      "id": 18,
-      "title": "盈富基金(02800.HK)午后跌0.77%，最新单位净值23.427港元",
-      "url": "https://news.fx168news.com/cooperate/2606/7467758.shtml",
-      "source": "FX168财经",
-      "time": "2026-06-30 14:01"
-    }
-  ]
-}
+[
+  {
+    "title": "腾讯(0700.HK)尾盘涨超3%，微信Agent开启限量测试",
+    "url": "https://news.futunn.com/en/post/75300544/hk-market-movers-tencent-0700-hk-rises-over-3-in",
+    "source": "富途牛牛",
+    "time": "2026-06-30 15:38"
+  },
+  {
+    "title": "启德体育园成为大型活动经济驱动力",
+    "url": "https://www.thestandard.com.hk/news/article/335987/Kai-Tak-Sports-Park-emerges-as-mega-event-economy-driver-says-tourism-chief",
+    "source": "The Standard (HK)",
+    "time": "2026-06-30 14:55"
+  },
+  {
+    "title": "恒安国际集团(SEHK:1044)任命代理主席",
+    "url": "https://simplywall.st/stocks/hk/household/hkg-1044/hengan-international-group-shares/news/hengan-international-group-sehk1044-appoints-an-acting-chair",
+    "source": "Simply Wall Street",
+    "time": "2026-06-30 15:38"
+  },
+  {
+    "title": "AirPods制造商立讯精密寻求香港上市融资31亿美元",
+    "url": "https://theedgemalaysia.com/node/808818",
+    "source": "The Edge Malaysia",
+    "time": "2026-06-30 14:49"
+  },
+  {
+    "title": "韩国CL资产管理公司被Mine42以90%股权收购",
+    "url": "https://www.mingtiandi.com/real-estate/crelist/koreas-cl-asset-management-taken-over-in-90-stake-deal-and-more-apac-real-estate-headlines/",
+    "source": "Mingtiandi",
+    "time": "2026-06-30 15:46"
+  },
+  {
+    "title": "港府拟设美容健身合约七日冷静期以遏制投诉",
+    "url": "https://www.thestandard.com.hk/news/article/335988/Govt-seeks-to-curb-complaints-with-cooling-off-period-for-beauty-and-fitness-deals",
+    "source": "The Standard (HK)",
+    "time": "2026-06-30 15:29"
+  },
+  {
+    "title": "75万美元拍出2.87亿票房，电影《爱你致死不渝》7月1日香港上映",
+    "url": "https://www.orangenews.hk/artanddesign/VO0T1vs/75%E8%90%AC%E7%BE%8E%E5%85%83%E6%8B%8D%E5%87%BA2-87%E5%84%84%E7%A5%A8%E6%88%BF-%E9%9B%BB%E5%BD%B1-%E6%84%9B%E4%BD%A0%E8%87%B4%E6%AD%BB%E4%B8%8D%E6%B8%9D-7%E6%9C%881%E6%97%A5%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%98%A0.shtml",
+    "source": "橙新聞",
+    "time": "2026-06-30 15:31"
+  },
+  {
+    "title": "易方达恒生科技100 ETF (03456.HK)精准布局六大前沿科技主题",
+    "url": "https://news.futunn.com/en/post/75299217/precisely-positioned-across-six-cutting-edge-technology-themes-e-fund",
+    "source": "富途牛牛",
+    "time": "2026-06-30 15:43"
+  },
+  {
+    "title": "英国王妃凯特挑战英国三峰筹款，山上偶遇香港跑手Jacky Leung",
+    "url": "https://fitz.hk/sports/hiking/%E8%8B%B1%E5%9C%8B%E7%8E%8B%E5%A6%83%E5%87%B1%E7%89%B9%E6%8C%91%E6%88%B0%E8%8B%B1%E5%9C%8B%E4%B8%89%E5%B3%B0%E7%B1%8C%E6%AC%BE-%E5%B1%B1%E4%B8%8A%E5%81%B6%E9%81%87%E9%A6%99%E6%B8%AF%E8%B7%91/",
+    "source": "Fitz 運動平台",
+    "time": "2026-06-30 15:05"
+  },
+  {
+    "title": "将香港故事带到全世界，「艺术货柜启航」绘画比赛开锣",
+    "url": "https://hk.news.yahoo.com/%E5%B0%87%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B%E5%B8%B6%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C-%E8%97%9D%E8%A1%93%E8%B2%A8%E6%AB%83%E5%95%9F%E8%88%AA-%E7%B9%AA%E7%95%AB%E6%AF%94%E8%B3%BD%E9%96%8B%E9%91%BC-%E5%86%A0%E8%BB%8D%E7%95%AB%E4%BD%9C%E5%B0%87%E5%8D%B0%E4%B8%8A%E7%9C%9F%E5%AF%A6-20-070855975.html",
+    "source": "Yahoo 香港",
+    "time": "2026-06-30 15:10"
+  },
+  {
+    "title": "屯门安定邨女子堕楼，昏迷送院不治",
+    "url": "https://hk.on.cc/hk/bkn/cnt/news/20260630/bkn-20260630150558725-0630_00822_001.html",
+    "source": "on.cc 東網",
+    "time": "2026-06-30 15:17"
+  },
+  {
+    "title": "香港故宫四周年云集五大展览，限定纪念门票7月3日派发",
+    "url": "https://www.orangenews.hk/artanddesign/VO0Yu9o/%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AE%E5%9B%9B%E5%91%A8%E5%B9%B4%E9%9B%B2%E9%9B%86%E4%BA%94%E5%A4%A7%E5%B1%95%E8%A6%BD-%E9%99%90%E5%AE%9A%E7%B4%80%E5%BF%B5%E9%96%80%E7%A5%A8-7%E6%9C%883%E6%97%A5%E6%B4%BE%E7%99%BC.shtml",
+    "source": "橙新聞",
+    "time": "2026-06-30 15:14"
+  },
+  {
+    "title": "房屋局：85.6%宏福苑业主交回接受收购建议信件，宏志阁达87.5%",
+    "url": "https://www.orangenews.hk/hongkong/VO0ZbhL/%E6%88%BF%E5%B1%8B%E5%B1%80-85-6-%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E4%BA%A4%E5%9B%9E%E6%8E%A5%E5%8F%97%E6%94%B6%E8%B3%BC%E5%BB%BA%E8%AD%B0%E4%BF%A1%E4%BB%B6-%E5%AE%8F%E5%BF%97%E9%96%A3%E9%81%9487-5.shtml",
+    "source": "橙新聞",
+    "time": "2026-06-30 15:12"
+  },
+  {
+    "title": "Hong Kong private clubs to pay land premiums or open to public",
+    "url": "https://www.dimsumdaily.hk/hong-kong-private-clubs-to-pay-land-premiums-or-open-to-public/",
+    "source": "Dimsum Daily",
+    "time": "2026-06-30 15:22"
+  },
+  {
+    "title": "打鼓岭过渡性房屋4天内两遭纵火，警方追查暂未有人被捕",
+    "url": "https://www.orangenews.hk/hongkong/VO0VXBI/%E6%89%93%E9%BC%93%E5%B6%BA%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B4%E5%A4%A9%E5%85%A7%E5%85%A9%E9%81%AD%E7%B8%B1%E7%81%AB-%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%9F%A5%E6%9A%AB%E6%9C%AA%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8D%95.shtml",
+    "source": "橙新聞",
+    "time": "2026-06-30 15:04"
+  },
+  {
+    "title": "陆委会：香港制衡制度已失能",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/06/30/2003860001",
+    "source": "Taipei Times",
+    "time": "2026-06-30 14:50"
+  },
+  {
+    "title": "晶合集成瞄准香港IPO融资最高8.9亿美元",
+    "url": "https://www.communicationstoday.co.in/nexchip-targets-up-to-890m-in-hong-kong-ipo/",
+    "source": "Communications Today",
+    "time": "2026-06-30 15:43"
+  },
+  {
+    "title": "宏福苑业主须于今日限期前提交接受收购建议信件",
+    "url": "https://www.bastillepost.com/global/article/5975550-wang-fuk-court-owners-urged-to-submit-acceptance-letters-for-government-sale-opportunity-by-todays-deadline",
+    "source": "巴士的報",
+    "time": "2026-06-30 15:27"
+  },
+  {
+    "title": "香港航空将天空变成熊猫乐园，推出全新飞行体验",
+    "url": "https://www.travelandtourworld.com/news/article/8yz5cgpcuj21/",
+    "source": "Travel And Tour World",
+    "time": "2026-06-30 15:19"
+  },
+  {
+    "title": "Apple供应商立讯精密寻求香港上市融资31亿美元以多元化发展",
+    "url": "https://www.benzinga.com/markets/asia/26/06/60178141/apple-supplier-luxshare-eyes-3-1-billion-in-hong-kong-share-sale-to-diversify-beyond-consumer-electronics",
+    "source": "Benzinga",
+    "time": "2026-06-30 15:15"
+  }
+]
