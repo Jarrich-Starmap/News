@@ -1,22 +1,122 @@
 [
-  {"title": "Deputy Secretary General addresses the Istanbul NATO Parliamentary Summit", "url": "https://www.nato.int/en/news-and-events/articles/news/2026/06/30/deputy-secretary-general-addresses-the-istanbul-nato-parliamentary-summit", "source": "NATO", "time": "2026-06-30 20:56"},
-  {"title": "Top awards for Singaporean animated film 'The Violinist'", "url": "https://www.thestrad.com/news/top-awards-for-singaporean-animated-film-the-violinist/21508.article", "source": "The Strad", "time": "2026-06-30 21:23"},
-  {"title": "Manhunt after bomb injures Ukrainian oligarch in Monaco", "url": "https://www.bbc.com/news/articles/cpv37wx03v7o", "source": "BBC", "time": "2026-06-30 21:26"},
-  {"title": "BMW M Motorsport News, 30th June 2026", "url": "https://www.press.bmwgroup.com/global/article/detail/T0458913EN/bmw-m-motorsport-news-30th-june-2026", "source": "BMW Group", "time": "2026-06-30 21:33"},
-  {"title": "What privacy settings has WhatsApp changed?", "url": "https://www.aljazeera.com/news/2026/6/30/what-privacy-settings-has-whatsapp-changed", "source": "Al Jazeera", "time": "2026-06-30 21:35"},
-  {"title": "Understanding IPO Investing For Retail Investors", "url": "https://www.eqs-news.com/news/corporate/understanding-ipo-investing-for-retail-investors/fc1b4826-c7df-45a1-b68f-df8aae4733e9_en", "source": "EQS News", "time": "2026-06-30 20:59"},
-  {"title": "Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation", "url": "https://news.sap.com/2026/06/nokia-sap-microsoft-strategic-multi-year-agreement-advance-cloud-ai-driven-business-transformation/", "source": "SAP News Center", "time": "2026-06-30 21:09"},
-  {"title": "MoneyHash Partners with HyperPay to Expand Payment Orchestration Across MENA", "url": "https://techafricanews.com/2026/06/30/moneyhash-partners-with-hyperpay-to-expand-payment-orchestration-across-mena/", "source": "TechAfrica News", "time": "2026-06-30 21:09"},
-  {"title": "June News Wrap: millions protected from blinding trachoma in Ethiopia", "url": "https://www.light-for-the-world.org/news/june-news-wrap-trachoma-elimination-ethiopia/", "source": "Light for the World", "time": "2026-06-30 21:12"},
-  {"title": "UK's longest-serving female inmate set for release", "url": "https://www.bbc.co.uk/news/articles/cx2vg4xlexro", "source": "BBC", "time": "2026-06-30 21:29"},
-  {"title": "Latest News - Missing person appeal in Sydney", "url": "https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTI2MTI3Lmh0bWwmYWxsPTE%3D", "source": "NSW Police", "time": "2026-06-30 21:23"},
-  {"title": "Action News at 5am - June 30, 2026", "url": "https://abc30.com/action-news-at-5am---june-30-2026/19420995/", "source": "ABC30 Fresno", "time": "2026-06-30 21:32"},
-  {"title": "Bangladesh boosts EV adoption in bid to cut pollution, emissions", "url": "https://www.eco-business.com/news/bangladesh-boosts-ev-adoption-in-bid-to-cut-pollution-emissions/", "source": "Eco-Business", "time": "2026-06-30 21:35"},
-  {"title": "Escaping heat, forgetting war: Kyiv locals hit the beach", "url": "https://sg.news.yahoo.com/escaping-heat-forgetting-war-kyiv-130742786.html", "source": "Yahoo News Singapore", "time": "2026-06-30 21:11"},
-  {"title": "Brother of Caroline Flack found unresponsive at Norwich home", "url": "https://www.bbc.co.uk/news/articles/cj4gz85erywo", "source": "BBC", "time": "2026-06-30 21:34"},
-  {"title": "Sen. Ruben Gallego under investigation for suspected campaign finance violations", "url": "https://abcnews.com/Politics/sen-ruben-gallego-investigation-suspected-campaign-finance-violations/story?id=134335909", "source": "ABC News", "time": "2026-06-30 21:43"},
-  {"title": "Catching Our Eye News Roundup, June 30, 2026", "url": "https://ohiocapitaljournal.com/briefs/catching-our-eye-news-roundup-june-30-2026/", "source": "Ohio Capital Journal", "time": "2026-06-30 21:00"},
-  {"title": "UK's Starmer announces 300-billion-pound defence investment plan", "url": "https://www.aljazeera.com/economy/2026/6/30/uks-starmer-announces-300-billion-pound-defence-investment-plan", "source": "Al Jazeera", "time": "2026-06-30 21:22"},
-  {"title": "Arab World Bodies Condemn Israeli Military Operations in Syria", "url": "https://www.tasnimnews.ir/en/news/2026/06/30/3630123/arab-world-bodies-condemn-israeli-military-operations-in-syria", "source": "Tasnim", "time": "2026-06-30 21:32"},
-  {"title": "Nagelsmann Admits Germany Is 'Not Part of the First-Class Teams Anymore'", "url": "https://www.moroccoworldnews.com/2026/06/326434/nagelsmann-admits-germany-is-not-part-of-the-first-class-teams-anymore/", "source": "Morocco World News", "time": "2026-06-30 21:35"}
+  {
+    "title": "CPC anniversary celebrations set",
+    "url": "https://www.news.gov.hk/eng/2026/06/20260630/20260630_195147_840.html?type=ticker",
+    "source": "news.gov.hk",
+    "time": "2026-06-30 22:20"
+  },
+  {
+    "title": "Mong Kok phone shops swindled by sellers claiming 'new iPhones' that were modified, three men arrested",
+    "url": "https://www.thestandard.com.hk/news/article/336019/Mong-Kok-phone-shops-swindled-by-sellers-claiming-new-iPhones-that-were-modified-three-men-arrested",
+    "source": "The Standard (HK)",
+    "time": "2026-06-30 22:14"
+  },
+  {
+    "title": "NEWS: BaFin adds 30 AML posts from July 1",
+    "url": "https://www.amlintelligence.com/2026/06/bafin-30-aml-posts-july-1/",
+    "source": "AML Intelligence",
+    "time": "2026-06-30 22:56"
+  },
+  {
+    "title": "Licensable picture: News - Gunfire and Kalashnikov During Violent Clash in Naples",
+    "url": "https://www.reutersconnect.com/item/news-gunfire-and-kalashnikov-during-violent-clash-in-naples/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBCSUZGWVM",
+    "source": "Reuters Connect",
+    "time": "2026-06-30 22:06"
+  },
+  {
+    "title": "Where Do Americans Turn First for Information About Breaking News?",
+    "url": "https://www.pew.org/en/trust/archive/summer-2026/where-do-americans-turn-first-for-information-about-breaking-news",
+    "source": "The Pew Charitable Trusts",
+    "time": "2026-06-30 22:34"
+  },
+  {
+    "title": "NZAOA launches AI tool to benchmark asset manager climate stewardship",
+    "url": "https://www.ipe.com/news/nzaoa-launches-ai-tool-to-benchmark-asset-manager-climate-stewardship/10137509.article",
+    "source": "Investment & Pensions Europe",
+    "time": "2026-06-30 22:31"
+  },
+  {
+    "title": "Cascale scales manufacturer climate action push",
+    "url": "https://www.ecotextile.com/2026063063773/news/environment/cascale-scales-manufacturer-climate-action-push/",
+    "source": "Ecotextile News",
+    "time": "2026-06-30 22:24"
+  },
+  {
+    "title": "Serbia's trade deficit shrinks 23% in Jan-May",
+    "url": "https://seenews.com/news/serbias-trade-deficit-shrinks-23-percent-in-jan-may-1297319",
+    "source": "SeeNews",
+    "time": "2026-06-30 22:53"
+  },
+  {
+    "title": "Rights watchdog warns Hong Kong governance restructure tightens social control",
+    "url": "https://www.jurist.org/news/2026/06/rights-watchdog-warns-hong-kong-governance-restructure-tightens-social-control/",
+    "source": "Jurist.org",
+    "time": "2026-06-30 22:37"
+  },
+  {
+    "title": "South Africa deploys police as anti-immigrant protests prompt fears",
+    "url": "https://www.aljazeera.com/news/2026/6/30/south-africa-deploys-police-as-anti-immigrant-protests-prompt-fears",
+    "source": "Al Jazeera",
+    "time": "2026-06-30 21:59"
+  },
+  {
+    "title": "Transfer news LIVE: Michael Olise considers Bayern exit as Villa set Rogers asking price",
+    "url": "https://www.transfermarkt.com/transfer-news-live-michael-olise-considers-bayern-exit-as-villa-set-rogers-asking-price/view/news/445145",
+    "source": "Transfermarkt",
+    "time": "2026-06-30 21:58"
+  },
+  {
+    "title": "World Cup 2026 today: Live updates, news as France, Norway prep for knockout ties - June 30",
+    "url": "https://www.espn.com/soccer/story/_/id/49223167/world-cup-2026-today-blog-30-06-2026-live-updates-news-fixtures-schedule-results-germany-netherlands-penalties",
+    "source": "ESPN",
+    "time": "2026-06-30 22:06"
+  },
+  {
+    "title": "Provisional agreement revises EU rules for instruments on planes",
+    "url": "https://www.thestrad.com/news/provisional-agreement-revises-eu-rules-for-instruments-on-planes/21505.article",
+    "source": "The Strad",
+    "time": "2026-06-30 22:38"
+  },
+  {
+    "title": "Record number of 'new millionaires' in 2025, says UBS",
+    "url": "https://sg.news.yahoo.com/record-number-millionaires-2025-says-141818570.html",
+    "source": "Yahoo News Singapore",
+    "time": "2026-06-30 22:28"
+  },
+  {
+    "title": "US Supreme Court rules against Trump order to end birthright citizenship",
+    "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship",
+    "source": "Al Jazeera",
+    "time": "2026-06-30 22:52"
+  },
+  {
+    "title": "Action News at 6am - June 30, 2026",
+    "url": "https://abc30.com/action-news-at-6am---june-30-2026/19421294/",
+    "source": "ABC30 Fresno",
+    "time": "2026-06-30 22:37"
+  },
+  {
+    "title": "Supreme Court upholds birthright citizenship, striking down Trump's order",
+    "url": "https://www.cbsnews.com/news/supreme-court-birthright-citizenship-trump-decision/",
+    "source": "CBS News",
+    "time": "2026-06-30 22:48"
+  },
+  {
+    "title": "Final warning for failing Betsi Calwaladr University Health Board",
+    "url": "https://www.bbc.co.uk/news/articles/cn8qzlgllj1o",
+    "source": "BBC",
+    "time": "2026-06-30 22:51"
+  },
+  {
+    "title": "'Thrill seeking' teenager who killed friend on e-scooter sentenced",
+    "url": "https://www.bbc.co.uk/news/articles/cgmdlypw97jo",
+    "source": "BBC",
+    "time": "2026-06-30 22:28"
+  },
+  {
+    "title": "Echoes of Aincrad Opening Cinematic Showcased in New Video",
+    "url": "https://www.crunchyroll.com/news/latest/2026/6/30/echoes-of-aincrad-opening-cinematic-sword-art-online",
+    "source": "Crunchyroll",
+    "time": "2026-06-30 22:35"
+  }
 ]
