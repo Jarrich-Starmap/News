@@ -1,0 +1,97 @@
+{
+  "title": "GitHub 热门 AI 项目",
+  "period": "2026.06.24 – 06.30 · 按近 7 天新增 Star 排序",
+  "updated": "2026.06.30",
+  "projects": [
+    {
+      "rank": 1,
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "首个开源AI智能视频制作系统，12条流水线、52个工具、500+ agent skills，用自然语言描述需求即可自动完成调研、脚本、素材生成、剪辑和最终合成",
+      "stars": "25k",
+      "weekly_stars": "428"
+    },
+    {
+      "rank": 2,
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "高性能AI代码理解引擎，纯C编写零依赖，支持158种语言，毫秒级全仓库索引（Linux内核75K文件仅3分钟），查询响应<1ms，低token成本",
+      "stars": "18k",
+      "weekly_stars": "262"
+    },
+    {
+      "rank": 3,
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "让AI Agent一键接入全网，覆盖X、Reddit、YouTube、GitHub、B站、小红书等平台，给Agent装上'眼睛和触角'，主动搜索互联网信息",
+      "stars": "43k",
+      "weekly_stars": "204"
+    },
+    {
+      "rank": 4,
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的多市场股票智能分析系统，覆盖A股/港股/美股/日股/韩股，含多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行",
+      "stars": "50k",
+      "weekly_stars": "168"
+    },
+    {
+      "rank": 5,
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "开源AI长期记忆平台，基于自托管知识图谱引擎为Agent提供跨会话的持久记忆能力，让AI真正像助手一样记住上下文",
+      "stars": "24k",
+      "weekly_stars": "139"
+    },
+    {
+      "rank": 6,
+      "owner": "xbtlin",
+      "repo": "ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI时代的价值投资研究框架，用多Agent并行做投研分析，将巴菲特/芒格的投资方法论拆解为可调用的AI工作流",
+      "stars": "4.8k",
+      "weekly_stars": "136"
+    },
+    {
+      "rank": 7,
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "用AI coding agent一键克隆任意网站，将目标网站自动拆解为可复用的项目模板，极大降低前端开发门槛",
+      "stars": "22k",
+      "weekly_stars": "124"
+    },
+    {
+      "rank": 8,
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "提升AI前端审美与页面品味的Skill，解决AI生成界面'能用但不好看'的问题，让AI具备设计品味",
+      "stars": "52k",
+      "weekly_stars": "124"
+    },
+    {
+      "rank": 9,
+      "owner": "hugohe3",
+      "repo": "ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI从文档自动生成真实可编辑PPT，支持原生形状与动画，不是生成静态截图而是输出可交付的生产力文件",
+      "stars": "33k",
+      "weekly_stars": "104"
+    },
+    {
+      "rank": 10,
+      "owner": "google-labs-code",
+      "repo": "design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "Google推出的设计规范文件格式，让AI Agent理解视觉设计系统，AI辅助开发基础设施标准化",
+      "stars": "13k",
+      "weekly_stars": "504"
+    }
+  ]
+}
