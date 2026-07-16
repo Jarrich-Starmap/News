@@ -1,0 +1,187 @@
+{
+  "title": "GitHub Trending AI Projects 周报",
+  "period": "2026.07.09 – 07.16 · 按本周新增 Star 数排序",
+  "updated": "2026.07.16",
+  "projects": [
+    {
+      "rank": 1,
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "基于 Claude Code 的 AI 求职自动化框架，本地运行，可评估职位、定制简历、撰写求职信、准备面试",
+      "stars": "22.8k",
+      "weekly_stars": "13.2k"
+    },
+    {
+      "rank": 2,
+      "owner": "OpenCut-app",
+      "repo": "OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "开源 CapCut（剪映）替代品，支持 AI 辅助视频剪辑，MIT 协议开源",
+      "stars": "70.4k",
+      "weekly_stars": "7.2k"
+    },
+    {
+      "rank": 3,
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "首个面向 AI Agent 的 Office 套件，支持读写 Word/Excel/PPT，单二进制免安装，Apache 2.0 协议",
+      "stars": "17.4k",
+      "weekly_stars": "7.1k"
+    },
+    {
+      "rank": 4,
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "将代码库/文档/图片转成可查询知识图谱的 Agent Skill，兼容 Claude Code、Codex、Cursor 等主流编码 Agent",
+      "stars": "87.4k",
+      "weekly_stars": "6.7k"
+    },
+    {
+      "rank": 5,
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "让 AI Agent 像最懒的高级工程师一样思考——最好的代码是不需要写的代码，精简 Agent 行为模式",
+      "stars": "84k",
+      "weekly_stars": "5.8k"
+    },
+    {
+      "rank": 6,
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "并行编码 Agent 集群管理 ADE，支持桌面端和移动端，用自己的订阅运行任意编码 Agent",
+      "stars": "19.7k",
+      "weekly_stars": "5.7k"
+    },
+    {
+      "rank": 7,
+      "owner": "Zackriya-Solutions",
+      "repo": "meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "隐私优先的本地 AI 会议助手，100% 本地处理，支持 4 倍速实时转录和说话人分离，MIT 协议开源",
+      "stars": "24.9k",
+      "weekly_stars": "4.4k"
+    },
+    {
+      "rank": 8,
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "免费 AI 网关，一个端点接入 231+ 模型提供商（50+ 免费），支持智能降级和 token 压缩节省 15%-95%",
+      "stars": "17.6k",
+      "weekly_stars": "4.3k"
+    },
+    {
+      "rank": 9,
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "个人 AI 交易 Agent，将 Agent 能力应用于量化交易场景，MIT 协议开源",
+      "stars": "23.4k",
+      "weekly_stars": "4.3k"
+    },
+    {
+      "rank": 10,
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "随使用时间增长而持续学习的个人 AI Agent，越用越懂用户偏好",
+      "stars": "216k",
+      "weekly_stars": "3.8k"
+    },
+    {
+      "rank": 11,
+      "owner": "firecrawl",
+      "repo": "firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "大规模网页搜索、抓取和交互 API，将任意网站转为 AI 可用的结构化数据",
+      "stars": "152k",
+      "weekly_stars": "3.6k"
+    },
+    {
+      "rank": 12,
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "提取并整理主流 AI 模型（Claude、GPT 等）的系统提示词，用于研究和透明度分析",
+      "stars": "58k",
+      "weekly_stars": "3.6k"
+    },
+    {
+      "rank": 13,
+      "owner": "usestrix",
+      "repo": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "开源 AI 渗透测试工具，自动发现并修复应用安全漏洞，Apache 2.0 协议",
+      "stars": "41.7k",
+      "weekly_stars": "3.1k"
+    },
+    {
+      "rank": 14,
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "Agent 性能优化系统，包含技能、直觉、记忆、安全等模块，全面提升 Agent 运行效率",
+      "stars": "230k",
+      "weekly_stars": "2.7k"
+    },
+    {
+      "rank": 15,
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "终端中的 Agent 多路复用器，一个界面管理多个并行 Agent 实例",
+      "stars": "17k",
+      "weekly_stars": "2.5k"
+    },
+    {
+      "rank": 16,
+      "owner": "nexu-io",
+      "repo": "open-design",
+      "url": "https://github.com/nexu-io/open-design",
+      "description": "开源 Claude Design 替代品，本地优先的桌面应用，通过代码生成 UI 设计",
+      "stars": "79k",
+      "weekly_stars": "2.3k"
+    },
+    {
+      "rank": 17,
+      "owner": "TencentCloud",
+      "repo": "CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "面向 AI Agent 的轻量安全沙箱，即时并发、安全隔离，限制 Agent 的破坏半径",
+      "stars": "10.3k",
+      "weekly_stars": "1.9k"
+    },
+    {
+      "rank": 18,
+      "owner": "vxcontrol",
+      "repo": "pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "全自主 AI Agent 渗透测试系统，可执行复杂的安全评估任务",
+      "stars": "21k",
+      "weekly_stars": "1.7k"
+    },
+    {
+      "rank": 19,
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "一键克隆任意网站的 AI 模板工具，用 AI Agent 驱动网站复刻",
+      "stars": "29k",
+      "weekly_stars": "1.5k"
+    },
+    {
+      "rank": 20,
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript 页面内 GUI Agent，用自然语言控制网页界面交互",
+      "stars": "27k",
+      "weekly_stars": "1.5k"
+    }
+  ]
+}
