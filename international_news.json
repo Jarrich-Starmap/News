@@ -1,124 +1,122 @@
-{
-  "international_news": [
-    {
-      "title": "香港学生参加太空训练营",
-      "url": "https://www.news.gov.hk/eng/2026/07/20260716/20260716_165201_645.html?type=ticker",
-      "source": "news.gov.hk",
-      "time": "2026-07-16 20:12"
-    },
-    {
-      "title": "当洞察力不够用：SAP客户体验Q2 2026新功能",
-      "url": "https://news.sap.com/2026/07/new-in-sap-cx-q2-2026-when-insight-is-not-enough/",
-      "source": "SAP News Center",
-      "time": "2026-07-16 20:18"
-    },
-    {
-      "title": "欧盟法院裁定西班牙大赦法符合欧盟法律",
-      "url": "https://www.aljazeera.com/news/2026/7/16/eu-court-upholds-spanish-amnesty-law-as-compatible-with-eu-law",
-      "source": "Al Jazeera",
-      "time": "2026-07-16 20:06"
-    },
-    {
-      "title": "中国地方债务清理留下增长困局",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43I0JO:0-china-s-local-debt-cleanup-leaves-a-growth-mess/",
-      "source": "TradingView",
-      "time": "2026-07-16 20:01"
-    },
-    {
-      "title": "BCA乘复苏势头亮相范堡罗航展",
-      "url": "https://leehamnews.com/2026/07/16/bca-riding-recovery-momentum-into-farnborough-air-show/",
-      "source": "Leeham News",
-      "time": "2026-07-16 20:36"
-    },
-    {
-      "title": "目击新闻凌晨4:30 - 2026年7月16日",
-      "url": "https://abc7.com/eyewitness-news-at-430am---july-16-2026/19519507/",
-      "source": "ABC7 Los Angeles",
-      "time": "2026-07-16 20:21"
-    },
-    {
-      "title": "范堡罗航展将检验波音的复苏态势",
-      "url": "https://sg.news.yahoo.com/farnborough-survey-state-boeings-comeback-121157641.html",
-      "source": "Yahoo News Singapore",
-      "time": "2026-07-16 20:13"
-    },
-    {
-      "title": "特朗普总统预告重大新闻，将在黄金时段发表讲话",
-      "url": "https://www.cbs19.tv/video/news/local/president-trump-teases-big-news-ahead-of-prime-time-address/501-e3dddc76-efee-429f-9e96-a608e2443082",
-      "source": "cbs19.tv",
-      "time": "2026-07-16 20:26"
-    },
-    {
-      "title": "今日新闻速览：2026年7月16日",
-      "url": "https://www.wpbf.com/article/news-to-go-july-16-2026/72558634",
-      "source": "WPBF",
-      "time": "2026-07-16 20:28"
-    },
-    {
-      "title": "特朗普预告特大新闻，周四晚间将发表讲话",
-      "url": "https://www.fox35orlando.com/news/trump-teases-really-big-news-ahead-thursday-night-address",
-      "source": "FOX 35 Orlando",
-      "time": "2026-07-16 20:21"
-    },
-    {
-      "title": "教育学院院长入选国家奖学金加强教师培养",
-      "url": "https://stockton.edu/news/2026/david-fuentes-fellowship.html",
-      "source": "Stockton University",
-      "time": "2026-07-16 20:36"
-    },
-    {
-      "title": "Minor Hotels推出Anantara Kafue河帐篷营地",
-      "url": "https://premierconstructionnews.com/2026/07/16/minor-hotels-debuts-anantara-tented-camp-kafue-river/",
-      "source": "Premier Construction News",
-      "time": "2026-07-16 20:32"
-    },
-    {
-      "title": "拯救月桂鲦鱼：学生和教职工研究濒危鱼类",
-      "url": "https://blog.utc.edu/news/2026/07/saving-the-laurel-dace-students-and-faculty-study-endangered-fish/",
-      "source": "University of Tennessee at Chattanooga",
-      "time": "2026-07-16 20:26"
-    },
-    {
-      "title": "FOX61早间新闻8点档",
-      "url": "https://www.fox61.com/video/news/live_stream/fox61-morning-news-at-8/520-f1b2b390-36c3-4a49-8c3d-72323efe170e",
-      "source": "fox61.com",
-      "time": "2026-07-16 20:00"
-    },
-    {
-      "title": "早间新闻速览：2026年7月16日",
-      "url": "https://www.news8000.com/news/morning-news-now-07-16-2026/video_513b5982-8744-56f0-88af-6a78a6db20c8.html",
-      "source": "news8000.com",
-      "time": "2026-07-16 20:10"
-    },
-    {
-      "title": "葡萄牙准备将俄罗斯列入税务黑名单",
-      "url": "https://ua.news/en/world/portugaliia-gotuietsia-vnesti-rosiiu-do-podatkovogo-chornogo-spisku",
-      "source": "UA.NEWS",
-      "time": "2026-07-16 20:37"
-    },
-    {
-      "title": "大多伦多地区烟雾弥漫，空气质量警告持续",
-      "url": "https://www.cbc.ca/news/canada/toronto/smoke-air-quality-warning-thursday-9.7272088",
-      "source": "CBC",
-      "time": "2026-07-16 20:31"
-    },
-    {
-      "title": "黑石集团领投53.4亿美元Williams电力项目",
-      "url": "https://esgnews.com/blackstone-led-group-invests-5-34b-in-williams-power-projects/",
-      "source": "ESG News",
-      "time": "2026-07-16 20:15"
-    },
-    {
-      "title": "阿尔及利亚孤儿院火灾致11死19伤",
-      "url": "https://www.sadanews.ps/en/news/318675.html",
-      "source": "SadaNews",
-      "time": "2026-07-16 19:42"
-    },
-    {
-      "title": "美国迈向永久夏令时，加拿大是否会跟进？",
-      "url": "https://www.cbc.ca/news/politics/permanent-daylight-saving-time-9.7271404",
-      "source": "CBC",
-      "time": "2026-07-16 20:14"
-    }
-  ]
-}
+[
+  {
+    "title": "Saudi Arabia condemns unjustified Iranian attacks on regional countries",
+    "url": "https://www.arabnews.jp/en/saudi-arabia/article_174224/",
+    "source": "Arab News",
+    "time": "2026-07-17 00:35"
+  },
+  {
+    "title": "DW News Africa with Eddy Micah Jr., 16 July 2026",
+    "url": "https://www.dw.com/en/dw-news-africa-with-eddy-micah-jr-16-july-2026/video-77995526",
+    "source": "DW",
+    "time": "2026-07-17 00:16"
+  },
+  {
+    "title": "Latest news bulletin | July 16th, 2026 – Evening",
+    "url": "https://www.euronews.com/video/2026/07/16/latest-news-bulletin-july-16th-2026-evening",
+    "source": "Euronews",
+    "time": "2026-07-17 00:00"
+  },
+  {
+    "title": "Weekly quiz: What name did scientists give this $50m dinosaur?",
+    "url": "https://www.bbc.com/news/articles/cqlx34vg4y5o",
+    "source": "BBC",
+    "time": "2026-07-17 00:26"
+  },
+  {
+    "title": "The Briefing: Liverpool contract latest, Arsenal and Villa transfer news and more",
+    "url": "https://www.premierleague.com/en/news/4679771/the-briefing-liverpool-contract-latest-arsenal-and-villa-transfer-news-and-more",
+    "source": "Premier League",
+    "time": "2026-07-17 00:28"
+  },
+  {
+    "title": "IAG Cargo looks to benefit from Delhi expansion",
+    "url": "https://www.aircargonews.net/airlines/2026/07/iag-cargo-looks-to-benefit-from-delhi-expansion/",
+    "source": "Air Cargo News",
+    "time": "2026-07-17 00:36"
+  },
+  {
+    "title": "Bayern Munich News: Does Michael Olise want a move to Real Madrid?",
+    "url": "https://www.bavarianfootballworks.com/transfer-rumors/230334/bayern-munich-olise-real-madrid-spain-arsenal-psg-fc-barcelona-tottenham-liverpool-chelsea",
+    "source": "Bavarian Football Works",
+    "time": "2026-07-17 00:15"
+  },
+  {
+    "title": "Chile's Senate OKs business-friendly economic reforms",
+    "url": "https://sg.news.yahoo.com/chiles-senate-oks-business-friendly-161700725.html",
+    "source": "Yahoo News Singapore",
+    "time": "2026-07-17 00:17"
+  },
+  {
+    "title": "ENERGY WATCH: China's oil fortress",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43I0QM:0-energy-watch-china-s-oil-fortress/",
+    "source": "TradingView",
+    "time": "2026-07-17 00:00"
+  },
+  {
+    "title": "Cool, calm and creepy-crawly: reporter unfazed by cockroach cameo on live TV",
+    "url": "https://www.theguardian.com/us-news/2026/jul/16/cockroach-reporter-live-tv-california",
+    "source": "The Guardian",
+    "time": "2026-07-17 00:32"
+  },
+  {
+    "title": "24+ News Live ABC24 Digital News at midday",
+    "url": "https://www.localmemphis.com/video/news/live_stream/24-news-live/522-ca097e95-73fc-48dc-9864-bc5044024fe1",
+    "source": "localmemphis.com",
+    "time": "2026-07-17 00:29"
+  },
+  {
+    "title": "The top photos of the day by AP photojournalists",
+    "url": "https://apnews.com/photo-gallery/top-photos-day-ap-photojournalists-2238cb370b6945a0a1939ae2ebe29895",
+    "source": "AP News",
+    "time": "2026-07-17 00:25"
+  },
+  {
+    "title": "ICC advances first Libya trial over Mitiga prison abuses",
+    "url": "https://www.courthousenews.com/icc-advances-first-libya-trial-over-mitiga-prison-abuses/",
+    "source": "Courthouse News",
+    "time": "2026-07-17 00:18"
+  },
+  {
+    "title": "Blue Angels Low-altitude Pass Leads to Safety Review",
+    "url": "https://news.usni.org/2026/07/16/blue-angels-low-altitude-pass-leads-to-safety-review",
+    "source": "USNI News",
+    "time": "2026-07-17 00:35"
+  },
+  {
+    "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+    "url": "https://www.bbc.com/news/articles/c36dnz1zez5o",
+    "source": "BBC",
+    "time": "2026-07-17 00:10"
+  },
+  {
+    "title": "UK intelligence watchdog raps MI5 for lying to courts about a neo-Nazi informer",
+    "url": "https://apnews.com/article/mi5-informant-neonazi-lies-a9b568e87389eacf9be3e37ab1688bc8",
+    "source": "AP News",
+    "time": "2026-07-17 00:28"
+  },
+  {
+    "title": "UK real estate – good news, bad news or no news at all",
+    "url": "https://www.burges-salmon.com/articles/102nc73/uk-real-estate-good-news-bad-news-or-no-news-at-all",
+    "source": "Burges Salmon",
+    "time": "2026-07-17 00:07"
+  },
+  {
+    "title": "Illinois students awarded Fulbright grants",
+    "url": "https://news.illinois.edu/illinois-students-awarded-fulbright-grants-2/",
+    "source": "Illinois News Bureau",
+    "time": "2026-07-17 00:20"
+  },
+  {
+    "title": "Eyewitness News at 10am - July 16, 2026",
+    "url": "https://abc7ny.com/videoClip/19520358/",
+    "source": "ABC7 New York",
+    "time": "2026-07-17 00:04"
+  },
+  {
+    "title": "Iran-backed Houthi leader in Yemen threatens escalation with Saudi Arabia",
+    "url": "https://apnews.com/article/yemen-saudi-arabia-war-houthi-iran-70a8626c44a50a4f489a0b193788fd43",
+    "source": "AP News",
+    "time": "2026-07-17 00:18"
+  }
+]
