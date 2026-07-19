@@ -1,187 +1,187 @@
 {
   "title": "GitHub Trending AI Projects 周报",
-  "period": "2026.07.13 – 07.19 · 按本周新增 Star 数排序",
-  "updated": "2026.07.19",
+  "period": "2026.07.14 – 07.20 · 按本周新增 Star 数排序",
+  "updated": "2026.07.20",
   "projects": [
     {
       "rank": 1,
-      "owner": "JustVugg",
-      "repo": "colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "在 25GB RAM 消费级机器上运行 GLM-5.2（744B MoE），纯 C 实现、零依赖、专家模型从磁盘流式加载，极致轻量的本地大模型推理引擎",
-      "stars": "15k",
-      "weekly_stars": "14k"
-    },
-    {
-      "rank": 2,
       "owner": "MadsLorentzen",
       "repo": "ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "基于 Claude Code 的 AI 求职自动化框架，本地运行，自动评估职位、定制简历、撰写求职信、准备面试，MIT 协议开源",
+      "description": "基于 Claude Code 的 AI 求职自动化框架，评估职位描述、定制简历、撰写求职信、准备面试，全部本地执行，MIT 协议开源。",
       "stars": "22.8k",
       "weekly_stars": "13.2k"
     },
     {
+      "rank": 2,
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI Agent 驱动搜索引擎，聚合 Reddit/X/YouTube/TikTok/Polymarket 等平台的投票、点赞和真实金钱信号排序结果，颠覆传统编辑推荐模式。",
+      "stars": "41k",
+      "weekly_stars": "12k"
+    },
+    {
       "rank": 3,
-      "owner": "antirez",
-      "repo": "ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash 和 PRO 本地推理引擎，支持 Metal、CUDA 和 ROCm，由 Redis 作者 antirez 开发",
-      "stars": "23.9k",
-      "weekly_stars": "11.5k"
+      "owner": "chopratejas",
+      "repo": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "AI Agent 上下文压缩层，可将 token 数减少 60–95%，提供 6 种压缩算法，支持库/Agent/MCP 多种使用方式，本地优先且可逆。",
+      "stars": "26k",
+      "weekly_stars": "10k"
     },
     {
       "rank": 4,
-      "owner": "DeusData",
-      "repo": "codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "高性能代码智能 MCP Server，将代码库索引为持久化知识图谱，支持 158 种语言，亚毫秒级查询，Token 消耗降低 99%，单静态二进制零依赖",
-      "stars": "9.9k",
-      "weekly_stars": "9.9k"
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "专为 AI Agent 设计的前端技能集，生成高质量 UI 而非千篇一律的样板界面，涵盖布局、排版、动效和间距，可配合 Codex/Cursor/Claude Code 使用。",
+      "stars": "43k",
+      "weekly_stars": "8.7k"
     },
     {
       "rank": 5,
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Addy Osmani 出品的生产级 AI 编程技能集，覆盖定义/规划/构建/测试/审查/简化/发布 7 个阶段，提供 7 个斜杠命令自动激活对应技能。",
+      "stars": "58k",
+      "weekly_stars": "8.3k"
+    },
+    {
+      "rank": 6,
+      "owner": "apple",
+      "repo": "container",
+      "url": "https://github.com/apple/container",
+      "description": "Apple 开源的 macOS 容器工具，可在 Apple 硅片上创建和运行 Linux 容器作为轻量级虚拟机，兼容 OCI 镜像规范，需 macOS 26。",
+      "stars": "36k",
+      "weekly_stars": "7.8k"
+    },
+    {
+      "rank": 7,
       "owner": "OpenCut-app",
       "repo": "OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "开源 CapCut（剪映）替代品，AI 辅助视频剪辑，核心用 Rust 重写，支持桌面端，MIT 协议开源",
+      "description": "开源 CapCut/剪映替代品，视频剪辑工具，MIT 协议开源，AI 辅助剪辑功能持续迭代，长线热门项目。",
       "stars": "70.4k",
       "weekly_stars": "7.2k"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "owner": "iOfficeAI",
       "repo": "OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "首个面向 AI Agent 的 Office 套件，无需安装即可读写 Word/Excel/PPT，单二进制部署，Apache 2.0 协议",
+      "description": "首个专为 AI Agent 打造的 Office 套件，支持读写 Word/Excel/PowerPoint，单二进制文件、无需安装 Office，Apache 2.0 开源。",
       "stars": "17.4k",
       "weekly_stars": "7.1k"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "owner": "microsoft",
+      "repo": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "微软开源轻量级 Python 工具，将 PDF/PPT/Word/Excel/HTML 等转为 Markdown，保留标题/列表/表格/链接等结构，支持 OCR 和语音转录。",
+      "stars": "152k",
+      "weekly_stars": "7.0k"
+    },
+    {
+      "rank": 10,
       "owner": "Graphify-Labs",
       "repo": "graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "将代码、文档、SQL Schema、图片、视频转为可查询知识图谱的 Agent Skill，兼容 Claude Code、Codex、Cursor、Gemini CLI 等主流编码 Agent",
+      "description": "兼容 Claude Code/Codex/OpenCode/Cursor 的 Agent Skill，把代码/SQL/文档/论文转成可查询知识图谱，将应用代码与基础设施统一整合。",
       "stars": "87.4k",
       "weekly_stars": "6.7k"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "owner": "stablyai",
       "repo": "orca",
       "url": "https://github.com/stablyai/orca",
-      "description": "并行编码 Agent 舰队管理 ADE，支持自带订阅运行任意编码 Agent，桌面端和移动端均可用",
+      "description": "管理并行编码 Agent 集群的 ADE（Agent 开发环境），支持用自己的订阅运行任意编码 Agent，桌面和移动端均可用，MIT 开源。",
       "stars": "19.7k",
       "weekly_stars": "5.7k"
     },
     {
-      "rank": 9,
-      "owner": "Dicklesworthstone",
-      "repo": "destructive_command_guard",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "description": "拦截 AI Agent 执行的危险 Git 和 Shell 命令，防止 rm -rf、git push --force 等破坏性操作，面向 Agent 安全的基础设施",
-      "stars": "35k",
-      "weekly_stars": "5.5k"
-    },
-    {
-      "rank": 10,
-      "owner": "AlephAITech",
-      "repo": "WorkBuddyGuide",
-      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "description": "WorkBuddy 开源实战蓝皮书，涵盖教程、真实工作流、Skills、MCP、自动化与多智能体实践",
-      "stars": "47k",
-      "weekly_stars": "4.7k"
-    },
-    {
-      "rank": 11,
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "反 AI 样板化设计技能，为 Claude Code、Cursor、Codex 提供设计智能，自动生成专业级非模板化 UI 界面",
-      "stars": "16k",
-      "weekly_stars": "4.5k"
-    },
-    {
       "rank": 12,
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "为 AI Agent 一键安装互联网能力，封装 YouTube/Twitter/Reddit/小红书/B 站等平台的风控绕过和 API 配置，解决 Agent 无法访问这些平台的痛点。",
+      "stars": "27k",
+      "weekly_stars": "5.4k"
+    },
+    {
+      "rank": 13,
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "产品经理技能市场，提供 68 个 PM 技能和 42 个链式工作流，将发现/策略/PRD 编写/发布计划等 PM 框架编码为 Agent 可执行流程。",
+      "stars": "17k",
+      "weekly_stars": "4.8k"
+    },
+    {
+      "rank": 14,
       "owner": "Zackriya-Solutions",
       "repo": "meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "隐私优先的本地 AI 会议助手，支持 4 倍速实时转录、说话人分离及 Ollama 摘要，全部处理在本地完成，无需云端依赖",
+      "description": "隐私优先的本地 AI 会议助手，100% 本地处理：Parakeet/Whisper 实时转录、说话人分离、Ollama 本地摘要，macOS/Windows 自托管。",
       "stars": "24.9k",
       "weekly_stars": "4.4k"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "owner": "diegosouzapw",
       "repo": "OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "接入 231+ 服务商的免费 AI 网关，统一接口调用 OpenAI、Anthropic、Google、DeepSeek 等多模型，降低多模型管理成本",
+      "description": "免费 AI 网关，通过单一端点接入 231+ 模型提供商（50+ 免费额度），支持 Claude Code/Cursor/Copilot 等，RTK+Caveman 压缩节省 15%-95% token。",
       "stars": "17.6k",
       "weekly_stars": "4.3k"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "owner": "HKUDS",
       "repo": "Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "个人 AI 交易 Agent，将大模型能力应用于量化交易策略生成与执行，MIT 协议开源",
+      "description": "个人交易 Agent，将 AI Agent 能力应用于量化交易场景，MIT 协议开源，垂直领域 Agent 爆发的典型代表。",
       "stars": "23.4k",
       "weekly_stars": "4.3k"
     },
     {
-      "rank": 15,
-      "owner": "ruvnet",
-      "repo": "RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "将普通 WiFi 信号转化为实时空间感知与生命体征监测，全程无需摄像头，极致隐私的非视觉感知方案",
-      "stars": "79.9k",
-      "weekly_stars": "3.7k"
-    },
-    {
-      "rank": 16,
-      "owner": "1broseidon",
-      "repo": "ketch",
-      "url": "https://github.com/1broseidon/ketch",
-      "description": "面向 AI Agent 的快速无状态 CLI 工具，用于网页搜索和抓取，专为 Agent 工作流设计的轻量级数据获取管道",
-      "stars": "13.4k",
-      "weekly_stars": "3.4k"
-    },
-    {
       "rank": 17,
-      "owner": "usestrix",
-      "repo": "strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "开源 AI 渗透测试平台，自动扫描 Web 应用、API 接口和基础设施的安全漏洞，提供修复建议",
-      "stars": "41.7k",
-      "weekly_stars": "3.1k"
+      "owner": "roboflow",
+      "repo": "supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "Roboflow 开源计算机视觉工具包，提供数据加载/标注/检测/追踪/评估全套工具，支持 YOLO/SAM 等模型，月下载量超百万。",
+      "stars": "44k",
+      "weekly_stars": "4.0k"
     },
     {
       "rank": 18,
-      "owner": "DEEIX-AI",
-      "repo": "DEEIX-Chat",
-      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
-      "description": "企业级 AI 工作空间，集成模型路由、多模态对话、文件管理、工具调用、计费和身份管理",
-      "stars": "15.8k",
-      "weekly_stars": "3.0k"
+      "owner": "lfnovo",
+      "repo": "open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "Google Notebook LM 的开源隐私友好替代品，支持本地部署，AI 驱动的笔记和研究辅助，上传文档自动生成摘要/问答/洞察。",
+      "stars": "30k",
+      "weekly_stars": "3.8k"
     },
     {
       "rank": 19,
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里开源的混合架构代码审查工具，确定性流水线 + LLM Agent，精准行级评论，内置 NPE/线程安全/XSS/SQL 注入规则集，兼容 OpenAI/Anthropic",
-      "stars": "34.7k",
-      "weekly_stars": "2.7k"
+      "owner": "refactoringhq",
+      "repo": "tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "跨平台桌面知识库管理应用，文件优先 + Git 优先设计，笔记为纯 Markdown，每个仓库即 Git 仓库，数据完全由用户掌控。",
+      "stars": "16k",
+      "weekly_stars": "3.5k"
     },
     {
       "rank": 20,
-      "owner": "vxcontrol",
-      "repo": "pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "全自动 AI Agent 渗透测试系统，覆盖信息收集、推理、工具调用、验证和报告的全链路安全测试",
-      "stars": "20.6k",
-      "weekly_stars": "2.3k"
+      "owner": "usestrix",
+      "repo": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "开源 AI 渗透测试工具，自动发现并修复应用漏洞，Apache 2.0 协议开源，AI 安全测试赛道热度持续攀升。",
+      "stars": "41.7k",
+      "weekly_stars": "3.1k"
     }
   ]
 }
