@@ -1,129 +1,86 @@
-{
-  "crawled_at": "2026-07-20 05:00",
-  "source": "Google News (Past hour)",
-  "category": "domestic",
-  "keyword": "China news",
-  "count": 20,
-  "articles": [
-    {
-      "title": "中国的原油需求将恢复多少？",
-      "url": "https://www.hellenicshippingnews.com/how-much-of-chinas-crude-demand-will-return/",
-      "source": "Hellenic Shipping News",
-      "time": "2026-07-20 04:52"
-    },
-    {
-      "title": "服务业：北京发起行业振兴活动",
-      "url": "https://table.media/en/china/news/services-beijing-launches-campaign-to-revive-the-sector",
-      "source": "Table.Briefings",
-      "time": "2026-07-20 04:04"
-    },
-    {
-      "title": "中国是否干预了阿尔伯塔省的独立运动？",
-      "url": "https://www.junonews.com/p/is-china-meddling-in-albertas-independence",
-      "source": "Juno News",
-      "time": "2026-07-20 04:45"
-    },
-    {
-      "title": "以色列人游行至加沙边境要求重建定居点",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3361128/israelis-march-gaza-border-demanding-re-establishment-settlements",
-      "source": "South China Morning Post",
-      "time": "2026-07-20 04:12"
-    },
-    {
-      "title": "中国为何将人工智能计算移至太空？",
-      "url": "https://news.az/news/why-is-china-moving-artificial-int-elligence-computing-into-space",
-      "source": "Latest news from Azerbaijan",
-      "time": "2026-07-20 04:10"
-    },
-    {
-      "title": "中国品牌在缅甸国际汽车博览会上占据中心舞台",
-      "url": "https://macaubusiness.com/chinese-brands-take-center-stage-at-myanmar-intl-auto-expo/",
-      "source": "Macau Business",
-      "time": "2026-07-20 04:06"
-    },
-    {
-      "title": "Bigme B6电子阅读器：黑白版在中国上市，彩色版推出更低价型号",
-      "url": "https://www.notebookcheck.net/Bigme-B6-e-reader-monochrome-version-launches-in-China-while-color-version-gets-a-cheaper-model.1346776.0.html",
-      "source": "Notebookcheck",
-      "time": "2026-07-20 04:42"
-    },
-    {
-      "title": "中欧青年交流活动：当时尚遇见足球——一场跨文化对话的绿茵之约",
-      "url": "https://www.lelezard.com/en/news-22302195.html",
-      "source": "Lelezard",
-      "time": "2026-07-20 04:00"
-    },
-    {
-      "title": "\"创智赢家\"明星Kevin O'Leary因声称犹他州数据中心反对者与中国有关联被起诉",
-      "url": "https://www.imdb.com/es/news/ni65935662/",
-      "source": "IMDb",
-      "time": "2026-07-20 04:09"
-    },
-    {
-      "title": "能源储存：中国对锂电池征收消费税",
-      "url": "https://table.media/en/china/news/energy-storage-china-introduces-tax-on-lithium-batteries",
-      "source": "Table.Briefings",
-      "time": "2026-07-20 04:02"
-    },
-    {
-      "title": "梅赛德斯首次在欧洲市场车型中使用中国发动机",
-      "url": "https://autojosh.com/for-the-first-time-mercedes-is-using-a-chinese-engine-in-a-vehicle-intended-for-the-european-market/",
-      "source": "AUTOJOSH",
-      "time": "2026-07-20 04:58"
-    },
-    {
-      "title": "参议员Warner：特朗普意图干预今年选举，这是开场炮",
-      "url": "https://www.democracydocket.com/news-alerts/sen-warner-trump-intends-to-interfere-in-this-years-elections-this-was-the-opening-shot/",
-      "source": "Democracy Docket",
-      "time": "2026-07-20 04:11"
-    },
-    {
-      "title": "荷兰与印度、英国、中国和澳大利亚一起推动斯里兰卡旅游业增长",
-      "url": "https://www.travelandtourworld.com/news/article/6srgo59a80bw/",
-      "source": "Travel And Tour World",
-      "time": "2026-07-20 04:43"
-    },
-    {
-      "title": "牙买加酒店管理学生赴中国进行技能培训",
-      "url": "https://www.jamaicaobserver.com/2026/07/19/jamaican-hospitality-students-pursuing-skills-training-china/",
-      "source": "Jamaica Observer",
-      "time": "2026-07-20 04:05"
-    },
-    {
-      "title": "美国电动车销量下滑但未出局，汽车制造商为何不会放弃",
-      "url": "https://www.wpsdlocal6.com/news/us-ev-sales-are-down-but-not-out-here-s-why-automakers-won-t-pull/article_818762fb-d2b0-5b06-9ad3-f12db7fa896a.html",
-      "source": "WPSD Local 6",
-      "time": "2026-07-20 04:15"
-    },
-    {
-      "title": "中国AI伴侣禁令引发用户哀伤：\"我会继续和我的AI恋人聊天\"",
-      "url": "https://inshorts.com/en/news/china-s-ai-partner-crackdown-sparks-grief--one-user-says--i-ll-keep-chatting-with-my-ai-lover--1784470681104",
-      "source": "Inshorts",
-      "time": "2026-07-20 04:25"
-    },
-    {
-      "title": "Kevin O'Leary和Fox News因声称数据中心反对者与中国有联系被起诉",
-      "url": "https://www.aol.com/articles/kevin-oleary-fox-news-sued-233335349.html",
-      "source": "AOL.com",
-      "time": "2026-07-20 04:08"
-    },
-    {
-      "title": "亚洲水泥股价企稳，盈利指标和中国内地业务驱动估值关注",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/asia-cement-stock-steadies-as-earnings-metrics-and-mainland-business-drive/69807738",
-      "source": "ad-hoc-news.de",
-      "time": "2026-07-20 04:33"
-    },
-    {
-      "title": "钢铁：敬业集团在英国钢铁国有化后要求赔偿",
-      "url": "https://table.media/en/china/news/steel-jingye-demands-compensation-after-nationalization-of-british-steel",
-      "source": "Table.Briefings",
-      "time": "2026-07-20 04:04"
-    },
-    {
-      "title": "伊朗在美国短暂停火期间秘密向中国运送60亿美元石油",
-      "url": "https://inshorts.com/en/news/iran-secretly-shipped--6-billion-of-oil-to-china-during-brief-us-ceasefire--report-1784479070799",
-      "source": "Inshorts",
-      "time": "2026-07-20 04:15"
-    }
-  ]
-}
+[
+  {
+    "title": "伴娘恶作剧后，中国法院命令婚礼方支付34,000美元",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361086/china-court-orders-wedding-party-pay-us34000-after-brutal-bridesmaid-prank",
+    "source": "South China Morning Post",
+    "time": "2026-07-20 09:02"
+  },
+  {
+    "title": "中朝关系更加紧密，合作更加深入",
+    "url": "https://asianews.network/china-and-north-korea-eye-closer-party-ties-deeper-cooperation/",
+    "source": "Asia News Network",
+    "time": "2026-07-20 09:16"
+  },
+  {
+    "title": "在中国，人们勇敢地面对模拟台风，为真正的台风做好准备",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N43I0BF:0-in-china-people-brave-simulated-typhoons-to-prepare-for-the-real-thing/",
+    "source": "Reuters",
+    "time": "2026-07-20 09:02"
+  },
+  {
+    "title": "在中国，人们勇敢地面对模拟台风，为真正的台风做好准备",
+    "url": "https://www.marketscreener.com/news/in-china-people-brave-simulated-typhoons-to-prepare-for-the-real-thing-ce7f51dade8cf020",
+    "source": "MarketScreener",
+    "time": "2026-07-20 09:05"
+  },
+  {
+    "title": "朝中俄儿童营",
+    "url": "https://en.yna.co.kr/view/PYH20260720036400315?section=image/nk",
+    "source": "Yonhap News Agency",
+    "time": "2026-07-20 08:57"
+  },
+  {
+    "title": "苹果 (AAPL) 在 China AI Win 上创下 334 美元的历史新高；它能维持 7 月 30 日的盈利吗？",
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262037652-apple-aapl-stock-record-china-ai-approval-july-20-2026-tradingkey",
+    "source": "TradingKey",
+    "time": "2026-07-20 08:59"
+  },
+  {
+    "title": "7月份中国连续14个月维持基准贷款利率不变",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4T8SA0:0-china-leaves-benchmark-lending-rates-unchanged-for-14th-consecutive-month-in-july/",
+    "source": "Reuters",
+    "time": "2026-07-20 09:05"
+  },
+  {
+    "title": "包办婚姻后汤加妇女被从中国解救",
+    "url": "https://www.1news.co.nz/2026/07/20/tongan-women-rescued-from-china-after-arranged-marriage-scheme/",
+    "source": "1News",
+    "time": "2026-07-20 08:34"
+  },
+  {
+    "title": "中国导弹试验后阿尔博的大动作",
+    "url": "https://www.weeklytimesnow.com.au/news/breaking-news/aust-kicks-off-huge-military-drills-in-darwin-amid-china-tensions/news-story/be5a71901c2208b0e2528c82adca6939",
+    "source": "The Weekly Times",
+    "time": "2026-07-20 09:02"
+  },
+  {
+    "title": "中国在人口危机中收紧人工智能聊天机器人规则",
+    "url": "https://pluang.com/en/news-feed/china-perketat-regulasi-chatbot-demi-atasi-krisis-kelahiran",
+    "source": "Pluang",
+    "time": "2026-07-20 08:34"
+  },
+  {
+    "title": "日本海岸警卫队将开发无人船以对抗中国的海上扩张",
+    "url": "https://asianews.network/unmanned-vessels-to-be-developed-for-japan-coast-guard-to-counter-chinas-maritime-expansion/",
+    "source": "Asia News Network",
+    "time": "2026-07-20 09:10"
+  },
+  {
+    "title": "中国神华上半年净利润同比增长6.9-21.1%",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43M01K:0-china-shenhua-energy-sees-h1-net-profit-up-6-9-21-1-y-y/",
+    "source": "Reuters",
+    "time": "2026-07-20 08:52"
+  },
+  {
+    "title": "为什么电影《亲爱的你》因根源和双重身份而引起马来西亚华人的共鸣",
+    "url": "https://asianews.network/why-hit-film-dear-you-struck-a-chord-with-chinese-malaysians-over-roots-and-dual-identity/",
+    "source": "Asia News Network",
+    "time": "2026-07-20 09:05"
+  },
+  {
+    "title": "“最安全的选举”？中国可以用2.2亿份选举文件和美国投票机做什么",
+    "url": "https://worldtribune.com/most-secure-election-what-china-could-do-with-220-million-election-files-and-u-s-voting-machines/",
+    "source": "World Tribune",
+    "time": "2026-07-20 08:50"
+  }
+]
