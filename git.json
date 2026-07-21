@@ -1,14 +1,14 @@
 {
   "title": "GitHub Trending AI Projects 周报",
-  "period": "2026.07.15 – 07.21 · 按本周新增 Star 数排序",
-  "updated": "2026.07.21",
+  "period": "2026.07.15 – 07.22 · 按本周新增 Star 数排序",
+  "updated": "2026.07.22",
   "projects": [
     {
       "rank": 1,
       "owner": "microsoft",
       "repo": "markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "description": "微软开源轻量级 Python 工具，将 PDF/PPT/Word/Excel/HTML/图片等转为 Markdown，保留标题/列表/表格/链接等结构，支持 OCR 和语音转录，本周暴涨 16.4k 星。",
+      "description": "微软开源轻量级 Python 工具，将 PDF/PPT/Word/Excel/HTML/图片等转为 Markdown，保留标题/列表/表格/链接等结构，支持 OCR 和语音转录，本周热度持续第一。",
       "stars": "146.2k",
       "weekly_stars": "16.4k"
     },
@@ -17,93 +17,30 @@
       "owner": "MadsLorentzen",
       "repo": "ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "基于 Claude Code 的 AI 求职自动化框架，评估职位描述、定制简历、撰写求职信、准备面试，全部本地执行，MIT 协议开源，本周新增 13.2k 星。",
+      "description": "基于 Claude Code 的 AI 求职自动化框架，评估职位描述、定制简历、撰写求职信、准备面试，全部本地执行，MIT 协议开源。",
       "stars": "22.8k",
       "weekly_stars": "13.2k"
     },
     {
       "rank": 3,
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI Agent 驱动的搜索引擎，聚合 Reddit/X/YouTube/TikTok/Polymarket 等平台的投票、点赞和真实金钱信号排序结果，颠覆传统编辑推荐模式。",
-      "stars": "41k",
-      "weekly_stars": "12k"
+      "owner": "tirth8205",
+      "repo": "code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "本地优先的代码智能图谱，为 MCP 和 CLI 构建持久化代码库映射，AI 编程工具只读取相关内容，在大型仓库 Review 中上下文缩减效果经过基准测试验证。",
+      "stars": "23.0k",
+      "weekly_stars": "10.6k"
     },
     {
       "rank": 4,
-      "owner": "chopratejas",
-      "repo": "headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "AI Agent 上下文压缩层，可将 token 数减少 60–95%，提供 6 种压缩算法，支持库/Agent/MCP 多种使用方式，本地优先且可逆。",
-      "stars": "26k",
-      "weekly_stars": "12k"
-    },
-    {
-      "rank": 5,
-      "owner": "harry0703",
-      "repo": "MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型一键生成高清短视频，自动化视频内容创作流水线，本周新增 11.4k 星，AI 视频生成赛道持续升温。",
-      "stars": "80.4k",
-      "weekly_stars": "11.4k"
-    },
-    {
-      "rank": 6,
-      "owner": "NousResearch",
-      "repo": "hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "Nous Research 出品的通用 AI Agent 框架，支持持续学习和自适应，是当前增长最快的 Agent 框架之一，本周暴涨 11.3k 星。",
-      "stars": "184.5k",
-      "weekly_stars": "11.3k"
-    },
-    {
-      "rank": 7,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent harness 性能优化系统，提供 Skills/Instincts/Memory/Security 多层架构，兼容 Claude Code/Codex/OpenCode/Cursor，本周新增 10.3k 星。",
-      "stars": "209k",
-      "weekly_stars": "10.3k"
-    },
-    {
-      "rank": 8,
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop 设计 Skill，专为 Claude Code/Cursor/Codex 设计，去除 AI 生成内容的低质量审美，帮助 Agent 输出高质量 UI，本周新增 9.2k 星。",
-      "stars": "14k",
-      "weekly_stars": "9.2k"
-    },
-    {
-      "rank": 9,
-      "owner": "Leonxlnx",
-      "repo": "taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "专为 AI Agent 设计的前端技能集，生成高质量 UI 而非千篇一律的样板界面，涵盖布局、排版、动效和间距，可配合 Codex/Cursor/Claude Code 使用。",
-      "stars": "43k",
-      "weekly_stars": "8.7k"
-    },
-    {
-      "rank": 10,
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Addy Osmani 出品的生产级 AI 编程技能集，覆盖定义/规划/构建/测试/审查/简化/发布 7 个阶段，提供 7 个斜杠命令自动激活对应技能。",
-      "stars": "58k",
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "免费 MIT AI 网关，单一端点接入 268+ 提供商（50+ 免费）、500+ 模型，兼容 Claude Code/Codex/Cursor/Cline/Copilot，配额感知自动切换，RTK+Caveman 压缩节省 15-95% token。",
+      "stars": "21.7k",
       "weekly_stars": "8.3k"
     },
     {
-      "rank": 11,
-      "owner": "apple",
-      "repo": "container",
-      "url": "https://github.com/apple/container",
-      "description": "Apple 开源的 macOS 容器工具，可在 Apple 硅片上创建和运行 Linux 容器作为轻量级虚拟机，兼容 OCI 镜像规范，需 macOS 26。",
-      "stars": "36k",
-      "weekly_stars": "7.8k"
-    },
-    {
-      "rank": 12,
+      "rank": 5,
       "owner": "OpenCut-app",
       "repo": "OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
@@ -112,7 +49,7 @@
       "weekly_stars": "7.2k"
     },
     {
-      "rank": 13,
+      "rank": 6,
       "owner": "iOfficeAI",
       "repo": "OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
@@ -121,7 +58,16 @@
       "weekly_stars": "7.1k"
     },
     {
-      "rank": 14,
+      "rank": 7,
+      "owner": "oblien",
+      "repo": "openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "自托管部署平台，简化应用从开发到生产环境的全流程，支持多环境管理和一键回滚，本周黑马项目。",
+      "stars": "4.7k",
+      "weekly_stars": "6.8k"
+    },
+    {
+      "rank": 8,
       "owner": "Graphify-Labs",
       "repo": "graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
@@ -130,16 +76,7 @@
       "weekly_stars": "6.7k"
     },
     {
-      "rank": 15,
-      "owner": "D4Vinci",
-      "repo": "Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "自适应 Web 抓取框架，从单次请求到全量爬取一站式处理，AI 友好的数据采集工具，本周新增 6.4k 星。",
-      "stars": "61.5k",
-      "weekly_stars": "6.4k"
-    },
-    {
-      "rank": 16,
+      "rank": 9,
       "owner": "stablyai",
       "repo": "orca",
       "url": "https://github.com/stablyai/orca",
@@ -148,40 +85,103 @@
       "weekly_stars": "5.7k"
     },
     {
-      "rank": 17,
+      "rank": 10,
       "owner": "Panniantong",
       "repo": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "为 AI Agent 一键安装互联网能力，封装 YouTube/Twitter/Reddit/小红书/B 站等平台的风控绕过和 API 配置，解决 Agent 无法访问这些平台的痛点。",
-      "stars": "27k",
+      "stars": "27.0k",
       "weekly_stars": "5.4k"
     },
     {
+      "rank": 11,
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "开源 AI 语音工作室，支持语音克隆、听写、创作，一站式 AI 音频处理工具，TypeScript 全栈实现。",
+      "stars": "44.1k",
+      "weekly_stars": "4.6k"
+    },
+    {
+      "rank": 12,
+      "owner": "KnockOutEZ",
+      "repo": "wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "AI 编程 Agent 的本地优先 Web 工具，通过 MCP 实现搜索/抓取/爬取/研究，无需 API Key、无需云端、零查询费用，公测中。",
+      "stars": "2.5k",
+      "weekly_stars": "3.8k"
+    },
+    {
+      "rank": 13,
+      "owner": "every-app",
+      "repo": "open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Semrush 和 Ahrefs 的开源替代品，提供关键词研究、竞争对手分析、网站审计等全套 SEO 工具，TypeScript 实现。",
+      "stars": "5.8k",
+      "weekly_stars": "3.6k"
+    },
+    {
+      "rank": 14,
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "最智能的代码 Agent Harness，用 Rust 构建的高性能 AI 编程 harness，支持多种 Agent 框架和编码工具。",
+      "stars": "9.6k",
+      "weekly_stars": "3.3k"
+    },
+    {
+      "rank": 15,
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "完整的 AI 代理团队工具箱，从前端向导到 Reddit 社区运营、从创意注入到现实检验，每个 Agent 都是具有个性和流程的专业专家。",
+      "stars": "134.7k",
+      "weekly_stars": "3.0k"
+    },
+    {
+      "rank": 16,
+      "owner": "microsoft",
+      "repo": "Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "description": "微软开源的本体论学习工具，免费 Web 应用，支持浏览预构建本体目录、可视化设计、导出 RDF/XML，零后端全静态。",
+      "stars": "1.7k",
+      "weekly_stars": "2.8k"
+    },
+    {
+      "rank": 17,
+      "owner": "Robbyant",
+      "repo": "lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "前馈 3D 基础模型，从流数据中重建场景，面向自动驾驶和机器人领域的场景理解。",
+      "stars": "14.2k",
+      "weekly_stars": "2.6k"
+    },
+    {
       "rank": 18,
-      "owner": "phuryn",
-      "repo": "pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "产品经理技能市场，提供 68 个 PM 技能和 42 个链式工作流，将发现/策略/PRD 编写/发布计划等 PM 框架编码为 Agent 可执行流程。",
-      "stars": "17k",
-      "weekly_stars": "4.8k"
+      "owner": "kvcache-ai",
+      "repo": "ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "灵活的异构 LLM 推理/微调优化框架，支持多种模型和硬件平台的混合推理加速，大幅降低部署成本。",
+      "stars": "18.7k",
+      "weekly_stars": "2.4k"
     },
     {
       "rank": 19,
-      "owner": "Zackriya-Solutions",
-      "repo": "meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "隐私优先的本地 AI 会议助手，100% 本地处理：Parakeet/Whisper 实时转录、说话人分离、Ollama 本地摘要，macOS/Windows 自托管。",
-      "stars": "24.9k",
-      "weekly_stars": "4.4k"
+      "owner": "PrefectHQ",
+      "repo": "fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "description": "快速、Pythonic 的 MCP 服务器和客户端构建方式，简化 AI Agent 与外部工具的集成，已成为 MCP 生态核心基础设施。",
+      "stars": "26.5k",
+      "weekly_stars": "2.2k"
     },
     {
       "rank": 20,
-      "owner": "roboflow",
-      "repo": "supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "Roboflow 开源计算机视觉工具包，提供数据加载/标注/检测/追踪/评估全套工具，支持 YOLO/SAM 等模型，月下载量超百万。",
-      "stars": "44k",
-      "weekly_stars": "4.0k"
+      "owner": "AstrBotDevs",
+      "repo": "AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent 助手与开发框架，集成多 IM 平台、多 LLM、丰富插件和 AI 功能，可作为 OpenClaw 替代方案。",
+      "stars": "37.1k",
+      "weekly_stars": "2.0k"
     }
   ]
 }
