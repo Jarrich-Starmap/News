@@ -1,62 +1,122 @@
 [
   {
-    "title": "四天内四起无人机袭击击中运载哈萨克斯坦石油的油轮",
-    "url": "https://www.euronews.com/2026/07/21/four-drone-strikes-in-four-days-hit-tankers-carrying-kazakhstans-oil",
-    "source": "Euronews",
-    "time": "2026-07-21 20:11"
-  },
-  {
-    "title": "贝森特称中国伊朗石油采购量已下降——福克斯商业报道",
-    "url": "https://www.reuters.com/business/energy/bessent-says-chinas-iranian-oil-purchases-have-decreased-fox-business-2026-07-21/",
-    "source": "Reuters",
-    "time": "2026-07-21 20:29"
-  },
-  {
-    "title": "贝森特称中国削减伊朗石油采购量40%",
-    "url": "https://www.investing.com/news/commodities-news/china-cuts-iranian-oil-purchases-by-40-bessentsays-4803252",
-    "source": "Investing.com",
-    "time": "2026-07-21 20:40"
-  },
-  {
-    "title": "IEA署长称霍尔木兹海峡新一轮袭击加剧全球石油安全担忧",
-    "url": "https://www.upstreamonline.com/energy-security/fresh-strait-of-hormuz-attacks-deepen-global-oil-security-fears-says-iea-chief/2-1-2019141",
-    "source": "Upstream Online",
-    "time": "2026-07-21 20:25"
-  },
-  {
-    "title": "挪威油气产量超出六月预测",
-    "url": "https://www.bairdmaritime.com/offshore/drilling-production/norway-oil-and-gas-output-exceeds-june-forecast",
-    "source": "Baird Maritime",
-    "time": "2026-07-21 20:19"
-  },
-  {
-    "title": "伊朗袭击海湾美军基地，油轮在紧张局势升级中遭袭",
-    "url": "https://www.globalbankingandfinance.com/iranian-forces-target-bahrain-kuwait-us-hits-irans-south/",
-    "source": "Global Banking & Finance Review",
-    "time": "2026-07-21 20:07"
-  },
-  {
-    "title": "科威特油轮在霍尔木兹海峡遭袭，油价突破90美元",
+    "title": "科威特油轮撞上霍尔木兹海峡，油价升至 90 美元",
     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Top-90-as-Kuwaiti-Tanker-Hit-in-Strait-of-Hormuz.html",
-    "source": "OilPrice.com",
-    "time": "2026-07-21 19:58"
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
   },
   {
-    "title": "加拿大石油公司在库尔德斯坦地区启动临时停产",
-    "url": "https://rudaw.net/english/categories/kurdistan/1078451",
-    "source": "Rudaw",
-    "time": "2026-07-21 20:23"
+    "title": "美国原油、汽油库存仍在下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
   },
   {
-    "title": "3M上调利润预期，涨价覆盖石油成本",
-    "url": "https://finimize.com/content/3m-raised-its-profit-outlook-as-price-hikes-covered-oil-costs",
-    "source": "Finimize",
-    "time": "2026-07-21 20:00"
+    "title": "雪佛龙距离伊拉克最大的石油奖又近了一步，并制定了霍尔木兹海峡退出战略",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Moves-Closer-to-Iraqs-Biggest-Oil-Prizeand-a-Hormuz-Exit-Strategy.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
   },
   {
-    "title": "石油：海湾冲突升级，地缘政治溢价持续——纽约梅隆银行分析",
-    "url": "https://www.mitrade.com/au/insights/news/live-news/article-2-1921224-20260721",
-    "source": "Mitrade",
-    "time": "2026-07-21 20:08"
+    "title": "印度提出更严格的车辆排放规则以减少石油消耗",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
+  },
+  {
+    "title": "俄罗斯石油出口激增导致1.35亿桶石油拥堵",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Export-Surge-Runs-Into-a-135-Million-Barrel-Traffic-Jam.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
+  },
+  {
+    "title": "美国支持伊拉克-叙利亚石油管道绕过霍尔木兹海峡",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Backs-Iraq-Syria-Oil-Pipeline-to-Bypass-the-Strait-of-Hormuz.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
+  },
+  {
+    "title": "为什么伊朗的供应紧缩可能导致油价跌至每桶 40 美元以下",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
+  },
+  {
+    "title": "沙特阿拉伯决定谁是未来的超级大国合作伙伴，但不是美国",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-Decided-Who-Its-Future-Superpower-Partner-Is-And-Its-Not-Ameri.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
+  },
+  {
+    "title": "EIA：美国原油库存再次出现大幅下滑",
+    "url": "https://oilprice.com/Energy/Crude-Oil/EIA-US-Crude-Inventories-Post-Another-Major-Draw.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
+  },
+  {
+    "title": "下一次石油上涨可能是由库存购买推动的",
+    "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-Could-Be-Driven-by-Stockpile-Buying.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-21 18:56"
+  },
+  {
+    "title": "由于未对冲的航空燃油成本翻倍，瑞安航空利润下降 36%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ryanair-Profit-Falls-36-as-Unhedged-Jet-Fuel-Costs-Double.html",
+    "source": "City A.M",
+    "time": "2026-07-21 18:49"
+  },
+  {
+    "title": "英国取消 5% 的电力增值税",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Scraps-5-VAT-on-Electricity.html",
+    "source": "Tsvetana Paraskova",
+    "time": "2026-07-21 18:22"
+  },
+  {
+    "title": "尽管豁免已过期，印度仍以接近创纪录的速度购买俄罗斯石油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Keeps-Buying-Russian-Oil-at-Near-Record-Pace-Despite-Expired-Waiver.html",
+    "source": "Tsvetana Paraskova",
+    "time": "2026-07-21 17:29"
+  },
+  {
+    "title": "由于卡塔尔供应不稳定，巴基斯坦斥资创纪录的现货液化天然气价格",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Shells-Out-Record-Sums-for-Spot-LNG-as-Qatar-Supply-Falters.html",
+    "source": "Tsvetana Paraskova",
+    "time": "2026-07-21 16:38"
+  },
+  {
+    "title": "ADNOC批准阿布扎比价值62亿美元的天然气项目",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Approves-62-Billion-Gas-Project-in-Abu-Dhabi.html",
+    "source": "Tsvetana Paraskova",
+    "time": "2026-07-21 15:50"
+  },
+  {
+    "title": "伊朗称美国袭击了未完工的核电站，警告存在安全风险",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-US-Struck-Unfinished-Nuclear-Plant-Warns-of-Safety-Risk.html",
+    "source": "Irina Slav",
+    "time": "2026-07-21 14:44"
+  },
+  {
+    "title": "伊朗和平希望重燃，油价逆转涨幅",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Reverses-Gains-on-Renewed-Hope-of-Peace-in-Iran.html",
+    "source": "Irina Slav",
+    "time": "2026-07-21 13:09"
+  },
+  {
+    "title": "高盛警告中东战争拖累油价可能触及120美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Oil-Could-Hit-120-as-Middle-East-War-Drags-On.html",
+    "source": "Irina Slav",
+    "time": "2026-07-21 12:36"
+  },
+  {
+    "title": "随着红海危机加深，胡塞武装宣布对沙特阿拉伯实施海军封锁",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Declare-Naval-Blockade-on-Saudi-Arabia-as-Red-Sea-Crisis-Deepens.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-20 22:09"
+  },
+  {
+    "title": "无人机袭击导致黑海战略石油码头的出口停止",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Halts-Exports-at-Strategic-Black-Sea-Oil-Terminal.html",
+    "source": "Charles Kennedy",
+    "time": "2026-07-20 21:22"
   }
 ]
