@@ -1,32 +1,182 @@
 [
-  {"title": "卡西亚黄金双轨发展策略亮相贵金属与关键矿产虚拟投资者大会", "url": "https://hk.investing.com/news/transcripts/article-93CH-1565347", "source": "Investing.com 香港", "time": "2026-07-23 05:13"},
-  {"title": "中国银行暂停纸黄金交易：风险还是真实价格转变？", "url": "https://investingnews.com/china-halts-paper-gold-trading/", "source": "Investing News Network", "time": "2026-07-23 05:52"},
-  {"title": "美元疲软推动金价突破上涨", "url": "https://www.fxstreet.com/news/gold-price-breaks-higher-as-us-dollar-weakness-fuels-rally-202607221825", "source": "FXStreet", "time": "2026-07-23 05:52"},
-  {"title": "黄金、白银和铂金价格在中东紧张局势下上涨", "url": "https://pluang.com/en/news-feed/perkiraan-emas-perak-platinum-emas-mencapai-level-tertinggi", "source": "Pluang", "time": "2026-07-23 05:54"},
-  {"title": "曼哈顿Vanquish项目发现高品位黄金", "url": "https://www.miningnewsnorth.com/story/2026/07/24/northern-neighbors/high-grade-gold-at-manhattans-vanquish/9782.html", "source": "North of 60 Mining News", "time": "2026-07-23 05:22"},
-  {"title": "卡内奥赫小学获卓越金星奖", "url": "https://www.hawaiinewsnow.com/2026/07/22/kaneohe-elementary-awarded-gold-star-excellence/", "source": "Hawaii News Now", "time": "2026-07-23 05:44"},
-  {"title": "FinEx Metals在芬兰Kero黄金项目启动钻探", "url": "https://www.bnnbloomberg.ca/press-releases/2026/07/22/finex-metals-commences-drilling-at-kero-gold-project-finland/", "source": "BNN Bloomberg", "time": "2026-07-23 05:33"},
-  {"title": "从淘金热到现实检验：餐饮业并购新策略", "url": "https://www.nrn.com/restaurant-finance/from-gold-rush-to-reality-check-the-new-restaurant-m-a-playbook", "source": "Nation's Restaurant News", "time": "2026-07-23 05:08"},
-  {"title": "摩纳哥夏琳王妃身着金色礼服致敬婆婆格蕾丝王妃", "url": "https://www.instyle.com/princess-charlene-monaco-channels-princess-grace-old-hollywood-glamour-red-cross-ball-12024583", "source": "InStyle", "time": "2026-07-23 05:21"},
-  {"title": "评委在劳登葡萄酒奖参赛作品中发掘更多金奖", "url": "https://www.loudounnow.com/getoutloudoun/the-results-are-in-judges-find-more-gold-among-loudoun-wine-award-entries/article_c05effc4-96e9-4e02-9652-a06390eeadc3.html", "source": "LoudounNow.com", "time": "2026-07-23 05:15"},
-  {"title": "Ashley Gold启动Tak项目三期钻探，NTZ矿脉地表延伸至300米", "url": "https://www.marketscreener.com/news/ashley-gold-corp-initializes-phase-iii-drilling-on-tak-and-extends-surface-expression-of-the-ntz-ve-ce7f51d9df89f626", "source": "marketscreener.com", "time": "2026-07-23 05:32"},
-  {"title": "King Princess等艺人参与Neil Young慈善合辑", "url": "https://www.thelineofbestfit.com/news/king-princess-mj-lenderman-ben-gibbard-and-more-feature-on-neil-young-charity-compilations", "source": "The Line of Best Fit", "time": "2026-07-23 05:19"},
-  {"title": "凯特·奥康纳领衔北爱尔兰队英联邦运动会金牌希望", "url": "https://www.irishtimes.com/sport/2026/07/22/kate-oconnor-leads-the-gold-medal-hopes-in-the-northern-ireland-team-at-the-commonwealth-games/", "source": "The Irish Times", "time": "2026-07-23 05:07"},
-  {"title": "Novagold收购Donlin黄金项目全部股份", "url": "https://investingnews.com/novagold-full-ownership-donlin-gold/", "source": "Investing News Network", "time": "2026-07-23 05:14"},
-  {"title": "安德烈亚斯·康斯坦丁努在希腊滑水锦标赛中获双金", "url": "https://knews.kathimerini.com.cy/en/news/andreas-constantinou-wins-double-gold-at-greek-waterski-championships-video", "source": "Kathimerini.com.cy", "time": "2026-07-23 05:16"},
-  {"title": "西南地区双人组瞄准2026年格拉斯哥英联邦运动会金牌", "url": "https://www.swtimes.com.au/news/south-western-times/south-west-duo-have-gold-in-their-sights-ahead-of-2026-commonwealth-games-in-glasgow-c-22606544", "source": "South Western Times", "time": "2026-07-23 05:29"},
-  {"title": "YieldMax金矿期权收益策略ETF增加每周分配", "url": "https://www.gurufocus.com/news/8972265/yieldmax-gold-miners-option-income-strategy-etf-gdxy-increases-weekly-distribution", "source": "GuruFocus", "time": "2026-07-23 05:31"},
-  {"title": "Donlin Gold合作伙伴组建新NovaGold公司", "url": "https://www.miningnewsnorth.com/story/2026/07/24/news/donlin-gold-partners-form-new-novagold/9781.html", "source": "North of 60 Mining News", "time": "2026-07-23 05:12"},
-  {"title": "CME黄金期货因技术性买入和逢低买盘回归而上涨", "url": "https://www.marketscreener.com/news/cme-gold-futures-rose-on-technical-buying-as-dip-buyers-returned-ce7f51d9df89f525", "source": "marketscreener.com", "time": "2026-07-23 05:34"},
-  {"title": "Lode Gold Resources完成800万加元首轮增额私募融资", "url": "https://www.marketscreener.com/news/lode-gold-resources-closes-c-8-million-first-tranche-of-upsized-private-placement-financing-ce7f51d9dc80f727", "source": "marketscreener.com", "time": "2026-07-23 05:04"},
-  {"title": "比特币突破66,600美元，表现优于标普500和黄金", "url": "https://www.kucoin.com/news/flash/bitcoin-surpasses-66-600-outperforms-s-p-500-and-gold", "source": "KuCoin", "time": "2026-07-23 05:10"},
-  {"title": "警方破获班加拉山入室盗窃案，追回逾1公斤黄金", "url": "https://timesofindia.indiatimes.com/city/hyderabad/cop-crack-burglary-case-in-banjara-hills-recover-over-1-kg-gold/articleshow/132566039.cms", "source": "The Times of India", "time": "2026-07-23 05:35"},
-  {"title": "市场动态：利率不确定性使黄金重回焦点", "url": "https://stockhouse.com/opinion/contributors/2026/07/22/markets-motion-rate-uncertainty-puts-gold-back-focus", "source": "Stockhouse", "time": "2026-07-23 05:16"},
-  {"title": "卡西亚黄金出席贵金属与关键矿产虚拟投资者大会：双轨计划", "url": "https://ca.investing.com/news/transcripts/cassiar-gold-at-precious-metals--critical-minerals-virtual-investor-conference-dualtrack-plan-93CH-4747216", "source": "Investing.com Canada", "time": "2026-07-23 05:15"},
-  {"title": "纽蒙特财报预览：买入评级不变，金价与回购是Q2关键", "url": "https://seekingalpha.com/news/4616814-newmont-earnings-preview-buy-ratings-intact-gold-prices-buybacks-key-to-q2", "source": "Seeking Alpha", "time": "2026-07-23 05:08"},
-  {"title": "镀金不锈钢埃塞俄比亚奥罗米亚地图吊坠项链", "url": "https://www.aviglianonews.it/430688/Steel-Ethiopia-Oromia-Map-Pendant-Necklace-Oromo-Cultural", "source": "aviglianonews.it", "time": "2026-07-23 05:40"},
-  {"title": "Gens Aurea详述BNP Paribas米兰上市后股价稳定措施", "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/3409586/gens-aurea-details-bnp-paribas-share-price-stabilisation-after-milan-listing/", "source": "The Globe and Mail", "time": "2026-07-23 05:24"},
-  {"title": "印度拳击手在梅西C罗支持上存在分歧，但为共同目标团结一致", "url": "https://www.newindianexpress.com/sport/other/2026/Jul/22/india-boxers-were-divided-in-their-support-of-messi-ronaldo-recently-but-are-united-by-a-common-goal", "source": "The New Indian Express", "time": "2026-07-23 05:43"},
-  {"title": "Avino银金矿业股价上涨6.4%——是否该买入？", "url": "https://www.marketbeat.com/instant-alerts/avino-silver-gold-mines-nyseasm-shares-up-64-time-to-buy-2026-07-22/", "source": "MarketBeat", "time": "2026-07-23 05:03"},
-  {"title": "Citizen预告其最佳平价自动腕表终极版本", "url": "https://www.gearpatrol.com/watches/citizen-tsuyosa-60-37mm-gold/", "source": "Gear Patrol", "time": "2026-07-23 05:05"}
+  {
+    "title": "Japan's Toyota Tsusho seeks to strike gold with rare metal recycling",
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-toyota-tsusho-seeks-to-strike-gold-with-rare-metal-recycling",
+    "source": "Nikkei Asia",
+    "time": "2026-07-23 13:10"
+  },
+  {
+    "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+    "url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+    "source": "CNBC",
+    "time": "2026-07-23 12:43"
+  },
+  {
+    "title": "DRI seizes 15 kg smuggled gold, 20 kg silver and ₹2 crore cash in nationwide operations",
+    "url": "https://newsonair.gov.in/dri-seizes-15-kg-smuggled-gold-20-kg-silver-and-%E2%82%B92-crore-cash-in-nationwide-operations/",
+    "source": "News On AIR",
+    "time": "2026-07-23 13:31"
+  },
+  {
+    "title": "Golconda Gold plans to double production and spin off Summit silver project",
+    "url": "https://pluang.com/en/news-feed/golconda-gold-diskon-nav-besar-dan-spin-off-proyek-adalah-katalis-jangka-dekat",
+    "source": "Pluang",
+    "time": "2026-07-23 13:29"
+  },
+  {
+    "title": "Gold, silver prices bounce as US-Iran war spreads",
+    "url": "https://www.northernminer.com/news/gold-silver-prices-bounce-as-us-iran-war-spreads/1003893276/",
+    "source": "The Northern Miner",
+    "time": "2026-07-23 13:16"
+  },
+  {
+    "title": "内华达州新金矿具大量开采潜力 Strikepoint Gold 钻探成果引关注",
+    "url": "https://more-news.tw/673895/",
+    "source": "墨新聞-MORE News",
+    "time": "2026-07-23 12:55"
+  },
+  {
+    "title": "Talamore drills high-grade Coffee gold",
+    "url": "https://www.miningnewsnorth.com/story/2026/07/24/northern-neighbors/talamore-drills-high-grade-coffee-gold/9784.html",
+    "source": "North of 60 Mining News",
+    "time": "2026-07-23 12:52"
+  },
+  {
+    "title": "West Red Lake Gold Files NI 43-101 Technical Report for Updated Rowan Mineral Resource Estimate",
+    "url": "https://uk.finance.yahoo.com/news/west-red-lake-gold-files-203500711.html",
+    "source": "Yahoo Finance UK",
+    "time": "2026-07-23 12:36"
+  },
+  {
+    "title": "Centenario Gold Corp. To Commence Trading On The Canadian Securities Exchange",
+    "url": "https://www.thenewswire.com/press-releases/1LaPFWYP4-centenario-gold-corp-to-commence-trading-on-the-canadian-securities-exchange.html",
+    "source": "TheNewswire",
+    "time": "2026-07-23 13:04"
+  },
+  {
+    "title": "Forex Today: US Dollar softens as oil and gold rally, ECB decision and Australian jobs loom",
+    "url": "https://www.fxstreet.com/news/forex-today-us-dollar-softens-as-oil-and-gold-rally-ecb-decision-and-australian-jobs-loom-202607222116",
+    "source": "FXStreet",
+    "time": "2026-07-23 13:17"
+  },
+  {
+    "title": "Gold prices hit two-week high",
+    "url": "https://thepeninsulaqatar.com/article/23/07/2026/gold-prices-hit-two-week-high",
+    "source": "The Peninsula Qatar",
+    "time": "2026-07-23 13:27"
+  },
+  {
+    "title": "Iraq says 13 billion, 45kg of gold recovered in Jumaili case",
+    "url": "https://thenewregion.com/posts/5969",
+    "source": "The New Region",
+    "time": "2026-07-23 13:03"
+  },
+  {
+    "title": "GBR strikes more gold, BRE scores bauxite IPO boost",
+    "url": "https://www.themercury.com.au/business/stockhead/resources-top-5-great-boulder-smashes-its-drilling-out-of-the-park-with-more-gold-at-side-well-bre-bauxite-play-gets-50m/news-story/5eabe122d9ec163804bdd42f67012545",
+    "source": "The Mercury",
+    "time": "2026-07-23 12:50"
+  },
+  {
+    "title": "The dollar is backed by force, not gold, constitutional scholar Watkins says",
+    "url": "https://www.kitco.com/news/article/2026-07-22/dollar-backed-force-not-gold-constitutional-scholar-watkins-says",
+    "source": "KITCO",
+    "time": "2026-07-23 12:53"
+  },
+  {
+    "title": "Moho defines shallow gold systems at Bush Chook",
+    "url": "https://mining.com.au/moho-defines-shallow-gold-systems-at-bush-chook/",
+    "source": "Mining.com.au",
+    "time": "2026-07-23 13:07"
+  },
+  {
+    "title": "Gold and silver prices rise on technical buying and geopolitical tensions",
+    "url": "https://pluang.com/en/news-feed/emas-naik-minyak-meningkat-dan-imbal-hasil-menguat",
+    "source": "Pluang",
+    "time": "2026-07-23 13:32"
+  },
+  {
+    "title": "Gold (XAU/USD) Price Forecast: Breakout Opens the Door to Higher Targets",
+    "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakout-opens-the-door-to-higher-targets-1612181",
+    "source": "FXEmpire",
+    "time": "2026-07-23 12:47"
+  },
+  {
+    "title": "Plethora Precious Metals Fund Announces Filing of Early Warning Report Related to Prosper Gold Corp.",
+    "url": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3413894/plethora-precious-metals-fund-announces-filing-of-early-warning-report-related-to-prosper-gold-corp/",
+    "source": "The Globe and Mail",
+    "time": "2026-07-23 13:00"
+  },
+  {
+    "title": "Golconda Gold: Heavy NAV Discount And Project Spin-Off Are Near-Term Catalysts",
+    "url": "https://seekingalpha.com/article/4924399-golconda-goldheavy-nav-discount-and-project-spin-off-are-near-term-catalysts",
+    "source": "Seeking Alpha",
+    "time": "2026-07-23 13:08"
+  },
+  {
+    "title": "Freeman Gold Corp. Reports Earnings Results for the Second Quarter and Six Months Ended May 31, 2026",
+    "url": "https://www.marketscreener.com/news/freeman-gold-corp-reports-earnings-results-for-the-second-quarter-and-six-months-ended-may-31-2026-ce7f51d9de8bf224",
+    "source": "MarketScreener",
+    "time": "2026-07-23 12:52"
+  },
+  {
+    "title": "TSX rises to reach new record high as oil and gold rise",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/07/22/sptsx-composite-up-more-than-200-points-in-late-morning-trading-oil-and-gold-rise/",
+    "source": "BNN Bloomberg",
+    "time": "2026-07-23 12:46"
+  },
+  {
+    "title": "In the Hot Seat with Austin Metals: The Murchison's remaining treasures",
+    "url": "https://stockhead.com.au/stockhead-tv/in-the-hot-seat-with-austin-metals-the-murchisons-remaining-treasures/",
+    "source": "Stockhead",
+    "time": "2026-07-23 13:24"
+  },
+  {
+    "title": "Housebreaker held with gold, silver ornaments and cash worth Rs 7 lakh",
+    "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/housebreaker-held-with-gold-silver-ornaments-and-cash-worth-rs-7-lakh-1973182",
+    "source": "Deccan Chronicle",
+    "time": "2026-07-23 12:52"
+  },
+  {
+    "title": "Benbow Drug Bust Nets Cash, Gold Bars, and a Small Pharmacy of Narcotics",
+    "url": "https://kymkemp.com/2026/07/22/benbow-drug-bust-nets-cash-gold-bars-and-a-small-pharmacy-of-narcotics/",
+    "source": "Redheaded Blackbelt",
+    "time": "2026-07-23 13:02"
+  },
+  {
+    "title": "Can Barrick Mining (NYSE:B) Reflect Gold's Strength as Bullion Keeps Firm This Week?",
+    "url": "https://kalkinemedia.com/us/stocks/gold/can-barrick-mining-nyseb-reflect-golds-strength-as-bullion-keeps-firm-this-week",
+    "source": "Kalkine Media",
+    "time": "2026-07-23 13:00"
+  },
+  {
+    "title": "Alamos Gold (NYSE:AGI) Slips Today As Miners Diverge From The Metal",
+    "url": "https://kalkinemedia.com/us/stocks/gold/alamos-gold-nyseagi-slips-today-as-miners-diverge-from-the-metal",
+    "source": "Kalkine Media",
+    "time": "2026-07-23 13:06"
+  },
+  {
+    "title": "Alasdair Macleod: Gold forms major bottom after correcting from $5,600",
+    "url": "https://tradersunion.com/news/market-voices/show/2759494-gold-correction-major-bottom/",
+    "source": "Traders Union",
+    "time": "2026-07-23 12:35"
+  },
+  {
+    "title": "What's Going On With Outcrop Silver & Gold Corporation Stock Wednesday?",
+    "url": "https://wealthawesome.com/whats-going-on-with-outcrop-silver-gold-corporation-stock-wednesday-07222026-wgo",
+    "source": "Wealth Awesome",
+    "time": "2026-07-23 13:30"
+  },
+  {
+    "title": "Evacuation Alert issued for area north of Gold Bridge",
+    "url": "https://www.emergencyinfobc.gov.bc.ca/event/wildfire-slrd-22jul26/",
+    "source": "EmergencyInfoBC",
+    "time": "2026-07-23 13:13"
+  },
+  {
+    "title": "Young surfers to get apartments in luxury new $180m 'Surfer' project",
+    "url": "https://www.goldcoastbulletin.com.au/news/gold-coast/teen-surf-champions-dane-henry-and-milla-brown-named-ambassadors-for-surfers-development/news-story/9e0fa0e4b401d32f421331e06a6bfc1b",
+    "source": "Gold Coast Bulletin",
+    "time": "2026-07-23 13:03"
+  }
 ]
