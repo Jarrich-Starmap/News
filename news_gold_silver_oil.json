@@ -1,0 +1,545 @@
+{
+  "generated_at": "2026-07-22T00:00:00Z",
+  "search_time_range": "Past hour (when:1h)",
+  "source": "Google News",
+  "gold": [
+    {
+      "title": "Diablillos silver-gold project valuation jumps 60% to US$4.8bn in Argentina",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxObVlBMEd4T2t6dzBZUFVRcFQtcHA0RUFJRWV0SXZOdlNicHVqdU1VM2U1TUtOQU9SNXJPV3E3QXU1X09BMW1WVEtILXVhME9pN2t0MkNjSjlxMW5fS1gwaDVjOTdqWFFLdlZJNjNoWEtzLWJEcS1wdE5kS0dtdEhTOHlGTXpKaVRXc3ExeEx2UkFyNnJhR0N2RG9VYUxkVnBWV0Zfb0Z1clVqdWZnTlJuMw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "BNamericas",
+      "time": "33 minutes ago"
+    },
+    {
+      "title": "Gold gains on buy-the-dip trade, holding firm above $4,000 (GLD:NYSEARCA)",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxPOG9ZVnA4RVktSVptcUNTeFp6Q1g5V3U0cVdYMmhieFpseGdicExZVFFMXzU2NU9XT0w0Y3JEMkJxMGhGdWFGQnJIeTY4d2duNUoyR084aWhIVTdxVHEzWHJzVEN6TG9YU1VXd3c4aWhzdU4yd1BsOGVVVk5qc0NkSWZyWHA2cDl0c3NTd21OaHFVX3ZmMWNEUg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Seeking Alpha",
+      "time": "42 minutes ago"
+    },
+    {
+      "title": "Gold miners rally as bullion prices climb",
+      "url": "https://news.google.com/read/CBMipgFBVV95cUxPNDg3VEl5OE4zYnFZWTFQWWFidUs5S3hQMDliX0NZVjVQRFlzYjZJYThrZ2FjSnEtUFdWQ2xEN0c2S1llNHYyNWthb1JMR3FqUkhnRWo0aXlieEFheTVYelhORE8weUhDRl9qUURja014aG5VWFZHNnhQdDBpMGJDTWpYVGVxMFRjeWJlcFFoT0hmbjZTZGJLTnItTWRTNmxDNWhwYkdR?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Investing.com",
+      "time": "56 minutes ago"
+    },
+    {
+      "title": "New Found Gold Continues to Deliver High-Grade Gold at Queensway",
+      "url": "https://news.google.com/read/CBMilgFBVV95cUxQOVBXaXYxcFhlTUZOdjRRbDh3U2RSamo0anJSa2tHWktmSFFJT0MyMXJIQ0c1cjczN3h6bmJXdUdUa0drc3paZWdmWHFfTzI5Z1ozQjRPaDY4X0M4eDB4Q004Z2stUThwMUV5WGxLdHpSVWVxMlQ0LVdQOU54YTVQS2YwQ0dPWFk2cExRak9YY3dKMzlpT0E?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Investing News Network",
+      "time": "33 minutes ago"
+    },
+    {
+      "title": "As China Exits Paper Gold, a Perth Mint Distributor Says the Signal Is Clear",
+      "url": "https://news.google.com/read/CBMivwFBVV95cUxQYTdiamY0eHkxTkUteldiLWliRElDdzdMUnpiUWZnUjJQOTdWaW9ZbzE3cUdHcVhadENGQk93SC1FeGhJT2pOQnFHb1Z5R2hDY25fQnYtMkdfVXRRT0hfbEVGaVdkcDRVTmNkQzhuZ09ZNkNkUm4tWV96V2xoa0ZKeVpicHRBUDR6NkRtN2xRWDdHX2swRzRsQTAxQ1pCQ0x6TTlGanVQVzRrcmFSSjhNalVVVnpreWNpWUdsaHpmTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "EIN Presswire",
+      "time": "25 minutes ago"
+    },
+    {
+      "title": "Bitcoin ownership surpasses gold among US adults: Nakamoto Project report",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxONEk3NXZoWHZHa1BBcE5EcFpFUzg0V3M1UTAxMWpfSHZLamJjRzVCNGlaazBCZ09HM1lMc1A3VGMtNUNFdmpVLUcycmdVRHZMN1k5cDI1UkwzcngwWG1sVGNCVURFellPN0ZNQWFrTURYMjFHOGREUTlrT2ZONi16bFJjTklYdE80SVg0eWJfWVYyVlR4Tm53RmE2MmpLQ000YWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Crypto Briefing",
+      "time": "45 minutes ago"
+    },
+    {
+      "title": "Gold breaks key resistance, eyeing $4,203 test for potential bullish reversal",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxQWjZzcEpjMklMdDhYT0F4aTJ0VEVJQnpiWW1oRjkyR2V1VGxBcTZORVhadHRqazNqMVhiM1IzbHdqaElwdEZ1ZF8ySFZnZnMyYkJ2M1BqMXNxRHI4MEJyZW1OWW5QM1ZVLTh5czBjT2hHaDBaVEdmZGlFTmlySDBvVFFUVmZKVlFsYzFGMmotbUtoQUdkaUVwaDl3?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Pluang",
+      "time": "11 minutes ago"
+    },
+    {
+      "title": "Armenia Makes Shooting History With Two World Champions and Six Medals",
+      "url": "https://news.google.com/read/CBMirgFBVV95cUxNVERSYnI0dnBILTFnbmNpU3hpTlA4VWotWEtWWURVWnUxUlZPZ1llVXZuWDR5WUp2bU1BNHdzaXhNdlQtM2VSUzBnUHZOa1NodzJ1bV8zNmFUWDZkX1dvM2NnMDhDZnJlSU5fRWtySHNDV2R1bl9CQThidG9VV0o0OVYwM1VjTHI1bUVMY0tUOXJoS2tGb2pKQXMtOTA2X3pwVXA5TjFTTFJIbEdRRWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The Armenian Report",
+      "time": "30 minutes ago"
+    },
+    {
+      "title": "Gold gains on hopes of de-escalation in Middle East conflict",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxNTWcyM1lBNGVYM1lXRFY5c1JQVWp0dTBaWnFnN3FRaVBEbk5sS3BVcFJCQmNRNldUUmpsdTcyMkVTcVlPM3YwRm51N2FuUGhJME92WG5XRnVoNjB2VzN6ejJKWHQ3MnNYamZoSGVUeEZJVkFfN0cwN1VHSHFPWElNQ2FRcHlRWnJJejJMTUlEQURNeEVxVnlobjg1UkQwUk8yNzRQTmY4RWh3eXNLckNJU0Z3?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "MSN",
+      "time": "48 minutes ago"
+    },
+    {
+      "title": "Moonlight Peaks Guide: How to Unlock All Enchanted Tools",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxNVXlQUkszeW5hYlVmazliSE1HNnNiTElUTVVHWXl4eG5qcHBIdWpIQU9EWDhxMTJwSzVmNWFGY0tWSjFUVjNieHQ3d2g4bExXQk1PTGplLVRSWkRKbC1kSGxZMWpMYUhFMUcyd1d4bkNxcHlxZUFTa3hndWo4TEdleksxTVZBODJHV1Nra0c3ajNNVkJ4?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "games.gg",
+      "time": "3 minutes ago"
+    },
+    {
+      "title": "TVC:GOLD Chart Image by PIPS_MINNER",
+      "url": "https://news.google.com/read/CBMiT0FVX3lxTFBsYXNIdS0ycGdfVC1hUGJhek00RjBaZWdydHJJbnJiUWNLa1pnc2IxUjZUZ1FEQVdzdGNZOXV5c1Y0LXhNcTFaTnJxWFZwZFE?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "TradingView",
+      "time": "1 hour ago"
+    },
+    {
+      "title": "Oil Shock, AI Boom Complicate Fed's Path, Vice Chair Jefferson Says",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxPS1BscEFGOEM2MWlUUnV6YVFVdW1ndDhSSmFIYy1HdmVONjlUdjNtMmNadWo4RFdDQjBYNmF2UmhndUZMNTZBdlJPSExjM3FFNXpJRll5cDgtaWNOa182OGg5TVNrbndIM1pCVG1fdjdjUjJYYXZmVmVtUlMzVWhwOTlnM2J3VkFvWXBnTUtFaVgxMWJ1Mk92dk85VE5idHBySlp1YUlvdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "SchiffGold.com",
+      "time": "59 minutes ago"
+    },
+    {
+      "title": "Orestone targets drilling at Argentina gold project",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE4zeWtvMW03R3p1OWgxTGFVZFZxVWxOMkI2UWg2ZGxaS2sybWtNZWhaQjFIdjZlVzVSQzVjelJHaW51TW4wRzEwa2cxZ0JQa0xXcllqOHhSSExhNXpiaWpjWUJrTWNpZE5SN3RpYTBuV1VsZXdXekg1anFVRnBZcUk?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Mining.com.au",
+      "time": "40 minutes ago"
+    },
+    {
+      "title": "Imperial Reports Mount Polley Permit Issuance, Mount Polley Production Update for 2026 Second Quarter, and Huckleberry Mine Exploration Results",
+      "url": "https://news.google.com/read/CBMiwAJBVV95cUxNcjZUcjNmV3l4Nk45UDhkTVpWMzRhZlAyME16cWliWlplNktLajNQZGN5Uno2aThIbnViZkVyQklIQnY1QmRnY1U5bVFBUUFNcWtsRU1MSUR2YTZFQzhkeTFSNDN6NXN2elRIVzhIanlrZ3l5UXhlTkJJSURHbEh2bW9fdEJxbXJKdkJ2TUEzZmxSekZnVHBkekJEWWJULXlZUEtiN1JRSnJXcThEdVVIVFlwQVdGUzFiLWw1eWMwY1JaQkpSRUpyYUdvZ3B2VERTdzBvclVyVXdxT2hjMjdUZUdjYWN2eVNhamxlYjZMcmpBOGpCS3FTZDR4WTZYejBhdnppcEhMSzI5MVJpR3huRzN5UFNnckFpcnlCT2Z4bjg0WHNRVXg5eDNsZTVQcmhMU0tM?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The Manila Times",
+      "time": "44 minutes ago"
+    },
+    {
+      "title": "Ancient burial site yields more artefacts",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxNa1V5X1FCbzUxNjVRUDFZOEFrMDNJakR4d1NmbWgtQzB5anRGckJNTGFOaG5IOGlLRDZZSlhNNG8ycTdzSndYRUN3cXdYMllicEtxWmlqRlNiN1RBSzNKQ0dQTm5SYTRXQVhYN1M0R0lTbVN4Y2hVYlkxMUV6X3ZCSnFMYTd0SFF3RzlsN2ZxaWczS2kybXc?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Bangkok Post",
+      "time": "25 minutes ago"
+    },
+    {
+      "title": "Talisker Reports Mustang Underground Face Sample Results and Defines a 127 metre Strike Length High-grade Shoot Averaging 22 g/t on the 1045 Level including 610 g/t over 0.51 of a metre",
+      "url": "https://news.google.com/read/CBMiyAFBVV95cUxNQVZ2Z0JVV2xWQ0tKR1F3eEJyUDk2SjJKSzQxX0FFeUJCNXAwQWdoOTRHZjhiTUd6Zk9YUU1FM2ZrZDFsSXU2SXdOZUZiTGIwZG4xTXlUcEZubVJHMWd5UUlSbEZJSnFWbWlLanRwT05hM3BLZ1BWeDFIZkRBX1FoenV4eDhwdm5aTHdCemtxZk1EbUVrT0dYNjBYa3M5VzRvbTRZcUs5NWlEMVpTZUJQTl9Wb3dWM1FsWUF6MEQ2T253QmViQmJJeQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Investing News Network",
+      "time": "24 minutes ago"
+    },
+    {
+      "title": "World Gold Council commits initial US$250,000 to support Ghana's responsible mining drive",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPLUFWWWl0TFYtSC1LSEZQVmFjSFl0RUZ3Zmp5a0xfOTdibG5TTndIWmN2LVZtSW5LR05QYVJYbmNySXJTdTJIaTcyRVB2a2dOc1o1aWZ4cjgyVVJVVFU5SEFZTWpSQ2hjdlc2LURIa3I4dGxZUXo5LW4tOHdpdWtLQQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "GBC Ghana Online",
+      "time": "56 minutes ago"
+    },
+    {
+      "title": "TVC:GOLD Chart Image by THOMAS_PRO_99",
+      "url": "https://news.google.com/read/CBMiNkFVX3lxTE1oTmRnQmZwSEo3aGFrV1A2ZnJnWVdRaEtfQV9ROERXanFKX2hPby1fX3BvOEhLXzg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "TradingView",
+      "time": "1 hour ago"
+    },
+    {
+      "title": "TVC:GOLD Chart Image by Forex_Gold_Signals",
+      "url": "https://news.google.com/read/CBMiNkFVX3lxTE1zc1BaWnFtUTFOblFWZGthLWhUOFp5RFNWUmRGcjZtbWtWbkNuXzlWeDdoNG1aM3c?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "TradingView",
+      "time": "1 hour ago"
+    },
+    {
+      "title": "Ramses and the Pharaoh's Gold: The Exhibition",
+      "url": "https://news.google.com/read/CBMifEFVX3lxTE41RWpMYmhTR2xPTFZlcVdnS0lTQ1gzVDBpRjdNZ3hYaVhnNlZNUkJuZXNuTkRJVDViWDU4cmtwdXBuVE5seGdCUF9wcGFIeEJ1LVdfcnpFQmZwWXJ5LXlyaGFUcDFfeGxpSW05UWNYd01LZ2Myc3BKbHpfUTY?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Wandsworth Times",
+      "time": "47 minutes ago"
+    },
+    {
+      "title": "Lundin Gold Expands Porphyry Cluster at Fruta del Norte, Targets Sandia Resource in 2027",
+      "url": "https://news.google.com/read/CBMifkFVX3lxTFBGaTczXzZobHVJRGhQVDhTOU82SUdreEU1cEdsM2k0eUtJaXFoNUtMeUtvb3BWX1U0X3ptMVBjSS1Ta2RCaFlLQm1XRE1uanFBWU5nOXRaaU52N2c0dGhnTUhFSVJRZF9BUUJOam1KTnFiT0xhVEs4aVR0Y0pTZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "TipRanks",
+      "time": "25 minutes ago"
+    },
+    {
+      "title": "New Found Gold Confirms High-Grade Lotto Results as Queensway Resource Work Advances",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxOdUhUbnFMRnJxdjREeWpMNUNSRjdpM2FWbjFhLUdTQVRQa0tJdU5FcDVzZ1ZxS2hVazBOa2lLTUVhQjBmaExqVnp6VU1pUmloVHBJcHJmNEdteEplNHZDLTdmb2FYX3RHS0ZscXlfb1kzZFpVTjA4N2taQmVBLW9kd3VsSHhVTUdPZ1V3RQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "TipRanks",
+      "time": "41 minutes ago"
+    },
+    {
+      "title": "Alamos Gold Sinks as Mine Troubles Spook Investors",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxPNFJqT3NQYk5iTExWeDk1NGRfcHI5UUQ3RllNYjFvUUE3RV9sN2NyMURzc1Y3aDhGVTlnNFhoOWl4QVZJUmE2RkRYRXhlUUZISm5kclh5d0tCaWR3bVJKcWxyakFhV3gxeVlhQTYxZl95b2V3Tlpwb1UxX2xIalZvcQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "TipRanks",
+      "time": "58 minutes ago"
+    },
+    {
+      "title": "Rudi Fronk: Gold Price to Retake Highs, Bull Run Still Early",
+      "url": "",
+      "source": "Investing News Network",
+      "time": "1 minute ago"
+    },
+    {
+      "title": "A Look at Gold Fields Ltd (GFI) After 3.3% Gain -- GF Value $38.",
+      "url": "",
+      "source": "GuruFocus",
+      "time": "7 minutes ago"
+    },
+    {
+      "title": "Glenfarne and Donlin Gold sign Letter of Intent for Alaska Gas and Infrastructure",
+      "url": "",
+      "source": "Delta Discovery",
+      "time": "59 minutes ago"
+    },
+    {
+      "title": "TVC:GOLD Chart Image by Ray_Traders",
+      "url": "",
+      "source": "TradingView",
+      "time": "8 minutes ago"
+    },
+    {
+      "title": "Luca Mining digs deep as production takes a breather",
+      "url": "",
+      "source": "Mining.com.au",
+      "time": "8 minutes ago"
+    },
+    {
+      "title": "SchiffGold.com: Oil Shock, AI Boom Complicate Fed's Path, Vice Chair Jefferson Says",
+      "url": "",
+      "source": "SchiffGold.com",
+      "time": "59 minutes ago"
+    },
+    {
+      "title": "Gold Rate Today in Delhi 22nd July 2026 : 22 & 24 Carat, Gold Price in Delhi",
+      "url": "",
+      "source": "Business Today",
+      "time": "51 minutes ago"
+    }
+  ],
+  "silver": [
+    {
+      "title": "'She deserves so much better': Family of woman killed in Silver Spring hit-and-run crash pleads for answers",
+      "url": "https://news.google.com/read/CBMihAJBVV95cUxQWUJ4bm9EX0VxdVV3QWxWelV2UVhiM3lwenJPSWJIaldYaGU5bHUwNzJpbDVCbWJUUnBlRlVXcFFOS0JSVGYxNTI2MlZRMGxZcFAzRzNZSDNKXzlEcWJXZnJvX0dpTkN6NTRLNEc4NjBiMlJTd3FMdHBWQmNEOGx0bEh3UzB0UUxXa2NrZGQ4NGlyMFdXdXJjZGVaeGdnOWRGQVZsUEZpSktoWS01d3ZLbTJ4THlqQmp6MUhvOHFueFZhbmFPQjNNV3ZiR0pvRzNJTXNMS1Z6Q3JPNmJMTXl5VmZIZGNaOXdEV0k4REF4WmR2WGQ4RjRsRlhhTkhJYTVxMG43VdIBigJBVV95cUxPMzlYQkxpZHZjal8tS19RMzdMVWRTRWNyRFlybExLNTJQNlktb29ld0gzSVJTclVFOHhLWXFqbmRTeXdtb1cwaFQwR1RYZzNJQUZ3MW9aY3hLUXR3WG5QZWx5QXQzTHhUeXJkN19HQ1lKRnhYRFNCM2U2VUxyblhNQjhqSEM0TE14Y2JfLTd4X1FseWJtazZVWnJ4TWxsTE5welNxQ0xmSGZJNVRIYnFZamxYUGVzR1NNOFpxWXlNS1o1MWlaQXBpUXRCeWQyV2RfcHFnWE9VeDBaTUJYa0wtN3JKWElDS0hFbFc3c095VUo3aGE0dE01dTVjbXUzQzNjS04yWUgwUnlHdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "DC News Now",
+      "time": "18 minutes ago"
+    },
+    {
+      "title": "Diablillos silver-gold project valuation jumps 60% to US$4.8bn in Argentina",
+      "url": "https://news.google.com/read/CBMisAFBVV95cUxObVlBMEd4T2t6dzBZUFVRcFQtcHA0RUFJRWV0SXZOdlNicHVqdU1VM2U1TUtOQU9SNXJPV3E3QXU1X09BMW1WVEtILXVhME9pN2t0MkNjSjlxMW5fS1gwaDVjOTdqWFFLdlZJNjNoWEtzLWJEcS1wdE5kS0dtdEhTOHlGTXpKaVRXc3ExeEx2UkFyNnJhR0N2RG9VYUxkVnBWV0Zfb0Z1clVqdWZnTlJuMw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "BNamericas",
+      "time": "34 minutes ago"
+    },
+    {
+      "title": "'A gruesome, senseless thing to do to another human' | Woman killed in hit-and-run, police ask for help finding driver",
+      "url": "https://news.google.com/read/CBMinwJBVV95cUxPRGlUcFBCdXhnZU9PcEJfSHZpMGlkaU1Wck15bkZWS2d4ZWp0aGd1enBRVHBHZWVLRHFxQXo0dzV4TUswVTRvSWJUcnRwTmNfT0VQeFBDbE80UXlOdHd3RW5fbThCQ19zSURoTmVad01CUUVRMUE3bnkyUm41SnlVcHBMZ2hJdFVqVzhKUTRrYi1QWldsb29WeS1yNUNKRXJPRW9uR1FvQ2d5QXBxbDJaQjZhRm4tWXNjRDl0NlJtVHBlVUFBX1JFUlBQNjBMX2Y3QVEySFNuQmtTVTJFWUczZFpPUEZuRUV3bmViTGUtMy1rQnNLbkQwalpnZm9tYW5IVWhMelNJQzdydDZXTHpCU1VCY0ZkYnhaNWJvZzl6OA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "WUSA9",
+      "time": "12 minutes ago"
+    },
+    {
+      "title": "Queen Mother's Silver Salver Success for Simon Sweeting",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxQWTFiR3lKVGJGOUdfSTlWTnZ6bUYwVm1QS1FsQ0lESDNMMU05SW5PTDRwcWc5SGpBbHBhUDgzMTMzN1ZlZWZuUUxXOW5uYl9LbFNwQ2l0MHhYdnQ0VHRiSGJwQXUzTV8wWTlaeGtsb1F1RzFYQlZtdmJQLW1ORW1UOE0ydDhjY3BGdGZFOWh6aWd0eFoxeVFlcg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Thoroughbred Daily News",
+      "time": "19 minutes ago"
+    },
+    {
+      "title": "Oklahoma City Thunder (MYTH) @ Boston Celtics (SILVER) Odds",
+      "url": "https://news.google.com/read/CBMi1wFBVV95cUxQMUpOUHRDNGJVcktGVW1iYUF0OGRNYWFvRmJVZmZmWjdVNTc3dHhyLUN5WmtvMldSdFU5NlotRkF6MmUzcXZtU01lbDBXeUNQZXlLTC0xVjJtRU8zdFR5ajlUQkNBRElBcmV3RVJQZXFQMHRzbkZzTzBKbWJscTNTbzlmNjA2M0trQjFmeEduZ0lFUUx6dDE0RGRGYUM5N2k1enZBQjRKbDAtWmktdURINmhMTmxxR0ItazI4NW5kUmljY1pjOVdOT0FicDkwQlhlOENVV1lrTQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "FanDuel Sportsbook",
+      "time": "28 minutes ago"
+    },
+    {
+      "title": "Double-Cart Review Special: Ortofon MC X30 & MC X10 MC Cartridges",
+      "url": "https://news.google.com/read/CBMioAFBVV95cUxOZFJjZHVfMjJDUVZjQkVJQnBpTEwweDQyVE9DQTYzRFhXd3NDc0tZNEd6a1dsSHBZXzVyRHVuR1FZZldMbXcwcGY1bVduT3FSM3I1bXNIWVNQZHNvVFRUaW5qeTBWbGIyQzl4cDFJb0lBYXh2NGczR2pqbG50U01ObVdSaXdhUE1rOGlQVEZvalY5RTllTEFTeFd0a2xWVDhE?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Analog Planet",
+      "time": "53 minutes ago"
+    },
+    {
+      "title": "Which direction is Trump's job approval rating headed?",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxQanAxaXFWRzhfV2p2MTdnYy1LdEpOU3FMQjdqZWRwVEVHbkNXV2duQnRYSnNDZHAxTU9wSWE1LVNWeWZUN0p0SUlidmdIMUM4aVhMaHh3TXRVV2l3dFNHLUdMUHdURGY5UmdiWXYtTk5QTThRc18zeDB3U3llYWQzUHdwbG5rY0ZPN21wSklB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Roll Call",
+      "time": "46 minutes ago"
+    },
+    {
+      "title": "InvestorTalk Alert: Ali Haji from American Tungsten Corp. to host on Wednesday, July 22, 2026, at 9:00 AM EST",
+      "url": "https://news.google.com/read/CBMi8AFBVV95cUxPYWlpTXBNanN6T0huWkpLazAzRlV4OHowZkpSLUt6azQ2SlFhUFlyeF8wb1RxVW10OHY4YTVDaVJVOG5QUVIydHJFQV8zR2pHSzdiZ0ZTeXlpeWdSUndzazNSeGs0eWRGbng4U2tyZUJqdWZBbUZnWVhCOERxeFk3dFZmTWdYb0REMGFtMTJvbjRjUk1kMkxneHBwTVRRdW1VTGwwZ08yOFJrQ05YeE15Y3ZSQTU4T0FsRHBtV0FHdHNESXVlZXFRa01Ta2NBbVFGczNlemxYM0lHbjZZUGVsWXVLT1ItQ2g0NjJCdTh5ckI?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "InvestorNews",
+      "time": "24 minutes ago"
+    },
+    {
+      "title": "Fernando Mendoza versus Wisconsin, Part XI of Las Vegas Raiders' Mendoza Mania",
+      "url": "https://news.google.com/read/CBMi1gFBVV95cUxPZEtWWE1ybDRJWUtvZXZjbER5Ml8tNmZvdFV1azZuRnZ4S244QWMzeFFHSXFjTEFuZHNXaTZJc050SE5HbmNSb0Zla3RrUV9GS2FwNVpNS3ZUMUMxS2JBRUNDZFR5ejdIT3pUcVhSMk9OQXRHdld0T3BaRmRUWlZ5Wkx4SWZPbWpPMjVrYW5PTkw0SkU2UU1Ecms1NTNObkdUaTZjb256Nk9rVG55d3hzX056R1h1LUFYb3NTUWd1cjJWWVF6XzFNNUNtbGdsNWRYa0tvbk53?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Silver And Black Pride",
+      "time": "42 minutes ago"
+    },
+    {
+      "title": "CLEAR Alert issued for 57-year-old man from San Antonio",
+      "url": "https://news.google.com/read/CBMizgFBVV95cUxOYV9TejBweTk3RmhtdHdBV19Bakw4S2pXcGRwMTJzelNMUHBTWDJIVDNhbmJyMXM3aUl2bjlKS2lfdE9FUFRoLUFDNWhfOWpsN0hJaVgyald5ek1NWkpMbEdEUUpKMm15clJYbkpES2FJMTFKUTYzTGxHUHY2bG5oa3RXSVFMTG82R21VR3Q2Z21fRnZoY19XWlJiRWczRVRZaF9ZT1VqOXVuRW0zR3VOWjI3UGFyQ2RpcFhncTEwY0pxT3d0UWFZUGZla0NKUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "kens5.com",
+      "time": "44 minutes ago"
+    },
+    {
+      "title": "2026 Commonwealth Games Previews: Coetze Looking to Dominate Men's Backstroke Events",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxPU08wUTE2OHAtZzBoalhNUHhTUFBvM2dEb0pxdFdzaWFtV282ZTY1eG5YcklOYmRRa2ZqNW52RXNUWVJ0dlZydVNGYjkxNTlQc21UYUNTNXJTWlZVTy1PME1seERWazJaTk1US1lUTU5HaXl5eEZwX1g1UTN2RFRHNVlnU1lpTlR0NWdJVVhBTGFCNmRvaWhMY3VzWjR1V3hkX3pxMjNxYw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "SwimSwam",
+      "time": "26 minutes ago"
+    },
+    {
+      "title": "The Most Reliable Luxury Cars Of The Last 20 Years",
+      "url": "https://news.google.com/read/CBMikwFBVV95cUxOX1pweHJlaE5WTXd4M2psdDhYZ0NQZWRGRWlaRnpuQVRrVWRmZHpYaUVhb0NpTWZzazRaYThqdUp4ZXlNSVh4TVZnMWQySUpFODFQVThUN1RvazRjV2ZDMFA1YmFEMGx2aDVXekoyUzIxU2IteHpuQi16U3gtUklITFJZcFVwUDdxUjNGYTc2SzR4d0k?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "CarBuzz",
+      "time": "26 minutes ago"
+    },
+    {
+      "title": "Macquarie Government brings silver lining to public sector with cloud services launch",
+      "url": "https://news.google.com/read/CBMipAFBVV95cUxQQlRldTFyR2VPTlRjZno1cVBNdi1aREt1SXctZnRLLVBSLU1MaHZJT05sUlJuQURFMU55MFNYcHJ5UzhCazIxTVMxSGU4UFNNY0pTQXZZeE5uZkhDWHgyRktpNHI2dS1fM25hV0RFdEdFdHFHbWFCSGxTaW5BSUdHLU5mMUZZQVF1QjFrOHhDamJQbW1fZ0lSVVIyWW15WHpEQ3d0bFRaZ9IBqgFBVV95cUxQS2ZaZTBVVUdzWlVxc2h2QmFaNDBSNnBvTkRRQVNRekRsVU5Vd1B4bk5ZVlpqeF9WeGktN1cxenpHUmtJQ3I5M0pBcXFPbVRPNF9icjlFRUJWc2FQMkU3aDB1V3dLbnNlZHh0RF86WG9UeG81dU8zVkp3dmhpdXc2UlFFdmxXd1FZWlZLRHlSYWNJNmxGZ05wYlF0N1BLcjItc0N0ME9Ea0hubVJiM1lMRjdE?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "ARNnet",
+      "time": "24 minutes ago"
+    },
+    {
+      "title": "YG Announces \"The Gentlemen's Club Tour\" This Fall",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxQSUdXeUdPMVRJb0QwbkxNaXdrX0phLVBjMlQwSzQycDZYQjNPOWc5aU1haWdXTGZoM3N6RFRDbDE0U2JlcGRfSWlwMUNLWmRVUmpFbDF1NExjQ19YK0dhMDUzYlFoU3pvSEZGU2l5Ml83Qk9jVnAyV0V0dmxITjEtQTJIWngxbnl1eVBIRFhoNUgwS3MxdXg1aUJXTF9McXBXTHpRbGlnWWxKWXRYWndEZkxFeXk?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "That Eric Alper",
+      "time": "24 minutes ago"
+    },
+    {
+      "title": "Gold gains on buy-the-dip trade, holding firm above $4,000 (GLD:NYSEARCA)",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxON2JtT0NhXzhBcTd2YnRiNVZwNFd3MnhqZWRDY09kR1RzUEFLQVdRY3gzbjh5aTF1Q3NicUE3Mi1IVDBEV3k4cHF0blB4cUFfTDhRS0FkYkZ4TlFhR2szRVp3a0thQzNBa0VYV2dTZGR6c25vckN2MzZ4YlZGcnBXYW1ZSEp4c1BLRWpRX1gwMnRZZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Seeking Alpha",
+      "time": "43 minutes ago"
+    },
+    {
+      "title": "Nike Just Dropped The Final Ja 3 \"Team Bank\" In Orange",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxObDJWc0RTbXRucUhLR1F0Z3ItYkZOTGYzWEdkYkprRm1vVmhxdzZzWU0tQzhpWmp4Z3hFMnFpWWFweDdENGI5Z0ptUlBuN05IamFOeGIxSHRkY3dBLXdLb3JoR082X19LVnZIN3JJTzAxUUtLVjh4M1laS0syeFhFeENFYTloSnp5TXVF?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Sneaker News",
+      "time": "56 minutes ago"
+    },
+    {
+      "title": "Magic: The Gathering's Most Valuable Cards of 2026 So Far",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxQaThLeDJNRHFrOUxLbU1SZDNfWVRKYWNqSFJRQnZBZ3ViZzFNQUhGTVc4bWVMWWhEOEt1UldQR2J4QjNfQWlXdzBNdk9XRTF2eEw3TW1Na1dUNjREbDE4ZjNaU2lMV25VcndEc1U1elRPdmJea3FqUjVDZTVmdVBfRmJ3UU44bnh4NFY1ZVNnTGxNZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "IGN",
+      "time": "56 minutes ago"
+    },
+    {
+      "title": "Junior miners turn to mergers to gain scale in Mexico",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxObGRjTjhMYU04NkM5MnIzNmlnbThPc1lCVlVNZ3NSeWttT3FDRXJBZklnM2pQbUpNVnlBVlRZV0o3NGtPemRxaVUxTHByaU50NEF4cFBDU2tCMGRSTmNKeGo3VDBsemptWGtSX2RFRXNXQWlCVXQ1T0pKd01SZ3g4aEIxVGs1MGpfMEZmeERCUmRhRFl5dlBFQkFOSHJ5bjRCTngxdy1SLVFnYWdlS2o0VGp5UWZJZkV4NHJCTDJJU2N1S194a0JILV90VGs?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "BNamericas",
+      "time": "34 minutes ago"
+    },
+    {
+      "title": "Orestone targets drilling at Argentina gold project",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxQOFF3RHIyM1ZESUo5NXgwSzBTUkp6VElaQkFiSXowNlA0X19nY3RtcGVqTlBXbkVkcnJaN0pfb1lPV25xVE5YZUIzbllUeFFXUVlNbERtMHRIQ3RSRENqLXpwV2hGR29NX01IekpwQXdhZEltbmxLaFBiX2ZkNnhHYkZxRkF4ZWlyb2lQSUk?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Mining.com.au",
+      "time": "41 minutes ago"
+    },
+    {
+      "title": "Samsung Galaxy Watch 9 and Ultra 2 specs and pricing leak in full ahead of launch",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE9hcjRSS3owN3A2b1RIYWZ2RzB1TFB4ejllY3BsdVFiWi1FRV9OLXdhaFhOa0ZVbDNzVzZwRXhkX3o4V3Nha3BJTXZyN0dIZTluMWlKeURVNjZLcUNPaF9ZYkFqejhGQ1NYTUltejVabzF3VldnVXhpOXpBWUY1Z0k?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Android Authority",
+      "time": "33 minutes ago"
+    },
+    {
+      "title": "As China Exits Paper Gold, a Perth Mint Distributor Says the Signal Is Clear",
+      "url": "https://news.google.com/read/CBMiqAFBVV95cUxPTFFJMVB6TF9fQmNQWXBrelh4TXl3Um1kNUY4Nl9PbVFZN0Y5QnZ3WkR1N3UtSnBIU1RLX2xCMTJ5a1NQOHR0VWlLMmZKV3R3MlZwZTNLcUtrYzh0LUZCZkc4blRnVHk2RlpjVG1HZ1ZRWTZleWNSV0VaQzlCU2o2V1AzRC1IVDFIRFM2NzVIVnFpZ2Vya1ozeFdGQm1lOEMtRi1HbENrUDY?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "EIN News",
+      "time": "26 minutes ago"
+    },
+    {
+      "title": "Imperial Reports Mount Polley Permit Issuance, Mount Polley Production Update for 2026 Second Quarter, and Huckleberry Mine Exploration Results",
+      "url": "https://news.google.com/read/CBMivgFBVV95cUxOMXBmcU1DR2dRSE43Z1RWa3RWV19kbzRtM3dQQ200NFdRaHBHQUZYSmd5eUp6R1pLV3JMVHQ0bFpBQzJUMGwxOERCaTlQVkliMVAxR01WMXY2bWM5d3Ftem9aT01nVGkxSjgzMlk4Y2Flb25OVENUVnlwcXNzUzRmeF9KWG5VSklFNDByUVJYVkJsaVN2RlNGYUVMdHhPWHQ2amtLUzN1WE9Ic2tuVE83cUhteGlTNUp4ZnBQdGF2NmJR?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The Manila Times",
+      "time": "45 minutes ago"
+    },
+    {
+      "title": "Other Sports: Nasser and Aljishi claim silver in Morocco event",
+      "url": "https://news.google.com/read/CBMisgFBVV95cUxQRDdUZE5vMk51cDh6THNWaXpLUF9QSnpEdzgxUWhkbVFhU2dGdjRBOWVabG9EMDJzRnNqaUYyaG9ZQmFBMFhSeU1temV6UUI5M0ZqZVpnazNSTjhFVUMwczQ5TGZhVlNBQkFjWDJuWk1CbmhoU0I1RExaRGVrUUJVSHRCTmo3QlhMcmMxT20tQ0NnTTE5M1Itb0ZNVXpoVkNFRVltcng1SExRc1dPM2ItajVB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Gulf Daily News (Bahrain)",
+      "time": "32 minutes ago"
+    },
+    {
+      "title": "Qatar Take Silver After Defeat to Oman in West Asia Volleyball Championship Final",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNaDJWekQ5WjhCM29BTmE2Zmp3Q09haXhOOHBHWkN4T1Q5RHFHb29XWkJ6M3ZGajFRREtnY0c0RDE4SDlodTB3QkZKZlI1bmQ3VGR5b0RzWHVqRVBOUDFDa09rSEpGQUs3a2d2bzAycVFXQk04enUtQ2hXLTNPWWVrMS1YZ1lJMWp0ZjZpX1ljRlk?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Qatar news agency",
+      "time": "35 minutes ago"
+    },
+    {
+      "title": "Milwaukee Bucks Rookie Makes 2026 NBA All-Summer League First Team",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxNa0V3aDJ2bEU5LVpEb051dmtzYnRNdFh4RHZBcENWUzI1WHBsQ2xDODRhaTkwU0ZuemRFX0VXQWYwa2RnSjdqN2p4dlBmVE5EczBmTFR6d0JxcGxhazJGVzBQbFZTZDhNQkFjODZNVmdUZzl6MXVGVXNTbEVqU3BJR3FqRnhxa3o5aGtGVmZQQUJIUmdSc0VJZG9rQjNIZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Wisconsin Sports Heroics",
+      "time": "29 minutes ago"
+    },
+    {
+      "title": "Gold Rate Today in Delhi 22nd July 2026 : 22 & 24 Carat, Gold Price in Delhi",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxONzNtSXlXZnFKVTFfVjlveHVVSnVNVlpbUk05OEtSYVlNUHhOcVhyWUlpeWx4OHBKbGJnV3NSNnBfVTBSSXdmeWRva2tRMFA5cE9QeHR3Q3RYWFN5eF9XNGg0aUVuT09xMXE1Znp4WmFQVnRLblI5LWduT1NweUZzSmgwVHV1VE81ZzJz?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Business Today",
+      "time": "51 minutes ago"
+    },
+    {
+      "title": "Dried Flower Glass Chain Necklace with wish tag",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxQcXlmYjR5VkxZdTdyeDRCcHhjR0lud21iRmZzV3ZJYkJtU1dLUUxBQ2EwelNzMEdGdWJaekhGYUZBdk1qWTd3NFhmV1ZKY1hFT1pzOFdIR0UzVmpieDFIT05NT2FDQldpek9DalhqLXBYSDRQUGEwcDJxWjhrWFhqRTM2anFTQUhvb29YMzA4eXJTbFg3SjB3?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "t.co",
+      "time": "15 minutes ago"
+    },
+    {
+      "title": "GRT Jewellers launches special Aadi Thanga Thiruvizha offers",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxOWFdVZmI3Y3Q4cEdtaFFPR2hzZHRINHdHc0FyV1RsWVhvRjdnbGNCQjFIODBTeUt3XzVlbEVFZU9peFJ4UHgxZ2NCYjlNZFAtWFVyY05qODlXdFhuMi1NV21pakNQTndIc0dDdkFuOWxyZHJRd0llMkdkc1FWX3B4NjBPQjNVQzduaFE3YVJVWl8?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The Hans India",
+      "time": "51 minutes ago"
+    },
+    {
+      "title": "Rudi Fronk: Gold Price to Retake Highs, Bull Run Still Early",
+      "url": "",
+      "source": "Investing News Network",
+      "time": "1 minute ago"
+    }
+  ],
+  "oil": [
+    {
+      "title": "AI stocks lead Wall Street higher, even as Brent oil's price tops $91",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxPYlhEZ0RfSnZhY2JmY2swd01IYVd5dDM5ZEJscjhZU0RPampnUnFfNUVLM2xrVFNHTTZkSWxhd1B6OUlIOHhJbGFvVWY3YlRrbkRhclhtVTZsdG1CTlI1VEMySG5tUW1sZjdXdS1EbUgwZERkdjNESGt5N1dNUWRSNmNPbFFJQWc4Y2pKcU5YN29GZnlLcm00R0ltc2JmWUxCbl9RN0tsdDcxY0IxVXBQSVJJVGhxeE0?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Los Angeles Times",
+      "time": "49 minutes ago"
+    },
+    {
+      "title": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
+      "url": "https://news.google.com/read/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Reuters",
+      "time": "20 minutes ago"
+    },
+    {
+      "title": "Republicans Are Trying to Give Big Oil Immunity for Causing Climate Chaos",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNc1ZUZzdyM1VROTFBdk1VSlhuVndUR0lXMEFkQmxLd05USVl1QVh5NC1YZlpBVFpmTU1FamxhZk1SeGY1ZU1rQzlYTnJydVlla2tzYnZBVjg0OGh1VWNXcHF3Z2pudk5VWGtydV9FVjI4dTJWRzl3NGJCV1RKU2hFSWNqajhpQ0EtS3dXUWlTZEVrRUhPeEJ2NnlPN1lhQnhIMVdqVmhIcw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Truthout",
+      "time": "59 minutes ago"
+    },
+    {
+      "title": "The Oil Market Is Much More Vulnerable Than Trump Believes",
+      "url": "https://news.google.com/read/CBMi0wFBVV95cUxOQXlzRzdwb0xfeGdRekwtcG5zNzBteFBKcFc1X0JxdTFqR0oyeFJ2TENacDJReWU5M0M1NnlLcC1KNFFZeldESE1xcGRBVWtIZEN6cTVETkRvUjg3SFBINGI0MVg1UzBrNTJkY19LRXJaaGZKN0xFUXBTdUV5SHZ2REhZUzRRN2V6b2dWdjRveDJhTTFTZEhXR1lESGZmY2FyZEhvQ1NYSmV1azVmSmtkWmNkQXNTZWZLLWdVZUcwUGpNbzItMmRGVXZja1lfSHV2X01n?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Foreign Policy",
+      "time": "40 minutes ago"
+    },
+    {
+      "title": "Bitcoin price rejected at $67K as U.S.-Iran war drives oil higher",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxNREQwWGtka1lYNVJhejBKTjBwRDAyNml3bzdVMGNGdzNlRUdmamh5d1F6T3c2QWpETWpXUFRQYkdHaFpuQ1Zsc1kxZkxVUzhNTnBmVlhkNU53elUtWk9fcEpkTkZGNTIwaEg5MXR0djBPQkc1S3Z3UDJKYVN3NmIyYQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Crypto News",
+      "time": "1 hour ago"
+    },
+    {
+      "title": "Oil Edges Higher as Trump Cools Prospects for Talks With Iran",
+      "url": "https://news.google.com/read/CBMinwFBVV95cUxOOU5GaG9GVkNjbHZJM0JLaGJfc19QTmJpUFF1Vld5ZXJhTlNNSW13U09XdUczWVBJaVBaakhpVEhLYlhqQWk2Z1k0X2pXaHJkemJGNDRpUE4tdGkwMjVzMDNGM21OT05pMzA0X1lCcmgteF80Ym9rZzdxZUlwWm0wbEp5WWdGRzZ3Zkgyc1hUNEJNaFFVVHl3TkJvR2lRcWc?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Bloomberg.com",
+      "time": "15 minutes ago"
+    },
+    {
+      "title": "Who owns America's refining advantage?",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE1HS1JpODJydVZSMEZQTVduR2xyWS1uaVh4dmYwOFJVekNyQ0NxSGZFQm5IaXdsQ0xoYllVbEp5cHVWRWNrRl8xNXFEVS03ZzdMakRQcnJqbEpVT3VhWGlkYkotMTJmeTBzZEJUQVRGb3FsYThn?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Oil & Gas 360",
+      "time": "53 minutes ago"
+    },
+    {
+      "title": "IEA Warns Against 'Complacency' as Oil Prices Remain Muted",
+      "url": "https://news.google.com/read/CBMickFVX3lxTE5HcGRKRU9wckVLN1RWYTRCVEVUMHE2bW1FVHhZdkJFcjRlTERPby0tT3JGZW55ZzNaVVNhVjRmMFQtbWFINmkxdEtNVkM0R3RTSFROSzg0aDhSS1NJOHY3T0IydWFrandaSVNIWEFISEZ4UQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Energy Intelligence",
+      "time": "28 minutes ago"
+    },
+    {
+      "title": "Drone Photos: Ave Maria continues to grow with new developments",
+      "url": "https://news.google.com/read/CBMizwFBVV95cUxOQ29YclVNN1pYeUtROTFhMmFfQmpfazJLckJKSFNTdUMwMTNCTmlYQ3ktajBQVzIydW1xamVBdjNKNm1iREF0MEFFUkllbm9pWWdyZWRQRk9rbWxPbVVQSFRXRW94eGJIaWhxUjVLWHpONEVURENVWGhtSWRrRUI0UmVfWjhTWVY0X215aUlzd2JiMFM3eW5jRmdDbFFtUHhSQVgzR2hPOG95cmhadTcyVVJybHhiaTRmSkVMOXltaUFibnNWVnBMZ3FaQnVRUTg?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Naples Daily News",
+      "time": "46 minutes ago"
+    },
+    {
+      "title": "Saturn Oil & Gas Inc. Announces Pricing of Dual-Tranche US$575 Million and C$185 Million of Senior Unsecured Notes Due 2031 and Planned Redemption of Outstanding US$504 Million of Senior Secured Second Lien Notes Due 2029",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxOV2JkXzdpN2NLakRPUFBwRm9zN2dCOUFsbmpVbXJ2NW9WMkphYmlnT2JyUTMwbThEV2Fabnc4cGxSc2FUSld2MkhMODVtU1ZKeDhlUnVhVWk2TjdmQVNkdGhqQk9lS1dBcFN3MXlGZzFIM0sxUlQxU2JsN2U5b2RaeWdoY2ZRZ1hwcXRrSFdISDdpTUppNkZNT0dEM3NhdXVxajFXaU9UTXREVFdYTEhXUVl2RW8xbXNuMk9HZUx2c2s?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Stock Titan",
+      "time": "54 minutes ago"
+    },
+    {
+      "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+      "url": "https://news.google.com/read/CBMiZEFVX3lxTE9CaUpfeVp5a3lLYUcyZ2VsVS1zcTkwNWxxZXNNRTZ1bjNqa0dKZXhWNGFQejBkdk5oWmtYUU52S0xnR3RtZ1NaUzBMT3lFS3pJWmNjckFnZk90cndMakZtT3RteVo?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "WBUR",
+      "time": "11 minutes ago"
+    },
+    {
+      "title": "Iraq seizes $19m hidden in ex-oil minister's hideouts",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxONlVSdm04OFFGZ0RxV3FuUTdHMTdua1VYUWE3ZkpjSU40YjB6REtnSE9tX0FLSmQzQTNROHRQSEFfVlFoMk9oLXdVQnRpLXJMYmVKSjVfd1ZVWTZ1aXc5Y0FNZ1pyZ2VQQzJQSDhjSzN2RW91Z0dST3puazhLbkF4UWJYY3pUdTVoNWs5NmxB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The New Arab",
+      "time": "36 minutes ago"
+    },
+    {
+      "title": "Fossil Fuels Still Generate 57% of the World's Electricity",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxNN0RUMld2TlVRWmVPRVNVX0poSEV1SFlhazF0Y1ZTU2RtZzBFUE5JcllMREJ1Y0RpQVIzVGFyVWZ3aktEVVAtWE9CNEhPWTVWVjVzdjZacHZnWUQ2U01LUG1nZnItaGFiTGIyMk9RQVNGVlNSWGdPRXRTdi1Fdl9kZEcxX3FTazdaMzFwbkV0OTFlR2hiZl9iaXl5alhaUmRRcXhhQy1Pc9IBrAFBVV95cUxOYllzQ3FjVDlaNWYwLXFmU2JFcVprTlFKWkY2VmFQYjNMV1FZTGJ4YS05VmNsTmRHOElTaDNCRmFfSFB3QkUwd21idXV2RDBPRXp4dFZZSTZfaFRabXl3ZnlBVnBZQUhlSVc1YU05V1k4NUQ1SzJrMElmZl8ySjcyQWJ1RW5WeVk0RXQxajZnSGY5OUdKR3A1UGdYUUd3THpTSmJMX1NMVGNXUmo5?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "time": "27 minutes ago"
+    },
+    {
+      "title": "Producer Prices Surge 8.6% Driven by Oil, Semiconductors",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxNVVlfUlRwUWZ3TjlfQ0R2emVza21ObzVWT2JuRWJSdW1Ga1VDWnBxYUg1Zmw5LW5EMTFDQl9JZS1QZnVtUVlOVENzYkl2VTNHM1JOa3JSdHJRbG5CV0M1dWh3ZF8xSDNKV0hkdTFKeTNHUlROUTBORnlZRHR3VkNRM2FhU1VMQXVkaktB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "조선일보",
+      "time": "51 minutes ago"
+    },
+    {
+      "title": "Forex Today: US Dollar rises as Middle East tensions lift Oil",
+      "url": "https://news.google.com/read/CBMigAFBVV95cUxONzVGNnpETlNYOGk2c1NnSHNSdEE3RVZ6X0NNQk9pY19OTk9FZ25oZGRNeGFnUVZBUmxYSWFjak5JTjBhVDFBaFl5eFZZdDhyOVdncFlpc3hEZUt2c1k4NkVyM1ZaZk52RXp4Ul9vazZ6cHhCbVAxSFdEMF9jVBMi0w?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Mitrade",
+      "time": "41 minutes ago"
+    },
+    {
+      "title": "Ukraine not behind latest drone attacks on tankers serving main Kazakh oil export route, claims Kyiv",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxONWV5eWpjdFpuRkJfZm5OaGxrRUlvbTlVUUJHSnBOTGpPaHVMVkhuTmNPeXFNWV94ZjRRTkRNWnpoF1TFRXM2U1RWSlhMdEVLSUZ4a0hmbW9Na2FfNzN6a0U5OGNWN3JscWNqT1hRb2FNcFRhV1AwcU1nRmFzOVFPQVJB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "IntelliNews",
+      "time": "12 minutes ago"
+    },
+    {
+      "title": "Saudis Vow to Protect Ships Against Houthi Threat",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxNajBPM0pTcGNUVG9YQm9SZHZ2Q3BuSGVlZVFQbzhobTAya0V3SEVraTR2QkpFME0zWC1CTmhqdDNCR2RrclNGTGFHLXBTR001MURHYVh0T3FtbXhTTlQyY0xuZGRsTTFfNlAtejRtSm4zUEY4NU04MFh3UndnRTBMUUEyZXRsS3RRVVc1YVh1RTBpM2R6cFFBVnFLdw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Energy Intelligence",
+      "time": "28 minutes ago"
+    },
+    {
+      "title": "Stocks rise despite climbing oil prices",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxQN3UwaWRwUzBLSmI1RkcwLUx3NnhuSVBQbGF1TnljdGQ4aXFaQkh6aGZhYlFDS3VyNVU2M1JGcWR0OHRaYk5uYTR3Tm5odWNqLUhNVHpNQjRpMDU0QkRrZFNrZWY3UEE4NW9lNTdYRjdCTzFJWWVLaGdWc1JZRjl5aw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "CNA",
+      "time": "33 minutes ago"
+    },
+    {
+      "title": "Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxOeDBBOUMwLUZ1WV9OcE5mUW9kSzJqU3EzVXhBcTd4TW9COXVtSW9VekJwZF9JT0IyamZCeE5jZXhrZGxDUWl6bUprd1BqQ1hFaXRCeEw5VU1FYURkdGhCTUtfUlp1aGtFZGtsbXp3RjlPYTVuOEM2eFA2MzRMVUt6d2tGYVZ1dGJHT1A4d2lNNA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The Business Times",
+      "time": "25 minutes ago"
+    },
+    {
+      "title": "European shares gain as tech strength offsets oil jump",
+      "url": "https://news.google.com/read/CBMingFBVV95cUxPU1N2N2l2VFZxRFN4d3BhUnk1N1BKeW11ajBZaEVoRDhFaUIxRGRoZlA5bmc5cFhGcGRGUGJEb19MSFBBdFhqaWtfNkloNzhENmlROG9zRnRKYTRXeUNvLXdkMmxkNXkxd3lwTGt2MHBzWGRJNXFZbFhNeDFqNzFQOXBheE9ZcVNrOV9YTFUtLUJxU3FqUzNIVEI4Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "The Business Times",
+      "time": "34 minutes ago"
+    },
+    {
+      "title": "Alaska Air's Profit Outlook Hit Turbulence From Fuel Prices",
+      "url": "https://news.google.com/read/CBMilAFBVV95cUxNdzY0SXFFeXJpWXljd3M5VlpLTUpnY3hYZWo1cHdDd19GTTFqR0p3blo3OXNOLVprdVlyc2FPSEZRZEd2THRDdFB5YVBMNXB0V2pSTnBHU1FUN3pkS3JyZzhHVkFraEZfMnRQLUR1dGIxcjh0a1AydEczRE1oR1dfbQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Finimize",
+      "time": "37 minutes ago"
+    },
+    {
+      "title": "U.S. crude stockpiles rose 2.6M barrels last week, API says (USO:NYSEARCA)",
+      "url": "https://news.google.com/read/CBMitgFBVV95cUxPd0JaZmN1Z2xZQXc0aHUwQjE0ZkVyTVlZeDRKR0k0cFl0QzB1d05KSDRLT2ZJYTc2bzhZWjhLUmhSdXZQWFJHeVJPZm9LNkc5bDEtQzRBeFBIWE9LcHJGbjRsckJNTk11OEJzbm1NMVVLRmx2VDM2LTJzQW11dzR6a3UtMWpwcHBOMHRnTWRDSDUyb0VqalR0dlhUeG0wVXdpWEIyZ0w1dDN0dmZ4cnY2MlJBNlBYZw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Seeking Alpha",
+      "time": "27 minutes ago"
+    },
+    {
+      "title": "Feds open 2,800 acres of national forests to fracking",
+      "url": "https://news.google.com/read/CBMiiwFBVV95cUxPem4yQVUxQUd2VUQ4MVk4TVNIR05YZURkU3JtTDhDSk5ZSVQyOFI5X3FQRFc1ZGx3U3M3akQ3bTk1ZDUzZ2lNVmRORDJYNHhAakREZi1qcmFrX3NlTEdpM01HeGF2MEYzLTNWcEd4Qkp5b1k1X2p6VHBZTkFWSzl0LUtxSC1xVkNvLVNR?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Audacy",
+      "time": "41 minutes ago"
+    },
+    {
+      "title": "Volatility rocks energy markets after Brent crude oil hits 90 dollars a barrel",
+      "url": "https://news.google.com/read/CBMikgFBVV95cUxQekdMV2pfemV3NmY4c3Q0TnJNXzRrWWtSUmUzSDBfaXJ0Z3kxdDVJa1N4cllPUlR4MEcxQVhDbFYxQ3lKQ25OMFktQTdsbUt3cFd3R2NIQ1pfVlFBVTZqRXVHMG5BVXFPamEwblFYdkdwaXdESTZKYkNjYlNBSEltV2Rnc0F2WnRGbEJfN2NnRTR3Zw?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "London Evening Standard",
+      "time": "29 minutes ago"
+    },
+    {
+      "title": "US crude stockpiles rose 2.6M barrels last week, API says",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxNc0pQRzNnX2lCSTk0cGlrdnZxTUZubWQ5R1h1MHRNMnBiUlQyXzNIbEFNdDdGTXo2QUNNMjktUFZBR3hVRkl6eFN6WkJkXzduRUVWX1hFdllRcWU3aU8tRjd3U1RSQ3g4X2lIZ3NrV1BTZTBEZzBYMnJyZm1lYW1nUQ?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "MSN",
+      "time": "1 minute ago"
+    },
+    {
+      "title": "U.S. 10-Year Yield Hits 4.63%, Two-Month High on Oil Surge; Japan's Long-Term Rate Rises to 2.72%",
+      "url": "https://news.google.com/read/CBMihAFBVV95cUxQeEY4V2RyVXplRjMzODFVNTZHdW9NX0l4U3UzN0ZqOEdLUFpRcXFESmRQM0d1bDhuRDNfMzJKakEwV2hlQk9HTC1yZG1CWFhXZ1N0MTJjUENPdnBRM3A2VDBVMmhoMWt5MnJ0NlFjOTZoNjRLdmxLQVlVeFVlX0pQbXhoR2o4d3d4?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "finance.biggo.com",
+      "time": "52 minutes ago"
+    },
+    {
+      "title": "Big Oil v the World",
+      "url": "https://news.google.com/read/CBMitAFBVV95cUxNSmlzZ2E5OXBjVUVISjNpTHhESlFxR3FFT3F2cldHX0FId19BYzY3MkhWMjBnTFdWWEE3UV9sMHo4aThPUnJJQ2dqU1FsS3R5STFnOU5QZHI0YzNFZ3BUMGZnc1c0dWxFOHJQZHdQdm0xV3FpLWZ3RjVlWUdjM3prZVVULWNSYllvQ0h1Qm13dWMxSmprOHFQQ1ZhUTRRTFVYeVJNenhGNkFDVkVGdUZTWXlpag?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Bella Caledonia",
+      "time": "12 minutes ago"
+    },
+    {
+      "title": "Aamjiwnaang First Nation already worried about proposed Alberta to Ontario oil pipeline",
+      "url": "https://news.google.com/read/CBMikAFBVV95cUxQMTNaZWJMMkpfVGlOaUw0Zm9DNEd2OFFJaVhnbkI2bC1LbHhBbVpSX1c3Nm9YcTBzWUIyWkJGa19sT0lwS3NxTDRqWWhUZzhtSmR2em5nVk1oYTBQWFJTZ0xjSVFYRl83b0V5a2lLZktIcVVHRnprVk1NbXljRUY2blFHRjdtQm5pS3JKdW1X?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "APTN News",
+      "time": "5 minutes ago"
+    },
+    {
+      "title": "IEA Says Oil Reserves Remain Ample After Record Emergency Stock Release",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxOelFyVUhndkpOUThLWnBQQmJkN0MtTTFzODNrcVNmc2lBSkZpMzB5THBIajE2THI5ejJPbGYtM0lQYW9hb2d3eTFwR0J4d1E2ZjMzTWlGRVhvblBXQkRBUmpLdkF2QVlNZW9mLU4yam1zZlF4ZkVBa2pCUzUxdDJ1bF9wV1FqT3lqWWJwaklxNA?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Qatar news agency",
+      "time": "15 minutes ago"
+    },
+    {
+      "title": "Houthi 'Embargo' Puts Asia's Crude Imports at Risk",
+      "url": "https://news.google.com/read/CBMimgFBVV95cUxQRHFtS2Y0R1U4b0NlOGx2SEE0MmN0TjJGbVIwMkJkUWc2WExkekFUUDR4RTBHUDIxVE01cXhKSjBPRFZMMUJpREtQNFkybEpuZ1hxOEYzT1d1cjUyTmV2dkF3RVpzNmJaT3puLWljQk1YRjdjWTA1aC1ZaFpMdU1JU2JuSWNYdG9lVm9FRHB2cXhSLTRNMFlqVklB?hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Energy Intelligence",
+      "time": "43 minutes ago"
+    }
+  ]
+}

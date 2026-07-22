@@ -1,0 +1,187 @@
+{
+  "title": "GitHub Trending AI Projects 周报",
+  "period": "2026.07.15 – 07.22 · 按本周新增 Star 数排序",
+  "updated": "2026.07.22",
+  "projects": [
+    {
+      "rank": 1,
+      "owner": "microsoft",
+      "repo": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "微软开源轻量级 Python 工具，将 PDF/PPT/Word/Excel/HTML/图片等转为 Markdown，保留标题/列表/表格/链接等结构，支持 OCR 和语音转录，本周热度持续第一。",
+      "stars": "146.2k",
+      "weekly_stars": "16.4k"
+    },
+    {
+      "rank": 2,
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "基于 Claude Code 的 AI 求职自动化框架，评估职位描述、定制简历、撰写求职信、准备面试，全部本地执行，MIT 协议开源。",
+      "stars": "22.8k",
+      "weekly_stars": "13.2k"
+    },
+    {
+      "rank": 3,
+      "owner": "tirth8205",
+      "repo": "code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "本地优先的代码智能图谱，为 MCP 和 CLI 构建持久化代码库映射，AI 编程工具只读取相关内容，在大型仓库 Review 中上下文缩减效果经过基准测试验证。",
+      "stars": "23.0k",
+      "weekly_stars": "10.6k"
+    },
+    {
+      "rank": 4,
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "免费 MIT AI 网关，单一端点接入 268+ 提供商（50+ 免费）、500+ 模型，兼容 Claude Code/Codex/Cursor/Cline/Copilot，配额感知自动切换，RTK+Caveman 压缩节省 15-95% token。",
+      "stars": "21.7k",
+      "weekly_stars": "8.3k"
+    },
+    {
+      "rank": 5,
+      "owner": "OpenCut-app",
+      "repo": "OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "开源 CapCut/剪映替代品，视频剪辑工具，MIT 协议开源，AI 辅助剪辑功能持续迭代，长线热门项目。",
+      "stars": "70.4k",
+      "weekly_stars": "7.2k"
+    },
+    {
+      "rank": 6,
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "首个专为 AI Agent 打造的 Office 套件，支持读写 Word/Excel/PowerPoint，单二进制文件、无需安装 Office，Apache 2.0 开源。",
+      "stars": "17.4k",
+      "weekly_stars": "7.1k"
+    },
+    {
+      "rank": 7,
+      "owner": "oblien",
+      "repo": "openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "自托管部署平台，简化应用从开发到生产环境的全流程，支持多环境管理和一键回滚，本周黑马项目。",
+      "stars": "4.7k",
+      "weekly_stars": "6.8k"
+    },
+    {
+      "rank": 8,
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "兼容 Claude Code/Codex/OpenCode/Cursor 的 Agent Skill，把代码/SQL/文档/论文转成可查询知识图谱，将应用代码与基础设施统一整合。",
+      "stars": "87.4k",
+      "weekly_stars": "6.7k"
+    },
+    {
+      "rank": 9,
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "管理并行编码 Agent 集群的 ADE（Agent 开发环境），支持用自己的订阅运行任意编码 Agent，桌面和移动端均可用，MIT 开源。",
+      "stars": "19.7k",
+      "weekly_stars": "5.7k"
+    },
+    {
+      "rank": 10,
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "为 AI Agent 一键安装互联网能力，封装 YouTube/Twitter/Reddit/小红书/B 站等平台的风控绕过和 API 配置，解决 Agent 无法访问这些平台的痛点。",
+      "stars": "27.0k",
+      "weekly_stars": "5.4k"
+    },
+    {
+      "rank": 11,
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "开源 AI 语音工作室，支持语音克隆、听写、创作，一站式 AI 音频处理工具，TypeScript 全栈实现。",
+      "stars": "44.1k",
+      "weekly_stars": "4.6k"
+    },
+    {
+      "rank": 12,
+      "owner": "KnockOutEZ",
+      "repo": "wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "AI 编程 Agent 的本地优先 Web 工具，通过 MCP 实现搜索/抓取/爬取/研究，无需 API Key、无需云端、零查询费用，公测中。",
+      "stars": "2.5k",
+      "weekly_stars": "3.8k"
+    },
+    {
+      "rank": 13,
+      "owner": "every-app",
+      "repo": "open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Semrush 和 Ahrefs 的开源替代品，提供关键词研究、竞争对手分析、网站审计等全套 SEO 工具，TypeScript 实现。",
+      "stars": "5.8k",
+      "weekly_stars": "3.6k"
+    },
+    {
+      "rank": 14,
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "最智能的代码 Agent Harness，用 Rust 构建的高性能 AI 编程 harness，支持多种 Agent 框架和编码工具。",
+      "stars": "9.6k",
+      "weekly_stars": "3.3k"
+    },
+    {
+      "rank": 15,
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "完整的 AI 代理团队工具箱，从前端向导到 Reddit 社区运营、从创意注入到现实检验，每个 Agent 都是具有个性和流程的专业专家。",
+      "stars": "134.7k",
+      "weekly_stars": "3.0k"
+    },
+    {
+      "rank": 16,
+      "owner": "microsoft",
+      "repo": "Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "description": "微软开源的本体论学习工具，免费 Web 应用，支持浏览预构建本体目录、可视化设计、导出 RDF/XML，零后端全静态。",
+      "stars": "1.7k",
+      "weekly_stars": "2.8k"
+    },
+    {
+      "rank": 17,
+      "owner": "Robbyant",
+      "repo": "lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "前馈 3D 基础模型，从流数据中重建场景，面向自动驾驶和机器人领域的场景理解。",
+      "stars": "14.2k",
+      "weekly_stars": "2.6k"
+    },
+    {
+      "rank": 18,
+      "owner": "kvcache-ai",
+      "repo": "ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "灵活的异构 LLM 推理/微调优化框架，支持多种模型和硬件平台的混合推理加速，大幅降低部署成本。",
+      "stars": "18.7k",
+      "weekly_stars": "2.4k"
+    },
+    {
+      "rank": 19,
+      "owner": "PrefectHQ",
+      "repo": "fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "description": "快速、Pythonic 的 MCP 服务器和客户端构建方式，简化 AI Agent 与外部工具的集成，已成为 MCP 生态核心基础设施。",
+      "stars": "26.5k",
+      "weekly_stars": "2.2k"
+    },
+    {
+      "rank": 20,
+      "owner": "AstrBotDevs",
+      "repo": "AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent 助手与开发框架，集成多 IM 平台、多 LLM、丰富插件和 AI 功能，可作为 OpenClaw 替代方案。",
+      "stars": "37.1k",
+      "weekly_stars": "2.0k"
+    }
+  ]
+}
