@@ -1,182 +1,32 @@
 [
-  {
-    "title": "中东冲突升级，油价突破95美元",
-    "url": "https://www.theguardian.com/world/2026/jul/22/oil-price-increases-middle-east-conflict-escalates-us-iran",
-    "source": "The Guardian",
-    "time": "2026-07-22 11:16"
-  },
-  {
-    "title": "欧洲部队在地中海拦截'影子舰队'油轮",
-    "url": "https://www.themoscowtimes.com/2026/07/22/european-forces-intercept-shadow-fleet-oil-tanker-in-mediterranean-sea-a93311",
-    "source": "The Moscow Times",
-    "time": "2026-07-22 11:27"
-  },
-  {
-    "title": "油价再次飙升，市场专家警告能源市场面临'连锁损害'",
-    "url": "https://www.businessinsider.com/oil-prices-today-brent-wti-crude-supply-shortage-iran-war-2026-7",
-    "source": "Business Insider",
-    "time": "2026-07-22 11:59"
-  },
-  {
-    "title": "油价再涨3%，华尔街涨跌互现",
-    "url": "https://apnews.com/article/stocks-markets-iran-ai-trump-207dfa55d180fcc565420454178168c5",
-    "source": "AP News",
-    "time": "2026-07-22 11:36"
-  },
-  {
-    "title": "美国商业原油库存周度增加",
-    "url": "https://www.wsj.com/business/energy-oil/u-s-commercial-crude-oil-stockpiles-post-weekly-build-563607e9",
-    "source": "WSJ",
-    "time": "2026-07-22 11:41"
-  },
-  {
-    "title": "石油天然气供应链韧性：保护LNG、成品油和关键物流",
-    "url": "https://logisticsviewpoints.com/2026/07/22/oil-and-gas-supply-chain-resilience-protecting-lng-refined-products-and-critical-flows/",
-    "source": "Logistics Viewpoints",
-    "time": "2026-07-22 11:17"
-  },
-  {
-    "title": "中东战争升级威胁全球炼油业复苏",
-    "url": "https://energynow.com/2026/07/mideast-war-escalation-threatens-recovery-in-global-oil-refining/",
-    "source": "EnergyNow.com",
-    "time": "2026-07-22 11:32"
-  },
-  {
-    "title": "印度央行5月出售60亿美元以捍卫受油价冲击的卢比",
-    "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indias-central-bank-sold-us6-billion-may-defend-oil-hit-rupee",
-    "source": "The Business Times",
-    "time": "2026-07-22 11:24"
-  },
-  {
-    "title": "黄金打破伊朗战争跌势，原油和实际利率跳升",
-    "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-price-downtrend-oil-rates-072220261",
-    "source": "BullionVault",
-    "time": "2026-07-22 11:42"
-  },
-  {
-    "title": "埃及扩大战略燃料储备以应对地区紧张局势",
-    "url": "https://egyptoil-gas.com/news/egypt-expands-strategic-fuel-reserves-to-counter-regional-tensions/",
-    "source": "Egypt Oil & Gas",
-    "time": "2026-07-22 11:45"
-  },
-  {
-    "title": "油价跳涨日元站稳，美元暂歇",
-    "url": "https://finimize.com/content/dollar-pauses-as-oil-jumps-and-yen-finds-its-feet",
-    "source": "Finimize",
-    "time": "2026-07-22 11:47"
-  },
-  {
-    "title": "多年来最严重石油拥堵中的赢家与输家",
-    "url": "https://www.investors.com/news/crude-oil-futures-contracts-rise-hormuz-strait-declines/",
-    "source": "Investor's Business Daily",
-    "time": "2026-07-22 11:06"
-  },
-  {
-    "title": "美国原油及成品油库存全面增加",
-    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Product-Inventories-See-Builds-Across-the-Board.html",
-    "source": "Crude Oil Prices Today | OilPrice.com",
-    "time": "2026-07-22 11:02"
-  },
-  {
-    "title": "油价攀升至近六周高位，冲突威胁关键航线",
-    "url": "https://www.detroitnews.com/videos/business/2026/07/22/trumps-war-with-iran-forces-oil-to-a-six-week-high/91008617007/",
-    "source": "The Detroit News",
-    "time": "2026-07-22 11:49"
-  },
-  {
-    "title": "驶往沙特的船只调头，红海遭遇新封锁",
-    "url": "https://www.washingtonpost.com/world/2026/07/21/ships-bound-saudi-arabia-turn-around-sign-new-red-sea-blockade/",
-    "source": "The Washington Post",
-    "time": "2026-07-22 11:41"
-  },
-  {
-    "title": "油价再涨2%，AI股继续下跌",
-    "url": "https://wtop.com/world/2026/07/asian-shares-edge-higher-after-wall-street-climb-even-as-brent-oil-keeps-rising/",
-    "source": "WTOP",
-    "time": "2026-07-22 11:04"
-  },
-  {
-    "title": "研究发现：臭氧处理橄榄油有望对抗常见真菌感染",
-    "url": "https://www.oliveoiltimes.com/health-news/olive-oil-treated-with-ozone-shows-promise-against-common-fungal-infections-study-finds/144691",
-    "source": "Olive Oil Times",
-    "time": "2026-07-22 11:20"
-  },
-  {
-    "title": "炼油商挤走贸易商，抢食委内瑞拉更大份额石油",
-    "url": "https://energynow.com/2026/07/refiners-elbow-traders-to-take-a-larger-slice-of-venezuelas-oil/",
-    "source": "EnergyNow.com",
-    "time": "2026-07-22 11:14"
-  },
-  {
-    "title": "华尔街淡对战争恐慌，但债券和石油市场不淡定",
-    "url": "https://www.nst.com.my/opinion/columnists/2026/07/1495041/wall-street-shrugs-war-jitters-not-bond-and-oil-markets",
-    "source": "NST Online",
-    "time": "2026-07-22 11:39"
-  },
-  {
-    "title": "美国领先石油生产商之一：Thummel谈雪佛龙",
-    "url": "https://www.bnnbloomberg.ca/video/shows/the-open/2026/07/22/one-of-the-leading-producers-of-oil-in-the-us-thummel-on-chevron/",
-    "source": "BNN Bloomberg",
-    "time": "2026-07-22 11:21"
-  },
-  {
-    "title": "突尼斯橄榄油生产商瞄准英国市场",
-    "url": "https://www.thegrocer.co.uk/news/tunisian-olive-oil-producers-target-uk-as-market-stabilises/721572.article",
-    "source": "The Grocer",
-    "time": "2026-07-22 11:52"
-  },
-  {
-    "title": "机油短缺加剧加沙水危机，水泵和运水车停摆",
-    "url": "https://www.thenationalnews.com/news/mena/2026/07/22/engine-oil-shortage-deepens-gazas-water-crisis-as-pumps-and-tankers-grind-to-halt/",
-    "source": "The National",
-    "time": "2026-07-22 11:06"
-  },
-  {
-    "title": "石油巨头将从飙升的燃料价格中获得巨额利润",
-    "url": "https://financialpost.com/pmn/business-pmn/big-oil-set-to-reap-profit-bonanza-from-soaring-fuel-prices",
-    "source": "Financial Post",
-    "time": "2026-07-22 11:11"
-  },
-  {
-    "title": "希腊橄榄种植小幅回升，但长期下滑趋势持续",
-    "url": "https://www.oliveoiltimes.com/business/europe/olive-cultivation-rebounds-slightly-in-greece-but-long-term-decline-persists/144697",
-    "source": "Olive Oil Times",
-    "time": "2026-07-22 11:48"
-  },
-  {
-    "title": "我测试了数百款发油——这是我始终推荐的一款",
-    "url": "https://www.refinery29.com/en-us/kerastase-elixir-ultime-hair-oil-review",
-    "source": "Refinery29",
-    "time": "2026-07-22 11:32"
-  },
-  {
-    "title": "胡塞武装威胁后，运载沙特原油的油轮调头",
-    "url": "https://thehill.com/policy/international/5983202-red-sea-oil-shipments-diverted/",
-    "source": "The Hill",
-    "time": "2026-07-22 11:15"
-  },
-  {
-    "title": "Petros在Marudi附近首次采油，砂拉越50年后恢复陆上石油生产",
-    "url": "https://www.klsescreener.com/v2/news/view/1760239/petros-logs-first-oil-near-marudi-as-sarawak-marks-return-to-onshore-oil-production-after-50-years",
-    "source": "KLSE Screener",
-    "time": "2026-07-22 11:31"
-  },
-  {
-    "title": "PETROS恢复砂拉越陆上石油生产，推进下游雄心",
-    "url": "https://dayakdaily.com/petros-resumes-swaks-onshore-oil-production-after-50-years-boosts-downstream-ambitions/",
-    "source": "DayakDaily",
-    "time": "2026-07-22 11:46"
-  },
-  {
-    "title": "Petros开启砂拉越50多年来首次陆上石油生产",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/22/petros-begins-sarawaks-first-onshore-oil-production-in-more-than-50-years",
-    "source": "Free Malaysia Today",
-    "time": "2026-07-22 11:17"
-  },
-  {
-    "title": "脆弱的能源市场将推动油价突破100美元——分析师",
-    "url": "https://seekingalpha.com/news/4616669-vulnerable-energy-markets-to-raise-oil-above-100-analyst",
-    "source": "Seeking Alpha",
-    "time": "2026-07-22 11:25"
-  }
+  {"title": "道琼斯指数无视石油冲击，纳斯达克稍作喘息", "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-shrugs-off-oil-171219228.html", "source": "Yahoo Finance", "time": "2026-07-23 01:14"},
+  {"title": "日本原油进口成本连续第三个月创下历史新高", "url": "https://www.bairdmaritime.com/shipping/tankers/japan-crude-oil-import-costs-surge-to-third-consecutive-record-in-june", "source": "Baird Maritime", "time": "2026-07-23 00:50"},
+  {"title": "埃及批准石油和天然气协议，包括佩朗科北西奈项目", "url": "https://english.aawsat.com/business/5299065-egypt-approves-oil-and-gas-deals-including-perenco-north-sinai-project", "source": "ASHARQ AL-AWSAT English", "time": "2026-07-23 00:57"},
+  {"title": "战争推高油价气价，挪威国油利润飙升", "url": "https://brazilenergyinsight.com/2026/07/22/equinor-profit-soars-on-wartime-oil-and-gas-prices/", "source": "Brazil Energy Insight", "time": "2026-07-23 01:35"},
+  {"title": "亚洲买家逃离中东，巴西石油繁荣加速", "url": "https://oilprice.com/Energy/Energy-General/Brazils-Oil-Boom-Is-Accelerating-as-Asian-Buyers-Flee-the-Middle-East.html", "source": "Crude Oil Prices Today | OilPrice.com", "time": "2026-07-23 01:01"},
+  {"title": "环保组织起诉阻止油气管道简化用水许可", "url": "https://www.eenews.net/articles/greens-sue-to-block-streamlined-water-permit-for-oil-and-gas-pipelines/", "source": "E&E News by POLITICO", "time": "2026-07-23 01:05"},
+  {"title": "美伊紧张局势持续，布伦特原油六周来首次突破每桶95美元", "url": "https://www.tradingkey.com/analysis/commodities/oil/262047157-brent-crude-breaches-95-barrel-first-time-in-six-weeks-tradingkey", "source": "TradingKey", "time": "2026-07-23 01:16"},
+  {"title": "EIA：美国原油库存增加200万桶", "url": "https://www.ogj.com/general-interest/news/55392845/eia-us-crude-inventories-up-2-million-bbl", "source": "Oil & Gas Journal", "time": "2026-07-23 01:14"},
+  {"title": "中东战争加深2026年石油短缺预期，但2027年供应过剩仍隐现", "url": "https://www.reuters.com/business/energy/middle-east-war-deepens-2026-oil-deficit-outlook-2027-glut-still-looms-2026-07-22/", "source": "Reuters", "time": "2026-07-23 00:48"},
+  {"title": "油价再涨3%，华尔街涨跌互现", "url": "https://apnews.com/article/stocks-markets-iran-ai-trump-207dfa55d180fcc565420454178168c5", "source": "AP News", "time": "2026-07-23 01:04"},
+  {"title": "油价攀升，加元走强", "url": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-prices-climb-93CH-4806666", "source": "Investing.com", "time": "2026-07-23 01:25"},
+  {"title": "美军连续第11晚打击伊朗，油价上涨", "url": "https://www.cbs19.tv/video/news/local/oil-prices-rise-as-us-strikes-on-iran-continue-for-11th-night/501-87e636e2-b620-4ccf-b12b-9ebff6ce72d9", "source": "cbs19.tv", "time": "2026-07-23 01:35"},
+  {"title": "埃及启动磷酸盐肥料项目，推动矿业增长", "url": "https://egyptoil-gas.com/news/egypt-launches-phosphate-fertilizer-project-amid-push-for-mining-growth/", "source": "Egypt Oil & Gas", "time": "2026-07-23 00:56"},
+  {"title": "胡塞武装实施红海封锁，7艘船只被迫掉头", "url": "https://www.washingtonpost.com/world/2026/07/21/ships-bound-saudi-arabia-turn-around-sign-new-red-sea-blockade/", "source": "The Washington Post", "time": "2026-07-23 01:40"},
+  {"title": "卡西马蒂迪斯称油价飙升为暂时性问题，预测将回落", "url": "https://www.foxbusiness.com/video/6401838412112", "source": "Fox Business", "time": "2026-07-23 01:03"},
+  {"title": "胡塞威胁后油轮继续改变航线", "url": "https://www.marinelink.com/news/oil-tankers-continue-change-course-houthi-541438", "source": "Marine News Magazine", "time": "2026-07-23 01:05"},
+  {"title": "沃斯堡I-34公路石油泄漏", "url": "https://www.wfaa.com/video/traffic/fort-worth-i-34-oil-spill/287-3f62fc0f-e2df-4366-8022-56d006f9e72f", "source": "WFAA", "time": "2026-07-23 01:15"},
+  {"title": "油价触及六周高位，特朗普威胁发动更多攻击，兰特和黄金走强", "url": "https://www.news24.com/business/markets/commodities/oil-hits-six-week-high-as-trump-threatens-more-attacks-rand-and-gold-firmer-20260722-1048", "source": "News24", "time": "2026-07-23 01:29"},
+  {"title": "I-35公路南向车道因石油泄漏全部关闭", "url": "https://www.wfaa.com/article/traffic/fort-worth-traffic-i-35-closed-oil-spill/287-a5c9c6fa-a206-482f-be1f-88cf79687301", "source": "WFAA", "time": "2026-07-23 01:24"},
+  {"title": "约翰·斯蒂芬森2026年7月22日精选推荐", "url": "https://www.bnnbloomberg.ca/markets/2026/07/22/john-stephensons-top-picks-for-july-22-2026/", "source": "BNN Bloomberg", "time": "2026-07-23 01:41"},
+  {"title": "铃木：每一条油气管道都走向错误的方向", "url": "https://www.piquenewsmagazine.com/opinion/suzuki-every-oil-and-gas-pipeline-moves-in-the-wrong-direction-12568240", "source": "Pique Newsmagazine", "time": "2026-07-23 01:00"},
+  {"title": "美国和巴基斯坦谴责胡塞武装对红海航运和沙特的威胁", "url": "https://www.bostonherald.com/2026/07/22/us-yemen-houthi-threats/", "source": "Boston Herald", "time": "2026-07-23 00:58"},
+  {"title": "为何石油突然对比特币交易者变得重要，PrimeXBT如何让你两者兼得", "url": "https://ambcrypto.com/why-oil-suddenly-matters-to-bitcoin-traders-and-how-primexbt-lets-you-trade-both/", "source": "AMBCrypto", "time": "2026-07-23 01:26"},
+  {"title": "中东紧张局势下亚洲对巴西石油需求激增", "url": "https://cryptobriefing.com/asian-demand-for-brazilian-oil-surges-amid-middle-east-tensions/", "source": "Crypto Briefing", "time": "2026-07-23 01:17"},
+  {"title": "美国石油库存略高于预期！", "url": "https://www.kucoin.com/news/insight/OIL/6a60f31689782400071e47d7", "source": "KuCoin", "time": "2026-07-23 00:46"},
+  {"title": "石油冲击推动能源股创新高，该股逼近买入点且财报在即", "url": "https://www.investors.com/research/energy-iran-war-technipfmc-fti-stock/?src=A00444A&refcode=aflGoogleNews", "source": "Investor's Business Daily", "time": "2026-07-23 01:10"},
+  {"title": "伊朗战争推动油价跳涨，全球股市走势分化", "url": "https://www.gulftoday.ae/business/2026/07/22/oil-prices-jump-on-iran-war-global-stock-markets-diverge", "source": "Gulf Today", "time": "2026-07-23 01:11"},
+  {"title": "红海咽喉要道受阻，美债收益率随原油飙升，美股指数涨跌互现", "url": "https://www.marketscreener.com/news/us-equity-indexes-mixed-as-treasury-yields-jump-with-crude-oil-amid-red-sea-chokepoint-disruption-ce7f51d9dc81f120", "source": "marketscreener.com", "time": "2026-07-23 01:32"},
+  {"title": "若红海供应风险推高原油价格，三只二叠纪盆地石油股或受益", "url": "https://simplywall.st/stocks/us/energy/nysemkt-repx/riley-exploration-permian/news/3-permian-oil-stocks-that-could-benefit-if-red-sea-supply-ri", "source": "Simply Wall Street", "time": "2026-07-23 01:28"},
+  {"title": "道琼斯指数无视石油冲击，纳斯达克稍作喘息", "url": "https://www.fool.com/investing/2026/07/22/dow-jones-shrugs-off-oil-shock-while-nasdaq-rises/", "source": "The Motley Fool", "time": "2026-07-23 01:25"}
 ]
