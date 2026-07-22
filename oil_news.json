@@ -1,182 +1,212 @@
 [
   {
-    "title": "美伊冲突没有放缓迹象，油价攀升",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVZwbTNiMGtzcjRoUnE2c0MtVGhPcXNUa01mLXA1SlBsblBLVENoQy0xQXVrOTF0cEg4SXJDblg2LURsRWhVNFV1YlhUU0VaaXhFWVRxWXRNTlNjSDJfWDlxN1NhQUxrQkxwczJQN3Z2YkVsSHk5a1hFc0I0Ui1KZEJMal90LUxTS3FPYjZoUDU1bzJ3RGE2U2tNLU9mZ1JONWl4TVcwSVk0NHpiZkVveWJaZFo3LUY0UWfSAb8BQVVfeXFMTzJiU2ZNeHhuNl85eGZaeTJ0bjFSTmxLZnhJeTZwNEE1eHBPaGgtWE54RjJuOE1CLUd4WDduOFNUM1BVdnFzbXpsb05WODdEaTZ5dTJQM01jNi1OSnRZM3lJdU0zbUV2Tk1mQ1hLNm5yNUpPaWk0aEI3M0YwM2ZhNVZSR0toRmxWRjgtZDA2RHByeVpRZXhBUklIQUcxUllrQkU0Y2Y1dWtwMGNjMXpkT1k0RS1VWjJpS3FGcGhjQ0k?oc=5",
-    "source": "Crude Oil Prices Today | OilPrice.com",
-    "time": "2026-07-22 11:08"
+    "title": "油价飙升压力下，印度卢比将恢复跌势",
+    "url": "https://www.reuters.com/world/india/rupee-resume-slide-under-mounting-pressure-oil-surge-2026-07-22/",
+    "source": "Reuters",
+    "time": "2026-07-22 13:32",
+    "sentiment": "bullish"
   },
   {
-    "title": "对伊朗和 2026 年剩余时间石油价格的预期",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0VScHZNR2NmSjJfd05JRW1WT090R2JVQWtUNmhyc3YxZEVkcHgyckt4OUZ0Ni1PamR2dklCOVhIZ1M1WEFDLV9FQjI2andhbm5FWVlKMVBkbHpjeWVuNkp0SkRFWTJzT3RGSHczWTJmQzFVWmZlN01vdDdIeUdNX0dDZ2ZYWXp4aFdlU2E3RGxCZUZzV0ZJ?oc=5",
+    "title": "美伊冲突无缓和迹象，油价攀升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
+    "source": "OilPrice.com",
+    "time": "2026-07-22 13:40",
+    "sentiment": "bullish"
+  },
+  {
+    "title": "2026年余下时间伊朗与油价走势展望",
+    "url": "https://www.thecommonsense.co.za/Economics%20&%20Policy/what-expect-iran-oil-price-rest-2026",
     "source": "The Common Sense",
-    "time": "2026-07-22 11:02"
+    "time": "2026-07-22 13:34",
+    "sentiment": "bearish"
   },
   {
-    "title": "卢比在石油激增的压力下恢复下滑",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdklZam1NbG9QYS05VE5BWlUxN2E2Mm5PeXdVaWdFamtOYVpoZ2ZNTG44VGFlYnlrcUYtYXJ6amM2SmxWbHdCUmJCVWtSR3d4LXp3eWZ6MHBKeGh5Qkc2cnI2RkJCR1ZudDJvMXNOcmktSnpMZTRMXzJrRzFRZUxSRmNLbWlqYTFtaUpvNkd3a2lvYTRoUkx1Qzk5T2RVVTlsenc?oc=5",
+    "title": "驶往沙特船只掉头，红海封锁再现迹象",
+    "url": "https://www.washingtonpost.com/world/2026/07/21/ships-bound-saudi-arabia-turn-around-sign-new-red-sea-blockade/",
+    "source": "The Washington Post",
+    "time": "2026-07-22 13:52",
+    "sentiment": "bullish"
+  },
+  {
+    "title": "高盛：霍尔木兹风险加剧，石油股提供非对称上行空间",
+    "url": "https://nai500.com/blog/2026/07/goldman-sachs-oil-stocks-offer-asymmetric-upside-as-hormuz-risk-intensifies/",
+    "source": "NAI500",
+    "time": "2026-07-22 13:57",
+    "sentiment": "bullish"
+  },
+  {
+    "title": "油价驱动进口激增扩大日本贸易逆差，令央行按兵不动复杂化",
+    "url": "https://investinglive.com/news/japan-s-oil-driven-import-surge-widens-trade-gap-complicates-boj-hold",
+    "source": "investingLive",
+    "time": "2026-07-22 13:21",
+    "sentiment": "bullish"
+  },
+  {
+    "title": "竞争对手食用油走弱，棕榈油价格再度下滑",
+    "url": "https://finimize.com/content/palm-oil-prices-slip-again-as-rival-edible-oils-weaken",
+    "source": "Finimize",
+    "time": "2026-07-22 13:50",
+    "sentiment": "bearish"
+  },
+  {
+    "title": "科技股提振亚洲股市，布伦特原油重回92美元上方",
+    "url": "https://uk.finance.yahoo.com/news/tech-lifts-asia-stocks-brent-202607220600.html",
+    "source": "Yahoo Finance UK",
+    "time": "2026-07-22 13:36",
+    "sentiment": "bullish"
+  },
+  {
+    "title": "中东战事扩大推高油价，印度股市料低开",
+    "url": "https://www.reuters.com/world/india/indian-shares-seen-opening-lower-oil-jumps-widening-mideast-war-2026-07-22/",
     "source": "Reuters",
-    "time": "2026-07-22 10:59"
+    "time": "2026-07-22 13:05",
+    "sentiment": "bullish"
   },
   {
-    "title": "由于中东战争扩大，油价上涨，印度股市开盘走低",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHV6TU4tdUJnZzJDT010V2dGNXRVU3V6NDA1UXBkeUllWlpCR1VyU0hzMnk1bi1BdDM2ZTJpQ3RBb0kyTTBYQkZ1cnNCekhFOUFrUEJvbFp3UWY3aGVuZUdqZEROZHA3LWVqQ3JMZ2tvWlh6Q0UwLVM0bmlvblBDSWhWVlZ0aWJac0xYcEJIX2V4S2k0dXNRaVcxM2RsS0FlSHN5Vy1lTFdvT0dNeDJkYg?oc=5",
-    "source": "Reuters",
-    "time": "2026-07-22 10:31"
+    "title": "油价冲击惊扰印度债券与卢比",
+    "url": "https://finimize.com/content/oil-shock-spooks-indias-bonds-and-the-rupee",
+    "source": "Finimize",
+    "time": "2026-07-22 13:43",
+    "sentiment": "bullish"
   },
   {
-    "title": "标准普尔 500 指数、纳斯达克指数、道琼斯指数期货走低，因为石油上涨在大型科技公司盈利之前缓和了人工智能的乐观情绪：SMCI、OKLO、XE、SKHY、GOOG 成为焦点",
-    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOcW1ickhkejdXR1Fmd29RdGplOE0yTEc4WVl4UnI5RlpodlVGUHVyQkwzdmZ1cjA1cFhxZDVRaTBWWHo0MjlCSmYxNi1DTzdqOWhSUkVjcHZ5LXV2ZTdzbEpsTU5yb19SVENQM25Lam5hNE1ULXdTVkFOQVBoeHR2aFcyNHlwRUp1Q1pVN1NBTmk3a0N1SEtscXV6QmJCOXIxSVpZekx1R3hTMWtaeS0zd0tmTTZnejNVQ1R6UHRvb2RUNUVQcHJadDJLWF9KT2NfUWRiR2pZYXRUOXhzc0VQSC1SRV9yb1hIckhNdUQ5RWpZVUJlN1NSTVZmTlNFbVRzTVRTeHB5YVhzODZ1d3BsWFA2UUkxLUJQaVZn?oc=5",
-    "source": "Stocktwits",
-    "time": "2026-07-22 10:17"
+    "title": "油价反弹令印度卢比再度承压",
+    "url": "https://finimize.com/content/oils-rally-puts-indias-rupee-back-on-the-back-foot",
+    "source": "Finimize",
+    "time": "2026-07-22 13:36",
+    "sentiment": "bullish"
   },
   {
-    "title": "PHP/美元：油价上涨导致菲律宾比索跌至历史新低",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXpnemEzSU5EVEszdWQ3bXpmMXR3cVRWY2xTUEptQ1VBczZNak81ZEhWMXE5LS05MjZxSmFHbXdrWVVwMVBRZGdMNFNfeDhTVEh3QmFVMGlGeHZRanB1QTBVZXMwMm1UYUt1bl9QM1BsVEhYT1JyYkVvdUFvMTB2NUxzVTR5VC03ZW9vSkE3OFE2VHJjRFRsd0dhY1FFaGtfOXJROU85X0dpc3hJckZpRGZfdmdwWTNQcW50b1hCVkZKZw?oc=5",
-    "source": "Bloomberg.com",
-    "time": "2026-07-22 09:55"
+    "title": "艾略特波浪分析：WTI原油自7月低点五浪反弹倾向延伸",
+    "url": "https://www.actionforex.com/contributors/elliott-wave-analysis/648105-elliott-wave-analysis-wti-crude-oil-cl-5-swing-rally-from-july-low-favors-extension/",
+    "source": "ActionForex",
+    "time": "2026-07-22 13:16",
+    "sentiment": "bullish"
   },
   {
-    "title": "Vår Energi 将与 BlueNord 合并创建欧洲最大的独立石油和天然气生产商",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnc0X1NLQVp3TWFUM25MWkdSSXg3VGFUc0lmVHZUdEV4dzZES2F6NU43cC1ncVpMb2JMNW9peEZ6XzBvVnZrTUN2UEhBVGRZdU1FUHBPTVE4djE3Rnk3MHlwMmItX0pwWUxPNkl3MFowYjRCN1FGNTVyTkttOE0tMDU1SzZnM2RYX0xBYmt1ZkgzV2IyZV9admdMSUJlMU9rcGxHamlWOHF5ZDE2NU9WOEVraFjSAboBQVVfeXFMT1ZCU2MtZTNRUGp4cTFIZHJrX0tEYjFreGdPWFFnT2UyM2pRYy0zNHFBTjFBLTVKSkI1ZC1zMjRIVkVhUkpQbm8xZkVfLWpPTXJTekdXcl9ZTXQtWUZQc2NPOEJFSGZubEtKYW05dlFqSGFoZHI0ZXZDMWltakU2NlNjOFRlWEZKRnJpSjRwdl96S3gyakU3Skc1S24yRFRFd09YLVRydGFQVFM2Z3lUdGxvQ0hheUVIRjh3?oc=5",
-    "source": "Pulse 2.0",
-    "time": "2026-07-22 09:42"
+    "title": "原油价格逼近目标价——分析——2026-07-22",
+    "url": "https://www.economies.com/commodities/crude-oil-price-approaches-our-price-target-analysis-22-07-2026-174529",
+    "source": "Economies.com",
+    "time": "2026-07-22 13:48",
+    "sentiment": "bullish"
   },
   {
-    "title": "伊朗支持的胡塞武装威胁对沙特阿拉伯实施红海封锁",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjJvN0N4Yy1tSWZvWi1CZHJzTE1XSmFHWEdTQ0IzLS11UjA0bVZXLXp5dGo1WUtYWWkyMDhjMkk5THNJQWZMaHpGSnprd1ZtQkc4d3FaV2dBajd2eVgtb29HLWVMc1BTZjN5R2lmTXZpdjdidVpKMkFPeHhOM0FOOFYwRC1VLWoyNnBod1IxOWZHZkI2aXA3WFk4V2dCU2s?oc=5",
-    "source": "USA Today",
-    "time": "2026-07-22 09:19"
+    "title": "“这真的会很痛”：压低油价的运输通道如今受到威胁",
+    "url": "https://www.sbs.com.au/news/article/its-really-going-to-hurt-the-oil-route-helping-keep-prices-down-is-now-under-threat/abc123",
+    "source": "SBS",
+    "time": "2026-07-22 13:19",
+    "sentiment": "bullish"
   },
   {
-    "title": "美国宣布对伊朗进行新一轮打击后油价小幅上涨",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5",
-    "source": "Reuters",
-    "time": "2026-07-22 08:26"
+    "title": "卢比压力回归，印度ETF面临90美元油价考验",
+    "url": "https://www.ebc.com/market-insights/india-etfs-face-a-90-oil-test-as-rupee-pressure-returns",
+    "source": "EBC Financial Group",
+    "time": "2026-07-22 13:47",
+    "sentiment": "bullish"
   },
   {
-    "title": "突发新闻：2026年上半年日本从中东的原油进口量骤降26.4%",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Edl9Yc0JLQW5XRW9RT0UwZGI0SXRkb1RGalR3OWVnSlk0ZjloMF8yeVNYRW9rTERpR1ByTm12Yzd1QlBtM3Jwc0FRaTByZ3ZMZDJUUmtsMFltdw?oc=5",
-    "source": "Japan Wire by Kyodo News",
-    "time": "2026-07-22 08:01"
+    "title": "油价上涨，菲律宾比索跌至历史低位",
+    "url": "https://www.bworldonline.com/top-stories/2026/07/22/668213/philippine-peso-declines-to-match-record-low-on-higher-oil-prices/",
+    "source": "BusinessWorld Online",
+    "time": "2026-07-22 13:58",
+    "sentiment": "bullish"
   },
   {
-    "title": "中国的下一步行动可能决定今年油价走向",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzAtNE9oYnJBWmJSaWpQd2R0Y3gzSjZfai1CdmJmZUVCMXhSZ2FkRkdmdk5lYmhVMFh4YzUzNTFhRTRQQVF4TnYwN0dCdGY2OWUxT29JZWVPVzZLRmlhWFRaajdFTHhKdElNeGp2bTNjT2hrcDd5SV8zVlpDai12eGdOQUhZVUw3Ti1LZFJyRm4zNzZqSG5jd2RqOXUtZnNOSVlwSzVR0gGrAUFVX3lxTE9Iak5wWWlmRDJIeVkyZlh6d3VyWlhwYllWTnZmb0sxOUU1YjlNZDZXRnpuRVhsUXdVcUpObVZ6ZWk1UWRUUFhlaXpsMWE2UmNoLXplR2wwWENrZGR5YjlXNmIzYzB5c1ZMZEFKbzJNZ001dTViVlRNLVd1MXFDNU5hT2VUQXM5MTNQTFFzM0J2SkNnTmpPazlKZlF0b0V2MGxJWnFpbmI0a0JJZw?oc=5",
-    "source": "Crude Oil Prices Today | OilPrice.com",
-    "time": "2026-07-22 08:00"
+    "title": "胡塞威胁扰乱红海航运，亚洲炼厂改道沙特原油",
+    "url": "https://www.businesstoday.com.my/2026/07/22/asian-refiners-reroute-saudi-oil-houthi-threats/",
+    "source": "BusinessToday Malaysia",
+    "time": "2026-07-22 13:33",
+    "sentiment": "bullish"
   },
   {
-    "title": "中国的下一步行动可能决定今年油价走向",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVZYcFJ1REtFQ19zLVdDVmtOTmplcGptNVhoZEJDc2RndE1ZaVhfQWhtX0dNUVZoWTNBdEFUZGFGMjZvR1M0UjJ2LWtDQlg4VmtsY2d2anRXS25rQUN4bHJPZG1kSWZodWJZV2FlbTlxVGI5aEtteU53WDRpRk9QcEtwUUtlWE1mWElfcVp4UQ?oc=5",
-    "source": "Yahoo Finance",
-    "time": "2026-07-22 08:00"
+    "title": "布伦特原油突破每桶92美元，创6月以来最高",
+    "url": "https://www.dailysun.com/brent-crude-passes-92-a-barrel-highest-price-since-june-20260722",
+    "source": "Daily Sun",
+    "time": "2026-07-22 13:23",
+    "sentiment": "bullish"
   },
   {
-    "title": "大陆集团在二叠纪埃克托县拥有 4 英里巴尼特井",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUptbkdCYld5dnp0dl8tZzI1QTBpWWtVbzlkYlJSNHFmVDZ1LTdLRFc2UFUwb2dha3RmeVZnU3Q0N292aDYzS2tzbkN0cmdJMU16X1o5MTl6eTl1akhPMkx4WkJZd0FRM2hhTEFkeGhTRzkyRXhtLTRsWEZndVhLMWFsMzJQMmJzWnV4Mg?oc=5",
-    "source": "Hart Energy",
-    "time": "2026-07-22 07:54"
+    "title": "美国总统特朗普批准美沙核能协议",
+    "url": "https://www.fxstreet.com/news/us-president-donald-trump-approves-us-saudi-arabia-nuclear-deal-202607220758",
+    "source": "FXStreet",
+    "time": "2026-07-22 13:02",
+    "sentiment": "bearish"
   },
   {
-    "title": "专家表示，由于伊朗冲突增加了“战争溢价”，西德克萨斯州石油价格上涨至每桶 85 美元",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlhKTTc3S2t2ZXlVRUFpdkVudGRpc1ltZ1YwU1NHZU1oTHNNOVo4N09mcm44aThPMHI1aXZIN083SUFMZzhfS0dWU0tXQ2gtcHVJU29CNlZwaXljakxSLVJ1SldqbHZON0dQaC05WDdHdEJZeW11VEJKR3dXaEh0a1MxbDNKTDVFVlc2SVlVUm4yS1JCZG80SkEtOFV2WmhHM25laERycmt6SV9TeTJPY0hzUdIBxwFBVV95cUxNUVVHSXctSlVONG9KNTY1X3VoNFVDd2F3TnhWbWJKYXZkUHlQbUFwNm9wT01mdEJkazFoOGJsSEdhbzFkMEJ1S09rckJyWFBPeFpwT2tXZ1ByRmd3LTFZWHJJamhVRGxBdWlySW9mdUN2Z1k3WklKYVIyOWh3RVd4S2hYQ0RkcGU0ejI1Y3l6SEg4UUNRRGlRcHgwVmxCa3lnU1JrM1UzZWNva2FTclZsYVd5YWZ5WWlyNEx4V3ZIS3Z4emJZcU1V?oc=5",
-    "source": "CBS7",
-    "time": "2026-07-22 07:40"
+    "title": "消息人士：尽管地震，印度委内瑞拉原油进口仍将保持强劲",
+    "url": "https://www.cyshippingnews.com/indias-venezuelan-crude-imports-poised-to-stay-strong-despite-earthquakes-sources/",
+    "source": "Cyprus Shipping News",
+    "time": "2026-07-22 13:04",
+    "sentiment": "bearish"
   },
   {
-    "title": "由于对中东供应中断的担忧日益加剧，油价上涨",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmpVMTZmUmllOVItTEVURTlDT1o5R0VqWm1nWk9oelNBSURwYmZSSGJhQ0dBOEpYQVZOMDdPVmRVR1RRZXo0dFRQNWhxUEN4OXltZlVYZWhQMnlLSE5ldmFnaXZiNG1lQzg4aUxsTm9DUjlrenFYZE8zVGI2S3VTU2lUZzRzMVA0RWU3TzhZcGRrdTJKZ1JWTDQxNnBQd01UM1Q2YnRqbmZTWUw3Sy1yOFc4ZlZpR2J0YzhSb2hOYzBjMWszN0E?oc=5",
-    "source": "WSJ",
-    "time": "2026-07-22 07:38"
+    "title": "Vår Energi与BlueNord合并，打造欧洲最大独立油气生产商",
+    "url": "https://www.cyshippingnews.com/var-energi-to-combine-with-bluenord/",
+    "source": "Cyprus Shipping News",
+    "time": "2026-07-22 13:19",
+    "sentiment": "bearish"
   },
   {
-    "title": "交易员权衡石油风险对利率的影响，黄金保持上涨",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUpJMldOS3dzT3RhN0ctcExDSE1lZGtnRGtCeTZ4OXhPeExoNDlrN0F2OVpmWDQ3Q1RFTWgycERKYmc1U2tXVDFjdmJHUGdBVzNwUTdzNi01NGUzcjZ4VVc1ZmRtSURBWTYxOU0xX3ZJYVdRWTd6Y1hEd0xaa3pPbm9mUjZhcDlJZFhzN1d1NHEya2JDMWkxcXBmb19OWUtaVVFGeHBidzdFN3pYaGxSdzR3?oc=5",
-    "source": "Bloomberg.com",
-    "time": "2026-07-22 07:34"
+    "title": "143家企业争夺NUPRC商业招标会议的50个油气区块",
+    "url": "https://businesspost.ng/economy/143-firms-jostle-for-50-oil-gas-blocks-at-nuprc-commercial-bid-conference/",
+    "source": "Business Post Nigeria",
+    "time": "2026-07-22 13:43",
+    "sentiment": "bearish"
   },
   {
-    "title": "由于对石油的担忧将成本推向每加仑 4 美元，天然气价格再次攀升",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaElsQTliVFMxVUd5VHhUZlplY0Rzd2I2Sk84M05vMFJsSnRtQkplX1hVdENsWEE1cUZLY1VzX3ZIQUVjQm1iZnhiSXBkUG9ZQ0lvcl8tM2RWZ2dMbGtjcXlQLVBtRWpRS2hqdmFkSHA5ZWFsa21jUDZkNEpJVm55RW1yNVhZNTRKYVFZX1FELU44aFB1UWZjVzlmbG83d0loeEt1atIBuAFBVV95cUxPcW1rUlllcnZjNGxLbGlFdWZLc05oVFEtSkJXTjZmLUJVT2kwMG1wWHg1ek5EWmtsRzF0cjdrTU9FT25wMFFQdXVhaURHYUM1dllhbWlZM05sU2hWNm5KNVJlZk5SR3pNdlFidEhRaHlaNUV5M25RTkhhcE10QUVUNVY2aG93bzkycEoxQkY4R2pHLVluSGZ1Tm5rWWF0MmVlcXhNc2RBdmtzcWVuM1d0QkxlQ0p6bnZW?oc=5",
-    "source": "CBS7",
-    "time": "2026-07-22 07:28"
+    "title": "油价飙升推高日本进口至纪录高位，令央行政策复杂化",
+    "url": "https://www.channelnewsasia.com/business/japan-imports-jump-record-high-oil-price-surge-complicating-boj-policy-4843861",
+    "source": "CNA",
+    "time": "2026-07-22 13:10",
+    "sentiment": "bullish"
   },
   {
-    "title": "IEA 表示，在创纪录的发布后，世界仍然拥有“大量”紧急石油储备（USO：NYSEARCA）",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkZ5SHBqalRBMVRHWVA1cEVYeWNXTzFzZldsLU9DV1V2UnJ2YXc0d3Y0SHpZN01feTl5QlNSQUdyWGExdXVtUlZoazh5dm4zN3kyOFE5SkxlLXItNERPTm1UYTljNU5nNjZjd25BTUowQzA0bGFCQnVkNU5UUFB2elZVdEVYR0FwR1lkdVJMU1JaUVNLbVpPODYybFRZcThUYWpxU214Z1dJR3BtMC1oTEdvei1ycmxBcUE?oc=5",
-    "source": "Seeking Alpha",
-    "time": "2026-07-22 07:20"
+    "title": "红海紧张升级，油轮改道",
+    "url": "https://www.devdiscourse.com/article/energy/123456-oil-tankers-reroute-amid-escalating-red-sea-tensions",
+    "source": "Devdiscourse",
+    "time": "2026-07-22 13:08",
+    "sentiment": "bullish"
   },
   {
-    "title": "加州野猫 PCEC 即将就委内瑞拉油田达成协议",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSVFCUmhaNGZrSENMbTg5WlRERnRlNTRaOEVtdlFqdDRHajdlSTBuSnlxOXdMN2pZb3ZRa200clZDalFTVkNzQ1R5WjlMeXBPRExGMTJiNGRHUS1HMTRyQjRkQWtVUi0yQy1yQmRLN010UkpEdDhHdG5pbWhPaHFQNGhVTlJtOFdlUWZOLXJHbUgxcjFxWkNYLW11OHdjX1VSVWR0eURwcllrM2VOaWpCR3RZSnBvX2dPUWVZU2hR?oc=5",
-    "source": "Bloomberg.com",
-    "time": "2026-07-22 06:36"
+    "title": "调停努力抵消美伊打击，油价回落",
+    "url": "https://www.thedailystar.net/business/news/oil-prices-dip-mediation-efforts-offset-us-iran-strikes-400456",
+    "source": "The Daily Star",
+    "time": "2026-07-22 13:03",
+    "sentiment": "bearish"
   },
   {
-    "title": "尽管布伦特原油价格突破 91 美元，人工智能股仍引领华尔街走高",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnhDS1c4LVJFb2JUamtyRVM2cGh2WUQ3eXJaRGluOERod3B6bkNITGVONGF6ZXBpeG13aVpYT3RkVElRUnlXMXB6UlFkLUpacklSUWRUOGcwMGdGdGpzZEYwSWlvaUE2NzcyMTRQX1pXdTd0VVBoZjBuTXRSQnc3bFdB?oc=5",
-    "source": "Inquirer.com",
-    "time": "2026-07-22 06:19"
+    "title": "美伊战争新一轮袭击后，油价突破每桶90美元",
+    "url": "https://www.standard.co.uk/business/oil-prices-surpass-90-dollars-a-barrel-after-fresh-attacks-in-us-iran-war-b123456.html",
+    "source": "London Evening Standard",
+    "time": "2026-07-22 13:13",
+    "sentiment": "bullish"
   },
   {
-    "title": "特里·萨维奇：尽管油价上涨，股市仍在上涨",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkw5V3JGYjZ1UXBWOXJqZUpkMVZyMC1XeHVTV1JJWEtLbDJNclUwRGRSWjVDOUtsblZUSjJRQUVFVFFPUlRQa2dCblMwRVJ6V2tJeWdhUlZZaGtGNWxXWmpxd1ZiZDVTTkdjS3hGeHNaa0E4YU1sanZoM3U4UjhoeDNyUzBmYWdGYnhKOERzQjhHdmI4Y0djdFY4T0J3dlNHNDNn0gGoAUFVX3lxTE4wWXh1dDJmcFNpdV9qMnMyQjliSGZhcmFJSXRuUDY2emZxUDRjT2xUdmFqQWtNbEFzbi1qX0FkNk9RLTBzZlN1MnVjbXp1ckZMM1VaT245djNpdTBPTmFKUUt2czJrVmsxM2piZ0ZyeFlGY05xbzhEeUN1aEkxbVZEVk56aUozTFBaem9uMlJXeWx4dWl5Y3pkUnhSX2RzZFBjNExPVC0yUw?oc=5",
-    "source": "WGN Radio 720",
-    "time": "2026-07-22 06:18"
+    "title": "能源分析师：霍尔木兹海峡自由通航无望，或迟至2027年底",
+    "url": "https://jalopnik.com/abandon-all-hope-for-a-free-and-open-strait-of-hormuz-1851456789",
+    "source": "Jalopnik",
+    "time": "2026-07-22 14:00",
+    "sentiment": "bullish"
   },
   {
-    "title": "特朗普降低与伊朗谈判的前景，油价小幅走高",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOU5GaG9GVkNjbHZJM0JLaGJfc19QTmJpUFF1Vld5ZXJhTlNNSW13U09XdUczWVBJaVBaakhpVEhLYlhqQWk2Z1k0X2pXaHJkemJGNDRpUE4tdGkwMjVzMDNGM21OT05pMzA0X1lCcmgteF80Ym9rZzdxZUlwWm0wbEp5WWdGRzZ3Zkgyc1hUNEJNaFFVVHl3TkJvR2lRcWc?oc=5",
-    "source": "Bloomberg.com",
-    "time": "2026-07-22 06:11"
+    "title": "政府目标三年内从37个新区实现30万桶日产量、5亿桶储量",
+    "url": "https://www.thisdaylive.com/index.php/2026/07/22/fg-eyes-300000-bpd-oil-output-500m-barrels-reserve/",
+    "source": "THISDAYLIVE",
+    "time": "2026-07-22 13:30",
+    "sentiment": "bearish"
   },
   {
-    "title": "石油市场比特朗普认为的要脆弱得多",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXlzRzdwb0xfeGdRekwtcG5zNzBteFBKcFc1X0JxdTFqR0oyeFJ2TENacDJReWU5M0M1NnlLcC1KNFFZeldESE1xcGRBVWtIZEN6cTVETkRvUjg3SFBINGI0MVg1UzBrNTJkY19LRXJaaGZKN0xFUXBTdUV5SHZ2REhZUzRRN2V6b2dWdjRveDJhTTFTZEhXR1lESGZmY2FyZEhvQ1NYSmV1azVmSmtkWmNkQXNTZWZLLWdVZUcwUGpNbzItMmRGVXZja1lfSHV2X01n?oc=5",
-    "source": "Foreign Policy",
-    "time": "2026-07-22 05:47"
+    "title": "胡塞在美伊战争中开辟新战线，载沙特原油油轮掉头返航",
+    "url": "https://www.bworldonline.com/world/2026/07/22/668214/tankers-with-saudi-crude-turn-back-as-houthis-open-new-front/",
+    "source": "BusinessWorld Online",
+    "time": "2026-07-22 13:04",
+    "sentiment": "bullish"
   },
   {
-    "title": "共和党正试图给予大型石油公司免受造成气候混乱的影响",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1ZUZzdyM1VROTFBdk1VSlhuVndUR0lXMEFkQmxLd05USVl1QVh5NC1YZlpBVFpmTU1FamxhZk1SeGY1ZU1rQzlYTnJydVlla2tzYnZBVjg0OGh1VWNXcHF3Z2pudk5VWGtydV9FVjI4dTJWRzl3NGJCV1RKU2hFSWNqajhpQ0EtS3dXUWlTZEVrRUhPeEJ2NnlPN1lhQnhIMVdqVmhIcw?oc=5",
-    "source": "Truthout",
-    "time": "2026-07-22 05:27"
-  },
-  {
-    "title": "美伊战争推高油价，比特币价格跌至 6.7 万美元",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREQwWGtka1lYNVJhejBKTjBwRDAyNml3bzdVMGNGdzNlRUdmamh5d1F6T3c2QWpETWpXUFRQYkdHaFpuQ1Zsc1kxZkxVUzhNTnBmVlhkNU53elUtWk9fcEpkTkZGNTIwaEg5MXR0djBPQkc1S3Z3UDJKYVN3NmIyYQ?oc=5",
-    "source": "Crypto News",
-    "time": "2026-07-22 05:27"
-  },
-  {
-    "title": "油轮退缩，胡塞武装威胁加剧",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXJ0MGVYbkRlMkdhcWJCZ0JtTl83eHJpenlJYTNST084dlZkWUV4WGJfTkhQejhBMzVURHJBbFI2QW5BbmowNkNlMU5iQXBtUkR2aGdNNUVqVk5hUzBMb3hUNVRyUE05RklmRDE5NHJLZW1nNnpHRng4SUhPbVZhcnlscTFKNUV4clV3UUh0ZW5VUHNKaEhkaTdtVDBrYk0?oc=5",
-    "source": "Bloomberg.com",
-    "time": "2026-07-22 05:26"
-  },
-  {
-    "title": "石油国家预计第二季度业绩将于 7 月 30 日市场开盘前公布",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZVFnZkt1STZSZlBqa01uclVjNldTTGhKTklHMGtaekZlaVd6bHNmYzJER19QQURHWl85dWlfeEFBYWFBMTh4UzFjQnVabkpwUVVMY0diZDRoaTh3b3lnQlRMWlZPVU5CdW1WS0NOZUZOYjFrUGJfMFROU0E1MVQ2N2p3ZENXd3FKMTFNQVdOSVIxanZPRzdRU3BZcnFlZHZ3dFlaUXNrdTNrYldCZ0M0WVFQR28?oc=5",
-    "source": "Stock Titan",
-    "time": "2026-07-22 05:14"
-  },
-  {
-    "title": "霍尔木兹航运难题持续，美国原油库存增加",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFM1aXpGcDUtdVdMYzdTQ2Jaa0J4RUt3OUJIcFBfX1JkQW1lNWgyeGNzRFdjVzlSSHhwMlV2bzBpeEYtdWZvcDdmWFlzdzBfTmV0N2Zwa0tPSzdVWlhpWkZtMUFpZXBkOTl3dGJvRGU1ZG5NV2VSRHFNODJObXJPbzFUSVViYXB5YXJsX0dfZXhhV0dXNVZ2SG1fRHJkUDk3WG45NG1xMm1TVXdxakdJRnBkRmdKU0Fzd0pCY05Vd3DSAcYBQVVfeXFMTnVzMHdyeEtEV295ZkFyVnlZdWtZNUlSWkRVN1A5ZVR1T0h5ZnB3T2pMWEY2bko1eE5ObUFXQTNBMkdnaEx4LWtuRmNDbHRJQ3ZLZ3QwU0tfcnNhZkhUUUU3SjVTU2ZPU0k1N185Z3Q2NHMtOGVHTzI2OXpIRkktQmhGTlJaUXJaX0NfbUdiSWNCM0RwbkJZSXZ4ZDY2Q3NGX3BQNC04cEV1Z0FJajVGcE00RkZ5bTR0RFprelc3R0w1c0s3OXZB?oc=5",
-    "source": "Crude Oil Prices Today | OilPrice.com",
-    "time": "2026-07-22 05:10"
-  },
-  {
-    "title": "由于买家忽视收益率上升和石油冲击，金价上涨 - Kitco PM 报告",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdy1uV3E3ZWFpSDlGb1cwRUY0dFd1NW5tUVVucGMxYTEwUEl5b2k1RVpkNVFmd25JQ0p2VlhPdHU4ZnVSV1RDclhEOXVMOXVjVDBkbnI4Um8xLU5tV3FRc0NfU200ZDRxX0ZCTzFEeGVDc0tzZ0ROcU9palJkNDU1ODFIOUtXckxjTTdsenNTb0pEcVFNeGtUVzRvUXlxUnRDN0dQM1UyNnZ2NFMxOGlKdjVR?oc=5",
-    "source": "KITCO",
-    "time": "2026-07-22 05:07"
-  },
-  {
-    "title": "尽管布伦特原油价格突破 91 美元，人工智能股仍引领华尔街走高",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUxGQl9rN25LcTRNNmVwQ1pfbnJqV29kN0Q4YjBwRDVMSmVtaTlxLUczLW5RcFpicTJtbnZlMV9YSGEtaWdpcm1qSWN0VXpDNFpFcEZUemNrNkpBdmItemJlY1ZuOVJwQkRGcF81Z3JNT3BPWl81OVZDWk9sZjVFc2w0cXNMdS14RlhseER0SEhYZi1uU2c?oc=5",
-    "source": "AP News",
-    "time": "2026-07-22 05:00"
+    "title": "瞄准航运脱碳：S-OIL开始供应生物船用燃料",
+    "url": "https://www.asiae.co.kr/article/202607220900123456",
+    "source": "Asia Economy",
+    "time": "2026-07-22 13:05",
+    "sentiment": "bearish"
   }
 ]
