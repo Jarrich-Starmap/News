@@ -1,212 +1,182 @@
 [
   {
-    "title": "油价飙升压力下，印度卢比将恢复跌势",
-    "url": "https://www.reuters.com/world/india/rupee-resume-slide-under-mounting-pressure-oil-surge-2026-07-22/",
-    "source": "Reuters",
-    "time": "2026-07-22 13:32",
-    "sentiment": "bullish"
+    "title": "日本进口因油价飙升创历史新高，日本央行政策面临挑战",
+    "url": "https://www.businesstimes.com.sg/international/japan-imports-jump-record-high-oil-price-surge-complicating-boj-policy",
+    "source": "The Business Times",
+    "time": "2026-07-22 10:33"
   },
   {
-    "title": "美伊冲突无缓和迹象，油价攀升",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
-    "source": "OilPrice.com",
-    "time": "2026-07-22 13:40",
-    "sentiment": "bullish"
+    "title": "黄金价格预测：强劲复苏或面临油价上涨阻力",
+    "url": "https://www.fxstreet.com/analysis/gold-price-forecast-strong-recovery-might-face-roadblock-as-oil-price-extends-gains-202607220342",
+    "source": "FXStreet",
+    "time": "2026-07-22 10:28"
   },
   {
-    "title": "2026年余下时间伊朗与油价走势展望",
-    "url": "https://www.thecommonsense.co.za/Economics%20&%20Policy/what-expect-iran-oil-price-rest-2026",
-    "source": "The Common Sense",
-    "time": "2026-07-22 13:34",
-    "sentiment": "bearish"
-  },
-  {
-    "title": "驶往沙特船只掉头，红海封锁再现迹象",
-    "url": "https://www.washingtonpost.com/world/2026/07/21/ships-bound-saudi-arabia-turn-around-sign-new-red-sea-blockade/",
-    "source": "The Washington Post",
-    "time": "2026-07-22 13:52",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "高盛：霍尔木兹风险加剧，石油股提供非对称上行空间",
+    "title": "高盛：霍尔木兹风险加剧，石油股提供不对称上行空间",
     "url": "https://nai500.com/blog/2026/07/goldman-sachs-oil-stocks-offer-asymmetric-upside-as-hormuz-risk-intensifies/",
     "source": "NAI500",
-    "time": "2026-07-22 13:57",
-    "sentiment": "bullish"
+    "time": "2026-07-22 10:11"
   },
   {
-    "title": "油价驱动进口激增扩大日本贸易逆差，令央行按兵不动复杂化",
-    "url": "https://investinglive.com/news/japan-s-oil-driven-import-surge-widens-trade-gap-complicates-boj-hold",
-    "source": "investingLive",
-    "time": "2026-07-22 13:21",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "竞争对手食用油走弱，棕榈油价格再度下滑",
-    "url": "https://finimize.com/content/palm-oil-prices-slip-again-as-rival-edible-oils-weaken",
+    "title": "澳元和纽元持稳，油价改变利率叙事",
+    "url": "https://finimize.com/content/aussie-and-kiwi-dollars-hold-firm-as-oil-changes-the-rate-story",
     "source": "Finimize",
-    "time": "2026-07-22 13:50",
-    "sentiment": "bearish"
+    "time": "2026-07-22 10:40"
   },
   {
-    "title": "科技股提振亚洲股市，布伦特原油重回92美元上方",
-    "url": "https://uk.finance.yahoo.com/news/tech-lifts-asia-stocks-brent-202607220600.html",
-    "source": "Yahoo Finance UK",
-    "time": "2026-07-22 13:36",
-    "sentiment": "bullish"
+    "title": "中东冲突加剧推高油价，本周会加息吗？",
+    "url": "https://www.ewn.co.za/can-we-expect-rate-hike-this-week-as-intensifying-middle-east-conflict-fuels-oil-prices/",
+    "source": "EWN",
+    "time": "2026-07-22 10:08"
   },
   {
-    "title": "中东战事扩大推高油价，印度股市料低开",
-    "url": "https://www.reuters.com/world/india/indian-shares-seen-opening-lower-oil-jumps-widening-mideast-war-2026-07-22/",
-    "source": "Reuters",
-    "time": "2026-07-22 13:05",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "油价冲击惊扰印度债券与卢比",
-    "url": "https://finimize.com/content/oil-shock-spooks-indias-bonds-and-the-rupee",
-    "source": "Finimize",
-    "time": "2026-07-22 13:43",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "油价反弹令印度卢比再度承压",
-    "url": "https://finimize.com/content/oils-rally-puts-indias-rupee-back-on-the-back-foot",
-    "source": "Finimize",
-    "time": "2026-07-22 13:36",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "艾略特波浪分析：WTI原油自7月低点五浪反弹倾向延伸",
-    "url": "https://www.actionforex.com/contributors/elliott-wave-analysis/648105-elliott-wave-analysis-wti-crude-oil-cl-5-swing-rally-from-july-low-favors-extension/",
-    "source": "ActionForex",
-    "time": "2026-07-22 13:16",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "原油价格逼近目标价——分析——2026-07-22",
-    "url": "https://www.economies.com/commodities/crude-oil-price-approaches-our-price-target-analysis-22-07-2026-174529",
-    "source": "Economies.com",
-    "time": "2026-07-22 13:48",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "“这真的会很痛”：压低油价的运输通道如今受到威胁",
-    "url": "https://www.sbs.com.au/news/article/its-really-going-to-hurt-the-oil-route-helping-keep-prices-down-is-now-under-threat/abc123",
-    "source": "SBS",
-    "time": "2026-07-22 13:19",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "卢比压力回归，印度ETF面临90美元油价考验",
-    "url": "https://www.ebc.com/market-insights/india-etfs-face-a-90-oil-test-as-rupee-pressure-returns",
-    "source": "EBC Financial Group",
-    "time": "2026-07-22 13:47",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "油价上涨，菲律宾比索跌至历史低位",
-    "url": "https://www.bworldonline.com/top-stories/2026/07/22/668213/philippine-peso-declines-to-match-record-low-on-higher-oil-prices/",
-    "source": "BusinessWorld Online",
-    "time": "2026-07-22 13:58",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "胡塞威胁扰乱红海航运，亚洲炼厂改道沙特原油",
-    "url": "https://www.businesstoday.com.my/2026/07/22/asian-refiners-reroute-saudi-oil-houthi-threats/",
-    "source": "BusinessToday Malaysia",
-    "time": "2026-07-22 13:33",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "布伦特原油突破每桶92美元，创6月以来最高",
-    "url": "https://www.dailysun.com/brent-crude-passes-92-a-barrel-highest-price-since-june-20260722",
-    "source": "Daily Sun",
-    "time": "2026-07-22 13:23",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "美国总统特朗普批准美沙核能协议",
-    "url": "https://www.fxstreet.com/news/us-president-donald-trump-approves-us-saudi-arabia-nuclear-deal-202607220758",
-    "source": "FXStreet",
-    "time": "2026-07-22 13:02",
-    "sentiment": "bearish"
-  },
-  {
-    "title": "消息人士：尽管地震，印度委内瑞拉原油进口仍将保持强劲",
-    "url": "https://www.cyshippingnews.com/indias-venezuelan-crude-imports-poised-to-stay-strong-despite-earthquakes-sources/",
-    "source": "Cyprus Shipping News",
-    "time": "2026-07-22 13:04",
-    "sentiment": "bearish"
-  },
-  {
-    "title": "Vår Energi与BlueNord合并，打造欧洲最大独立油气生产商",
-    "url": "https://www.cyshippingnews.com/var-energi-to-combine-with-bluenord/",
-    "source": "Cyprus Shipping News",
-    "time": "2026-07-22 13:19",
-    "sentiment": "bearish"
-  },
-  {
-    "title": "143家企业争夺NUPRC商业招标会议的50个油气区块",
-    "url": "https://businesspost.ng/economy/143-firms-jostle-for-50-oil-gas-blocks-at-nuprc-commercial-bid-conference/",
-    "source": "Business Post Nigeria",
-    "time": "2026-07-22 13:43",
-    "sentiment": "bearish"
-  },
-  {
-    "title": "油价飙升推高日本进口至纪录高位，令央行政策复杂化",
-    "url": "https://www.channelnewsasia.com/business/japan-imports-jump-record-high-oil-price-surge-complicating-boj-policy-4843861",
-    "source": "CNA",
-    "time": "2026-07-22 13:10",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "红海紧张升级，油轮改道",
-    "url": "https://www.devdiscourse.com/article/energy/123456-oil-tankers-reroute-amid-escalating-red-sea-tensions",
-    "source": "Devdiscourse",
-    "time": "2026-07-22 13:08",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "调停努力抵消美伊打击，油价回落",
-    "url": "https://www.thedailystar.net/business/news/oil-prices-dip-mediation-efforts-offset-us-iran-strikes-400456",
-    "source": "The Daily Star",
-    "time": "2026-07-22 13:03",
-    "sentiment": "bearish"
-  },
-  {
-    "title": "美伊战争新一轮袭击后，油价突破每桶90美元",
-    "url": "https://www.standard.co.uk/business/oil-prices-surpass-90-dollars-a-barrel-after-fresh-attacks-in-us-iran-war-b123456.html",
+    "title": "布伦特原油触及每桶90美元，能源市场剧烈波动",
+    "url": "https://www.standard.co.uk/business/business-news/brent-trump-bahrain-sea-iraq-b1290615.html",
     "source": "London Evening Standard",
-    "time": "2026-07-22 13:13",
-    "sentiment": "bullish"
+    "time": "2026-07-22 10:43"
   },
   {
-    "title": "能源分析师：霍尔木兹海峡自由通航无望，或迟至2027年底",
-    "url": "https://jalopnik.com/abandon-all-hope-for-a-free-and-open-strait-of-hormuz-1851456789",
-    "source": "Jalopnik",
-    "time": "2026-07-22 14:00",
-    "sentiment": "bullish"
-  },
-  {
-    "title": "政府目标三年内从37个新区实现30万桶日产量、5亿桶储量",
-    "url": "https://www.thisdaylive.com/index.php/2026/07/22/fg-eyes-300000-bpd-oil-output-500m-barrels-reserve/",
-    "source": "THISDAYLIVE",
-    "time": "2026-07-22 13:30",
-    "sentiment": "bearish"
-  },
-  {
-    "title": "胡塞在美伊战争中开辟新战线，载沙特原油油轮掉头返航",
-    "url": "https://www.bworldonline.com/world/2026/07/22/668214/tankers-with-saudi-crude-turn-back-as-houthis-open-new-front/",
+    "title": "油价上涨导致菲律宾比索跌至历史新低",
+    "url": "https://bworldonline.com/bloomberg/2026/07/22/765114/philippine-peso-declines-to-match-record-low-on-higher-oil-prices/",
     "source": "BusinessWorld Online",
-    "time": "2026-07-22 13:04",
-    "sentiment": "bullish"
+    "time": "2026-07-22 10:11"
   },
   {
-    "title": "瞄准航运脱碳：S-OIL开始供应生物船用燃料",
-    "url": "https://www.asiae.co.kr/article/202607220900123456",
-    "source": "Asia Economy",
-    "time": "2026-07-22 13:05",
-    "sentiment": "bearish"
+    "title": "油价创五周新高；美伊紧张局势下布伦特原油触及92美元",
+    "url": "https://www.tribuneindia.com/news/business/oil-prices-hit-five-week-high-brent-crude-touches-usd-92-amid-us-iran-tensions/",
+    "source": "The Tribune",
+    "time": "2026-07-22 10:39"
+  },
+  {
+    "title": "中东紧张局势重燃推动油价上涨，Dangote外汇需求重塑市场",
+    "url": "https://guardian.ng/energy/oil-rallies-on-renewed-meast-tension-as-dangotes-fx-demand-reshapes-market/",
+    "source": "The Guardian Nigeria News",
+    "time": "2026-07-22 10:21"
+  },
+  {
+    "title": "汇率观察：油价上涨打压情绪，卢比兑美元开盘走低",
+    "url": "https://www.moneycontrol.com/news/currency/currency-check-rupee-opens-lower-against-dollar-as-rising-oil-prices-weigh-on-sentiment-13980057",
+    "source": "Moneycontrol.com",
+    "time": "2026-07-22 10:17"
+  },
+  {
+    "title": "Galp Energia股价持稳，盈利与油价塑造前景",
+    "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/galp-energia-stock-trades-steady-as-earnings-and-oil-prices-shape-outlook/69830395",
+    "source": "Ad-hoc-news.de",
+    "time": "2026-07-22 10:33"
+  },
+  {
+    "title": "科技股提振亚洲股市，布伦特原油重回92美元以上",
+    "url": "https://www.klsescreener.com/v2/news/view/1759623/tech-lifts-asia-stocks-brent-crude-back-above-us-92",
+    "source": "KLSE Screener",
+    "time": "2026-07-22 10:02"
+  },
+  {
+    "title": "马拉松石油股价持稳，投资者权衡现金回报与产量增长",
+    "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/marathon-oil-stock-trades-steady-as-investors-weigh-cash-returns-and/69830363",
+    "source": "Ad-hoc-news.de",
+    "time": "2026-07-22 10:31"
+  },
+  {
+    "title": "美国宣布对伊朗新一轮打击后油价小幅上涨",
+    "url": "https://www.myjoyonline.com/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran/",
+    "source": "MyJoyOnline",
+    "time": "2026-07-22 10:17"
+  },
+  {
+    "title": "布伦特原油逼近92美元，卢比兑美元跌至96.34",
+    "url": "https://www.whalesbook.com/news/English/economy/Rupee-Falls-to-9634-vs-Dollar-as-Brent-Crude-Nears-dollar92/6a603e57fe1c9287f47a4a8e",
+    "source": "Whalesbook",
+    "time": "2026-07-22 10:37"
+  },
+  {
+    "title": "7月22日汽柴油价格：查看德里、孟买、班加罗尔等城市最新油价",
+    "url": "https://newsable.asianetnews.com/india/petrol-diesel-prices-today-july-22-check-latest-fuel-rates-in-delhi-mumbai-bengaluru-and-other-cities-articleshow-mh0knr1",
+    "source": "Asianet Newsable",
+    "time": "2026-07-22 10:06"
+  },
+  {
+    "title": "胡塞封锁威胁：印度的石油与贸易风险",
+    "url": "https://www.whalesbook.com/news/English/world-affairs/Houthi-Blockade-Threat-Oil-and-Trade-Risks-For-India/6a603f84fe1c9287f47a4c99",
+    "source": "Whalesbook",
+    "time": "2026-07-22 10:42"
+  },
+  {
+    "title": "日本6月原油进口回升至三个月高位",
+    "url": "https://www.qcintel.com/article/japan-s-june-crude-imports-recover-to-3-month-high-69372.html",
+    "source": "Quantum Commodity Intelligence",
+    "time": "2026-07-22 10:28"
+  },
+  {
+    "title": "布伦特原油突破每桶92美元，创6月以来最高价",
+    "url": "https://en.bd-pratidin.com/economy/2026/07/22/66665",
+    "source": "en.bd-pratidin.com",
+    "time": "2026-07-22 10:07"
+  },
+  {
+    "title": "今日股市：原油突破92美元，Sensex和Nifty会下跌吗？",
+    "url": "https://www.indiatoday.in/business/market/story/stock-market-fall-today-brent-crude-92-sensex-nifty-opening-lower-middle-east-tensions-2953349-2026-07-22",
+    "source": "India Today",
+    "time": "2026-07-22 10:11"
+  },
+  {
+    "title": "能源市场混乱：史无前例的柴油价格飙升冲击物流业",
+    "url": "https://finance.yahoo.com/energy/articles/energy-market-chaos-unprecedented-diesel-033448198.html",
+    "source": "Yahoo Finance",
+    "time": "2026-07-22 10:16"
+  },
+  {
+    "title": "美国对伊朗危机谈判持开放态度，尽管能源冲突扩大",
+    "url": "https://www.globalbankingandfinance.com/rubio-us-still-willing-negotiate-over-iran-crisis/",
+    "source": "Global Banking & Finance Review",
+    "time": "2026-07-22 10:15"
+  },
+  {
+    "title": "62亿美元天然气投资反映阿联酋能源模式演变",
+    "url": "https://www.thenationalnews.com/opinion/editorial/2026/07/22/adnoc-gas-lng-uae-energy/",
+    "source": "The National",
+    "time": "2026-07-22 10:27"
+  },
+  {
+    "title": "中东供应风险再现，油价延续涨势",
+    "url": "https://www.marketscreener.com/news/oil-extends-gains-on-fresh-mideast-supply-risks-ce7f51d8d18df723",
+    "source": "marketscreener.com",
+    "time": "2026-07-22 10:49"
+  },
+  {
+    "title": "油价飙升令市场紧张，经济学家警告可能加息",
+    "url": "https://iol.co.za/business-report/markets/2026-07-22-oil-surge-keeps-markets-on-edge-as-economists-warn-of-possible-rate-hike/",
+    "source": "IOL",
+    "time": "2026-07-22 10:42"
+  },
+  {
+    "title": "美伊冲突叠加红海风险，国际油价升至五周高点",
+    "url": "https://www.toutiao.com/w/1871367878903817",
+    "source": "今日头条",
+    "time": "2026-07-22 07:11"
+  },
+  {
+    "title": "国际油价21日上涨，布伦特收于91.01美元",
+    "url": "https://www.163.com/dy/article/L2DOSMBV05346RC6.html",
+    "source": "新华社",
+    "time": "2026-07-22 04:05"
+  },
+  {
+    "title": "今日国际原油价格最新行情：WTI报85.47美元/桶，布伦特报92.54美元/桶",
+    "url": "https://energy.cngold.org/c/2026-07-22/c10639050.html",
+    "source": "金投网",
+    "time": "2026-07-22 10:03"
+  },
+  {
+    "title": "原油板块小幅上行，SC原油期货夜盘收涨3.15%报547.4元/桶",
+    "url": "https://m.10jqka.com.cn/20260722/c678340290.shtml",
+    "source": "同花顺财经",
+    "time": "2026-07-22 09:01"
+  },
+  {
+    "title": "Brent原油基准价为89.22美元/桶，月内上涨20.71%",
+    "url": "https://www.100ppi.com/news/detail-20260722-5957894.html",
+    "source": "生意社",
+    "time": "2026-07-22 08:30"
   }
 ]
