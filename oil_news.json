@@ -1,182 +1,30 @@
-[
-  {
-    "title": "也门胡塞武装声称在红海袭击两艘沙特油轮",
-    "url": "https://www.chinadailyasia.com/article/636832",
-    "source": "chinadailyhk",
-    "time": "2026-07-23 10:49"
-  },
-  {
-    "title": "胡塞武装声称在红海击中两艘沙特油轮",
-    "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
-    "source": "The New York Times",
-    "time": "2026-07-23 10:58"
-  },
-  {
-    "title": "伊朗支持的胡塞武装袭击两艘沙特阿拉伯油轮",
-    "url": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926",
-    "source": "Financial Times",
-    "time": "2026-07-23 11:28"
-  },
-  {
-    "title": "也门胡塞武装声称袭击沙特油轮",
-    "url": "https://www.trtworld.com/article/088922baeea1",
-    "source": "TRT World",
-    "time": "2026-07-23 11:32"
-  },
-  {
-    "title": "伊朗革命卫队在霍尔木兹海峡拦截三艘油轮，美军持续打击",
-    "url": "https://global.chinadaily.com.cn/a/202607/23/WS6a61819ca310986e2b466e42.html",
-    "source": "China Daily",
-    "time": "2026-07-23 10:49"
-  },
-  {
-    "title": "伊朗在美国发出基础设施打击警告后威胁全面封锁地区石油运输",
-    "url": "https://news.cgtn.com/news/2026-07-23/Iran-threatens-regional-oil-blockade-after-Trump-warns-of-strikes--1P0qZo3aQ1i/p.html",
-    "source": "CGTN",
-    "time": "2026-07-23 10:37"
-  },
-  {
-    "title": "冲突升级之际伊朗支持的胡塞武装袭击沙特油轮",
-    "url": "https://www.independent.co.uk/bulletin/news/iran-war-saudi-tankers-houthi-rebels-b3019922.html",
-    "source": "The Independent",
-    "time": "2026-07-23 10:47"
-  },
-  {
-    "title": "“我们不卖油，谁也别想卖”：伊朗威胁扩大原油供应中断",
-    "url": "https://m.economictimes.com/news/international/world-news/if-we-dont-sell-oil-no-one-will-iran-threatens-wider-crude-disruption/articleshow/132570906.cms",
-    "source": "The Economic Times",
-    "time": "2026-07-23 10:53"
-  },
-  {
-    "title": "胡塞武装声称在红海袭击沙特油轮，伊朗战争中新封锁节点风险上升",
-    "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-say-they-targeted-two-saudi-tankers-source-says-encelia-hit-by-missile",
-    "source": "The Straits Times",
-    "time": "2026-07-23 10:42"
-  },
-  {
-    "title": "美伊战争新一轮袭击后油价突破每桶90美元",
-    "url": "https://www.standard.co.uk/business/business-news/iran-brent-trump-bahrain-iraq-b1290600.html",
-    "source": "London Evening Standard",
-    "time": "2026-07-23 10:35"
-  },
-  {
-    "title": "美伊紧张局势升级，油价升至六周高位96美元",
-    "url": "https://www.hindustantimes.com/world-news/oil-prices-rise-to-usd-96-a-six-week-high-as-us-iran-tensions-escalate-101784774689760.html",
-    "source": "Hindustan Times",
-    "time": "2026-07-23 10:50"
-  },
-  {
-    "title": "中东战争推动油价跳涨，全球股市分化",
-    "url": "https://borneobulletin.com.bn/oil-prices-jump-on-mideast-war-stock-markets-diverge/",
-    "source": "Borneo Bulletin",
-    "time": "2026-07-23 10:39"
-  },
-  {
-    "title": "油价飙升打击市场情绪，印度股市或将下跌",
-    "url": "https://sg.finance.yahoo.com/news/indian-shares-likely-fall-oil-023521612.html",
-    "source": "Yahoo Finance Singapore",
-    "time": "2026-07-23 10:33"
-  },
-  {
-    "title": "油价飙升打击市场情绪，印度股市或将下跌 (Business Recorder)",
-    "url": "https://www.brecorder.com/news/40431392/indian-shares-likely-to-fall-as-oil-surge-dents-sentiment",
-    "source": "Business Recorder",
-    "time": "2026-07-23 10:37"
-  },
-  {
-    "title": "油价暴涨令卢比持续承压；布伦特原油突破96美元",
-    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43P020:0-rupee-to-remain-under-pressure-on-runaway-oil-rally-brent-tops-96/",
-    "source": "TradingView",
-    "time": "2026-07-23 10:57"
-  },
-  {
-    "title": "原油价格恢复上涨 - 技术分析 - 2026年7月23日",
-    "url": "https://www.economies.com/commodities/oil-analysis/crude-oil-price-resumes-its-recovery-%E2%80%93-analysis-%E2%80%93-23-07-2026-128644",
-    "source": "Economies.com",
-    "time": "2026-07-23 11:15"
-  },
-  {
-    "title": "裂解价差高企：机构警告油价上涨可能引发非线性连锁反应",
-    "url": "https://www.moomoo.com/news/post/73398752/elevated-crack-spreads-institutions-warn-that-rising-oil-prices-could",
-    "source": "Moomoo",
-    "time": "2026-07-23 11:06"
-  },
-  {
-    "title": "科技股反弹提振亚洲股市，油价因美伊紧张局势延续涨势",
-    "url": "https://today.rtl.lu/news/world/tech-bounce-lifts-asia-stocks-oil-extends-gains-on-us-iran-fears-896859561",
-    "source": "RTL Today",
-    "time": "2026-07-23 10:57"
-  },
-  {
-    "title": "美国对伊朗发动更多打击后胡塞武装声称袭击油轮",
-    "url": "https://ca.news.yahoo.com/houthis-claim-attack-oil-tankers-023918102.html",
-    "source": "Yahoo News Canada",
-    "time": "2026-07-23 10:36"
-  },
-  {
-    "title": "美国科技股财报后亚洲股市上涨，油价创六周新高",
-    "url": "https://ddnews.gov.in/en/asian-stocks-rise-after-us-tech-earnings-oil-at-six-week-highs/",
-    "source": "DD News",
-    "time": "2026-07-23 10:48"
-  },
-  {
-    "title": "特朗普宣布伊朗封锁令推动油价飙升、道指下跌",
-    "url": "https://www.fool.com/investing/2026/07/22/donald-trumps-iran-blockade-announcement-sent-oil/",
-    "source": "The Motley Fool",
-    "time": "2026-07-23 10:38"
-  },
-  {
-    "title": "IEA警告中东冲突加剧石油供应风险，尽管全球市场目前稳定",
-    "url": "https://peopledaily.digital/business/iea-warns-middle-east-conflict-raises-oil-supply-risks-despite-stable-global-markets",
-    "source": "People Daily",
-    "time": "2026-07-23 11:20"
-  },
-  {
-    "title": "伊朗称在霍尔木兹海峡拦截三艘过境油轮",
-    "url": "https://www.bssnews.net/news-flash/408132",
-    "source": "Bangladesh Sangbad Sangstha (BSS)",
-    "time": "2026-07-23 10:34"
-  },
-  {
-    "title": "环保组织要求对Uzere石油泄漏事件采取紧急行动",
-    "url": "https://realnewsmagazine.net/environmental-groups-demand-swift-action-over-uzere-oil-spill/",
-    "source": "Realnews Magazine",
-    "time": "2026-07-23 10:35"
-  },
-  {
-    "title": "中东冲突升级，尼日利亚石油基准价突破95美元",
-    "url": "https://www.thisdaylive.com/2026/07/23/nigerias-oil-benchmark-tops-95-amid-escalating-middle-east-conflict/",
-    "source": "THISDAYLIVE",
-    "time": "2026-07-23 11:17"
-  },
-  {
-    "title": "CPC油轮遇袭扰乱哈萨克斯坦主要出口通道的原油装载",
-    "url": "https://cyprusshippingnews.com/2026/07/23/tanker-attacks-at-cpc-disrupt-oil-loading-for-kazakhstan-main-export-route/",
-    "source": "Cyprus Shipping News",
-    "time": "2026-07-23 10:45"
-  },
-  {
-    "title": "风暴之后：石油冲击不再那么令人震惊",
-    "url": "http://www.theedgemarkets.com/node/811326",
-    "source": "The Edge Malaysia",
-    "time": "2026-07-23 11:28"
-  },
-  {
-    "title": "道指收平于52218点，纳指下跌0.6%，油价在大型科技股财报前突破94美元",
-    "url": "https://hdfcsky.com/news/dow-ends-flat-at-52218-nasdaq-slips-0-6percent-as-oil-surges-past-94-ahead-of-big-tech-earnings",
-    "source": "HDFC Sky",
-    "time": "2026-07-23 11:08"
-  },
-  {
-    "title": "港股高开，美国科技支出计划提振区域情绪（对油价敏感的亚洲市场）",
-    "url": "https://news.rthk.hk/rthk/en/component/k2/1863266-20260723.htm",
-    "source": "RTHK News",
-    "time": "2026-07-23 11:09"
-  },
-  {
-    "title": "胡塞武装声称在红海袭击两艘沙特油轮 (Madhyamam)",
-    "url": "https://madhyamamonline.com/world/houthis-claim-attack-on-two-saudi-oil-tankers-in-red-sea-1539609",
-    "source": "Madhyamam",
-    "time": "2026-07-23 10:39"
-  }
-]
+{"title": "IEA称石油储备中仍有10亿桶应急库存", "url": "https://news.google.com/read/CBMiygFBVV95cUxOVDNlQUZPRXRyNlZZQkEwd3RJRW5RSWZkLW91VjFKcklOWXpSX2FLdndpVU1pQTQ1QldsZ3dSTHJaS3BkS2pVaUJWekZmbHlkZWxkVXZqZTFkVGRKNnMzUWJqQnlzYkhrM05EQmprVG5jeXZPdG5SSmo2elYzUU8zTGlham1TTjBhQl9IV0JUdm5UVmRDYVhnLWpCYnNDa1hIVlgyYlFfUlZBblRYWGhaUG9CYU83S0xsM1JBRGJjTnRDdll2QzQtbmtn", "source": "Energy Connects", "time": "2026-07-23 13:45"}
+{"title": "胡塞武装宣称袭击两艘船只，沙特海岸附近油轮遭袭", "url": "https://news.google.com/read/CBMiuwFBVV95cUxPM29xRVZBLV9pSnUyQ3JlcHA1V01TMGE4ZWktdWl1ZUt5b3VSR2JFc2JLeklGZkpJWTNKaTloa3pFWnI0Z0tvSFhSNmwwcTZ4d1hhQzZwbEJxOXY5dGRqRkxkZGtkYV9Od0lETkxheVFyYXEtVHZXOUhUenVuLUpBR2FxQWVPcUt2SjZTV1oxUHJXRkEzT1A2RmNJazBpZ1JDYlRucnEwM3BEQmVvRTBOS2ROMDVMbFZuVmpB", "source": "i24NEWS", "time": "2026-07-23 13:37"}
+{"title": "伊朗冲突升级，全球油价上涨", "url": "https://news.google.com/read/CBMigAFBVV95cUxQU2VkeHFzR2JZRjlUUzFmcVlJdjFrRE1vQ1hjeVVNMXpCUEJhRThSRVdQU3djd2c0Q0p2M2IwQjJmM0Y0RFQ0dktiRS0zRlQ2UHcyeVdDM2VJbk43MXJTcTlBR1BYdkJYM3FXWjR5T253Wng2M3YxTzhxU0JpaEJ0QQ", "source": "The New York Times", "time": "2026-07-23 13:09"}
+{"title": "试图非法穿越霍尔木兹海峡的油轮起火", "url": "https://news.google.com/read/CBMitwFBVV95cUxPNXdSMjVNNF9nSHNTVGhzRlpCbHU1RjBkSV96ZVN3cHY0OTVTbFNINVp0UHE0YkJpYWJHeWV5TzdzRTM5SE43Q3pqYTN1aXpSd1VkU24wUXhRNHRkaktQOUZSeFRXM3pIcDhxaU43RlZsckRXSGE2MEpuMThHM3hjUkdkc0lSNVUxLUNtNUpiMUtLZVZnaXIxSmN6ZVhPeU1CTGhIX3FCOVpkQWJPVXl5a1B5YnJvRm_SAbwBQVVfeXFMT1BWTmZPeXI5MHdaVTliUC1wdjQyZGpqa2dBQnlRZ3Y2TVZud1JQcVJKM3AzUUNabnJaNThwOGc4c3pGdE14WWpuSm1uUUFYZ25oUFVJSHVaeEVLSVhMM0Z6ZEc3TzZkM3lmeGlyYXNtV3ppeU1PM2xKNmdEd3Y3WkkxcWUwOTVtcjlzOXU1MGZGNHd2VFpXNHc2QXkzTFpmckVZM1BUbWdNbVJKdkhxZVJGY1ZpdlJpOFc3NjU", "source": "Tasnim News", "time": "2026-07-23 13:30"}
+{"title": "油价引发新一轮加息担忧，黄金下滑", "url": "https://news.google.com/read/CBMigAFBVV95cUxPbV9udVpjNC0ybEtJeWhhX2dUNTJGbUI3NVpKMndoMXlFZURjbzhtLUZudjl5cWMwV2YxeDhQUjFkU0JPQzhjUWwyRzJJdGdHYWdfbHg4b0pfSUFERkV6TVF5UjkyanhvZXJkbmYtV2ZYcnA1OVVERTJOcWlYVHlvQg", "source": "Finimize", "time": "2026-07-23 13:42"}
+{"title": "中东紧张局势推高油价和收益率，市场严阵以待", "url": "https://news.google.com/read/CBMiZEFVX3lxTE9kWV9ReGhwWEd0bzktUTFReExHOFlCTlRnOFpkT09wbEZVeWk5eVhXN3FZekppTlJVR05LRmZNNllqdjZaTEdMcmVJRWY2SjMzVjBMQk1FcnRnZGpyaWVzbFY5eUY", "source": "Mezha Novyny", "time": "2026-07-23 13:29"}
+{"title": "胡塞武装袭击两艘沙特油轮，一艘在红海起火燃烧", "url": "https://news.google.com/read/CBMiVkFVX3lxTE9DZXNzVldqaTZxdDE5aFJwYUVacHJuTTdqdlZEVEZxcThtcXpSazRlbERwUGdsei1odVFLY09HclU2SV9vYWtjeldZc2gwSDZHRGNyMHJB", "source": "mediaselangor.com", "time": "2026-07-23 13:21"}
+{"title": "红海油轮遇袭推动油价创六周新高", "url": "https://news.google.com/read/CBMilAFBVV95cUxQcmY0OEE5eGFUckVZMmtwc2FSOTY3V3BqR1kzUGdBUmt6YTg5Nm41OVFiUk1TbEhqZXZwYU1nSDNpVV9fSUlaTWUyeUZVVWtmRFdOWUYxWEl2UjFsbHlfR0Q3eXRrWDZpekpSNjNvNk5oaG1HZGNKd1gyeEVVelZsRlNjSm9VekdIRXF3N2lzZlhlLTF4", "source": "Arabian Gulf Business Insight", "time": "2026-07-23 13:12"}
+{"title": "油价再涨3%，华尔街走势震荡", "url": "https://news.google.com/read/CBMi0gFBVV95cUxPLTlmYlp0Y056LXdwb3Rwc3JWT0dwUUpORFlYeVgyUjV5V0RZdHNnT1BsUVBUUXhIRzRFc0FCQXE0a1llYmxPNk9yT0k4VzBkcXpZeUU1S3dDcmlhbXNMZVdXVFNabi1yTDhydmNGZW84QW5wV3NhTFlPRVZNeDhGS3FSYWxWc2N2aDlMU3E4eEZWSXNIdlVfLWdMVk5TdVdOT0o4QkZHbkR4THBnNmpNVVcwVmZYRmlZbGxNbXRJcWJjcm1LOVdaa2lHQ3ZWM1BEdWc", "source": "timesdaily.com", "time": "2026-07-23 13:03"}
+{"title": "美国清晰法案通过概率降至38%；油价和美债收益率上升拖累比特币走低", "url": "https://news.google.com/read/CBMiVEFVX3lxTE9hQ1J4ZjE0TlpRbzZPUVJSaWNfWUFSZUVWSFBKQ0pYYW5ES2FtTVk5dkZxYlhDT2dCZjBjN1JHeVdCUU5UdE1Yczlac0d0cF9wWUVmOQ", "source": "bloomingbit", "time": "2026-07-23 13:41"}
+{"title": "AI科技股涨势抵消油价飙升影响，亚洲市场涨跌互现", "url": "https://news.google.com/read/CBMiowFBVV95cUxQbnVkcHg5LWFjaTduNXNqWnpPdUVHYmRUV3lHbTgySFhQV0Q1bGhyVGtIMW50TEtiWXZzdFQ1QmFaQUozUTZ1S1ROa3NsanNTVk5EOFlVV3hZNHJtUGlfLThNcWpsOGpBakVnanh1NE14Q1ZHekp4SlVqWGV3T3R6bDhDTjM5YjBQdUhkQ0E4anBzb0YxWlhzckdiNzF1cElaOUJV", "source": "Seeking Alpha", "time": "2026-07-23 12:58"}
+{"title": "尼日利亚：石油巨头在陆上资产剥离浪潮后押注数十亿美元深海项目", "url": "https://news.google.com/read/CBMiwAFBVV95cUxNRTJzNC1MYjVKa1hsZjFHeHZpa3VFalVmelhxNGhVV1M5WTRRN1NPX0FvckF2MURRb0RKTVY3RUozOG9UbUhFVmxNeG5mUl9nQTVPSkxZX0pXRTllbHBPMzgzcU5XYlF0bThEd3RZX1dwQk9oWUY1a1JzV25rQXRKYnNMZ2c4aTNRdThhbXlvNzVubmxZUzlGYk8wbThKdkhTSVNJOHB1NF9laUR4ODhnbUZaOExJNUZXTDB4Um5GUGw", "source": "The Africa Report", "time": "2026-07-23 13:03"}
+{"title": "乌克兰袭击破坏炼油厂，俄罗斯被迫从印度进口燃料", "url": "https://news.google.com/read/CBMihAFBVV95cUxQT0h5LXJ1a3dmZmwyXzg4QXZ0SE1KcjBhY05ZSkdQVnl2eTFfZ2ZkM0tuQ3BzeE9sYW1RTExZQTdDUVJMMVNkd1FXRWN2VnNwU2llLXhzaDBOdzhkalFKT3VTOGpNajkwUEJqbG9jUmhNeWNBVTZFdVhZbUdQa2tBYndhR0k", "source": "Financial Times", "time": "2026-07-23 13:28"}
+{"title": "越南宜山炼油厂确保原油供应可运营至9月底", "url": "https://news.google.com/read/CBMi4gFBVV95cUxNa0NWZFIwczZTZkotdlFCTFFRYm5NbXNKelVoXzB0Y21YOG5XNjBMQ3VFbExTamlqQ1NqVmVLdkE1V1pkeG0xQzZtV0NKaFdXTkJyYkJIOFJaaGQtbzVkTUc4OVBXTl9vaTA2N0NTWUZXWkRYR0l2MHY3clVmellJbzR3WHpzdnFvUV9MNDA1N1VkcFBvb2JrbDZMeWNOYlhTXzFOWFN6LUZtcHFPYXJTQU9FQ0cwdk5yeDkyRFFzdUZsVXBINDd2WnBYdllYeWRyZ1ZZcTkyZFNTOW1SMnR1QmlR", "source": "TradingView", "time": "2026-07-23 12:59"}
+{"title": "油价风险持续发酵，新加坡核心通胀加速至1.6%", "url": "https://news.google.com/read/CBMitAFBVV95cUxOSlZTUGpOZzk1WGlEWEdUbXMtQTlwMkI3NE95NmpoLXIwRHhIYjdjWXJtZXh6TDRGV1QxSTBXUElmV0x2WWxCb1oxck5JbXEwenBiU3NKUldzdll1b1E2RXR6c3RQeVQwTFI2VEZBV3ZhNW9RWnBIci1PWlVIYTBLUmJ5VTY0cFdma25nbHp0TVU4WnJrMkdnSmZrQ2VQVmp2TmZCdDBucVBoY1JPY0swcHVCN2M", "source": "Bloomberg", "time": "2026-07-23 13:03"}
+{"title": "无人机夜间袭击乌里扬诺夫斯克炼油厂，火灾报告损失正在评估", "url": "https://news.google.com/read/CBMib0FVX3lxTFBLalk1am04RDRSdG16RER5cC1YVnBZU0haQUlNMkRGeWxaNkNUTllqdGFSLUZTNEo0Z2lzM1dMam94UTVGS0JfTUxWdUd5bHJWZ1ZNdWp6NW42Y3pEY2g1eHZGUHB0N3drZWRma082RQ", "source": "Mezha Novyny", "time": "2026-07-23 13:07"}
+{"title": "Frontline及两只油轮股在红海航运紧张局势中受益", "url": "https://news.google.com/read/CBMixwFBVV95cUxNRWV1aExGaHlSZzdQWGlSQnNaR1BGRnMydTJNWER3MHdQalNOOUU0V1ZJa0RGdDNINFM2VVBJYTFDc3NrNXpZTlpJYWZqV3k3ZUhQVXZacGF2X25ZQUNXR0tOcXB6THZMRkd1VEROVG9JaVlzTlBTdDdRR1RreEd3Yk9vOWd1VXRHS1JOOFk3UGlQTkNzSk9aZW16Zmd3ZnFtM1Uza0F2SjBMWnhSeVlhZ1cyYkZMSGVrSUs4NUUxUC0wZUJ5N19z0gHMAUFVX3lxTE1zaXh5WWhNV2JhQUhKWG01MkpTVHBxajlTWUNjT1FYUkVYXzhxN2hjSjhfeklHakktajVORlMwc3hudzhHbTRlLUFtRDBEZkE1VVljNy1SLUpJRWZoLU51S0N2NXRPNU9nNTRrZVFhU05mLVZBUF9lM0g3VFNzYzdIdGJfUkczTFZCcnhhUjNtcWVGSWZXWXBPMXh0Vk4taDhSeW9abjNCSVdsYkZuYzRCcHRkcTVxNWN3ZjFOSjQ3S3dMVjRvV2xhZmVfXw", "source": "simplywall.st", "time": "2026-07-23 13:06"}
+{"title": "亚洲股市多数上涨，中东紧张局势推动布伦特原油突破96美元", "url": "https://news.google.com/read/CBMirAFBVV95cUxQb1gzc01CWlZKWG1NMWdjaVNzckUxdkFINnFtbDRaV3ROMkZpdktObVdleGVzdkJnbmxIV2FhUlpURTlvXzF4U0hPLVdjRk5FYmE2dTJaUWJlRWhLOGFRaVhGaDdyLWNUdWRrR242NFhZa3NhR0djejdqWnoybGw5SEE0NGZNdUJLbnV4Wmw2U3d3NkhWci01UW95QUdRbGdmMlV5ZmVLRXFrVW5W0gGyAUFVX3lxTE12VjBIVlhFRlB2aTVxdVFUdmhLaC1sc29hampRckFvb2N1Y1hoVXpOZERtWnRoUTFWd0NDZ1NfRVVDTThBZUU3cUNjQkFsYWk0YTdiakVHYVdYa2kwZEtVakZ2eThhU2UxWGlxX2h4M2V6S1hqd2JScERpdTlVak9lLUtabGdKWGRJVGNRUDRIVTFxNmZIRmhQYWRUUmRhNXAxYVkyOXhCWHZtNDdFR3h1Wmc", "source": "KDVR", "time": "2026-07-23 13:28"}
+{"title": "WTI价格预测：测试六周高点接近87.50美元，100日均线下方维持看空倾向", "url": "https://news.google.com/read/CBMizgFBVV95cUxQck53SW82VERhbDh5OEZ1YUV2c2VicHRWdThwQm9OQWY4Nk5PRXpiS0g4UWdtUGZrdEQ0NUxlTlNjdjBqd2hvTGpXaFdZd2tZWHYwWURRQWRLa2Nfa1B6VXNYZUhlR21GZzVxSm41Y1JSSEJVTTJKZUVQYUlQX3ByNHBhTkZic0JQeWZFV3ROTjNGbUpkZHhSQ2t5WXdBV25sTksycExTcXNKdGJKSWQyaUhSb1pydDJIRDFQb2xKQWNmMlBWejQyaHRmcTZBZw", "source": "FXStreet", "time": "2026-07-23 13:28"}
+{"title": "海湾航运风险推动油价上涨超1.5%", "url": "https://news.google.com/read/CBMifkFVX3lxTFBOLXZLT2JxaHJoRHdhaklRcTJVMUdZU3ZaSTlaamJwcE5xMjBoMmxMVU9TNjBfWU1VMUlnNXVUc2pfOG1GLTRDMndFSHdIcHd4MVhlMnBUaGJmTWZYZzdtakpPNnR3NHBHNWdhNGh4MmZ0YTdMUkM3eVlaaEJuZw", "source": "Shafaq News", "time": "2026-07-23 13:38"}
+{"title": "布伦特原油价格预测：美伊战争升级，目标上看100美元", "url": "https://news.google.com/read/CBMisgFBVV95cUxQWGVFeVJlMEgtWTBTSnhCdHlCX1BzOF93dGxuUTVpOU9zZTNVc3RuX1ZxaFRNTU9PRUhNaE9XMkUyRHNGVUF5dzNTRTJ3ck5OQ3NDb2M2Uk05MWFTNG5vOHhDSXRKUWNsWlJwLVpWV3VjV3dyd0U0VUVBdUN1cDl4MFRsN2RGVWRDOVZKVmtLQ0hTNXRUR1F1RDU1VEt5QWMtcU95cG1KWF8xMU52N2Z3aHlR", "source": "Invezz", "time": "2026-07-23 13:07"}
+{"title": "高盛警告：布伦特原油可能再次突破120美元", "url": "https://news.google.com/read/CBMitgFBVV95cUxPNGlITFNVSTF4ZHdWam1FRWxqM0w4YzhOejJQRkxEaU84TGl4dUZReU1lUVZvQ1pHRFB4Y2xpaFlvNFFfaXhCRll2MzQ3cjlQY1l1dktlbXJBbHZUSkpNMnBGY3NodTItZE9MRHl6RDVoTzV4VURHRVM3MnZsd3Q3Q3BTMldxQmJJMnlJU0VzYTFDbGFnLTA0ZUY5a2JyTC1SaXpPMVd4cWs3NFdEeWwxV2l6c3h2Z9IBuwFBVV95cUxNaXY0WWE0eU9KVVJFcHp3TGprczJlWjhtbzByN3ZabDBYRzl1bTlSUE1hVE5yWFhrT0VzRml0dUFoTU1PQnBCZUVFejlIVHJXeWhySW1SMkViUXFDNGVJS0RMMWZoYktGOTNGVnVtUXIyc2hVZ2JwekI3bFFwVmZwUVh1VlBUQVQzYkFKNFZpTHExdUg2a1NsVExNSURoeF82bmJlTnVsRUY0eUtBeUNTdGkzR1l1ZUtxbm9Z", "source": "WION", "time": "2026-07-23 13:13"}
+{"title": "迪拜原油飙升推高韩国通胀风险和加息概率", "url": "https://news.google.com/read/CBMif0FVX3lxTFBEbFpXMWhxYV82aHBJNDUyVEhmUUk0ZTR6alQ0VGF4OGstdnpRTzFPZ0ZRdi1IeGNDYXlmTUhiWnlaX1o1M3dVSXR3LURGdzFxODduYkp5TzBhUHpWY0RHeFJtLUFKQzEtZ3VaQWVfQURzVW5UV0JPNXFMMk9fMmPSAZMBQVVfeXFMTVVhQlZUVTRSRHh3YXdzb0F1OHRsM0dSLU1LTjNuTDNNTkktQmFVeDg0UVh6WXZneWNrczBybHFvRmFQMFZSelRhbHlvTDRhQ1l6b1BLVFAzR2k5bUlzaHRuYmdpdHV1SGY2RmNGdDV3bzRwUjVLVGVWVEFPU2djajcxWmJIb0J4Q09WVkVoNnpPMUxr", "source": "Chosunbiz", "time": "2026-07-23 13:10"}
+{"title": "全球市场油价突破96美元", "url": "https://news.google.com/read/CBMiiwFBVV95cUxQdmtMc2lfT1ZnYkNmT2tZOTdDZnpTcjVZYXZPbTljNkJybjJibkpfMU4ybl9sWmYwLVIzWUtxRTRBZzVlbXZGZXI0Y2l0MjNCamJmUEdWMXJkbHZoMDJ3X0FwaklkYWt2YVhyX21RRG9LQmxDNGM5RWdBZGhWdDYwVWw1c1RuRnlJYk84", "source": "Apa.az", "time": "2026-07-23 13:31"}
+{"title": "阿塞拜疆轻质原油突破每桶100美元", "url": "https://news.google.com/read/CBMiekFVX3lxTFBZSDhUTUZUeEF2TjFRNGJPeFo5UXpNQmIyY1cyTWRWek9HWjhtT0ZESDdQcm9rWS1VaExTUDkzVUpUaXh1RlhNRk1JU0x3M2duUkx1TUlHNHZzOWgtemg5a0hjLUlXM2VVc2cxVlJHSzFXSDFxdVhQVjln0gF_QVVfeXFMUE40cVRFZTl5b3VTZmM3SDlmaC1kUXNoWkRRdko2NHQ5WVM3b0w1bW1QQkxsTFhwbElja2NBdmhZME9JSk5Wd1J0NG9YUWktdm1nLWJtS2tXZll4dVFsMUYtNjdUZlhUMDhoeGQyYml4WE9aVWVmNW5OUllUUkNXYw", "source": "Report.az", "time": "2026-07-23 13:46"}
+{"title": "西亚紧张局势升级，原油价格上涨超2%至96美元", "url": "https://news.google.com/read/CBMiogFBVV95cUxOZlJnVno5Z1BTMzdXeWtLZkg2RVN1MGVvTm56T1Y3WkFMRXJGRGRJcVVFazZzc2h0LUNJQ2ZrVVpnRU5QX0ZHZGVNUlNORDRCcW04c2Jqb0dRa2o0QV9BWUtxamVFRUJ6Y1dkNHN5MlhfTUNtakhRYlFmcHZJS1E0Q0dONGtjMHZCdjh5bkg3MUF0YzBQS3BIU2FEV09BRHB2WHc", "source": "Telangana Today", "time": "2026-07-23 13:20"}
+{"title": "今日股市：美伊危机和原油价格飙升拖累印度Sensex和Nifty走低", "url": "https://news.google.com/read/CBMi2AFBVV95cUxNREpUZjgzLV9HeWlFb3U2dEl5c2J6MGstS2w3VmROc0NVNGx3aFp5REVCdThwOHlOaUFUYlJ4SjBxV0JZMExmYVphNDJKTHd4WFdhaEpweWgySGFkUDVtaVlXYjNIVUZIRVhhSmpiS3ZmdUdxbk9ielFmOUZINGt4NjR6cjNfR3pzaUh6S2NKb0doN2V6YXFXVFY5aTdQdGFxTnFVbjM0NnlBNlNjdXd2OGtOT3F6VWp3cHVaLXFOQ3h0SFpWNjV6eU5pWG9CbUIyLXhfZFlkQzTSAdsBQVVfeXFMUFlPZ0RxS3huWV9TMFpYcUF1TDVDYnY5TXRxZFp1LS0wNkVWX0M3VEZpbjcyUjQ1RFFkN0NNMDFGRkNfQkhOek83LVhTcWU5X0Y1TW00UGUyMGVibnZOMGdEOENlY2dOUERkX2ZaSjhTcWNNUXQ2cm1nOWlDWWpTTUtNX0hBOW5vaDlVclRwa3Zxc3RZdlFxclZZQmQxMHZ0ZDdMcXZEeDFJaHducG8zRUtUdWhmWVpWZ0VoRXhwNVIzSHF1WEUwMHg5R1NidnNEeW4wbnhjSjRDVThn", "source": "Rediff", "time": "2026-07-23 13:02"}
+{"title": "布伦特原油自6月初以来首次突破96美元", "url": "https://news.google.com/read/CBMijwFBVV95cUxQM3RGQXlWOUtUS0FBcDFiVkpISDY1T3RSM29zVzEtdjdyTDFDYVRSakdDeldveEhSbWRsMGYtdmpORTI0QnJYMEtQc1pmRVJWUWpEdXpybzYwRk5za0VTeUJPcTdGSFJMZDZCTWVaYS1HU29fN01XQmtFekVfWnB4WFZmb0o2UTV2dkxJbjhDNNIBlAFBVV95cUxPNDVNQ1NNdzg0N1BLTjVVZUVUVUZFNzM4eVFIY0ZYN29yLWpiOGJXMWFTRlIyZnNoTm8yemgzcDJhLWVIeEdXbkJWSnpUX3pLelh1TGMzTE8yMWdPVzZyaTIxN0xmZWRaT2R4NlNvdEF0UWtCb2haUWdwbV9ub2NuUWRlVEdOQ3NUWnFIakhWbDVxNFJr", "source": "Report.az", "time": "2026-07-23 13:35"}
+{"title": "原油价格上涨和西亚紧张局势导致Sensex和Nifty开盘走低", "url": "https://news.google.com/read/CBMipAFBVV95cUxOU2FaTjYwRWxjalFsMVNaby1pXzBmbnB5ZEUxOUdxbXRfR2NPeGllaDlyeThjS09BOWZOanpEMGtxcmNSdTNjdExxdkxlZk9NdDA1LUt2T01PT19wQTdiU0hEcTlNTmQ3Z0hPdktvYXRlT0Z6V052clBPNEhwQmlDZUVkMFUtb2E4dEFPSk9XVTZpeW1fQ3ZyLTlxQmxZemNRdXhnNQ", "source": "DD India", "time": "2026-07-23 13:26"}
+{"title": "美伊冲突进入第12天，油价创六周新高突破96美元", "url": "https://news.google.com/read/CBMixwFBVV95cUxOcWJpT245VHNKRzdTMVZtaXZIV1ZwWUdWRkNaSmV6dGVJd3d5RkdqZ1owR1RpVlhDaHBwdVBDU1NjbktsY3owTzNmOE94YzRZZDZmekVxZHpMdlJwbFVoNWVUSnlnOTB3aDM5SjRaUjR0TFdoQUFIZDhqY2U2NGdVSWdBZTRNUERWTW1hSExJazBLc1p1T0p3SWZOTEk3eWtNZnhXZ2N3dE1wWDRFdnBLQmJGY1pLRmR4cjZHWk1mTFo0Q2pxU1dR0gHMAUFVX3lxTE1MeTNpYjZsQm5VWjBkSFVlTF85ZnFrb1VpZk9jRE9iLVBWZnFqd01QbXBDYjJlQmE0SlhSWWtMUGVaNXRoalduRkg1X1hEdWpXMnhZU1ZuaVRZRzd1OF9rNUZNSU5EcVRKZkhMR2hsRjhVY1JqZnJTWWdYck1QQWg0ZzdDMHo2YnhqQjlnbTYzZnhwZ2VvQXNhUVY1dHJRZE9ZSDBzUU9INEtBOUNaMlZkeFZfNzRHRFBnZVd5aC1zdTdZem5tTTc1ODJFaA", "source": "Free Press Journal", "time": "2026-07-23 13:35"}
