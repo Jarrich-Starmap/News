@@ -1,18 +1,182 @@
 [
-  {"title": "纽蒙特矿业金价承压下仍实现利润增长", "url": "https://www.wsj.com/business/earnings/newmont-reports-higher-profit-despite-lower-gold-prices-83c3db3b", "source": "WSJ", "time": "2026-07-24 10:00"},
-  {"title": "纽蒙特(NEM)财报前瞻：聚焦金价与回购计划", "url": "https://www.gurufocus.com/news/8975860/newmont-nem-earnings-preview-focus-on-gold-prices-and-buybacks", "source": "GuruFocus", "time": "2026-07-24 10:31"},
-  {"title": "纽蒙特二季度利润超预期，受益于金价上涨", "url": "https://wmbdradio.com/2026/07/23/newmont-beats-second-quarter-profit-estimates-on-higher-gold-prices/", "source": "1470 & 100.3 WMBD", "time": "2026-07-24 10:02"},
-  {"title": "自由港麦克莫兰黄金业务逆势表现亮眼，尽管金价创十年最大季度跌幅", "url": "https://www.kitco.com/news/article/2026-07-23/freeports-gold-business-shines-despite-bullions-worst-quarterly-decline", "source": "KITCO", "time": "2026-07-24 10:05"},
-  {"title": "散户仍对黄金抱有信心，EverBank分析师称抛售属于健康获利了结", "url": "https://www.kitco.com/news/article/2026-07-23/retail-investors-remain-confident-gold-despite-recent-selling-healthy", "source": "KITCO", "time": "2026-07-24 10:11"},
-  {"title": "纽蒙特财报盈利与现金流强劲，股价仍下跌", "url": "https://www.barrons.com/articles/newmont-earnings-gold-stock-08cfcb19", "source": "Barron's", "time": "2026-07-24 10:18"},
-  {"title": "黄金下跌28%确认一月份高点为见顶信号", "url": "https://m.za.investing.com/analysis/golds-28-drawdown-confirms-the-january-peak-was-a-blowoff-top-200621652?ampMode=1", "source": "Investing.com South Africa", "time": "2026-07-24 10:03"},
-  {"title": "黄金(XAU/USD)价格预测：看涨反转能否撑过本次回调？", "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-can-the-bullish-reversal-survive-this-pullback-1612441", "source": "FXEmpire", "time": "2026-07-24 10:04"},
-  {"title": "油价飙升推动美债收益率升至18个月高位，黄金暴跌", "url": "https://seekingalpha.com/news/4617791-gold-plunges-as-spiking-oil-prices-lift-10-year-treasurys-to-18-month-high", "source": "Seeking Alpha", "time": "2026-07-24 10:54"},
-  {"title": "伊朗战事升级推高加息预期，美元走高", "url": "https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html", "source": "mint", "time": "2026-07-24 10:44"},
-  {"title": "纽蒙特Q2盈利超预期但营收不及预期，凸显喜忧参半的季度", "url": "https://www.chartmill.com/news/NEM/Chartmill-51547-Newmont-Corp-NYSENEM-Earnings-Beat-but-Revenue-Miss-Highlights-Mixed-Quarter", "source": "ChartMill", "time": "2026-07-24 10:09"},
-  {"title": "纽蒙特Q2盈利超预期后是否高估？EPS 2.10美元 vs 预期1.94美元", "url": "https://www.gurufocus.com/news/8975755/is-newmont-corp-nem-overvalued-after-q2-earnings-beat-eps-at-210-vs-estimated-194-revenue-misses-at-44b-vs-estimated-63b-gf-score-84100", "source": "GuruFocus", "time": "2026-07-24 10:26"},
-  {"title": "分析师预测金价4年内达到2万美元/盎司", "url": "https://captainaltcoin.com/gold-price-prediction-analyst-says-20000-gold-is-coming-in-4-years-heres-why/", "source": "CaptainAltcoin", "time": "2026-07-24 10:58"},
-  {"title": "纽蒙特Q2自由现金流因金属价格走软下滑30%至22亿美元", "url": "https://thedeepdive.ca/newmonts-q2-free-cash-flow-slides-30-to-2-2-billion-on-softer-metal-prices/", "source": "the deep dive", "time": "2026-07-24 10:57"},
-  {"title": "NOVAGOLD Resources从Paulson Advisors手中全资收购Donlin金矿项目", "url": "https://www.indexbox.io/blog/novagold-resources-acquires-full-ownership-of-donlin-gold-project-from-paulson-advisors/", "source": "IndexBox", "time": "2026-07-24 10:35"},
-  {"title": "纽蒙特Q2营收61.2亿美元，EPS 2.06美元——10-Q摘要", "url": "https://www.tradingview.com/news/tradingview:0ac2082676c30:0-newmont-corp-de-q2-2026-revenue-6-12b-eps-2-06-10-q-summary/", "source": "TradingView", "time": "2026-07-24 10:17"}
+  {
+    "title": "纽蒙特矿业凭借金价上涨利润超预期，产量保持稳定",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM19kS096N3BxWHhhTl9Tb2VEdVVpY0UtY0otNkdtYWxsaWFld2psTTVrUGtHeENTNFBNVHFzMmQtMzhRaVNhRkJITVplTjNKaDc1emk0MkFnVHZlZ0dHRG9FVGo4ZUlwU3MyQzlVU1JoV2phWXRZdDZOU1FWaXN0ZElyNUszbGVZTnhmc3drd3ZzRVNvVDNFek9Ra2R2d2p4QUxlelBabXBjdXF5RjZxQVhHQ2JPS2hMRWxWTmFDbng?oc=5",
+    "source": "marketscreener.com",
+    "time": "2026-07-24 06:30"
+  },
+  {
+    "title": "纽蒙特第二季度黄金涨势抵消产量下滑",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa1ZzYnhmbWFKUTZHYmd6bU5EbTNZS1BQckRLX21vWUowN0hJMUNmb0JnQmRGM2Q1NldfS05WUl9nU2dMTjd3bXMzUzd1SnM3bWJEdnloWkVJTTd6cUFYaEhuS1k4ZWpIN0RVSDdoeFByWVYzYmRBeGVEc0RBNDE2NVJ4YVF2SVY5OVgwMQ?oc=5",
+    "source": "Finimize",
+    "time": "2026-07-24 06:00"
+  },
+  {
+    "title": "美国黄金与铜业公司EBITDA利润率分析",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTJkZnFqVGxJOEdWdjNVX0RhR1NuNXJMLWtfVml3QjFsZ1kxRkJOUjlPMDlfZzRRVHJrMUtSLTIyOENxX3UzNVpQS2xTS2ZLTkF0N1BENDFrRFpqdzZtTWdVbm5TcFFGYlhjNVhFSTJ5UWVvVl9KLVNMcWZLcjZUY0o5WlRiOTBZT2p5b2syTnFwSU5WcV9Z?oc=5",
+    "source": "TradingView",
+    "time": "2026-07-24 05:35"
+  },
+  {
+    "title": "Gold Fields股价下跌3.9%，GF评分88对投资者的启示",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmxPallGZEJ4bm5ZVGZzc0R4dGZwbklMRUd1bG14WXFYS0FQRTR0VWxzNjBCVnlhQ2psbGRQc0YtdG1pVDhSdGZoRlUzVFp1NGpMeUdvQWFTekJGdnNyZnY5enNfVHNZTUFKLTY1ZEtRc2Fta2ZaTG5xMi1pZjIzS2trYmUzT1EyNzdmX0pqX1pXTXdVWWFRQmozeEJHWGs4UzJDM3lSYnN5WVE1anc?oc=5",
+    "source": "GuruFocus",
+    "time": "2026-07-24 06:01"
+  },
+  {
+    "title": "NOVAGOLD以42亿美元收购Donlin金矿项目，预计Q4完成",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDdoVGJnWFA5N0N1SmtFenBIbGMtZXhGNHkyR2hmZUtESTktWi1IV3Y1cVNhclFDZGtXNW5ONUJ5UjdmVUxOenlicTZqOF93d1lRQzE4dVZUN1ludXNwRlZfVFhqV1k3RFpvcXQyZnpvQWl1YWljd091Z09DdkZoM3JtWkJwb1NFclE5M2Vka1ljcldMRDdmOWFUdGtpeFRIRHdsSk9ldGEzSk9ocmowNVNpcjVIamctNXlr?oc=5",
+    "source": "IndexBox",
+    "time": "2026-07-24 05:40"
+  },
+  {
+    "title": "纽蒙特2026年第二季度财报摘要",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQzdLZElXcjRyZHc4OE1Xa1MzcV9xTDI1cHdnMnFRa0xWOENrVW42Sm1oMktsbjV5ZGlJMWVsYXV5YmlObDR0anU2bWJhYlNXblM0U1c0SXBBZWdhUjRjWGdOQlVmQzM1ZE5Sb19FRmEyV3li?oc=5",
+    "source": "Quartr",
+    "time": "2026-07-24 05:44"
+  },
+  {
+    "title": "黄金持稳于4000美元附近，投资者获利了结而非恐慌",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUpNdXcxcUQzUzQ0WTB4OXlMVnBsc1NmeUh1eDVRZlN1WFNERzctM25PUnVybFp5SVNBSDkweWRCQng2bmJOUzF6RFBUQzdwMkxxS1VzQXQ0bzdrRDBRamxDUUktT3NSVzVzVzV0NzlvWlY1LTUwbUhudUZRWFFKVUl1Qm9uenhwWXAwOGhqVUxvb3N2eGhMUmFraTZrU1U1Z0E?oc=5",
+    "source": "Pluang",
+    "time": "2026-07-24 05:40"
+  },
+  {
+    "title": "M3矿业圈定Edjudina四个黄金异常区",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tLTFsQWV1Rm4zWnZvVGRuSXhpOEwtd3ZIbG9TUFlidGRnWGYzbE1wZWpsd3kwTXFRNmtDV09YUWpJNzhpSVBXNG1kcnFyQ3dKZnRvMXJiaXhuQlJ1b1UzcFhQRFpReGQyczBvR2RPNA?oc=5",
+    "source": "Mining.com.au",
+    "time": "2026-07-24 06:15"
+  },
+  {
+    "title": "纽蒙特确认2026财年530万盎司黄金产量目标",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTN0eWx5RzlDUnJKSmVIbW5NRjgtYm9TLXhPS0h0Y0VXWmJNTFJmRFRBUHhueENmbDR5SG54MVlQalR1NWw0cGdYR1lickhJMG9md1oyVmpkUkhaT1pmUFE3YkMyYTgzN0JQOXVMYzdDVjRoNmF4OEQyeTR0SXZPdlpsRWZESVYwZUYwNDZCTmp6OXJnU1ExSmgtbmloMWZoTGdHZFpXQjRjZzQ?oc=5",
+    "source": "GuruFocus",
+    "time": "2026-07-24 05:38"
+  },
+  {
+    "title": "Newcore Gold股东批准全部年度股东大会决议",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZcHBwRjF1Ry12VzBLYVVMSWktS2UxazJRTm1aeV9qZ0VpWUxIOUJ0eEw0MXZ2Y0NFc0lVYWRrZGFBejM4RW55OExXaVhSZXpQWFMyZkZkQTlTUndiQlh1amxJeUhfbHVUOVdhZmkwbFVjeUFSV2NfaA?oc=5",
+    "source": "Pluang",
+    "time": "2026-07-24 05:48"
+  },
+  {
+    "title": "黄金回撤测试关键支撑位，突破4203-4240美元或确认看涨反转",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEJxbmkzUEdKbFIxb0Z4cnE1YUFqaEYwMXJHV25GQmNGeXRQM2NGMXNYeW1WUm1pZXd2eHlyd1didFhNNWxOaElDcElUZ2I2YUZ2VkpjVk5Td0hESmFraDV6N0VNQW43RG1HT0xjV1VScVZXbW94MEJZNERQd3NZTQ?oc=5",
+    "source": "Pluang",
+    "time": "2026-07-24 05:40"
+  },
+  {
+    "title": "Mutapa Gold获得1.25亿美元融资",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCR0JiQ3BhYWZLMTk0Wk1wdmNwekhQS1NsVGhaRzVGSVV2RDZMOF9yLXlGSEFVbFdjOGViVXcxd0o3Y3ZfU29VM0ZzTEkzT2ZiOTdsTDE2SmVwQkFpbGtpcUpHdEZPdHRpTGo2bzJ6NEpWQQ?oc=5",
+    "source": "Herald.co.zw",
+    "time": "2026-07-24 06:10"
+  },
+  {
+    "title": "黄金下跌400点，白银下滑300点",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwRWpaanJZYlVWRXg2T0VPZHlpQnpIQTktcW13MzdDU3RCc294TjNBRTd5Q1NxOUhVanZ1UjZoREQ2dVRkb1hralhDdDVmOHlEekMtU2R0N0tYT2EzNlNRbnBTaklYYkFvX3pjVlkzSUxwMGlaLVpUZE1lelNWZw?oc=5",
+    "source": "BizzBuzz",
+    "time": "2026-07-24 06:04"
+  },
+  {
+    "title": "纽蒙特矿业凭借金价上涨利润超预期，产量保持稳定",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGg4S05BeVdqQ3VjWE0tdUQxeWZPeWFwb21GV1VaZHhzMUhqS0g3am1WbWxKaFo3VW50MkVBUEpfNkZQMlVWTUtVdm93cURweE83UHZHdXpfdGJhTmNIdXIyTzVyNWdnajFzbE44R2VDMTBhUGYwNkt2M0Ezd2ZoZHBRUjNRcnNwWjRiY05RNVc1cDBaeE1kNlVMakRTdTN0OXBZ?oc=5",
+    "source": "Reuters",
+    "time": "2026-07-24 06:31"
+  },
+  {
+    "title": "黄金今日、明日、下周及未来30天价格预测",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+    "source": "LiteFinance",
+    "time": "2026-07-24 06:02"
+  },
+  {
+    "title": "散户投资者对黄金信心不减，健康获利了结取代恐慌抛售",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "KITCO",
+    "time": "2026-07-24 04:44"
+  },
+  {
+    "title": "自由港黄金业务逆势闪耀，尽管金价创2013年来最大季度跌幅",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "KITCO",
+    "time": "2026-07-24 04:37"
+  },
+  {
+    "title": "纽蒙特尽管金价下跌仍报告利润增长",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "WSJ",
+    "time": "2026-07-24 04:33"
+  },
+  {
+    "title": "钻石和黄金推动印度珠宝出口月增26.5%",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "JCK Online",
+    "time": "2026-07-24 02:58"
+  },
+  {
+    "title": "INTEGRA佛罗里达峡谷矿区采掘量创纪录，Q2增长30%",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Integra Resources",
+    "time": "2026-07-24 04:05"
+  },
+  {
+    "title": "Geomorphic AI在芬兰推出Pora金矿项目寻求合资",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Geomorphic AI",
+    "time": "2026-07-24 03:23"
+  },
+  {
+    "title": "纽蒙特第二季度利润超预期，受益于金价上涨",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Investing.com",
+    "time": "2026-07-24 04:29"
+  },
+  {
+    "title": "Mayfair Gold公布Fenn-Gib项目经济性及2026年降风险计划",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Stock Titan",
+    "time": "2026-07-24 03:47"
+  },
+  {
+    "title": "俄罗斯持续出售黄金以支撑经济",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "FXStreet",
+    "time": "2026-07-24 03:31"
+  },
+  {
+    "title": "中国是否试图从西方纸黄金主导中夺取黄金定价权？",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "FXStreet",
+    "time": "2026-07-24 03:36"
+  },
+  {
+    "title": "黄金预测：看涨反转能否经受住这次回调？",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "FXEmpire",
+    "time": "2026-07-24 04:36"
+  },
+  {
+    "title": "纽蒙特：强劲金价与现金流推动盈利增长，抵消运营和监管挑战",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Seeking Alpha",
+    "time": "2026-07-24 04:50"
+  },
+  {
+    "title": "Avino通过调整金银产量结构揭示战略转型",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Yahoo Finance",
+    "time": "2026-07-24 04:09"
+  },
+  {
+    "title": "Americas Gold and Silver创纪录Q2产量后或低估59%",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Simply Wall St",
+    "time": "2026-07-24 04:21"
+  },
+  {
+    "title": "地缘风险加剧，黄金是否准备冲击4300美元上方纪录？",
+    "url": "https://news.google.com/search?q=gold&hl=en-US&gl=US&ceid=US:en",
+    "source": "Investing.com",
+    "time": "2026-07-24 05:30"
+  }
 ]
