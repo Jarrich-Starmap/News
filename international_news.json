@@ -1,122 +1,129 @@
-[
-  {
-    "source": "AP News",
-    "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz",
-    "time": "2026-07-23 04:04",
-    "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-22-2026-42ff3de8d135ad72ff3ba4d94cc0921d"
-  },
-  {
-    "source": "OSV News",
-    "title": "Peru: Historic churches severely damaged following earthquakes",
-    "time": "2026-07-23 04:04",
-    "url": "https://www.osvnews.com/peru-historic-churches-severely-damaged-following-earthquakes/"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "UN rights chief condemns Nicaragua's decision to abolish elections",
-    "time": "2026-07-23 04:05",
-    "url": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections"
-  },
-  {
-    "source": "NSW Police",
-    "title": "Latest News",
-    "time": "2026-07-23 04:07",
-    "url": "https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTI2NTM1Lmh0bWwmYWxsPTE%3D"
-  },
-  {
-    "source": "Santa Barbara News-Press",
-    "title": "Obituary: Linda Lissy",
-    "time": "2026-07-23 03:47",
-    "url": "https://www.newspress.com/2026/07/22/obituary-linda-lissy/"
-  },
-  {
-    "source": "Arsenal.com",
-    "title": "Medical update: William Saliba",
-    "time": "2026-07-23 04:02",
-    "url": "https://www.arsenal.com/news/medical-update-william-saliba-aVUca3q2han2"
-  },
-  {
-    "source": "World Nuclear News",
-    "title": "Molten salt reactor gets US safety design approval",
-    "time": "2026-07-23 04:25",
-    "url": "https://world-nuclear-news.org/articles/molten-salt-reactor-gets-us-safety-design-approval"
-  },
-  {
-    "source": "Town of Wellesley, MA (.gov)",
-    "title": "State Primary is September 1",
-    "time": "2026-07-23 04:06",
-    "url": "https://wellesleyma.gov/CivicAlerts.aspx?AID=2903"
-  },
-  {
-    "source": "Athens-Clarke County, GA",
-    "title": "ACCGov Seeks Input on Judicial Center Design through August 9",
-    "time": "2026-07-23 04:25",
-    "url": "https://www.accgov.com/m/newsflash/Home/Detail/6961"
-  },
-  {
-    "source": "U.S. News & World Report",
-    "title": "The Northern Lights Are Visible in the U.S. and Canada Tonight. Here's When and Where to Watch.",
-    "time": "2026-07-23 04:18",
-    "url": "https://www.usnews.com/news/national-news/articles/2026-07-22/northern-lights-forecast-for-canada-northern-u-s-tonight"
-  },
-  {
-    "source": "Sky Sports",
-    "title": "Bradley Barcola: Arsenal retain an interest in Paris Saint-Germain forward after missing out on Morgan Rogers to Chelsea",
-    "time": "2026-07-23 04:07",
-    "url": "https://www.skysports.com/football/news/11095/13566027/bradley-barcola-arsenal-retain-an-interest-in-paris-saint-germain-forward-after-missing-out-on-morgan-rogers-to-chelsea"
-  },
-  {
-    "source": "Juneau Independent",
-    "title": "Notes On The News: A big helping hand and facing the big financial gap that remains",
-    "time": "2026-07-23 04:23",
-    "url": "https://www.juneauindependent.com/post/notes-on-the-news-a-big-helping-hand-and-facing-the-big-financial-gap-that-remains"
-  },
-  {
-    "source": "MilitaryNews.com",
-    "title": "AP News Summary at 4:04 p.m. EDT",
-    "time": "2026-07-23 04:02",
-    "url": "https://www.militarynews.com/news/national/ap-news-summary-at-4-04-p-m-edt/article_f10d9f3b-fb09-552f-9c49-610c375e46a5.html"
-  },
-  {
-    "source": "DAZN",
-    "title": "Does Mariusz Wach stand a chance against Tyson Fury?",
-    "time": "2026-07-23 03:58",
-    "url": "https://www.dazn.com/en-US/news/boxing/keys-to-victory-tyson-fury-vs-mariusz-wach-fury-vs-anthony-joshua/g4m8vv85m5fo1m8qr9s1elgqr"
-  },
-  {
-    "source": "WIFR",
-    "title": "Big changes coming soon for WIFR and WREX",
-    "time": "2026-07-23 03:57",
-    "url": "https://www.wifr.com/2026/07/22/big-changes-coming-soon-wifr-wrex/"
-  },
-  {
-    "source": "AP News",
-    "title": "Trump pays respects to 4 US service members killed in the Middle East",
-    "time": "2026-07-23 04:22",
-    "url": "https://apnews.com/article/dignified-transfer-iran-war-trump-8a79b27e10cedd202596d57f743ca569"
-  },
-  {
-    "source": "Sky Sports",
-    "title": "Alejandro Garnacho transfer news: Aston Villa agree deal with Chelsea for winger",
-    "time": "2026-07-23 04:01",
-    "url": "https://www.skysports.com/football/news/11661/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger"
-  },
-  {
-    "source": "AP News",
-    "title": "Independent autopsy of Nolan Wells finds 'undetermined' cause of death",
-    "time": "2026-07-23 04:23",
-    "url": "https://apnews.com/article/nolan-xavier-wells-ben-crump-mississippi-naacp-b620c2bedf4c05d2a460b5bb1e7ee02e"
-  },
-  {
-    "source": "U.S. News & World Report",
-    "title": "Poll Says Politics, Not Economy, Is Our Biggest Problem",
-    "time": "2026-07-23 03:59",
-    "url": "https://www.usnews.com/news/u-s-news-decision-points/articles/2026-07-22/poll-says-politics-not-economy-is-our-biggest-problem"
-  },
-  {
-    "source": "DVIDS",
-    "title": "Scout Jamboree, W.Va. Guard Joint Task Force, finalize incident management coordination before opening day",
-    "time": "2026-07-23 04:25",
-    "url": "https://www.dvidshub.net/news/570523/scout-jamboree-wva-guard-joint-task-force-finalize-incident-management-coordination-before-opening-day"
-  }
-]
+{
+  "keyword": "news",
+  "category": "国际新闻",
+  "search_time": "2026-07-23 08:32:00",
+  "time_filter": "Past hour",
+  "count": 20,
+  "articles": [
+    {
+      "title": "新胜利五号海上平台精准就位",
+      "url": "http://www.sinopecnews.com.cn/xnews/content/2026-07/23/content_7152735.html",
+      "source": "中国石化新闻网",
+      "time": "2026-07-23 08:28"
+    },
+    {
+      "title": "新闻8点见｜体育强国建设“十五五”规划发布；王毅会见鲁比奥",
+      "url": "https://www.bjnews.com.cn/detail/1784763219129675.html",
+      "source": "新京报",
+      "time": "2026-07-23 07:43"
+    },
+    {
+      "title": "TIER: Taiwan GDP Expected To Grow Over 10% in 2026",
+      "url": "https://ocacnews.net/article/429456",
+      "source": "僑新聞",
+      "time": "2026-07-23 08:01"
+    },
+    {
+      "title": "中央网信办、应急管理部部署开展汛期灾害事故违法不良信息集中清理整治",
+      "url": "https://cbgc.scol.com.cn/news/7784615",
+      "source": "川观新闻",
+      "time": "2026-07-23 08:11"
+    },
+    {
+      "title": "2026年7月23日早安·大暑炎炎夏日长，静待清风与秋光",
+      "url": "https://www.qhdnews.com/content/202607/23/c70730.html",
+      "source": "秦皇岛新闻",
+      "time": "2026-07-23 07:55"
+    },
+    {
+      "title": "美國新關稅衝擊巴西 政府祭出「巴西主權」計畫因應",
+      "url": "https://money.udn.com/money/story/5599/9645374",
+      "source": "經濟日報",
+      "time": "2026-07-23 07:38"
+    },
+    {
+      "title": "Nation's Leaders Honor the Fallen During Dignified Transfer",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4552653/nations-leaders-honor-the-fallen-during-dignified-transfer/",
+      "source": "U.S. Department of War",
+      "time": "2026-07-23 07:50"
+    },
+    {
+      "title": "Sports News - July 22, 2026",
+      "url": "https://www.reutersconnect.com/item/sports-news-july-22-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBOS0hXUzY",
+      "source": "Reuters Connect",
+      "time": "2026-07-23 08:02"
+    },
+    {
+      "title": "图片新闻：北戴河区老虎石海上公园消暑游玩",
+      "url": "https://www.qhdnews.com/content/202607/23/c70727.html",
+      "source": "秦皇岛新闻",
+      "time": "2026-07-23 07:41"
+    },
+    {
+      "title": "中国神话为何频频成为票房神话？｜天府新视界",
+      "url": "https://cbgc.scol.com.cn/news/7784580",
+      "source": "川观新闻",
+      "time": "2026-07-23 07:57"
+    },
+    {
+      "title": "News in brief: Diallo turns 23",
+      "url": "https://www.topsouthnow.co.nz/news/6a5e91b62b7137038bf8d72c",
+      "source": "Top South Now",
+      "time": "2026-07-23 07:49"
+    },
+    {
+      "title": "US and Iran threaten to target infrastructure",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260723_N01/",
+      "source": "NHK",
+      "time": "2026-07-23 08:19"
+    },
+    {
+      "title": "Kimberley and Pilbara local news briefing, July 23, 2026",
+      "url": "https://www.abc.net.au/news/2026-07-23/kimberley-and-pilbara-local-news-briefing/106948046",
+      "source": "ABC News (Australia)",
+      "time": "2026-07-23 08:24"
+    },
+    {
+      "title": "More Red Sea chaos amplifies global oil risk",
+      "url": "https://www.indailysa.com.au/news/just-in/2026/07/23/iran-red-sea-asean",
+      "source": "InDaily South Australia",
+      "time": "2026-07-23 07:32"
+    },
+    {
+      "title": "CSW Industrials (CSW) Could Be 13% Below Fair Value On Quarterly Dividend News",
+      "url": "https://uk.finance.yahoo.com/news/csw-industrials-csw-could-13-001700503.html",
+      "source": "Yahoo Finance UK",
+      "time": "2026-07-23 08:18"
+    },
+    {
+      "title": "華郵披露川普擬出兵馬利！原因曝光 恐成川普2.0動武第8國",
+      "url": "https://money.udn.com/money/story/5599/9645387",
+      "source": "經濟日報",
+      "time": "2026-07-23 07:59"
+    },
+    {
+      "title": "图片新闻：卢龙县鲍子沟村果农通过线上直播销售葡萄",
+      "url": "https://www.qhdnews.com/content/202607/23/c70728.html",
+      "source": "秦皇岛新闻",
+      "time": "2026-07-23 07:43"
+    },
+    {
+      "title": "Eyewitness News at 6pm - July 22, 2026",
+      "url": "https://abc7chicago.com/eyewitness-news-at-6pm---july-22-2026/19559301/",
+      "source": "ABC7 Chicago",
+      "time": "2026-07-23 07:46"
+    },
+    {
+      "title": "Video: Semi-truck in New Jersey brings down power lines",
+      "url": "https://abcnews.com/WNT/video/semi-truck-new-jersey-brings-power-lines-135001405",
+      "source": "ABC News",
+      "time": "2026-07-23 08:00"
+    },
+    {
+      "title": "ABC10 News at 5",
+      "url": "https://www.abc10.com/video/news/live_stream/abc10-news-at-5/103-96c876c1-3ccd-46d0-8820-eb9e4a7106a1",
+      "source": "ABC10",
+      "time": "2026-07-23 07:59"
+    }
+  ]
+}

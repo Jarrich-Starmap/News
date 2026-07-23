@@ -1,110 +1,129 @@
-[
-  {
-    "title": "「高科技设备」：中国释放简化进口信号",
-    "url": "https://table.media/en/china/news/high-tech-equipment-china-signals-simplified-imports",
-    "source": "Table.Briefings",
-    "time": "2026-07-23 04:09"
-  },
-  {
-    "title": "特朗普科技官员指控中国月之暗面AI窃取Anthropic技术",
-    "url": "https://www.scmp.com/news/us/diplomacy/article/3361510/trump-tech-official-accuses-chinas-moonshot-ai-stealing-anthropic",
-    "source": "South China Morning Post",
-    "time": "2026-07-23 03:33"
-  },
-  {
-    "title": "卢比奥在特朗普声称选举干预后对中国释放缓和信号",
-    "url": "https://www.washingtonpost.com/national-security/2026/07/22/rubio-emphasizes-dialogue-with-china-ahead-trump-xi-meeting-september/",
-    "source": "The Washington Post",
-    "time": "2026-07-23 04:18"
-  },
-  {
-    "title": "美中在习近平计划访华盛顿前举行会谈",
-    "url": "https://qna.org.qa/en/News-Area/News/2026-7/22/us-and-china-hold-talks-ahead-of-xis-planned-washington-visit",
-    "source": "Qatar news agency",
-    "time": "2026-07-23 03:44"
-  },
-  {
-    "title": "欧盟议员会见王毅：「尽管存在持续分歧，对话意愿显著」",
-    "url": "https://table.media/en/china/news/eu-lawmakers-meet-wang-yi-remarkable-willingness-to-engage-despite-persistent-differences",
-    "source": "Table.Briefings",
-    "time": "2026-07-23 04:11"
-  },
-  {
-    "title": "新闻摘要：梅尔森当选穆迪校长；德州家庭遭中国针对",
-    "url": "https://www.brnow.org/news/news-digest-melson-selected-as-moody-president-texas-family-targeted-by-china/",
-    "source": "Biblical Recorder",
-    "time": "2026-07-23 03:56"
-  },
-  {
-    "title": "卢比奥否认中国向伊朗提供信息以瞄准霍尔木兹海峡船只",
-    "url": "https://www.jns.org/news/u-s-news/rubio-dismisses-claims-china-gave-iran-information-to-target-ships-in-hormuz",
-    "source": "JNS.org",
-    "time": "2026-07-23 03:57"
-  },
-  {
-    "title": "中国将为拉美国家现代化公共交通，提供超2000辆电动公交车",
-    "url": "https://www.cronista.com/en/today/china-will-modernize-public-transportation-in-this-latin-american-country-with-more-than-2000-electric-buses/",
-    "source": "El Cronista",
-    "time": "2026-07-23 03:50"
-  },
-  {
-    "title": "英伟达CEO认为美国无需担忧中国的开源AI模型",
-    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43O1BU:0-nvidia-ceo-believes-us-has-nothing-to-fear-from-china-s-open-source-ai-models-axios/",
-    "source": "TradingView",
-    "time": "2026-07-23 03:35"
-  },
-  {
-    "title": "中国称域外国家不应干涉南海争端",
-    "url": "https://www.abs-cbn.com/news/world/2026/7/22/china-says-outside-countries-should-not-interfere-in-south-china-sea-disputes-1902",
-    "source": "ABS-CBN",
-    "time": "2026-07-23 04:02"
-  },
-  {
-    "title": "OCTA研究：64%菲律宾人不信任中国",
-    "url": "https://www.unitednews.net.ph/en/article.php?post=124568",
-    "source": "United News Ph",
-    "time": "2026-07-23 03:35"
-  },
-  {
-    "title": "阿里速卖通与京东：北京与布鲁塞尔互相批评",
-    "url": "https://table.media/en/china/news/aliexpress-and-jdcom-beijing-and-brussels-exchange-criticism",
-    "source": "Table.Briefings",
-    "time": "2026-07-23 04:10"
-  },
-  {
-    "title": "巴基斯坦为何热爱中国？| DW新闻",
-    "url": "https://www.modernghana.com/videonews/dw/2/686546",
-    "source": "Modern Ghana",
-    "time": "2026-07-23 03:34"
-  },
-  {
-    "title": "耐克股价下跌，华尔街对其中国电商策略调整持怀疑态度",
-    "url": "https://stocktwits.com/news-articles/markets/equity/nke-stock-slips-as-nikes-china-ecommerce-reset-draws-wall-street-skepticism/cZZmsraR7Dr",
-    "source": "Stocktwits",
-    "time": "2026-07-23 04:11"
-  },
-  {
-    "title": "英伟达CEO称赞中国「优秀」模型，免费AI推动硬件销售",
-    "url": "https://www.aol.com/articles/nvidia-ceo-praises-chinas-excellent-193311000.html",
-    "source": "AOL.com",
-    "time": "2026-07-23 04:03"
-  },
-  {
-    "title": "自动驾驶：大众深化与中国AI公司合作",
-    "url": "https://table.media/en/china/news/autonomous-driving-vw-deepens-partnership-with-chinese-ai-company",
-    "source": "Table.Briefings",
-    "time": "2026-07-23 04:10"
-  },
-  {
-    "title": "几内亚矿业项目助力技能提升",
-    "url": "https://www.unitednews.net.ph/en/article.php?post=124556",
-    "source": "United News Ph",
-    "time": "2026-07-23 03:36"
-  },
-  {
-    "title": "美国指控中国月之暗面窃取AI机密",
-    "url": "https://www.aol.com/articles/us-accuses-china-moonshot-stealing-175525000.html",
-    "source": "AOL.com",
-    "time": "2026-07-23 04:19"
-  }
-]
+{
+  "keyword": "China news",
+  "category": "国内新闻",
+  "search_time": "2026-07-23 08:32:00",
+  "time_filter": "Past hour",
+  "count": 20,
+  "articles": [
+    {
+      "title": "工信部：三大指标全面增长 中国造船业份额领跑国际市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664693.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 08:25"
+    },
+    {
+      "title": "泰国总理：以更大的诚意欢迎中国投资者",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664667.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:39"
+    },
+    {
+      "title": "17名墨公民在美死亡 墨西哥在美提出20项“刑事投诉”",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664694.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 08:08"
+    },
+    {
+      "title": "南非6月通胀升至5.0% 创近两年新高",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664682.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:43"
+    },
+    {
+      "title": "海南产经新观察：透过“半年报”看发展新动能",
+      "url": "http://www.hi.chinanews.com.cn/hnnew/2026-07-23/743268.html",
+      "source": "中国新闻网",
+      "time": "2026-07-23 08:23"
+    },
+    {
+      "title": "天天学习｜“三进下党”解民忧",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664698.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 08:27"
+    },
+    {
+      "title": "打击编造传播涉汛等网络谣言公安部公布20起典型案例",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664691.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 08:04"
+    },
+    {
+      "title": "法国6月下旬热浪期间超额死亡人数达5700余例",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664670.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:41"
+    },
+    {
+      "title": "稳定、制度、信心 证监会系列座谈会释放三大信号",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664684.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:46"
+    },
+    {
+      "title": "第一观察｜总书记为基础教育高质量发展指明方向",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664697.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 08:24"
+    },
+    {
+      "title": "多家基金机构同日公告 传递长期看好A股市场信心",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664685.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:48"
+    },
+    {
+      "title": "美军称开始对伊朗军事目标发起新一轮打击",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664678.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:33"
+    },
+    {
+      "title": "英国投入7.08亿英镑加速下一代空战技术研发",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664671.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:42"
+    },
+    {
+      "title": "美众议院通过950亿美元拨款法案将用于伊朗战争等",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664676.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:39"
+    },
+    {
+      "title": "东盟国家驻华使节参访中国—东盟国家人工智能应用合作中心",
+      "url": "https://www.chinanews.com.cn/tp/hd2011/2026/07-23/1199011.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:50"
+    },
+    {
+      "title": "湖南高温下的“充电答卷”：55℃地表抢修，26℃驿站歇脚",
+      "url": "https://www.chinanews.com.cn/sh/shipin/cns/2026/07-23/news1062947.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:54"
+    },
+    {
+      "title": "欧盟航空安全局预警航空公司避开约旦空域",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664669.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:40"
+    },
+    {
+      "title": "中央网信办、应急管理部部署开展汛期灾害事故违法不良信息集中清理整治",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664692.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 08:06"
+    },
+    {
+      "title": "AI算力需求爆发：高端PCB供不应求，价格涨超300%",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664683.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:43"
+    },
+    {
+      "title": "蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
+      "url": "https://www.chinanews.com.cn/ll/2026/07-23/10664686.shtml",
+      "source": "中国新闻网",
+      "time": "2026-07-23 07:50"
+    }
+  ]
+}
