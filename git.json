@@ -1,207 +1,187 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.07.16 – 07.23 · 按本周新增 Star 数排序",
-  "updated": "2026.07.23",
+  "period": "2026.07.17 – 07.24 · 按本周新增 Star 数排序",
+  "updated": "2026.07.24",
   "projects": [
     {
       "rank": 1,
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "基于 Claude Code 的 AI 求职自动化框架，本地运行，支持岗位评估、简历定制、求职信撰写和面试准备",
-      "stars": "22.8k",
-      "weekly_stars": "13.2k",
-      "language": "TypeScript"
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "主流 AI 系统提示词泄露合集，收录 Claude/Codex/GPT/Gemini/Grok/Cursor 等系统提示词与安全指令，定期更新",
+      "stars": "57.8k",
+      "weekly_stars": "14.5k"
     },
     {
       "rank": 2,
-      "owner": "OpenCut-app",
-      "repo": "OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "开源 CapCut 替代品，AI 驱动的视频编辑工具",
-      "stars": "70.4k",
-      "weekly_stars": "7.2k",
-      "language": "TypeScript"
-    },
-    {
-      "rank": 3,
-      "owner": "Graphify-Labs",
-      "repo": "graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "将任意代码和文档转为可查询知识图谱的 Agent Skill，支持多种编程语言与框架",
-      "stars": "87.4k",
-      "weekly_stars": "6.7k",
-      "language": "Python"
-    },
-    {
-      "rank": 4,
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "反 AI 粗糙设计风格技能库，为 Claude Code、Cursor、Codex 提供专业设计规范与组件约束",
-      "stars": "11.6k",
-      "weekly_stars": "6.6k",
-      "language": "TypeScript"
-    },
-    {
-      "rank": 5,
-      "owner": "stablyai",
-      "repo": "orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "多并行 Agent 调度引擎（ADE），管理编码 Agent 集群，支持桌面端和移动端",
-      "stars": "20.9k",
-      "weekly_stars": "5.7k",
-      "language": "TypeScript"
-    },
-    {
-      "rank": 6,
-      "owner": "Shubhamsaboo",
-      "repo": "awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent 与 RAG 应用精选集合，可直接克隆运行，覆盖聊天、搜索、自动化等场景",
-      "stars": "123.4k",
-      "weekly_stars": "5.6k",
-      "language": "Python"
-    },
-    {
-      "rank": 7,
-      "owner": "HKUDS",
-      "repo": "Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "港大团队打造的个人 AI 量化交易代理，支持多数据源接入、策略回测和实时交易信号",
-      "stars": "24.5k",
-      "weekly_stars": "5.4k",
-      "language": "Python"
-    },
-    {
-      "rank": 8,
-      "owner": "iOfficeAI",
-      "repo": "OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "面向 AI Agent 的 Office 套件 CLI 工具，无需安装 Office 即可读写 Word、Excel、PPT",
-      "stars": "18.7k",
-      "weekly_stars": "5.3k",
-      "language": "C#"
-    },
-    {
-      "rank": 9,
-      "owner": "Zackriya-Solutions",
-      "repo": "meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "隐私优先的本地 AI 会议助手，支持实时转写、说话人区分和 Ollama 本地总结",
-      "stars": "24.9k",
-      "weekly_stars": "4.4k",
-      "language": "Rust"
-    },
-    {
-      "rank": 10,
-      "owner": "diegosouzapw",
-      "repo": "OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "统一 AI 网关，单端点接入 231+ AI 提供商（50+ 免费），支持路由、fallback 和压缩",
-      "stars": "18.2k",
-      "weekly_stars": "3.9k",
-      "language": "TypeScript"
-    },
-    {
-      "rank": 11,
-      "owner": "bradautomates",
-      "repo": "claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "为 Claude Code 添加视频理解能力，支持下载、抽帧、转写并结构化分析视频内容",
-      "stars": "8.5k",
-      "weekly_stars": "3.6k",
-      "language": "Python"
-    },
-    {
-      "rank": 12,
-      "owner": "ogulcancelik",
-      "repo": "herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "终端 Agent 多路复用调度器，在命令行中统一管理和切换多个 AI Coding Agent",
-      "stars": "16.5k",
-      "weekly_stars": "3.1k",
-      "language": "Rust"
-    },
-    {
-      "rank": 13,
-      "owner": "usestrix",
-      "repo": "strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "开源 AI 渗透测试工具，自动发现并修复应用安全漏洞",
-      "stars": "41.7k",
-      "weekly_stars": "3.1k",
-      "language": "Python"
-    },
-    {
-      "rank": 14,
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "AI Coding 工具设计语言系统，提供结构化设计规则和组件规范，提升 AI 生成 UI 质量",
-      "stars": "47.5k",
-      "weekly_stars": "2.4k",
-      "language": "JavaScript"
-    },
-    {
-      "rank": 15,
-      "owner": "vxcontrol",
-      "repo": "pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "全自动 AI Agent 渗透测试系统，执行复杂安全测试任务并生成报告",
-      "stars": "20.6k",
-      "weekly_stars": "2.3k",
-      "language": "Go"
-    },
-    {
-      "rank": 16,
-      "owner": "openai",
-      "repo": "codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "OpenAI 官方 Codex CLI 插件，在 Claude Code 中调用 Codex 进行代码审查和任务委托",
-      "stars": "29.0k",
-      "weekly_stars": "1.9k",
-      "language": "TypeScript"
-    },
-    {
-      "rank": 17,
-      "owner": "TencentCloud",
-      "repo": "CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "腾讯云面向 AI Agent 的轻量级安全沙箱，提供隔离的执行环境",
-      "stars": "10.3k",
-      "weekly_stars": "1.9k",
-      "language": "Rust"
-    },
-    {
-      "rank": 18,
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "港大团队 AI 个性化终身学习导师，理解知识盲点并动态调整教学策略",
-      "stars": "27.2k",
-      "weekly_stars": "1.3k",
-      "language": "Python"
-    },
-    {
-      "rank": 19,
-      "owner": "davila7",
-      "repo": "claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "Claude Code 配置模板与监控 CLI 工具，提供开箱即用的最佳实践配置方案",
-      "stars": "29.6k",
-      "weekly_stars": "1.1k",
-      "language": "TypeScript"
-    },
-    {
-      "rank": 20,
       "owner": "calesthio",
       "repo": "OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
-      "description": "全球首个开源 Agent 视频制作系统，12 条流水线、52 个工具、500+ Agent 技能",
-      "stars": "3.3k",
-      "weekly_stars": "0.6k",
-      "language": "TypeScript"
+      "description": "全球首个开源 Agent 驱动音视频生产系统，12 条管线、52 个工具、500+ Agent 技能，全链路自动化视频制作",
+      "stars": "39.5k",
+      "weekly_stars": "9.8k"
+    },
+    {
+      "rank": 3,
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "高性能代码智能 MCP 服务器，将代码库索引为本地知识图谱，亚毫秒级召回，减少 99% Token 消耗",
+      "stars": "32.4k",
+      "weekly_stars": "7.9k"
+    },
+    {
+      "rank": 4,
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "AI Agent 全网数据检索引擎，免 API Key 访问 Twitter/Reddit/YouTube/B站/小红书等多平台",
+      "stars": "57.5k",
+      "weekly_stars": "7.2k"
+    },
+    {
+      "rank": 5,
+      "owner": "JuliusBrussee",
+      "repo": "caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "Claude Code/Codex/Gemini 等 30+ Agent Skill 插件，用穴居人式短句减少 65%-75% Token 消耗",
+      "stars": "89.0k",
+      "weekly_stars": "5.5k"
+    },
+    {
+      "rank": 6,
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "开源 AI Agent 长期记忆管理平台，构建本地持久化知识图谱，实现跨会话持续学习",
+      "stars": "27.9k",
+      "weekly_stars": "5.2k"
+    },
+    {
+      "rank": 7,
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "阿里开源网页内 GUI 代理，Agent 通过自然语言操控浏览器界面，实现点击、输入与导航",
+      "stars": "26.6k",
+      "weekly_stars": "4.8k"
+    },
+    {
+      "rank": 8,
+      "owner": "agno-agi",
+      "repo": "agno",
+      "url": "https://github.com/agno-agi/agno",
+      "description": "轻量、极速、可观测的 AI Agent 生产级平台，支持多 Agent 协作、工具调用和记忆管理",
+      "stars": "41.2k",
+      "weekly_stars": "4.3k"
+    },
+    {
+      "rank": 9,
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "自托管 AI 数字伴侣，支持实时语音聊天、Minecraft/Factorio 游戏，Web/macOS/Windows 全平台",
+      "stars": "96.5k",
+      "weekly_stars": "4.2k"
+    },
+    {
+      "rank": 10,
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Agent 技能框架与软件开发方法论，提供可组合的 Agent Skills 体系和最佳实践",
+      "stars": "5.8k",
+      "weekly_stars": "3.8k"
+    },
+    {
+      "rank": 11,
+      "owner": "alibaba",
+      "repo": "zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "阿里开源轻量进程内向量数据库，无需外部服务即支持高维向量检索，适合 Agent 本地记忆场景",
+      "stars": "14.9k",
+      "weekly_stars": "3.5k"
+    },
+    {
+      "rank": 12,
+      "owner": "openai",
+      "repo": "codex",
+      "url": "https://github.com/openai/codex",
+      "description": "OpenAI 官方轻量级终端编码 Agent，直接在命令行中运行，支持多模型后端",
+      "stars": "27.8k",
+      "weekly_stars": "3.3k"
+    },
+    {
+      "rank": 13,
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "本地优先的个人 AI 大脑，Rust 实现，所有记忆与计算在本地完成，保障隐私",
+      "stars": "34.8k",
+      "weekly_stars": "3.0k"
+    },
+    {
+      "rank": 14,
+      "owner": "simplex-chat",
+      "repo": "simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "首个无用户标识符的隐私聊天网络，无手机号/邮箱/公钥 ID，为 Agent 通信提供极致隐私",
+      "stars": "18.6k",
+      "weekly_stars": "2.8k"
+    },
+    {
+      "rank": 15,
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "反 AI 粗糙设计风格技能库，为 Claude Code/Cursor/Codex 提供专业设计规范与组件约束",
+      "stars": "14.2k",
+      "weekly_stars": "2.6k"
+    },
+    {
+      "rank": 16,
+      "owner": "bojieli",
+      "repo": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》开源书，含全书正文、编译版 PDF 与配套代码",
+      "stars": "3.8k",
+      "weekly_stars": "2.2k"
+    },
+    {
+      "rank": 17,
+      "owner": "huggingface",
+      "repo": "speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "HuggingFace 开源语音对话工具包，用开源模型构建本地语音 Agent，保障数据隐私",
+      "stars": "12.4k",
+      "weekly_stars": "2.0k"
+    },
+    {
+      "rank": 18,
+      "owner": "ColeMurray",
+      "repo": "background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "开源后台 Agent 系统框架，支持长时间运行、任务调度和状态持久化",
+      "stars": "4.5k",
+      "weekly_stars": "1.9k"
+    },
+    {
+      "rank": 19,
+      "owner": "kyutai-labs",
+      "repo": "pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "高效 CPU 文字转语音引擎，专为低资源设备优化，支持离线本地运行",
+      "stars": "8.7k",
+      "weekly_stars": "1.7k"
+    },
+    {
+      "rank": 20,
+      "owner": "Google-labs-code",
+      "repo": "stitch-skills",
+      "url": "https://github.com/Google-labs-code/stitch-skills",
+      "description": "谷歌实验室出品的 Agent Skills 库，兼容主流编码 Agent，提供可复用技能包",
+      "stars": "2.3k",
+      "weekly_stars": "1.5k"
     }
   ]
 }
