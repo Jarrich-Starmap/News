@@ -1,0 +1,758 @@
+{
+  "analysis_date": "2026-07-24",
+  "analysis_time_utc": "10:00",
+  "overall_assessment": {
+    "AU": {
+      "bias": "偏空",
+      "key_factors": [
+        "美联储加息预期升温压制金价",
+        "黄金跌破4040美元支撑位",
+        "油价飙升带来的通胀预期提供部分支撑",
+        "地缘政治风险维持避险需求"
+      ],
+      "short_term_outlook": "短期金价在4000-4100美元区间震荡偏弱，关注下周美联储决议"
+    },
+    "AG": {
+      "bias": "震荡偏多",
+      "key_factors": [
+        "白银在57.50美元获得技术支撑",
+        "光伏产业需求强劲支撑工业消费",
+        "COMEX库存下降暗示供应趋紧",
+        "结构性短缺长期利好银价"
+      ],
+      "short_term_outlook": "白银在56-60美元区间震荡，工业需求提供底部支撑"
+    },
+    "SC": {
+      "bias": "强烈看多",
+      "key_factors": [
+        "中东冲突全面升级，美伊战争风险上升",
+        "红海和霍尔木兹海峡航运受威胁",
+        "油价突破100美元关键关口",
+        "全球供应面临三重中断风险"
+      ],
+      "short_term_outlook": "油价短期强势看涨，若冲突扩大可能冲击110-120美元区间"
+    }
+  },
+  "predictions": [
+    {
+      "commodity": "AU",
+      "news_index": 1,
+      "news_title_cn": "黄金跌破4040美元支撑位，测试4025美元，收益率施压",
+      "impact_direction": "利空",
+      "impact_strength": "强",
+      "reason": "黄金价格下跌直接利空黄金期货"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 2,
+      "news_title_cn": "黄金价格预测：美联储周前XAU/USD保持看跌倾向",
+      "impact_direction": "利空",
+      "impact_strength": "强",
+      "reason": "美联储加息预期升温打压黄金价格"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 3,
+      "news_title_cn": "澳大利亚黄金和铜业公司(AGC) 2026年Q4财报摘要",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "公司财报对金价直接影响有限"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 4,
+      "news_title_cn": "国际金价下跌后中国6月黄金进口量激增",
+      "impact_direction": "利空",
+      "impact_strength": "强",
+      "reason": "黄金价格下跌直接利空黄金期货"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 5,
+      "news_title_cn": "越南盾汇率及金价 - 7月24日",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 6,
+      "news_title_cn": "MHM黄金回收率表现亮眼 - Mount Hope Mining录得98.4%回收率",
+      "impact_direction": "利多",
+      "impact_strength": "弱",
+      "reason": "高回收率利好矿业公司盈利能力"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 7,
+      "news_title_cn": "Caledonia Mining股价上涨8.2%，新金矿区发现及Q2产量增强",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "综合信息面偏多，利好黄金期货"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 8,
+      "news_title_cn": "澳大利亚袋鼠队在格拉斯哥开启金牌卫冕之旅",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 9,
+      "news_title_cn": "Kirkland Lake Discoveries在Mirado发现高品位黄金",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "金矿发现利好黄金矿业股，间接支撑金价预期"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 10,
+      "news_title_cn": "一切如常，少年金队晋级州赛",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 11,
+      "news_title_cn": "黄金初级矿企乘牛市东风 - Nimy、Javelin和Patronus推进钻探",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 12,
+      "news_title_cn": "Unity在柬埔寨O'Phlay钻获最佳金矿段：40米品位1.9克/吨",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 13,
+      "news_title_cn": "南犹他大学校园健康文化获国家级金级认证",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "该新闻与黄金期货市场无直接关联"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 14,
+      "news_title_cn": "黄金海岸公路44/955号Palm Beach两居室出租",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "该新闻与黄金期货市场无直接关联"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 15,
+      "news_title_cn": "Saturn获得西澳Aquarius黄金趋势区勘探权",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 16,
+      "news_title_cn": "Mount Hope在Mt Solitary实现98%黄金回收率",
+      "impact_direction": "利多",
+      "impact_strength": "弱",
+      "reason": "高回收率利好矿业公司盈利能力"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 17,
+      "news_title_cn": "Unity首钻O'Phlay即命中金矿带",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 18,
+      "news_title_cn": "Alkane Resources终结近60年分红荒：金矿板块分红革命开启？",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 19,
+      "news_title_cn": "黄金海岸儿童剥削材料指控案",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "该新闻与黄金期货市场无直接关联"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 20,
+      "news_title_cn": "顶级黄金IRA公司报告发布 - Pierce Points评选Goldco为最佳",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 21,
+      "news_title_cn": "Odyssey Gold报告董事持股显著增加",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 22,
+      "news_title_cn": "澳大利亚黄金和铜业公司就股票发行发布清洗通知",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 23,
+      "news_title_cn": "Geozen Resources增持澳大利亚黄金和铜业公司股份",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "综合信息面偏多，利好黄金期货"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 24,
+      "news_title_cn": "澳大利亚黄金和铜业公司报告董事权益重大变动",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 25,
+      "news_title_cn": "特朗普椭圆形办公室新视频展示黄金装潢",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "该新闻与黄金期货市场无直接关联"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 26,
+      "news_title_cn": "2026年7月24日拉贾斯坦邦金价：22K和24K黄金价格",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 27,
+      "news_title_cn": "Sridhar Vembu：印度应将黄金进口排除在经常账户赤字之外",
+      "impact_direction": "利空",
+      "impact_strength": "弱",
+      "reason": "将黄金从进口统计中排除可能弱化政策关注度"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 28,
+      "news_title_cn": "B W Okahu信托成为澳大利亚黄金和铜业公司重大股东",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 29,
+      "news_title_cn": "Tesoro Gold亮相2026 Noosa矿业大会：智利项目加速推进",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AU",
+      "news_index": 30,
+      "news_title_cn": "7月24日金银价格：德里、孟买、加尔各答等城市24K/22K金价",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面多空交织，对黄金期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 1,
+      "news_title_cn": "白银价格预测：尽管美联储加息预期升温，XAG/USD维持在57.50美元上方",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "美联储加息预期对白银构成压力"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 2,
+      "news_title_cn": "白银开始尝试摆脱超卖状态 - 分析 - 2026年7月24日",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "白银超卖状态暗示技术性反弹可能"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 3,
+      "news_title_cn": "2026年7月24日泰米尔纳德邦银价：1公斤白银价格",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 4,
+      "news_title_cn": "7月24日金银价格：查看德里、孟买、加尔各答24K/22K金价",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 5,
+      "news_title_cn": "首届兰辛钱币展在兰辛中心开幕，展出稀有金银币",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 6,
+      "news_title_cn": "今日金银价格：地缘政治紧张局势下贵金属为何举步维艰",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 7,
+      "news_title_cn": "白银58.77美元的现实检验：结构性短缺遇上美联储恐慌",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "美联储加息预期对白银构成压力"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 8,
+      "news_title_cn": "金银价格直播(2026/7/24)：现货金银因油价触及101美元而大幅下跌",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "综合信息偏空，利空白银期货"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 9,
+      "news_title_cn": "Vizsla Silver Corp周四股票走势分析",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 10,
+      "news_title_cn": "7月24日金银价格：印度各地金银价格保持稳定",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 11,
+      "news_title_cn": "商品观察：油价周线看涨；黄金延续跌势；白银变动不大",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "综合信息偏空，利空白银期货"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 12,
+      "news_title_cn": "Maronan Metals亮相2026 Noosa矿业大会：钻探推动银铅项目价值",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 13,
+      "news_title_cn": "2026年7月24日Salem金价：22K/24K金价及白银更新",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 14,
+      "news_title_cn": "2026年7月24日巴基斯坦金价：每托拉黄金及白银价格",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 15,
+      "news_title_cn": "2026年7月24日拉贾斯坦邦金价：22K/24K金价及白银更新",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 16,
+      "news_title_cn": "白银在57.50美元获得支撑，美联储加息预期施压贵金属板块",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "美联储加息预期对白银构成压力"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 17,
+      "news_title_cn": "金银比价扩大：黄金承压而白银相对抗跌",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "综合信息偏空，利空白银期货"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 18,
+      "news_title_cn": "白银ETF持仓量连续三日增加，机构看好工业需求前景",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "ETF持仓增加表明机构看多白银"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 19,
+      "news_title_cn": "光伏产业白银需求创历史新高，太阳能电池板用银量激增",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "光伏产业白银需求创新高，长期利多白银"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 20,
+      "news_title_cn": "COMEX白银库存持续下降，实物交割需求上升",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "综合信息偏空，利空白银期货"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 21,
+      "news_title_cn": "印度白银进口量6月大增45%，节日需求提前释放",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "综合信息偏多，利好白银期货"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 22,
+      "news_title_cn": "白银矿业股普涨：Pan American Silver公布强劲Q2产量数据",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 23,
+      "news_title_cn": "墨西哥白银产量同比下降8%，全球供应趋紧",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "白银供应面收紧，利好价格"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 24,
+      "news_title_cn": "技术分析：XAG/USD在58美元关口面临关键阻力",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "综合信息偏空，利空白银期货"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 25,
+      "news_title_cn": "白银短线交易策略：中东局势升级或推动避险买盘",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "避险情绪升温利好白银"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 26,
+      "news_title_cn": "美联储决议前白银波动率升至两周高位",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "美联储加息预期对白银构成压力"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 27,
+      "news_title_cn": "摩根大通上调白银目标价至65美元，看好工业与避险双重需求",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "避险情绪升温利好白银"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 28,
+      "news_title_cn": "秘鲁白银产量恢复增长，5月同比增3.2%",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 29,
+      "news_title_cn": "白银期货持仓报告：投机性净多头头寸连续两周减少",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对白银期货影响中性"
+    },
+    {
+      "commodity": "AG",
+      "news_index": 30,
+      "news_title_cn": "银价受油价飙升间接支撑，通胀对冲需求回升",
+      "impact_direction": "利多",
+      "impact_strength": "中",
+      "reason": "综合信息偏多，利好白银期货"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 1,
+      "news_title_cn": "韩国股市因AI支出担忧和油价飙升下跌逾5%",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "股市下跌反映经济担忧，可能拖累石油需求预期"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 2,
+      "news_title_cn": "美军对伊朗发动新一轮打击，航运路线冲突升级",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东地缘冲突升级严重威胁石油供应，强力利多"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 3,
+      "news_title_cn": "印度央行可能干预以防止卢比因油价飙升跌至历史新低",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对石油期货影响中性"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 4,
+      "news_title_cn": "油价重回100美元上方使印度卢比承压",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 5,
+      "news_title_cn": "三场冲突使全球四分之一的石油运输面临风险",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东冲突持续升级，供应风险推升油价"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 6,
+      "news_title_cn": "2026年7月24日：黄金、石油、外汇和股指的枢轴点与持仓信号",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对石油期货影响中性"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 7,
+      "news_title_cn": "美伊冲突螺旋升级推动油价飙升",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东冲突持续升级，供应风险推升油价"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 8,
+      "news_title_cn": "PSA呼吁政府因油价飙升将里程补贴永久化",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东冲突持续升级，供应风险推升油价"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 9,
+      "news_title_cn": "道琼斯期货：市场因油价、谷歌和特斯拉承压下跌；英特尔盘后跳涨",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "信息面偏空，油价承压"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 10,
+      "news_title_cn": "中东担忧加剧，油价飙升至100美元上方",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 11,
+      "news_title_cn": "消费者可能在汽油和日用品中感受到高油价影响",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对石油期货影响中性"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 12,
+      "news_title_cn": "特朗普称对伊朗大规模打击决定即将做出",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东地缘冲突升级严重威胁石油供应，强力利多"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 13,
+      "news_title_cn": "油价破百加上疲弱财报令印度股市承压",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对石油期货影响中性"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 14,
+      "news_title_cn": "中东战争第二战线开辟，油价触及100美元",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 15,
+      "news_title_cn": "油价突破100美元、特朗普加征新关税，股市下挫",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 16,
+      "news_title_cn": "原油价格暂作喘息 - 分析 - 2026年7月24日",
+      "impact_direction": "利空",
+      "impact_strength": "弱",
+      "reason": "油价短暂回调，技术性修正"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 17,
+      "news_title_cn": "红海袭击扰乱全球供应路线，油价有望周线上涨",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "关键航运通道受威胁，供应中断风险推升油价"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 18,
+      "news_title_cn": "油价突破100美元，亚洲股市料将下跌：市场综述",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "股市下跌反映经济担忧，可能拖累石油需求预期"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 19,
+      "news_title_cn": "中东直播：美军对伊朗发动新打击，油价飙升",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东地缘冲突升级严重威胁石油供应，强力利多"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 20,
+      "news_title_cn": "中东新一轮袭击推动油价飙升至100美元",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 21,
+      "news_title_cn": "油价飙升重燃通胀忧虑，亚洲股市下滑，债市受创",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "股市下跌反映经济担忧，可能拖累石油需求预期"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 22,
+      "news_title_cn": "油价飙升背景下华尔街因科技财报消化下跌",
+      "impact_direction": "利空",
+      "impact_strength": "中",
+      "reason": "信息面偏空，油价承压"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 23,
+      "news_title_cn": "承销商交易领先石油市场",
+      "impact_direction": "中性",
+      "impact_strength": "弱",
+      "reason": "信息面对石油期货影响中性"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 24,
+      "news_title_cn": "午间简报：ASX受油价飙升和关税双重打击",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东冲突持续升级，供应风险推升油价"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 25,
+      "news_title_cn": "特朗普威胁对伊朗扩大打击，油价突破100美元",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 26,
+      "news_title_cn": "追踪特朗普：众议院投票阻止对伊战争；油价飙升等",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东冲突持续升级，供应风险推升油价"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 27,
+      "news_title_cn": "油价自5月以来首次触及100美元",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 28,
+      "news_title_cn": "美伊战争升级，中东航运咽喉要道受关注",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "中东冲突持续升级，供应风险推升油价"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 29,
+      "news_title_cn": "布伦特原油突破每桶100美元，特斯拉和Alphabet拖累华尔街",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    },
+    {
+      "commodity": "SC",
+      "news_index": 30,
+      "news_title_cn": "OPEC+考虑紧急会议应对油价突破100美元",
+      "impact_direction": "利多",
+      "impact_strength": "强",
+      "reason": "油价突破100美元关键心理关口，持续看涨信号"
+    }
+  ]
+}
