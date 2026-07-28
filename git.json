@@ -1,0 +1,333 @@
+{
+  "title": "GitHub 本周热门 AI 项目",
+  "period": "weekly",
+  "source": "github.com/trending?since=weekly",
+  "generated_at": "2026-07-28 23:20",
+  "count": 18,
+  "projects": [
+    {
+      "rank": 1,
+      "name": "ai-agent-book",
+      "full_name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》开源书籍主仓库，含全书正文、PDF 与配套代码",
+      "language": "Python",
+      "stars": 24137,
+      "stars_this_week": 13627,
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent",
+        "context-engineering",
+        "large-language-models",
+        "llm"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "description_zh": "实时全球情报仪表盘：AI 驱动的新闻聚合、地缘政治监控与基础设施可视化，支持 MCP",
+      "language": "TypeScript",
+      "stars": 75753,
+      "stars_this_week": 13231,
+      "topics": [
+        "agent",
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "news"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "description_zh": "Matt Pocock 开源的工程师级 Agent Skills 合集，直接取自其 .agents 目录",
+      "language": "Shell",
+      "stars": 192520,
+      "stars_this_week": 12682,
+      "topics": []
+    },
+    {
+      "rank": 4,
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description_zh": "免费 MIT 协议 AI 网关：单一端点聚合 290+ 提供商（90+ 免费）、500+ 模型，兼容 Claude Code",
+      "language": "TypeScript",
+      "stars": 32789,
+      "stars_this_week": 11057,
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "description_zh": "给编码智能体的 Skill：强制先给结论再展开，ADHD 友好输出，防止答案被埋没",
+      "language": "Python",
+      "stars": 12332,
+      "stars_this_week": 6961,
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description_zh": "AI Agent 工具箱：统一 LLM API、Agent 循环、TUI 与编码智能体 CLI",
+      "language": "TypeScript",
+      "stars": 79552,
+      "stars_this_week": 5751,
+      "topics": []
+    },
+    {
+      "rank": 7,
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "description_zh": "用普通 WiFi 信号做实时空间感知、生命体征监测的 AI 项目（ESP32/Home Assistant 生态）",
+      "language": "Rust",
+      "stars": 87156,
+      "stars_this_week": 5662,
+      "topics": [
+        "awesome",
+        "claude",
+        "densepose",
+        "esp32",
+        "firmware",
+        "home-assistant",
+        "home-automation",
+        "iot"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "description_zh": "自托管部署平台，面向 AI 智能体与应用的一键部署",
+      "language": "TypeScript",
+      "stars": 9235,
+      "stars_this_week": 4911,
+      "topics": [
+        "agents",
+        "ai",
+        "deployments",
+        "self-hosted"
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "description_zh": "本地优先的代码智能图谱（MCP+CLI）：为 AI 构建持久化代码库地图，支持增量更新",
+      "language": "Python",
+      "stars": 27234,
+      "stars_this_week": 4577,
+      "topics": [
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "code-review",
+        "graphrag",
+        "incremental",
+        "knowledge-graph",
+        "llm"
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "description_zh": "从零学 AI 工程：涵盖智能体、计算机视觉等的开源课程，学-建-发布一条龙",
+      "language": "Python",
+      "stars": 44511,
+      "stars_this_week": 3961,
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch"
+      ]
+    },
+    {
+      "rank": 11,
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_zh": "Semrush/Ahrefs 的开源替代：关键词研究、外链分析，内置 Google Search Console MCP",
+      "language": "TypeScript",
+      "stars": 8908,
+      "stars_this_week": 3015,
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-tools",
+        "site-audit"
+      ]
+    },
+    {
+      "rank": 12,
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM effiecent harness",
+      "description_zh": "号称最省内存的 AI 编码智能体 harness（Rust 实现）",
+      "language": "Rust",
+      "stars": 12580,
+      "stars_this_week": 2585,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-coding-agent",
+        "claude",
+        "cli",
+        "coding-agent",
+        "llm",
+        "mcp"
+      ]
+    },
+    {
+      "rank": 13,
+      "name": "Instatic",
+      "full_name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
+      "description_zh": "Webflow/Framer/WordPress 的开源替代：Agentic 自托管可视化 CMS，输出静态站点",
+      "language": "TypeScript",
+      "stars": 6384,
+      "stars_this_week": 2523,
+      "topics": [
+        "cms",
+        "css",
+        "css-framework",
+        "page-builder",
+        "static",
+        "website"
+      ]
+    },
+    {
+      "rank": 14,
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "description_zh": "港大 DeepTutor：终身个性化 AI 导师，支持深度研究与交互式学习",
+      "language": "Python",
+      "stars": 30817,
+      "stars_this_week": 2172,
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawdbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "large-language-models",
+        "multi-agent-systems"
+      ]
+    },
+    {
+      "rank": 15,
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "description_zh": "金融市场“语言”基础模型（K 线基础模型），面向量化与行情预测",
+      "language": "Python",
+      "stars": 34784,
+      "stars_this_week": 2167,
+      "topics": []
+    },
+    {
+      "rank": 16,
+      "name": "pi-web",
+      "full_name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "description_zh": "pi 编码智能体的 Web UI",
+      "language": "TypeScript",
+      "stars": 3088,
+      "stars_this_week": 1676,
+      "topics": []
+    },
+    {
+      "rank": 17,
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "description_zh": "Theo (t3.gg) 团队的 AI 编码工具 T3 Code",
+      "language": "TypeScript",
+      "stars": 15401,
+      "stars_this_week": 1050,
+      "topics": []
+    },
+    {
+      "rank": 18,
+      "name": "adhd",
+      "full_name": "UditAkhourii/adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "description_zh": "编码智能体的思维树+剪枝 Skill，基于 Claude 与 Codex Agent SDK",
+      "language": "TypeScript",
+      "stars": 2514,
+      "stars_this_week": 983,
+      "topics": [
+        "adhd",
+        "agents",
+        "ai",
+        "ai-agents",
+        "brainstorm",
+        "chain-of-thought",
+        "claude",
+        "claude-agent-sdk"
+      ]
+    }
+  ]
+}

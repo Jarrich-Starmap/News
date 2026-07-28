@@ -1,0 +1,102 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GitHub Trending AI Projects",
+  "type": "object",
+  "required": [
+    "title",
+    "period",
+    "source",
+    "generated_at",
+    "count",
+    "projects"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "数据集标题"
+    },
+    "period": {
+      "type": "string",
+      "enum": [
+        "daily",
+        "weekly",
+        "monthly"
+      ],
+      "description": "统计周期"
+    },
+    "source": {
+      "type": "string",
+      "description": "数据来源"
+    },
+    "generated_at": {
+      "type": "string",
+      "description": "生成时间 YYYY-MM-DD HH:MM"
+    },
+    "count": {
+      "type": "integer",
+      "description": "项目数量"
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "rank",
+          "name",
+          "full_name",
+          "url",
+          "description",
+          "language",
+          "stars",
+          "stars_this_week"
+        ],
+        "properties": {
+          "rank": {
+            "type": "integer",
+            "description": "按本周新增 star 排序的名次"
+          },
+          "name": {
+            "type": "string",
+            "description": "仓库名"
+          },
+          "full_name": {
+            "type": "string",
+            "description": "owner/repo"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "仓库地址"
+          },
+          "description": {
+            "type": "string",
+            "description": "原始描述"
+          },
+          "description_zh": {
+            "type": "string",
+            "description": "中文简介"
+          },
+          "language": {
+            "type": "string",
+            "description": "主要语言"
+          },
+          "stars": {
+            "type": "integer",
+            "description": "总 star 数"
+          },
+          "stars_this_week": {
+            "type": "integer",
+            "description": "本周新增 star 数"
+          },
+          "topics": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "仓库标签"
+          }
+        }
+      }
+    }
+  }
+}
