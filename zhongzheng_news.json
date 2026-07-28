@@ -1,39 +1,81 @@
 [
   {
-    "title": "美股周一收盘涨跌不一：道指涨262点报52210.08点，标普微涨0.02%，纳指跌0.18%",
-    "url": "https://new.qq.com/rain/a/20260728A01QW400",
-    "source": "FX168财经",
-    "time": "2026-07-28 04:10"
+    "title": "中新经纬早班车：美股周一走势分化，道指涨262.83点报52210.08点，标普微涨0.02%，纳指四连跌收跌0.18%",
+    "url": "https://dy.163.com/article/L2TH9HOT0519C6T9.html",
+    "source": "中新经纬",
+    "time": "2026-07-28 07:00"
   },
   {
-    "title": "中国半导体竞争加剧消息冲击华尔街：费城半导体指数跌2.2%，AMD跌约5%、阿斯麦跌近6%",
-    "url": "https://new.qq.com/rain/a/20260728A01QW400",
-    "source": "FX168财经",
-    "time": "2026-07-28 04:12"
+    "title": "中新经纬：美股芯片股多数下跌，费城半导体指数跌2.23%，SK海力士跌7.47%跌破IPO发行价，阿斯麦、AMD跌超5%",
+    "url": "https://dy.163.com/article/L2TH9HOT0519C6T9.html",
+    "source": "中新经纬",
+    "time": "2026-07-28 07:02"
   },
   {
-    "title": "费城半导体指数较6月收盘纪录已回落约21%，隔夜美股科技情绪仍偏谨慎",
-    "url": "https://new.qq.com/rain/a/20260728A01QW400",
-    "source": "FX168财经",
-    "time": "2026-07-28 04:14"
+    "title": "中新经纬：中概股普遍上涨，纳斯达克中国金龙指数涨2.51%，理想、小鹏、网易、哔哩哔哩集体走强",
+    "url": "https://dy.163.com/article/L2TH9HOT0519C6T9.html",
+    "source": "中新经纬",
+    "time": "2026-07-28 07:04"
   },
   {
-    "title": "美伊暂停相互攻击释放谈判信号：布伦特原油暴跌8.7%、WTI跌7.5%报82.61美元",
-    "url": "https://new.qq.com/rain/a/20260728A01QW400",
-    "source": "FX168财经",
-    "time": "2026-07-28 04:16"
+    "title": "中新经纬：近20家A股公司集中官宣回购增持计划，产业资本护盘力量增强",
+    "url": "https://dy.163.com/article/L2TH9HOT0519C6T9.html",
+    "source": "中新经纬",
+    "time": "2026-07-28 07:06"
   },
   {
-    "title": "油价快速回落降低通胀与加息风险，美股防御与消费板块获支撑、7大板块收涨",
-    "url": "https://new.qq.com/rain/a/20260728A01QW400",
-    "source": "FX168财经",
-    "time": "2026-07-28 04:18"
+    "title": "中新经纬：国际油价重挫，WTI跌7.5%报82.61美元/桶、布伦特跌8.7%报88.36美元/桶，输入性通胀压力缓解",
+    "url": "https://dy.163.com/article/L2TH9HOT0519C6T9.html",
+    "source": "中新经纬",
+    "time": "2026-07-28 07:08"
   },
   {
-    "title": "长鑫存储上交所上市大涨一度提振美股芯片股，市场焦点转向中国半导体竞争力上升",
-    "url": "https://new.qq.com/rain/a/20260728A01QW400",
-    "source": "FX168财经",
-    "time": "2026-07-28 04:20"
+    "title": "华尔街见闻早餐：中国芯片技术突破报道叠加英伟达循环融资担忧，美股盘初转跌、费城半导体指数一度跌超5%",
+    "url": "https://finance.sina.cn/stock/jdts/2026-07-28/detail-inikiewm2612540.d.html",
+    "source": "华尔街见闻",
+    "time": "2026-07-28 06:20"
+  },
+  {
+    "title": "华尔街见闻：美股存储板块疲软，闪迪重挫11%、美光跌2.25%，海外存储链情绪短期承压",
+    "url": "https://finance.sina.cn/stock/jdts/2026-07-28/detail-inikiewm2612540.d.html",
+    "source": "华尔街见闻",
+    "time": "2026-07-28 06:22"
+  },
+  {
+    "title": "华尔街见闻：小米ADR收涨8.97%、腾讯控股与阿里巴巴均涨逾2%，中概科技资产逆市走强",
+    "url": "https://finance.sina.cn/stock/jdts/2026-07-28/detail-inikiewm2612540.d.html",
+    "source": "华尔街见闻",
+    "time": "2026-07-28 06:24"
+  },
+  {
+    "title": "财联社：英伟达因循环融资质疑及拟为OpenAI提供2500亿美元担保传闻收跌4.99%，市值单日缩水近2500亿美元",
+    "url": "https://new.qq.com/rain/a/20260728A021YW00",
+    "source": "财联社",
+    "time": "2026-07-28 05:50"
+  },
+  {
+    "title": "财联社：本周美股科技巨头财报进入高潮，微软、Meta、苹果、亚马逊齐发，叠加美联储议息会议成关键变量",
+    "url": "https://new.qq.com/rain/a/20260728A021YW00",
+    "source": "财联社",
+    "time": "2026-07-28 05:52"
+  },
+  {
+    "title": "陆家嘴财经早餐：亚太主要股指全线走高，韩国综指涨0.97%、SK海力士首尔股价涨超3%、日经涨0.5%",
+    "url": "https://new.qq.com/rain/a/20260728A0251K00",
+    "source": "腾讯新闻",
+    "time": "2026-07-28 06:45"
+  },
+  {
+    "title": "陆家嘴财经早餐：苹果市值逼近5万亿美元重回全球第一，资金自AI芯片切向老牌科技龙头避险",
+    "url": "https://new.qq.com/rain/a/20260728A0251K00",
+    "source": "腾讯新闻",
+    "time": "2026-07-28 06:47"
+  },
+  {
+    "title": "证券之星：中证500ETF平安7月27日资金净流出1.58亿元，份额较前一交易日减少2320万份",
+    "url": "https://stock.stockstar.com/RB2026072800004338.shtml",
+    "source": "证券之星",
+    "time": "2026-07-28 06:00"
   },
   {
     "title": "富时中国A50指数期货隔夜夜盘收跌0.08%，外围对今日A股开盘指引偏中性",
@@ -54,16 +96,28 @@
     "time": "2026-07-27 17:52"
   },
   {
-    "title": "美股本周聚焦科技巨头财报：微软、亚马逊、Meta资本开支指引成AI链关键变量",
-    "url": "https://www.stcn.com/article/detail/4043750.html",
-    "source": "证券时报",
-    "time": "2026-07-27 22:45"
+    "title": "东吴证券研报：7月以来A股宽基ETF累计净流入超1500亿元，中证1000ETF净流入居首成资金承接核心",
+    "url": "https://field.10jqka.com.cn/20260727/c678439318.shtml",
+    "source": "同花顺财经",
+    "time": "2026-07-27 20:30"
   },
   {
-    "title": "纳斯达克中国金龙指数涨超1.5%，小米涨超7%、哔哩哔哩涨超4%，中概股集体上涨",
-    "url": "https://new.qq.com/rain/a/20260727A0CJ3N00",
-    "source": "腾讯新闻",
-    "time": "2026-07-27 23:20"
+    "title": "东吴证券研报：中证2000中报一致预测净利润2年复合增速52.21%，远超中证500约15%与沪深300约8%",
+    "url": "https://field.10jqka.com.cn/20260727/c678439318.shtml",
+    "source": "同花顺财经",
+    "time": "2026-07-27 20:32"
+  },
+  {
+    "title": "证券时报：上半年近200只翻倍科技基金下半年平均回撤约27%，降低股票仓位已成绩优基金共识",
+    "url": "https://www.stcn.com/article/detail/4041739.html",
+    "source": "证券时报",
+    "time": "2026-07-27 21:10"
+  },
+  {
+    "title": "招商策略：沪深300/中证500/中证1000中报业绩增速测算值90.9%/96.4%/34.2%，全A盈利延续改善",
+    "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-07-19%2Fdoc-iniiiwhz3404757.shtml",
+    "source": "新浪财经",
+    "time": "2026-07-19 20:00"
   },
   {
     "title": "中信建投：市场短期围绕震荡再平衡展开，科技调整未破坏整体趋势基础",
@@ -174,12 +228,6 @@
     "time": "2026-07-27 15:07"
   },
   {
-    "title": "格隆汇：中证1000期指(IM)主力合约突破7100点日内涨2.91%，IC站上7600点",
-    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026072710052294bae36e",
-    "source": "格隆汇",
-    "time": "2026-07-27 10:05"
-  },
-  {
     "title": "中证500指数收涨2.49%报7720.60点，全天成交4056亿元",
     "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026072710052294bae36e",
     "source": "腾讯自选股",
@@ -250,12 +298,6 @@
     "url": "https://q.stock.sohu.com/cn/news.html?code=cn_688825&date=2026%2F0727&tab=200&textId=1039535718&type=120",
     "source": "搜狐财经",
     "time": "2026-07-27 16:46"
-  },
-  {
-    "title": "收评：科创靴子落地，反弹或正式开启，沪指收光头中阳线收复5日均线",
-    "url": "https://finance.sina.cn/tech/2026-07-27/detail-inikfsve9887292.d.html",
-    "source": "新浪财经",
-    "time": "2026-07-27 16:00"
   },
   {
     "title": "收评：权重让利、中小盘个股发力，市场赚钱效应全面扩散",
@@ -360,12 +402,6 @@
     "time": "2026-07-27 16:05"
   },
   {
-    "title": "跟踪中证500指数的相关ETF今日平均上涨2.30%，全线收红",
-    "url": "https://www.163.com/dy/article/L2S0EH25053469RG.html",
-    "source": "数据宝",
-    "time": "2026-07-27 16:23"
-  },
-  {
     "title": "中证1000ETF华夏(159845)收涨3.55%，上半年电子行业利润同比增长96.9%成催化",
     "url": "https://new.qq.com/rain/a/20260727A08AL200",
     "source": "腾讯新闻",
@@ -396,34 +432,16 @@
     "time": "2026-07-27 10:05"
   },
   {
-    "title": "算力需求推动电子行业利润同比增长96.9%，中证500ETF华夏(512500)震荡拉升",
-    "url": "https://www.nbd.com.cn/articles/2026-07-27/4513692.html",
-    "source": "每日经济新闻",
-    "time": "2026-07-27 10:53"
-  },
-  {
     "title": "统计局：上半年电子行业利润拉动规上工业利润增长8.5个百分点",
     "url": "https://www.nbd.com.cn/articles/2026-07-27/4513692.html",
     "source": "每日经济新闻",
     "time": "2026-07-27 10:55"
   },
   {
-    "title": "韩美签下9500亿美元半导体大单，中证500ETF华夏(512500)午后涨2.60%",
-    "url": "https://www.nbd.com.cn/articles/2026-07-27/4517140.html",
-    "source": "每日经济新闻",
-    "time": "2026-07-27 14:50"
-  },
-  {
     "title": "广发证券：长鑫IPO提升半导体设备关注度，AI链条迎扩产共振",
     "url": "https://www.nbd.com.cn/articles/2026-07-27/4517140.html",
     "source": "每日经济新闻",
     "time": "2026-07-27 14:52"
-  },
-  {
-    "title": "中证1000ETF华夏(159845)盘中涨2.52%，多家券商看好中小盘长期表现",
-    "url": "https://new.qq.com/rain/a/20260727A04ON100",
-    "source": "每日经济新闻",
-    "time": "2026-07-27 10:09"
   },
   {
     "title": "中证1000指数上半年涨幅15.99%，6月样本轮换强化小盘+成长+硬科技属性",
@@ -436,12 +454,6 @@
     "url": "https://new.qq.com/rain/a/20260727A04YU600",
     "source": "腾讯新闻",
     "time": "2026-07-27 10:02"
-  },
-  {
-    "title": "A股半年报进入密集披露阶段：AI产业链与资源品涨价链成业绩增长主驱动",
-    "url": "https://new.qq.com/rain/a/20260727A04WTZ00",
-    "source": "腾讯新闻",
-    "time": "2026-07-27 10:30"
   },
   {
     "title": "银河证券：市场重心集中于政策与业绩双重验证，业绩基本面成行情核心锚点",
@@ -540,12 +552,6 @@
     "time": "2026-07-22 19:30"
   },
   {
-    "title": "富安达中证500指增二季报：净值跑输基准10.03%，量化因子连续回撤致超额承压",
-    "url": "https://finance.sina.com.cn/stock/aigc/fundfs/2026-07-18/doc-iniifanf8403467.shtml",
-    "source": "新浪财经",
-    "time": "2026-07-18 10:00"
-  },
-  {
     "title": "东吴证券：市场已从预期博弈全面切换至业绩验证阶段，确定性方向韧性强",
     "url": "https://new.qq.com/rain/a/20260727A04YU600",
     "source": "腾讯新闻",
@@ -592,11 +598,5 @@
     "url": "https://new.qq.com/rain/a/20260727A04YU600",
     "source": "腾讯新闻",
     "time": "2026-07-27 10:04"
-  },
-  {
-    "title": "东吴证券建议关注海外算力链、AI上游涨价资源品、低位补涨三条主线",
-    "url": "https://new.qq.com/rain/a/20260727A04YU600",
-    "source": "腾讯新闻",
-    "time": "2026-07-27 10:06"
   }
 ]
