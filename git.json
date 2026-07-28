@@ -1,14 +1,14 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.07.21 – 07.27 · 按本周新增 Star 数排序",
-  "updated": "2026.07.28",
+  "period": "2026.07.22 – 07.28 · 按本周新增 Star 数排序",
+  "updated": "2026.07.29",
   "projects": [
     {
       "rank": 1,
       "owner": "bojieli",
       "repo": "ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》开源书籍主仓库，含全书正文、PDF 与配套代码",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》开源书籍主仓库，含全书正文、编译版 PDF 与按章配套代码，蝉联周榜第一",
       "stars": "24k",
       "weekly_stars": "14k"
     },
@@ -17,7 +17,7 @@
       "owner": "koala73",
       "repo": "worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
-      "description": "实时全球情报仪表盘：AI 驱动的新闻聚合、地缘政治监控与基础设施可视化，支持 MCP",
+      "description": "实时全球情报仪表盘：AI 驱动的新闻聚合、地缘政治监控与基础设施追踪，支持 MCP，总 Star 逼近 76k",
       "stars": "76k",
       "weekly_stars": "13k"
     },
@@ -26,7 +26,7 @@
       "owner": "mattpocock",
       "repo": "skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "Matt Pocock 开源的工程师级 Agent Skills 合集，直接取自其 .agents 目录",
+      "description": "Matt Pocock 开源的工程师级 Agent Skills 合集，直接取自其 .agents 目录，总 Star 已达 193k",
       "stars": "193k",
       "weekly_stars": "13k"
     },
@@ -35,7 +35,7 @@
       "owner": "diegosouzapw",
       "repo": "OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "免费 MIT 协议 AI 网关：单一端点聚合 290+ 提供商（90+ 免费）、500+ 模型，兼容 Claude Code",
+      "description": "免费 MIT 协议 AI 网关：单一端点聚合 290+ 提供商（90+ 免费）、500+ 模型，兼容 Claude Code/Codex/Cursor，支持配额感知自动降级",
       "stars": "33k",
       "weekly_stars": "11k"
     },
@@ -53,7 +53,7 @@
       "owner": "earendil-works",
       "repo": "pi",
       "url": "https://github.com/earendil-works/pi",
-      "description": "AI Agent 工具箱：统一 LLM API、Agent 循环、TUI 与编码智能体 CLI",
+      "description": "AI Agent 工具箱：统一 LLM API、Agent 循环、TUI 与编码智能体 CLI，总 Star 近 80k",
       "stars": "80k",
       "weekly_stars": "5.8k"
     },
@@ -62,7 +62,7 @@
       "owner": "ruvnet",
       "repo": "RuView",
       "url": "https://github.com/ruvnet/RuView",
-      "description": "用普通 WiFi 信号做实时空间感知、生命体征监测的 AI 项目（ESP32/Home Assistant 生态）",
+      "description": "用普通 WiFi 信号做实时空间感知、生命体征监测与在场检测的 AI 项目，无需任何摄像头（ESP32/Home Assistant 生态）",
       "stars": "87k",
       "weekly_stars": "5.7k"
     },
@@ -72,7 +72,7 @@
       "repo": "openship",
       "url": "https://github.com/oblien/openship",
       "description": "自托管部署平台，面向 AI 智能体与应用的一键部署",
-      "stars": "9.2k",
+      "stars": "9.3k",
       "weekly_stars": "4.9k"
     },
     {
@@ -80,7 +80,7 @@
       "owner": "tirth8205",
       "repo": "code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "本地优先的代码智能图谱（MCP+CLI）：为 AI 构建持久化代码库地图，支持增量更新",
+      "description": "本地优先的代码智能图谱（MCP+CLI）：为 AI 编码工具构建持久化代码库地图，实测大幅降低上下文消耗",
       "stars": "27k",
       "weekly_stars": "4.6k"
     },
@@ -89,7 +89,7 @@
       "owner": "rohitg00",
       "repo": "ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "从零学 AI 工程：涵盖智能体、计算机视觉等的开源课程，学-建-发布一条龙",
+      "description": "从零学 AI 工程：涵盖智能体、计算机视觉等的开源课程，学-建-发布一条龙，总 Star 达 45k",
       "stars": "45k",
       "weekly_stars": "4k"
     },
@@ -116,7 +116,7 @@
       "owner": "CoreBunch",
       "repo": "Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
-      "description": "Webflow/Framer/WordPress 的开源替代：Agentic 自托管可视化 CMS，输出静态站点",
+      "description": "Webflow/Framer/WordPress 的开源替代：Agentic 自托管可视化 CMS，输出纯静态页面，含用户/角色/插件/数据库",
       "stars": "6.4k",
       "weekly_stars": "2.5k"
     },
@@ -134,7 +134,7 @@
       "owner": "shiyu-coder",
       "repo": "Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "金融市场“语言”基础模型（K 线基础模型），面向量化与行情预测",
+      "description": "金融市场「语言」基础模型（K 线基础模型），面向量化与行情预测",
       "stars": "35k",
       "weekly_stars": "2.2k"
     },
@@ -161,7 +161,7 @@
       "owner": "UditAkhourii",
       "repo": "adhd",
       "url": "https://github.com/UditAkhourii/adhd",
-      "description": "编码智能体的思维树+剪枝 Skill，基于 Claude 与 Codex Agent SDK",
+      "description": "编码智能体的思维树+剪枝 Skill，基于 Claude 与 Codex Agent SDK，并行发散思考后评分剪枝",
       "stars": "2.5k",
       "weekly_stars": "983"
     }
