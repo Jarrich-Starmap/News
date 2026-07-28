@@ -1,99 +1,70 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "GitHub Trending AI Projects",
+  "title": "GitHub AI 项目周榜",
   "type": "object",
   "required": [
     "title",
     "period",
-    "source",
-    "generated_at",
-    "count",
+    "updated",
     "projects"
   ],
   "properties": {
     "title": {
       "type": "string",
-      "description": "数据集标题"
+      "description": "榜单标题，如「GitHub AI 项目周榜」"
     },
     "period": {
       "type": "string",
-      "enum": [
-        "daily",
-        "weekly",
-        "monthly"
-      ],
-      "description": "统计周期"
+      "description": "统计周期与排序说明，如「2026.07.21 – 07.27 · 按本周新增 Star 数排序」"
     },
-    "source": {
+    "updated": {
       "type": "string",
-      "description": "数据来源"
-    },
-    "generated_at": {
-      "type": "string",
-      "description": "生成时间 YYYY-MM-DD HH:MM"
-    },
-    "count": {
-      "type": "integer",
-      "description": "项目数量"
+      "description": "更新日期，格式 YYYY.MM.DD"
     },
     "projects": {
       "type": "array",
+      "description": "按本周新增 Star 数降序排列的项目列表",
       "items": {
         "type": "object",
         "required": [
           "rank",
-          "name",
-          "full_name",
+          "owner",
+          "repo",
           "url",
           "description",
-          "language",
           "stars",
-          "stars_this_week"
+          "weekly_stars"
         ],
         "properties": {
           "rank": {
             "type": "integer",
-            "description": "按本周新增 star 排序的名次"
+            "minimum": 1,
+            "description": "榜单名次"
           },
-          "name": {
+          "owner": {
+            "type": "string",
+            "description": "仓库所有者（用户或组织）"
+          },
+          "repo": {
             "type": "string",
             "description": "仓库名"
-          },
-          "full_name": {
-            "type": "string",
-            "description": "owner/repo"
           },
           "url": {
             "type": "string",
             "format": "uri",
-            "description": "仓库地址"
+            "description": "仓库 GitHub 地址"
           },
           "description": {
             "type": "string",
-            "description": "原始描述"
-          },
-          "description_zh": {
-            "type": "string",
-            "description": "中文简介"
-          },
-          "language": {
-            "type": "string",
-            "description": "主要语言"
+            "description": "项目中文简介，突出功能亮点与本周动态"
           },
           "stars": {
-            "type": "integer",
-            "description": "总 star 数"
+            "type": "string",
+            "description": "总 Star 数，缩写格式，如 75k / 6.6k"
           },
-          "stars_this_week": {
-            "type": "integer",
-            "description": "本周新增 star 数"
-          },
-          "topics": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            },
-            "description": "仓库标签"
+          "weekly_stars": {
+            "type": "string",
+            "description": "本周新增 Star 数，缩写格式，如 13k / 983"
           }
         }
       }
