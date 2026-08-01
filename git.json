@@ -1,149 +1,140 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.07.25 – 07.31 · 按本周新增 Star 数排序",
-  "updated": "2026.08.01",
+  "period": "2026.07.26 – 08.01 · 按本周新增 Star 数排序",
+  "updated": "2026.08.02",
   "projects": [
     {
       "rank": 1,
       "owner": "block",
       "repo": "buzz",
       "url": "https://github.com/block/buzz",
-      "description": "Block 开源的「蜂巢思维」人机协作通信平台：人类与 AI 智能体共处同一房间实时协作、自托管 relay，连续三周稳居榜首",
-      "stars": "19k",
-      "weekly_stars": "12k"
+      "description": "Block 开源的「蜂巢思维」人机协作工作空间：人类与 AI 智能体共处同一频道实时协作，relay 完全自托管，连续四周蝉联周榜第一",
+      "stars": "20k",
+      "weekly_stars": "11k"
     },
     {
       "rank": 2,
-      "owner": "mattpocock",
-      "repo": "skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Matt Pocock 开源的工程师级 Agent Skills 合集，直接取自其 .agents 目录，总 Star 已逼近 20 万",
-      "stars": "198k",
-      "weekly_stars": "12k"
-    },
-    {
-      "rank": 3,
       "owner": "diegosouzapw",
       "repo": "OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "免费 MIT 协议 AI 网关：单一端点聚合 290+ 提供商（90+ 免费）、500+ 模型，兼容 Claude Code/Codex/Cursor，配额感知自动降级、Token 压缩省 15-95%",
-      "stars": "36k",
-      "weekly_stars": "8.5k"
+      "description": "免费 MIT 协议 AI 网关：单一端点聚合 290+ 提供商（90+ 免费）与 500+ 模型，覆盖 Kimi/Claude/GPT/Gemini/DeepSeek，可直接对接 Claude Code、Codex、Cursor",
+      "stars": "37k",
+      "weekly_stars": "7.7k"
     },
     {
-      "rank": 4,
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "实时全球情报仪表盘：AI 驱动的新闻聚合、地缘政治监控与基础设施追踪，支持 MCP",
-      "stars": "77k",
-      "weekly_stars": "6.2k"
-    },
-    {
-      "rank": 5,
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里开源代码评审工具：确定性流水线+LLM Agent 混合架构，行级精准评论，内置 NPE/线程安全/XSS/SQL 注入微调规则集，兼容 OpenAI/Anthropic",
-      "stars": "17k",
-      "weekly_stars": "5.3k"
-    },
-    {
-      "rank": 6,
-      "owner": "citrolabs",
-      "repo": "ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "为 AI 智能体打造的最快自动化浏览器：与 Codex/Claude Code 共享已登录浏览器状态，零成本零配置",
-      "stars": "6.9k",
-      "weekly_stars": "5k"
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "owner": "ayghri",
       "repo": "i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "给编码智能体的 Skill：强制先给结论再展开，ADHD 友好输出，防止答案被埋没",
+      "description": "本周最大黑马 Skill：强制编码智能体把结论放在最前面，输出 ADHD 友好的精简回答，告别长篇大论埋答案",
       "stars": "15k",
-      "weekly_stars": "5k"
+      "weekly_stars": "5.1k"
     },
     {
-      "rank": 8,
-      "owner": "earendil-works",
-      "repo": "pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI Agent 工具箱：统一 LLM API、Agent 循环、TUI 与编码智能体 CLI，总 Star 突破 8 万",
-      "stars": "81k",
-      "weekly_stars": "4.8k"
+      "rank": 4,
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "阿里巴巴开源的混合架构代码评审工具：确定性流水线 + LLM Agent，给出精确到行的评论，内置针对空指针、线程安全等场景微调的规则集",
+      "stars": "17k",
+      "weekly_stars": "4.7k"
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "为 AI 智能体打造的最快浏览器：把已登录的浏览器状态安全共享给 Codex、Claude Code 等智能体做自动化操作，零成本零配置且不打扰用户",
+      "stars": "7.3k",
+      "weekly_stars": "4.7k"
+    },
+    {
+      "rank": 6,
       "owner": "virgiliojr94",
       "repo": "book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "把任意技术书籍 PDF 转成 Claude Code Skill：即学即用、可检索可引用",
-      "stars": "14k",
-      "weekly_stars": "4.1k"
+      "description": "把任意技术书籍 PDF 一键转成 Claude Code 技能包，边工作边查阅引用，将纸质知识直接接入编码智能体",
+      "stars": "15k",
+      "weekly_stars": "4.6k"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "owner": "1jehuang",
       "repo": "jcode",
       "url": "https://github.com/1jehuang/jcode",
-      "description": "号称最省内存的 AI 编码智能体 harness（Rust 实现），支持 MCP 与多模型",
+      "description": "号称最省内存的 AI 编码智能体框架，Rust 编写的 CLI harness，原生支持 MCP 与主流大模型",
       "stars": "15k",
-      "weekly_stars": "3.1k"
+      "weekly_stars": "3.4k"
     },
     {
-      "rank": 11,
-      "owner": "CoreBunch",
-      "repo": "Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "Webflow/Framer/WordPress 的开源替代：Agentic 自托管可视化 CMS，输出纯静态页面，含用户/角色/插件/数据库",
-      "stars": "6.9k",
-      "weekly_stars": "2.9k"
-    },
-    {
-      "rank": 12,
+      "rank": 8,
       "owner": "moeru-ai",
       "repo": "airi",
       "url": "https://github.com/moeru-ai/airi",
-      "description": "自托管的数字生命/AI 虚拟伙伴容器：支持 Live2D、VRM 与实时语音互动，还能玩 Minecraft/Factorio，类 Neuro-sama",
+      "description": "自托管、数据自持的 AI 虚拟伙伴：支持实时语音对话、Live2D 形象与玩 Minecraft，目标对标 Neuro-sama 的数字生命体验",
       "stars": "46k",
-      "weekly_stars": "2.8k"
+      "weekly_stars": "3.1k"
     },
     {
-      "rank": 13,
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "金融市场「语言」基础模型（K 线基础模型），面向量化与行情预测",
-      "stars": "35k",
-      "weekly_stars": "2.3k"
+      "rank": 9,
+      "owner": "CoreBunch",
+      "repo": "Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "Webflow/Framer/WordPress 的开源替代：自托管智能体式可视化 CMS，AI 智能体可按描述直接在画布上生成可编辑节点，支持自带 Claude/OpenAI/Ollama 模型",
+      "stars": "7.1k",
+      "weekly_stars": "2.9k"
     },
     {
-      "rank": 14,
-      "owner": "earthtojake",
-      "repo": "text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "面向 CAD/CAE/CAM 的智能体 Skill 库：用自然语言生成机械/机器人设计，输出 STEP/STL/STP",
-      "stars": "12k",
+      "rank": 10,
+      "owner": "microsoft",
+      "repo": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "微软官方 AI 入门课程：12 周 24 课时系统讲解神经网络、计算机视觉、NLP 与 GAN，配套 Jupyter 实验，总 Star 已超 5.6 万",
+      "stars": "57k",
+      "weekly_stars": "2.5k"
+    },
+    {
+      "rank": 11,
+      "owner": "different-ai",
+      "repo": "openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "Claude Cowork 的开源替代方案，底层由 opencode 驱动，让团队在自有环境中运行多智能体协同办公",
+      "stars": "20k",
       "weekly_stars": "2.2k"
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "面向金融市场「语言」的开源基础模型，专为 K 线序列建模与行情预测设计，是量化领域少见的通用预训练模型",
+      "stars": "35k",
+      "weekly_stars": "1.9k"
+    },
+    {
+      "rank": 13,
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "面向 CAD/CAE/CAM 的智能体技能库：用自然语言驱动机械设计，可输出 STEP、STL 等标准工程文件，机器人与制造场景友好",
+      "stars": "12k",
+      "weekly_stars": "1.9k"
+    },
+    {
+      "rank": 14,
       "owner": "pingdotgg",
       "repo": "t3code",
       "url": "https://github.com/pingdotgg/t3code",
-      "description": "Theo (t3.gg) 团队推出的 AI 编码工具 T3 Code",
+      "description": "Theo 团队开源的「智能体控制台」：用 iOS/安卓/Web/桌面客户端远程操控本机上的 Claude Code、Codex、Cursor、OpenCode 等编码智能体",
       "stars": "16k",
-      "weekly_stars": "1.4k"
+      "weekly_stars": "1.5k"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "owner": "microsoft",
       "repo": "VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
-      "description": "微软开源的前沿语音 AI 模型（Frontier Voice AI），面向高质量语音合成，本周新晋上榜",
+      "description": "微软开源的前沿语音 AI 模型，支持长时长、多说话人的高保真语音合成，总 Star 已突破 5 万",
       "stars": "52k",
       "weekly_stars": "1.2k"
     }
