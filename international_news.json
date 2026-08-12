@@ -1,182 +1,182 @@
 [
   {
-    "title": "美股三大指数集体收跌 道指跌0.34% 纳指跌0.6% 标普跌0.32%",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-usstock1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 07:30"
-  },
-  {
-    "title": "太空探索公司SpaceX跌近4% 获利回吐结束三连涨行情",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-spacex1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 07:28"
-  },
-  {
-    "title": "国际油价连续第二日上涨 WTI涨0.95%报82.22 布油涨1.14%报87.90",
-    "url": "https://xnews.jin10.com/details/226988",
+    "title": "美国7月CPI同比3.4% 核心2.5% 均符合预期 加息压力缓解",
+    "url": "https://xnews.jin10.com/details/227185",
     "source": "金十数据",
-    "time": "2026-08-12 07:25"
+    "time": "2026-08-13 06:35"
   },
   {
-    "title": "伊朗最高国安会：除非美国接受其条件 霍尔木兹海峡不会重新开放",
-    "url": "https://tv.cctv.com/2026/08/12/iran1/",
-    "source": "央视新闻",
-    "time": "2026-08-12 07:20"
-  },
-  {
-    "title": "美中央司令部：阿曼湾向巴拿马籍货轮开火 已迫使55艘商船改道",
-    "url": "https://tv.cctv.com/2026/08/12/oman1/",
-    "source": "央视新闻",
-    "time": "2026-08-12 07:15"
-  },
-  {
-    "title": "巴基斯坦防长：美伊已接近达成某种和平协议 事态朝和平方向发展",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-peace1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 07:10"
-  },
-  {
-    "title": "美国7月小企业乐观指数创2025年8月以来新高 NFIB升至99.8",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-nfib1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 07:05"
-  },
-  {
-    "title": "美国7月成屋销售环比降1.7% 年化406万套 房价中值43.41万美元",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-home1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "中长期美债收益率回落 10年期跌破4.70%至4.683%",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-bond1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 06:55"
-  },
-  {
-    "title": "SK海力士涨4.70% 计划重启大连NAND工厂 产能提升约50%",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-sk1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 06:50"
-  },
-  {
-    "title": "费城半导体指数涨逾1% 迈威尔涨1.8% AMD涨1.01%",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-sox1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 06:45"
-  },
-  {
-    "title": "谷歌母公司Alphabet跌3.6% 重组AI部门后五交易日四度收跌",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-goog1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 06:40"
-  },
-  {
-    "title": "阿波罗全球管理涨6.2% 黑石涨3.8% 与英伟达共建算力融资平台",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-alt1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 06:35"
-  },
-  {
-    "title": "纳斯达克中国金龙指数跌2.94% 京东网易跌超4% 阿里百度跌超3%",
-    "url": "https://finance.sina.com.cn/world/2026-08-12/doc-hsi1.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-12 06:30"
-  },
-  {
-    "title": "CoreWeave盘后涨16% 二季度合同利润率较新增合同高出5-10个百分点",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 06:25"
-  },
-  {
-    "title": "伊朗石油部长：天然气日产能9月底前有望回升9500万立方米",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 06:20"
-  },
-  {
-    "title": "美国得州数据中心暂停后 电力需求预测被下调",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 06:15"
-  },
-  {
-    "title": "谷歌将在美洲新增三条海底光缆系统 连接智利、百慕大与佛州",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 06:10"
-  },
-  {
-    "title": "OpenAI向亚马逊Redrock开放Daybreak权限",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 06:05"
-  },
-  {
-    "title": "美法官叫停美邮政局执行限制邮寄选票行政令",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 06:00"
-  },
-  {
-    "title": "Kalshi年化收入超40亿美元 按400亿估值洽谈融资",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 05:55"
-  },
-  {
-    "title": "超微电脑CFO：四季度毛利率环比改善 部分合同递延至2027财年Q1",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 05:50"
-  },
-  {
-    "title": "Accel Partners融资35亿美元 投资全球AI初创公司",
-    "url": "https://wallstreetcn.com/live/global",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 05:45"
-  },
-  {
-    "title": "台积电7月销售额同比增45% 验证AI硬件需求旺盛",
-    "url": "https://www.163.com/dy/article/L4465VU405561FZL.html",
-    "source": "网易财经",
-    "time": "2026-08-12 05:40"
-  },
-  {
-    "title": "摩根大通上调标普500年底目标至8000点 因财报季强劲",
-    "url": "https://www.163.com/dy/article/L4465VU405561FZ2.html",
-    "source": "网易财经",
-    "time": "2026-08-12 05:35"
-  },
-  {
-    "title": "现货黄金冲高回落 盘中触及4435后收跌0.5%报4368.15",
-    "url": "https://xnews.jin10.com/details/226987",
-    "source": "金十数据",
-    "time": "2026-08-12 05:30"
-  },
-  {
-    "title": "欧洲股市多数收涨 德国DAX涨0.26% 欧洲斯托克50涨0.24%",
-    "url": "https://xnews.jin10.com/details/226986",
-    "source": "金十数据",
-    "time": "2026-08-12 05:25"
-  },
-  {
-    "title": "美联储官员重申通胀仍是最大隐忧 美元指数收报99.83",
-    "url": "https://www.reuters.com/markets/us/2026-08-12/",
+    "title": "美国10年期国债中标收益率4.683% 创2007年金融危机以来最高",
+    "url": "https://www.reuters.com/markets/us/2026-08-13/",
     "source": "路透社",
-    "time": "2026-08-12 05:20"
+    "time": "2026-08-13 06:42"
   },
   {
-    "title": "摩根士丹利预计全球云计算支出2027年达1.2万亿美元 同比增30%",
-    "url": "https://www.morganstanley.com/ideas/cloud-spend-2027",
-    "source": "摩根士丹利",
-    "time": "2026-08-12 05:15"
+    "title": "美股三大指数涨跌不一 标普纳指创历史新高 道指微跌",
+    "url": "https://finance.sina.com.cn/world/2026-08-13/doc-usstock1.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 06:50"
   },
   {
-    "title": "韩国央行时隔13年重启购金 同步布局黄金ETF",
-    "url": "https://www.bok.or.kr/",
-    "source": "韩国银行",
-    "time": "2026-08-12 05:10"
+    "title": "现货黄金涨0.93%报4408美元 盘中逼近4450 受CPI温和提振",
+    "url": "https://www.163.com/dy/article/L46PL2LP0519ALI0.html",
+    "source": "汇通网",
+    "time": "2026-08-13 06:58"
+  },
+  {
+    "title": "WTI原油收跌0.65%报81.69 需求预期压顶 油价涨幅受限",
+    "url": "https://www.163.com/dy/article/L46PL2LP0519ALI0.html",
+    "source": "汇通网",
+    "time": "2026-08-13 07:04"
+  },
+  {
+    "title": "特朗普称美国完全控制霍尔木兹海峡 伊朗称仍关闭",
+    "url": "https://tv.cctv.com/2026/08/13/iran1/",
+    "source": "央视新闻",
+    "time": "2026-08-13 07:10"
+  },
+  {
+    "title": "SpaceX涨9.6% 马斯克：五年后AI占SpaceX价值99%",
+    "url": "https://xnews.jin10.com/details/227185",
+    "source": "金十数据",
+    "time": "2026-08-13 07:16"
+  },
+  {
+    "title": "CoreWeave涨19% Nebius营收暴增454%涨34% AI云景气验证",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "华尔街见闻",
+    "time": "2026-08-13 07:22"
+  },
+  {
+    "title": "英伟达涨3% 美光涨4.9% SK海力士涨9% 费半涨约2.5%",
+    "url": "https://xnews.jin10.com/details/227185",
+    "source": "金十数据",
+    "time": "2026-08-13 07:28"
+  },
+  {
+    "title": "纳斯达克中国金龙指数跌2.4% 阿里跌2% 网易跌2.9%",
+    "url": "https://xnews.jin10.com/details/227185",
+    "source": "金十数据",
+    "time": "2026-08-13 07:34"
+  },
+  {
+    "title": "Meta跌3% 微软跌2% 大型科技股分化",
+    "url": "https://finance.sina.com.cn/world/2026-08-13/doc-tech1.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-12 20:00"
+  },
+  {
+    "title": "三星SK海力士酝酿史诗级分红回购 合计或超1400亿美元",
+    "url": "https://finance.sina.com.cn/world/2026-08-13/doc-kr1.shtml",
+    "source": "韩联社",
+    "time": "2026-08-12 20:10"
+  },
+  {
+    "title": "思科上季营收创纪录 AI订单狂揽40亿 盘后一度涨超7%",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "华尔街见闻",
+    "time": "2026-08-12 20:18"
+  },
+  {
+    "title": "光通信巨头Coherent业绩超预期 盘后仍跌8%",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "华尔街见闻",
+    "time": "2026-08-12 20:25"
+  },
+  {
+    "title": "Cerebras硬件营收意外下滑 盘后一度大跌17%",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "华尔街见闻",
+    "time": "2026-08-12 20:32"
+  },
+  {
+    "title": "iOS 27曝光苹果AI收费 想让iPhone更聪明得加钱",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 20:40"
+  },
+  {
+    "title": "谷歌发布Pixel 11系列涨价100美元 可穿戴追踪胰岛素抵抗",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 20:48"
+  },
+  {
+    "title": "黑海粮运再遭冲击 俄罗斯三大粮码头受损",
+    "url": "https://xnews.jin10.com/details/227185",
+    "source": "对外媒体",
+    "time": "2026-08-12 20:55"
+  },
+  {
+    "title": "白宫新闻秘书莱维特将于本月底离任",
+    "url": "https://tv.cctv.com/2026/08/13/whitehouse1/",
+    "source": "央视新闻",
+    "time": "2026-08-12 21:02"
+  },
+  {
+    "title": "美国7月预算赤字激增 创2021年3月以来新高",
+    "url": "https://www.reuters.com/markets/us/2026-08-13/",
+    "source": "路透社",
+    "time": "2026-08-12 21:10"
+  },
+  {
+    "title": "美国出行旺季汽油柴油价格均创历年同期新高",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 21:18"
+  },
+  {
+    "title": "OPEC下调今年全球石油需求增长预测及经济增长预测",
+    "url": "https://www.reuters.com/markets/us/2026-08-13/",
+    "source": "路透社",
+    "time": "2026-08-12 21:25"
+  },
+  {
+    "title": "铠侠与闪迪发布面向AI应用第九代2TB QLC 3D闪存",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 21:32"
+  },
+  {
+    "title": "微软据称已提高Windows 11授权费用",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 21:40"
+  },
+  {
+    "title": "加拿大考虑在与美谈判中提汽车关税建议",
+    "url": "https://www.reuters.com/markets/us/2026-08-13/",
+    "source": "路透社",
+    "time": "2026-08-12 21:48"
+  },
+  {
+    "title": "俄罗斯7月CPI同比涨5.98% 环比0.54%",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 21:55"
+  },
+  {
+    "title": "欧洲酷暑或造成1800亿欧元损失 欧盟经济增长恐近停滞",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 22:02"
+  },
+  {
+    "title": "派拉蒙提议出售CNN以平息全美12州反垄断诉讼",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 22:10"
+  },
+  {
+    "title": "德意志银行上调希尔顿评级至买入 认为预期已充分重置",
+    "url": "https://www.163.com/dy/article/L46PBNG505198NMR.html",
+    "source": "外媒",
+    "time": "2026-08-12 22:18"
+  },
+  {
+    "title": "韩国KOSPI指数涨3.68% 韩股去杠杆最剧烈期已过",
+    "url": "https://finance.sina.com.cn/world/2026-08-13/doc-kr2.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-12 22:25"
   }
 ]
