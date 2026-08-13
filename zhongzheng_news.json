@@ -1,435 +1,555 @@
 [
   {
-    "title": "八月首周宽基ETF资金流向分化：中证1000净流出145.88亿、中证500净流出53.98亿居宽基前列",
-    "url": "https://jijingying@stcn.com/article/detail/4065866.html",
-    "source": "证券时报",
-    "time": "2026-08-12 09:00"
+    "title": "美股三大指数收盘涨跌不一：纳指涨0.54%、标普涨0.26%、道指微跌0.04%（美东8月12日）",
+    "url": "https://www.163.com/dy/article/L46SU8HO0514R9P4.html",
+    "source": "澎湃新闻",
+    "time": "2026-08-13 08:32"
   },
   {
-    "title": "纳斯达克中国金龙指数跌2.94%至3%，腾讯音乐跌近12%、哔哩哔哩跌超5%、京东跌超4%",
-    "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-inimzcpt7047774.shtml",
+    "title": "美国7月CPI同比3.4%较前值3.5%回落、核心CPI 2.5%，9月加息概率降至45%",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
     "source": "新浪财经",
-    "time": "2026-08-12 08:31"
+    "time": "2026-08-13 08:32"
   },
   {
-    "title": "8月11日ETF资金整体净流出50.05亿元，股票型净流出64.46亿元、宽基型净流出47.64亿元",
-    "url": "https://k.sina.com.cn/article_5115326071_130e5ae7702002z0r0.html",
-    "source": "格隆汇",
-    "time": "2026-08-12 08:12"
+    "title": "费城半导体指数收涨2.49%，SK海力士涨9.01%、希捷涨7.03%、闪迪涨5.76%、美光涨4.92%、西部数据涨3.69%",
+    "url": "https://www.stcn.com/article/detail/4072497.html",
+    "source": "证券时报",
+    "time": "2026-08-13 08:30"
   },
   {
-    "title": "8月11日宽基指数ETF合计净流出21.12亿元，近5个交易日累计净流出684.14亿元",
-    "url": "https://wap.stockstar.com/detail/RB2026081200004242",
-    "source": "证券之星",
-    "time": "2026-08-12 08:10"
+    "title": "美股AI产业链爆发：Nebius涨34%、CoreWeave涨19%、超微电脑涨19%、Lumentum涨13.63%、Coherent涨8.24%",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 08:32"
   },
   {
-    "title": "ETF规模速报：上证50ETF华夏净流入11.23亿，南方中证1000ETF净流出7.19亿",
-    "url": "https://new.qq.com/rain/a/20260812A03B0W00?refer=cp_1009",
+    "title": "热门中概股普遍下挫，纳斯达克中国金龙指数收跌2.37%、中概科技龙头指数跌3.19%",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "格林大华期市早班车(8-13)：IH/IF/IC/IM四大股指期货全部看多，中证500收8045涨0.98%、中证1000收7793涨1.24%",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
+    "source": "格林大华期货",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "高盛：全球存储芯片长期供应协议(LTA)从三星/SK海力士/美光扩散至闪迪和长鑫，苹果压价长鑫遭拒、华为小米锁定产能",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
+    "source": "格林大华期货",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "黄仁勋公开信回应“循环融资”质疑：A100经济寿命延至十年、AI Factory收益结构升维至“AI创造的经济价值”",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
+    "source": "格林大华期货",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "马斯克SpaceX内部会：AI收入9月将超SpaceX其他收入、五年后占其价值99%",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
+    "source": "格林大华期货",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "股指期货沉淀资金净流出：中证1000/中证500/沪深300/上证50分别净流出51/29/20/12亿元",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
+    "source": "格林大华期货",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "美股科技七巨头指数跌0.42%，Meta跌3.38%、微软跌2.26%、亚马逊特斯拉跌超1%，仅英伟达涨超3%",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "国际金融要情(8-13)：CPI落地后市场上调美联储9月降息概率、美元指数走弱至99.99、VIX回落至17.2避险消退",
+    "url": "https://new.qq.com/rain/a/20260813A03L0800?refer=cp_1009",
+    "source": "腾讯新闻",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "亚太股市(8-12收盘)：韩国KOSPI大涨3.68%、日经225涨0.83%，提振AI硬件情绪",
+    "url": "https://new.qq.com/rain/a/20260813A03L0800?refer=cp_1009",
+    "source": "腾讯新闻",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "港股科技承压：恒生科技指数跌0.99%、国企指数跌0.96%（8-12收盘）",
+    "url": "https://new.qq.com/rain/a/20260813A03L0800?refer=cp_1009",
+    "source": "腾讯新闻",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "光通信股走高：Lumentum涨13.63%、Credo涨8.26%、Coherent涨8.24%、康宁涨5.18%",
+    "url": "https://www.163.com/dy/article/L46SU8HO0514R9P4.html",
+    "source": "澎湃新闻",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "存储板块领涨美股，Roundhill存储ETF(DRAM)涨7.68%",
+    "url": "https://www.163.com/dy/article/L46SU8HO0514R9P4.html",
+    "source": "澎湃新闻",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "CME美联储观察：9月维持利率概率52%、累计加息25bp概率48%，加息担忧仍存",
+    "url": "https://m.10jqka.com.cn/20260812/c678897381.shtml",
+    "source": "同花顺",
+    "time": "2026-08-13 06:00"
+  },
+  {
+    "title": "英伟达涨超3%领涨大型科技股，AI叙事延续、信用风险回落",
+    "url": "https://www.stcn.com/article/detail/4072497.html",
+    "source": "证券时报",
+    "time": "2026-08-13 08:30"
+  },
+  {
+    "title": "CoreWeave二季度营收25.75亿美元同比增112%超预期、Nebius涨超34%",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "超微电脑涨19%创7月22日以来最佳，摩根大通/花旗上调目标价",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "中东局势：伊朗称霍尔木兹海峡仍关闭，除非美国接受条件否则不重开（油价扰动）",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "美股盘后Lumentum公布FY26Q4业绩全面超预期，延续强劲势头",
+    "url": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2026-08-13%2Fdoc-inincnuu4815396.shtml",
+    "source": "新浪财经",
+    "time": "2026-08-13 08:32"
+  },
+  {
+    "title": "8月12日A股收涨：中证500收8045.31涨0.98%、中证1000收7793.72涨1.24%、中证2000涨1.75%领涨；4122家上涨",
+    "url": "https://www.csindex.com.cn",
+    "source": "中证指数公司",
+    "time": "2026-08-12 15:00"
+  },
+  {
+    "title": "8月12日国内期货收盘：中证500股指期货(IC)主力涨0.53%、中证1000股指期货(IM)主力涨0.79%",
+    "url": "https://m.10jqka.com.cn/20260812/c678897381.shtml",
+    "source": "同花顺",
+    "time": "2026-08-12 15:00"
+  },
+  {
+    "title": "8月12日A股缩量反弹：万得全A涨0.99%、科创50涨1.61%、创业板涨1.49%，小微盘风格居前",
+    "url": "https://www.sohu.com/a/1062157365_122014422",
+    "source": "财信证券",
+    "time": "2026-08-13 07:30"
+  },
+  {
+    "title": "8月12日宽基ETF资金净流入9.69亿元居前，中证1000相关ETF净流入4.07亿元居首",
+    "url": "https://stcn.com/article/detail/1286807.html",
+    "source": "证券时报",
+    "time": "2026-08-13 08:11"
+  },
+  {
+    "title": "8月12日中证500ETF、上证50ETF等宽基ETF资金净流出居前",
+    "url": "https://stcn.com/article/detail/1286807.html",
+    "source": "证券时报",
+    "time": "2026-08-13 08:11"
+  },
+  {
+    "title": "8月12日南方中证1000ETF份额减6.00亿份、净流出18.88亿元；华泰柏瑞沪深300ETF净流出31.14亿元",
+    "url": "https://www.nbd.com.cn/articles/2026-08-13/4540368.html",
     "source": "每日经济新闻",
-    "time": "2026-08-12 08:10"
+    "time": "2026-08-13 07:50"
   },
   {
-    "title": "截至8月11日全市场ETF份额33755.48亿份、总规模49796.40亿元",
-    "url": "https://new.qq.com/rain/a/20260812A03B0W00?refer=cp_1009",
-    "source": "每日经济新闻",
-    "time": "2026-08-12 08:10"
+    "title": "中信建投：阶段股票型ETF资金净流入-741.9亿元，中证1000、TMT相关ETF净流出150亿元左右；两融净流入314亿元",
+    "url": "https://new.qq.com/rain/a/20260813A03WDX00?refer=cp_1009",
+    "source": "中信建投",
+    "time": "2026-08-13 07:34"
   },
   {
-    "title": "8月11日中证1000ETF富国份额增加200万份、近一周净值涨5.72%",
-    "url": "https://stock.stockstar.com/RB2026081200006499.shtml",
+    "title": "8月12日华夏中证1000ETF(159845)涨1.22%但份额减3.27亿份、净流出9.42亿元",
+    "url": "https://caifuhao.eastmoney.com/news/20260813080743088319750",
+    "source": "东方财富",
+    "time": "2026-08-13 08:07"
+  },
+  {
+    "title": "8月12日中证500ETF鹏华(159982)份额减400万份、净流出434万元，近一月净值跌4.64%",
+    "url": "https://stock.stockstar.com/RB2026081300005898.shtml",
     "source": "证券之星",
-    "time": "2026-08-12 08:09"
+    "time": "2026-08-13 08:11"
   },
   {
-    "title": "中证500ETF嘉实8月11日份额减少1.09亿份、资金净流出2.96亿元",
+    "title": "8月12日南方中证1000ETF净流入3.61亿元居ETF资金榜前列",
+    "url": "https://news.futunn.com/th/post/46476320/etf-fund-rankings-inflow-of-funds-into-the-chinabond-policy",
+    "source": "富途财经",
+    "time": "2026-08-13 08:00"
+  },
+  {
+    "title": "8月12日中证500ETF华夏净流出1.11亿元居ETF资金净流出前列",
+    "url": "https://news.futunn.com/th/post/46476320/etf-fund-rankings-inflow-of-funds-into-the-chinabond-policy",
+    "source": "富途财经",
+    "time": "2026-08-13 08:00"
+  },
+  {
+    "title": "财信证券晨会：8月12日大盘缩量上涨，AI硬件表现靠前，小微盘风格居前",
+    "url": "https://www.sohu.com/a/1062157365_122014422",
+    "source": "财信证券",
+    "time": "2026-08-13 07:30"
+  },
+  {
+    "title": "8月12日行业ETF涨幅居前：房地产ETF银华、通信ETF嘉实、创业板人工智能ETF华夏、半导体设备ETF易方达",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
+    "source": "格林大华期货",
+    "time": "2026-08-13 07:00"
+  },
+  {
+    "title": "8月12日中证500ETF嘉实(159922)5日主力净流入12205万元、10日净流入18203万元",
     "url": "https://m.data.eastmoney.com/zjlx/stock/159922",
     "source": "东方财富",
-    "time": "2026-08-12 08:09"
+    "time": "2026-08-13 08:00"
   },
   {
-    "title": "8月11日中证1000ETF华夏份额减少1.68亿份、资金净流出5.83亿元",
-    "url": "https://caifuhao.eastmoney.com/news/20260812080720437817920",
+    "title": "中证500ETF景顺(159935)7月以来主力资金以净流出为主",
+    "url": "https://data.eastmoney.com/zjlx/159935.html",
     "source": "东方财富",
-    "time": "2026-08-12 08:07"
+    "time": "2026-08-13 08:00"
   },
   {
-    "title": "8月11日中证1000ETF易方达份额减少6200万份、净流出2.23亿元",
-    "url": "https://caifuhao.eastmoney.com/news/20260812080719806868620",
-    "source": "东方财富",
-    "time": "2026-08-12 08:07"
+    "title": "8月12日通信板块涨幅居前，CPO等细分板块领涨（韩国股市大涨近4%提振AI硬件）",
+    "url": "https://www.sohu.com/a/1062157365_122014422",
+    "source": "财信证券",
+    "time": "2026-08-13 07:30"
   },
   {
-    "title": "格林大华期货：周二两市震荡整理，中证500收7967跌0.79%、中证1000收7698跌0.46%，IC/IM看多",
-    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/11/20260811215426861.pdf",
+    "title": "股指期货(8-12)：IC/IM主力收涨、各品种贴水明显收窄，空头减仓迹象",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
     "source": "格林大华期货",
-    "time": "2026-08-12 08:00"
+    "time": "2026-08-13 07:00"
   },
   {
-    "title": "格林大华：沪深300/中证1000/中证500/上证50股指期货沉淀资金分别净流入20/16/7/3亿元",
-    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/11/20260811215426861.pdf",
+    "title": "8月12日中证1000ETF华夏最新规模87.32亿元，近20个交易日份额减少5.36亿份",
+    "url": "https://caifuhao.eastmoney.com/news/20260813080743088319750",
+    "source": "东方财富",
+    "time": "2026-08-13 08:07"
+  },
+  {
+    "title": "8月13日盘前：存量博弈、轮动低吸不追高，中报密集披露期风格从题材转向业绩验证",
+    "url": "https://guba.eastmoney.com/news,1.600667,1758144288.html",
+    "source": "东方财富",
+    "time": "2026-08-13 07:08"
+  },
+  {
+    "title": "8月13日盘前预警：高位创新药/AI算力小票获利盘丰厚、资金分歧加大，中报验证期高位纯情绪小票面临兑现",
+    "url": "https://guba.eastmoney.com/news,1.600667,1758144288.html",
+    "source": "东方财富",
+    "time": "2026-08-13 07:08"
+  },
+  {
+    "title": "8.13早上好(财富号)：生益科技昨日再大涨站上60日线、科技硬件仍在反弹结构",
+    "url": "https://caifuhao.eastmoney.com/news/20260812220132211629970",
+    "source": "东方财富",
+    "time": "2026-08-13 05:58"
+  },
+  {
+    "title": "中信建投：AI仍是中期景气主线，但高位算力硬件进入分化阶段，资金向AI应用端扩散",
+    "url": "https://new.qq.com/rain/a/20260813A03WDX00?refer=cp_1009",
+    "source": "中信建投",
+    "time": "2026-08-13 07:34"
+  },
+  {
+    "title": "中信建投：本周风格由成长向低位消费和价值切换，传媒/社会服务/食品饮料较强、通信电子调整",
+    "url": "https://new.qq.com/rain/a/20260813A03WDX00?refer=cp_1009",
+    "source": "中信建投",
+    "time": "2026-08-13 07:34"
+  },
+  {
+    "title": "中信建投：两融资金转为流入净流入314亿元，交易额占比9.4%环比上行",
+    "url": "https://new.qq.com/rain/a/20260813A03WDX00?refer=cp_1009",
+    "source": "中信建投",
+    "time": "2026-08-13 07:34"
+  },
+  {
+    "title": "央行8月11-12日逆回购零操作，流动性实质宽松（DR007运行于政策利率下方）",
+    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/12/20260812221804931.pdf",
     "source": "格林大华期货",
-    "time": "2026-08-12 08:00"
+    "time": "2026-08-13 07:00"
   },
   {
-    "title": "摩根士丹利：中国大模型行业由价格竞争转向智能竞争，商业化环境更健康",
-    "url": "https://www.gldhqh.com.cn/plugins/editor/ewebeditor/upload/2026/08/11/20260811215426861.pdf",
-    "source": "格林大华期货",
-    "time": "2026-08-12 08:00"
+    "title": "国际金融要情：人民币汇率走强，离岸人民币6.7441，美元指数走弱至99.99",
+    "url": "https://new.qq.com/rain/a/20260813A03L0800?refer=cp_1009",
+    "source": "腾讯新闻",
+    "time": "2026-08-13 07:00"
   },
   {
-    "title": "伊朗拒绝重开霍尔木兹海峡，美军称已迫使55艘试图突破封锁的商船改道",
-    "url": "https://finance.sina.com.cn/wm/2026-08-12/doc-inimzcpz4141914.shtml.md",
-    "source": "第一财经",
-    "time": "2026-08-12 07:20"
+    "title": "金点策略晨报：科技股连续反弹后A股风格再变，科技板块日内震荡但低位承接充足、本轮反弹有资金认可",
+    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260812090206a4a9ae6b",
+    "source": "腾讯证券",
+    "time": "2026-08-12 09:02"
   },
   {
-    "title": "华尔街见闻早餐：小盘股指罗素2000逆市收涨0.32%，费半涨0.87%",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "原油震荡走高，WTI原油收涨约1.5%至83.40美元/桶、布伦特涨1.3%至88.90美元",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "现货黄金从两个月高位回落小幅收跌0.45%、白银下挫1.6%",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "恒生科技指数将迎大修订：30只扩容至50只，AI升为独立主题并设收入增长组",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "韩媒：SK海力士拟将中国大连NAND工厂产能提升约50%",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "AI服务器需求持续释放，工业富联上半年净利润同比增长96%",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "继Seed、Flow后字节又成立一个AI一级部门直指“数据”",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "AI光通信需求强劲，Lumentum上季营收翻倍、本季指引超预期",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "新美联储通讯社：两份通胀报告或决定9月加息命运，沃什“嘴硬”也敌不过数据",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "美参议员桑德斯致信OpenAI、Anthropic、Meta要求暂停AI开发，否则国会将介入",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "黄仁勋澄清5000亿美元融资计划细节，英伟达信用风险回落",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "英伟达被曝正开发全球顶尖开源模型Nemotron 3.5瞄准万亿参数",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "万得美国科技七巨头指数跌1.13%，谷歌跌近4%创六个月来最大单日跌幅",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "10年期美债收益率下行2个基点、美元基本持平",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "比特币冲高转跌，一度较日高下挫2%",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "另类资管板块上涨，KKR涨6.92%、阿波罗涨6.23%、黑石涨3.89%",
-    "url": "https://www.sohu.com/a/1061702508_130887",
-    "source": "华尔街见闻",
-    "time": "2026-08-12 07:00"
-  },
-  {
-    "title": "8月11日中证500ETF汇添富份额减少750万份、资金净流出1111.79万元",
-    "url": "https://stock.stockstar.com/RB2026081200005432.shtml",
-    "source": "证券之星",
-    "time": "2026-08-12 06:39"
-  },
-  {
-    "title": "美伊僵局施压美股三大指数连续第二日收跌，纳指跌0.60%、道指跌0.34%、标普跌0.32%",
-    "url": "https://www.163.com/dy/article/L443U4VT05566WVY.html",
-    "source": "格隆汇",
-    "time": "2026-08-12 06:37"
-  },
-  {
-    "title": "费城半导体指数收涨0.87%，30只成分股中24家上涨，阿斯麦涨3.8%、科磊涨4.01%",
-    "url": "https://www.163.com/dy/article/L443U4VT05566WVY.html",
-    "source": "格隆汇",
-    "time": "2026-08-12 06:37"
-  },
-  {
-    "title": "存储概念股多数走高，SK海力士涨4.7%、闪迪涨2.68%、美光涨0.87%",
-    "url": "https://www.163.com/dy/article/L443U4VT05566WVY.html",
-    "source": "格隆汇",
-    "time": "2026-08-12 06:37"
-  },
-  {
-    "title": "光通信概念股整体走强，CRDO涨3.23%、迈威尔涨1.8%、Coherent涨1.05%",
-    "url": "https://www.163.com/dy/article/L443U4VT05566WVY.html",
-    "source": "格隆汇",
-    "time": "2026-08-12 06:37"
-  },
-  {
-    "title": "晨间前瞻：股指期货总净空127882手较前日减1667手，IC净空砍1725手、基差全部贴水但收敛中",
-    "url": "https://caifuhao.eastmoney.com/news/20260812075825020872190",
-    "source": "东方财富",
-    "time": "2026-08-12 04:40"
-  },
-  {
-    "title": "央行8月11日7天逆回购操作量为零，DR001/DR007运行于政策利率下方、流动性实质宽松",
-    "url": "https://caifuhao.eastmoney.com/news/20260812075825020872190",
-    "source": "东方财富",
-    "time": "2026-08-12 04:40"
-  },
-  {
-    "title": "北向资金8月11日沪股通净流出约81.31亿、深股通小幅净流入，呈“沪撤深留”格局",
-    "url": "https://caifuhao.eastmoney.com/news/20260812075825020872190",
-    "source": "东方财富",
-    "time": "2026-08-12 04:40"
-  },
-  {
-    "title": "两融余额维持2.6万亿以上，8月11日融资融券净流出约43.67亿、杠杆资金获利回吐",
-    "url": "https://caifuhao.eastmoney.com/news/20260812075825020872190",
-    "source": "东方财富",
-    "time": "2026-08-12 04:40"
-  },
-  {
-    "title": "权益市场震荡调整，科技赛道板块集体回调",
-    "url": "https://guba.eastmoney.com/news,jjdt,1757501894.html",
-    "source": "东方财富",
-    "time": "2026-08-11 21:38"
-  },
-  {
-    "title": "量化私募“回血”反弹，上周多只产品涨超15%，中证500/1000指增获正超额收益",
-    "url": "https://guba.eastmoney.com/news,cjpl,1757433428.html",
-    "source": "中国证券报",
-    "time": "2026-08-11 16:24"
-  },
-  {
-    "title": "上周(8/3-8/7)中证500、中证1000、中证2000分别上涨6.49%、8.54%、9.83%",
-    "url": "https://guba.eastmoney.com/news,cjpl,1757433428.html",
-    "source": "中国证券报",
-    "time": "2026-08-11 16:24"
-  },
-  {
-    "title": "上周量化选股头部产品周涨近20%，超六成产品净值涨超10%",
-    "url": "https://guba.eastmoney.com/news,cjpl,1757433428.html",
-    "source": "中国证券报",
-    "time": "2026-08-11 16:24"
-  },
-  {
-    "title": "三大指数午后跳水，A股五连阳终结，市场风格从科技成长向低位消费防御切换",
-    "url": "https://www.toutiao.com/article/7672665860141580827/",
-    "source": "今日头条",
-    "time": "2026-08-11 15:14"
-  },
-  {
-    "title": "券商策略：当前反弹本质为超跌后情绪修复、非趋势性反转，做多基础不牢",
-    "url": "https://www.toutiao.com/article/7672665860141580827/",
-    "source": "今日头条",
-    "time": "2026-08-11 15:14"
-  },
-  {
-    "title": "医药板块成8-11唯一强势主线，公募调研104次登顶申万一级行业",
-    "url": "https://www.toutiao.com/article/7672665860141580827/",
-    "source": "今日头条",
-    "time": "2026-08-11 15:14"
-  },
-  {
-    "title": "8月11日A股午后冲高回落，中证500收7967.54跌0.79%、中证1000收7698.05跌0.46%",
-    "url": "https://www.csindex.com.cn/",
-    "source": "中证指数公司",
-    "time": "2026-08-11 15:00"
-  },
-  {
-    "title": "收盘播报：宽基指数普跌，创业板指逆势收红，中证1000跌0.46%、中证500跌0.79%、上证50跌1.27%",
-    "url": "https://xueqiu.com/1527168523/404580606",
-    "source": "雪球",
-    "time": "2026-08-11 15:00"
-  },
-  {
-    "title": "8月11日全市场成交额23209.86亿元较前一交易日缩量约2021亿元",
-    "url": "https://xueqiu.com/1527168523/404580606",
-    "source": "雪球",
-    "time": "2026-08-11 15:00"
-  },
-  {
-    "title": "8月11日A股冲高回落，科创50跌1.63%领跌，科技硬件赛道分歧加剧",
-    "url": "https://xueqiu.com/7723569530/404614799",
-    "source": "雪球",
-    "time": "2026-08-11 15:00"
-  },
-  {
-    "title": "资金从前期大涨的贵金属、军工流出，定向回流创新药、CXO、机器人、MLCC",
-    "url": "https://xueqiu.com/7723569530/404614799",
-    "source": "雪球",
-    "time": "2026-08-11 15:00"
-  },
-  {
-    "title": "8月11日超七成个股收跌，1615家上涨3777家下跌，涨停60只跌停2只",
-    "url": "https://xueqiu.com/1527168523/404580606",
-    "source": "雪球",
-    "time": "2026-08-11 15:00"
-  },
-  {
-    "title": "板块层面影视院线、油气、MLCC、医药商业涨幅居前，贵金属、小金属、军工装备跌幅居前",
-    "url": "https://xueqiu.com/1527168523/404580606",
-    "source": "雪球",
-    "time": "2026-08-11 15:00"
-  },
-  {
-    "title": "8月11日A股下午盘中股评：重点关注低位中小盘双低AI软件、互联网应用",
-    "url": "https://caifuhao.eastmoney.com/news/20260811145101914689380",
-    "source": "东方财富",
-    "time": "2026-08-11 14:51"
-  },
-  {
-    "title": "中国大模型周调用量连续十五周居全球首位，中证1000ETF华夏盘中涨0.65%",
-    "url": "https://www.nbd.com.cn/articles/2026-08-11/4538191.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-11 11:06"
-  },
-  {
-    "title": "8月11日临近午盘A股三大指数分化，中证1000ETF华夏涨0.65%、中证500涨0.47%",
-    "url": "https://www.nbd.com.cn/articles/2026-08-11/4538191.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-11 11:06"
-  },
-  {
-    "title": "中证1000ETF华夏前50权重股太极实业涨10.02%、风华高科涨10%、思瑞浦涨8.31%",
-    "url": "https://www.nbd.com.cn/articles/2026-08-11/4538191.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-11 11:06"
-  },
-  {
-    "title": "中证1000ETF华夏近10日净流出14.19亿，最新规模102.56亿、近一月规模增4.92亿",
-    "url": "https://www.nbd.com.cn/articles/2026-08-11/4538191.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-11 11:06"
-  },
-  {
-    "title": "华源证券：货币政策维持适度宽松、稳股市组合拳或推动市场企稳回升",
-    "url": "https://www.nbd.com.cn/articles/2026-08-11/4538191.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-11 11:06"
-  },
-  {
-    "title": "中证1000ETF华夏前几大重仓行业电子涨1.17%、机械设备涨0.18%、有色金属跌1.68%",
-    "url": "https://www.nbd.com.cn/articles/2026-08-11/4538191.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-11 11:06"
-  },
-  {
-    "title": "8月11日早盘市场震荡拉升，创业板指、深成指先后翻红，超跌反弹情绪释放",
-    "url": "https://www.toutiao.com/article/7672665860141580827/",
-    "source": "今日头条",
-    "time": "2026-08-11 11:00"
-  },
-  {
-    "title": "北交所半年报陆续发布，高景气赛道业绩亮眼，净利同比增380%至478%",
-    "url": "https://www.stcn.com/article/detail/4058764.html",
-    "source": "证券时报",
+    "title": "8月科技股反弹前景：中报业绩期是主线变奏节点，AI主线存在再度走强机会，但反弹非V型、分化企稳",
+    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260811002607a6fe1325",
+    "source": "腾讯证券",
     "time": "2026-08-11 09:00"
   },
   {
-    "title": "财信证券：大盘延续震荡反弹，低位板块普涨，沪指实现五连阳",
-    "url": "https://www.sohu.com/a/1061271495_122014422",
+    "title": "星石投资：杠杆资金出清后交易性反弹条件具备、反弹行情有望延续",
+    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260811002607a6fe1325",
+    "source": "腾讯证券",
+    "time": "2026-08-11 09:00"
+  },
+  {
+    "title": "银河证券基金研究中心：截至8月13日8月以来全部股票ETF合计吸金达350亿元",
+    "url": "https://stcn.com/article/detail/1286807.html",
+    "source": "证券时报",
+    "time": "2026-08-13 08:11"
+  },
+  {
+    "title": "景顺长城：全球处“衰退交易”阶段，中国资产吸引力后续或显现，美联储降息后全球流动性改善",
+    "url": "https://stcn.com/article/detail/1286807.html",
+    "source": "证券时报",
+    "time": "2026-08-13 08:11"
+  },
+  {
+    "title": "8月13日盘前：沪指上方3960-3980压力重、需放量突破，当前量能不足、以震荡洗盘为主",
+    "url": "https://guba.eastmoney.com/news,1.600667,1758144288.html",
+    "source": "东方财富",
+    "time": "2026-08-13 07:08"
+  },
+  {
+    "title": "8月13日早评：年线/60日线阻力3965-3980，本周反弹到年线高点易冲高回落、考虑做减法",
+    "url": "https://guba.eastmoney.com/news,-1.cfhpl,1758141709.html",
+    "source": "东方财富",
+    "time": "2026-08-13 06:27"
+  },
+  {
+    "title": "财信证券：缩量环境下AI硬件板块反弹过程中仍有不小压力，关注业绩增长超预期核心股",
+    "url": "https://www.sohu.com/a/1062157365_122014422",
     "source": "财信证券",
-    "time": "2026-08-11 08:00"
+    "time": "2026-08-13 07:30"
   },
   {
-    "title": "券商共识：政策稳增长叠加盈利修复，市场进一步下探空间有限",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "新华财经",
-    "time": "2026-08-11 07:53"
+    "title": "8.13早上好：兆易创新近三日缩量横盘、场外资金不愿进场，短期等待方向选择",
+    "url": "https://caifuhao.eastmoney.com/news/20260812220132211629970",
+    "source": "东方财富",
+    "time": "2026-08-13 05:58"
   },
   {
-    "title": "新华财经：截至8月7日沪指、深成指、创业板指8月以来分别上涨2.81%、5.39%、6.55%",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "新华财经",
-    "time": "2026-08-11 07:50"
+    "title": "量化私募回血：上周中证500/1000/2000指增正超额，500指增约30只全正超额(2只周涨超15%)、1000指增32只九成正超额",
+    "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimxvuf0627734.shtml",
+    "source": "中国证券报",
+    "time": "2026-08-11 16:59"
   },
   {
-    "title": "高盛：中国AI板块不存在整体性泡沫，近期走势已使估值回归健康水平",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "新华财经",
-    "time": "2026-08-11 07:48"
+    "title": "永安研究(8月刊)：已披露中报中证500净利润增速约330%居各宽基最高，中证1000约45%",
+    "url": "https://www.yafco.com/upload/202608/07/20260807162325/2026%E5%B9%B408%E6%9C%88%E6%B0%B8%E5%AE%89%E7%A0%94%E7%A9%B6%EF%BC%88209%E6%9C%9F%EF%BC%89.pdf",
+    "source": "永安期货",
+    "time": "2026-08-07 09:00"
   },
   {
-    "title": "国信证券：经历7月回调后板块、风格再平衡需求提升",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "新华财经",
-    "time": "2026-08-11 07:47"
+    "title": "招商证券中报预告测算：沪深300/中证500/中证1000 2026中报增速90.9%/96.4%/34.2%",
+    "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/837846916778/index.phtml",
+    "source": "招商证券",
+    "time": "2026-07-19 09:00"
+  },
+  {
+    "title": "申万宏源：已披露样本中证500利润同比增103.7%、中证1000增46.3%，中小盘盈利修复确认",
+    "url": "https://www.163.com/dy/article/L2UGCEBE05568W0A.html",
+    "source": "申万宏源",
+    "time": "2026-07-27 09:00"
+  },
+  {
+    "title": "中小盘行业点评：中证1000未来2年净利复合增速37.55%、中证500 34.58%，中小盘底部修复",
+    "url": "https://data.eastmoney.com/report/zw_strategy.jshtml?encodeUrl=94uQayK80NO44xXRZSWoZtyzjr94wYMXUW79XJ0vlEI=",
+    "source": "东方财富",
+    "time": "2026-08-08 09:00"
+  },
+  {
+    "title": "中证1000上半年净利润增长232%（2024年-17.96%→2025年-5.22%→2026年转正）",
+    "url": "https://data.eastmoney.com/report/zw_strategy.jshtml?encodeUrl=94uQayK80NO44xXRZSWoZtyzjr94wYMXUW79XJ0vlEI=",
+    "source": "东方财富",
+    "time": "2026-08-08 09:00"
+  },
+  {
+    "title": "中证500成分股已有159家披露中报预告，99家预增/略增/续盈，盈利修复显著",
+    "url": "https://www.nbd.com.cn/articles/2026-08-04/4531451.html",
+    "source": "每日经济新闻",
+    "time": "2026-08-04 09:00"
+  },
+  {
+    "title": "诺安基金：中证500一季度归母净利润增速18.8%为业绩修复突出宽基，盈利修复+中盘成长回归",
+    "url": "https://finance.stockstar.com/IG2026080400024692.shtml",
+    "source": "证券之星",
+    "time": "2026-08-04 09:00"
+  },
+  {
+    "title": "中证500ETF成交额日增近九成(+87.59%)，资金在买中报业绩确定性",
+    "url": "https://www.toutiao.com/article/7670103854893072922/",
+    "source": "今日头条",
+    "time": "2026-08-04 17:20"
+  },
+  {
+    "title": "东吴证券：中证500/1000未来2年净利复合增速34.58%/37.55%，中小盘2026年显著底部修复",
+    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
+    "source": "东吴证券",
+    "time": "2026-08-06 13:31"
+  },
+  {
+    "title": "硬核制造+科技先锋：中证500指数卡位新质生产力，年内涨20.97%跑赢上证50",
+    "url": "https://finance.stockstar.com/IG2026080400024692.shtml",
+    "source": "证券之星",
+    "time": "2026-08-04 09:00"
+  },
+  {
+    "title": "中证500指数PE(TTM)回落至近10年87.76%分位(7-24)，估值泡沫有所挤出但仍偏高",
+    "url": "https://finance.stockstar.com/IG2026080400024692.shtml",
+    "source": "证券之星",
+    "time": "2026-08-04 09:00"
+  },
+  {
+    "title": "中报预告向好率42.9%处近13季度偏下，经济K型分化下预亏公司占比升",
+    "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/837846916778/index.phtml",
+    "source": "招商证券",
+    "time": "2026-07-19 09:00"
+  },
+  {
+    "title": "招商基金文雨：中证1000全年一致预期净利润增速25%远高于沪深300约8%，盈利剪刀差近年最大",
+    "url": "https://www.toutiao.com/article/7671155557096571438/",
+    "source": "招商基金",
+    "time": "2026-08-07 13:21"
+  },
+  {
+    "title": "中小盘行业点评：科技板块拥挤度消化尚需时间、海外科技股波动传导、中报低于预期为风险",
+    "url": "https://data.eastmoney.com/report/zw_strategy.jshtml?encodeUrl=94uQayK80NO44xXRZSWoZtyzjr94wYMXUW79XJ0vlEI=",
+    "source": "东方财富",
+    "time": "2026-08-08 09:00"
+  },
+  {
+    "title": "政策加码叠加风格切换：中小盘风格韧性，中证500/1000获资金关注，指数增强ETF热度上升",
+    "url": "https://www.163.com/dy/article/L3VL42N605568W0A.html",
+    "source": "界面新闻",
+    "time": "2026-08-10 13:01"
+  },
+  {
+    "title": "中证500增强ETF华泰柏瑞(561550)近一月吸金5.58亿元，规模19.75亿元刷历史峰值",
+    "url": "https://www.163.com/dy/article/L3VL42N605568W0A.html",
+    "source": "界面新闻",
+    "time": "2026-08-10 13:01"
+  },
+  {
+    "title": "中小盘风格阶段占优，中证500增强ETF华泰柏瑞获资金涌入，专精特新政策共振",
+    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
+    "source": "每日经济新闻",
+    "time": "2026-08-06 13:31"
+  },
+  {
+    "title": "招商证券：资金向中小市值、低估值且具动量效应标的集中，中小盘占优",
+    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
+    "source": "招商证券",
+    "time": "2026-08-06 13:31"
+  },
+  {
+    "title": "和讯王士杰：布局重点放在小盘股、微小盘股，市场风向已从大盘转向小微盘",
+    "url": "https://new.qq.com/rain/a/20260805A0AX4D00",
+    "source": "和讯网",
+    "time": "2026-08-05 16:24"
+  },
+  {
+    "title": "小盘风格再平衡窗口：中证1000ETF资金净流入居前，小市值因子拥挤度触底后释放",
+    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
+    "source": "腾讯新闻",
+    "time": "2026-08-10 09:00"
+  },
+  {
+    "title": "开源证券：前5%个股成交集中度破45%触发大小盘切换，小盘跑出超额",
+    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
+    "source": "开源证券",
+    "time": "2026-08-10 09:00"
+  },
+  {
+    "title": "中证1000增强ETF招商(159680)盘中涨超1%，成立以来累计回报62.63%、年化超额10.64%",
+    "url": "https://cj.sina.com.cn/articles/view/5182171545/134e1a99902002hw1a?finpagefr=p_104",
+    "source": "界面新闻",
+    "time": "2026-08-07 11:43"
+  },
+  {
+    "title": "打不过就加入：159680大涨超4%再揽1400万，年内吸金超10亿，中小盘增强策略持续验证",
+    "url": "https://www.toutiao.com/article/7670060285876568612/",
+    "source": "界面新闻",
+    "time": "2026-08-04 14:31"
+  },
+  {
+    "title": "盈利拐点初现，中小盘风格重获资金青睐，中证1000成分股专精特新占比超20%",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3596a7bef3946752",
+    "source": "腾讯新闻",
+    "time": "2026-08-09 09:00"
+  },
+  {
+    "title": "山西证券策略周报：中证1000以8.54%涨幅领跑，大小盘分化显著，小微盘风格占优",
+    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN202608101812069735f308",
+    "source": "山西证券",
+    "time": "2026-08-10 09:00"
+  },
+  {
+    "title": "华金证券：8月美联储紧缩预期有望下降、流动性宽松利好中小盘风格",
+    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
+    "source": "华金证券",
+    "time": "2026-08-10 09:00"
+  },
+  {
+    "title": "ETF风向标：近20日中证1000ETF南方净流入246.70亿/华夏122.94亿、中证500ETF南方151.48亿，中小盘中期资金连贯",
+    "url": "https://sg.etasphere.com/hant/news/2656321351",
+    "source": "新浪财经",
+    "time": "2026-08-08 09:00"
+  },
+  {
+    "title": "中信证券：全球“衰退交易”告一段落，风险偏好下降对中国资产有负面影响、配置向低位品种切换",
+    "url": "https://news.futunn.com/th/post/46476320/etf-fund-rankings-inflow-of-funds-into-the-chinabond-policy",
+    "source": "中信证券",
+    "time": "2026-08-13 08:00"
+  },
+  {
+    "title": "国泰君安：股市中线行情启动需预期层面打动人心进展或足够安全边际，仍需等候时机",
+    "url": "https://news.futunn.com/th/post/46476320/etf-fund-rankings-inflow-of-funds-into-the-chinabond-policy",
+    "source": "国泰君安",
+    "time": "2026-08-13 08:00"
+  },
+  {
+    "title": "国信证券：板块风格再平衡需求提升、向低位消费和价值切换",
+    "url": "https://new.qq.com/rain/a/20260811A02CZI00",
+    "source": "国信证券",
+    "time": "2026-08-11 09:00"
   },
   {
     "title": "华泰证券：超跌反弹仍有演绎空间，重点关注创业板指与中小盘",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "新华财经",
-    "time": "2026-08-11 07:41"
-  },
-  {
-    "title": "阿里云将大型AIDC数据中心交付工期缩短至100天、整体建设成本降低超10%",
     "url": "https://new.qq.com/rain/a/20260811A02CZI00",
-    "source": "财联社",
-    "time": "2026-08-11 07:36"
+    "source": "华泰证券",
+    "time": "2026-08-11 09:00"
   },
   {
     "title": "中信证券：8月初处于超跌反弹阶段，前期跌幅越大弹性越大",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "新华财经",
-    "time": "2026-08-11 07:32"
-  },
-  {
-    "title": "央行印发“十五五”改革发展规划，配套出台9份细分领域行动方案",
     "url": "https://new.qq.com/rain/a/20260811A02CZI00",
-    "source": "财联社",
-    "time": "2026-08-11 07:30"
+    "source": "中信证券",
+    "time": "2026-08-11 09:00"
   },
   {
     "title": "中国银河：8月A股由“预期博弈”转向“现实验证”，以业绩确定性为矛",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "新华财经",
-    "time": "2026-08-11 07:29"
+    "url": "https://new.qq.com/rain/a/20260811A02CZI00",
+    "source": "中国银河",
+    "time": "2026-08-11 09:00"
+  },
+  {
+    "title": "高盛：中国AI板块不存在整体性泡沫，近期走势已使估值回归健康水平",
+    "url": "https://new.qq.com/rain/a/20260811A02CZI00",
+    "source": "高盛",
+    "time": "2026-08-11 09:00"
   },
   {
     "title": "天风证券：牛市后期资金抱团聚焦主线，周期股低估值高贝塔有望获增量资金",
@@ -438,165 +558,45 @@
     "time": "2026-08-10 14:20"
   },
   {
-    "title": "政策加码叠加风格切换，中小盘修复有望提速，中证500增强ETF华泰柏瑞近一月吸金5.58亿",
-    "url": "https://new.qq.com/rain/a/20260810A064VE00?refer=cp_1009",
-    "source": "腾讯新闻",
-    "time": "2026-08-10 09:00"
-  },
-  {
-    "title": "小盘风格再平衡窗口开启，中证2000增强ETF成立以来年化超额21.26%",
-    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
-    "source": "腾讯新闻",
-    "time": "2026-08-10 09:00"
-  },
-  {
-    "title": "近一月宽基ETF合计净流入约2409亿，中证1000净流入239亿、中证500净流入146亿",
-    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026081001232598b9619d",
-    "source": "腾讯证券",
-    "time": "2026-08-10 09:00"
-  },
-  {
-    "title": "山西证券策略周报：中证1000以8.54%涨幅领跑，大小盘分化显著",
-    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html#/?id=nesSN202608101812069735f308&s=b",
-    "source": "腾讯证券",
-    "time": "2026-08-10 09:00"
-  },
-  {
-    "title": "开源证券：前5%个股成交集中度破45%触发大小盘切换，小盘跑出超额",
-    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
-    "source": "腾讯新闻",
-    "time": "2026-08-10 09:00"
-  },
-  {
-    "title": "华金证券：8月美联储紧缩预期下降、流动性宽松利好中小盘风格",
-    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
-    "source": "腾讯新闻",
-    "time": "2026-08-10 09:00"
-  },
-  {
-    "title": "中泰证券：宽货币紧信用对高弹性小盘形成支撑，资金向中小市值扩散",
-    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
-    "source": "腾讯新闻",
-    "time": "2026-08-10 09:00"
-  },
-  {
-    "title": "中信建投：美国FCC拟禁进口中国光模块仍处草案，短期情绪扰动终将消化",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "中信建投",
-    "time": "2026-08-09 16:34"
-  },
-  {
-    "title": "中信建投：韩国去杠杆最剧烈阶段或已过去，融资资金持续稳定净流入",
-    "url": "https://www.cnfin.com/gs-lb/detail/20260811/4453556_1.html",
-    "source": "中信建投",
-    "time": "2026-08-09 16:30"
-  },
-  {
-    "title": "华泰柏瑞基金经理：半年度财报季临近，量化全市场选股优势有望更好体现",
-    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-09 14:02"
-  },
-  {
-    "title": "截至8月11日中证500成分股已有159家披露中报预告，99家为预增/略增/续盈",
-    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-09 13:50"
-  },
-  {
-    "title": "招商证券：资金逐渐向中小市值、低估值且具动量效应的标的集中",
-    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-09 13:44"
-  },
-  {
-    "title": "东吴证券：中小盘公司经历盈利低谷后，2026年有望迎来显著底部修复",
-    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-09 13:41"
-  },
-  {
-    "title": "东吴证券：中证500/1000未来2年净利复合增速达34.58%/37.55%",
-    "url": "https://www.163.com/dy/article/L3LD8T050512B07B.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-09 13:38"
-  },
-  {
-    "title": "南华期货8月展望：中小盘（中证500、中证1000）有望阶段性占优，大小盘再平衡轮动",
+    "title": "南华期货8月展望：中小盘(中证500、中证1000)有望阶段性占优，大小盘再平衡轮动",
     "url": "https://www.fxbaogao.com/detail/5573421",
     "source": "南华期货",
     "time": "2026-08-08 09:20"
   },
   {
-    "title": "中证1000指数回调修复，组合营收/净利增速超市场，收益弹性增强",
-    "url": "https://cj.sina.com.cn/articles/view/5182171545/134e1a99902002hw1a?finpagefr=p_104",
-    "source": "腾讯证券",
-    "time": "2026-08-07 11:43"
+    "title": "申万宏源：AI大波段重启仍需时间、行情由普涨转向业绩筛选",
+    "url": "https://www.163.com/dy/article/L2UGCEBE05568W0A.html",
+    "source": "申万宏源",
+    "time": "2026-07-27 09:00"
   },
   {
-    "title": "中证1000增强ETF招商：中小盘有望阶段性占优，从中报业绩验证中精选个股",
-    "url": "https://cj.sina.com.cn/articles/view/5182171545/134e1a99902002hw1a?finpagefr=p_104",
-    "source": "界面新闻",
-    "time": "2026-08-07 11:43"
+    "title": "财信证券：大盘延续震荡反弹，低位板块普涨，沪指五连阳（8-11）",
+    "url": "https://www.sohu.com/a/1062157365_122014422",
+    "source": "财信证券",
+    "time": "2026-08-11 07:53"
   },
   {
-    "title": "永安研究：已披露中报中证500净利润增速约330%居各宽基指数最高",
-    "url": "https://www.yafco.com/upload/202608/07/20260807162325/2026%E5%B9%B408%E6%9C%88%E6%B0%B8%E5%AE%89%E7%A0%94%E7%A9%B6%EF%BC%88209%E6%9C%9F%EF%BC%89.pdf",
-    "source": "永安期货",
-    "time": "2026-08-07 09:00"
+    "title": "新华财经：政策稳增长叠加盈利修复，市场进一步下探空间有限",
+    "url": "https://new.qq.com/rain/a/20260811A02CZI00",
+    "source": "新华财经",
+    "time": "2026-08-11 07:53"
   },
   {
-    "title": "中小盘风格阶段占优，资金涌入市场首只中证500增强ETF华泰柏瑞",
-    "url": "https://www.nbd.com.cn/articles/2026-08-06/4533910.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-06 13:23"
+    "title": "中信建投：韩国去杠杆最剧烈阶段或已过、融资资金持续稳定净流入",
+    "url": "https://new.qq.com/rain/a/20260811A02CZI00",
+    "source": "中信建投",
+    "time": "2026-08-09 16:30"
   },
   {
-    "title": "和讯信息王士杰：布局重点一定要放在小盘股、微小盘股",
-    "url": "https://www.toutiao.com/article/7670460433605722659/",
-    "source": "和讯网",
-    "time": "2026-08-05 16:24"
+    "title": "中泰证券：宽货币紧信用对高弹性小盘形成支撑，资金向中小市值扩散",
+    "url": "https://new.qq.com/rain/a/20260810A0597Z00?refer=cp_1009",
+    "source": "中泰证券",
+    "time": "2026-08-10 09:00"
   },
   {
-    "title": "小市值因子拥挤度触及历史极低值-1.00，机构称严重低估",
-    "url": "https://new.qq.com/rain/a/20260805A07S8A00?refer=cp_1009",
-    "source": "腾讯新闻",
-    "time": "2026-08-05 09:00"
-  },
-  {
-    "title": "中证500ETF成交额日增近九成、资金买“确定性”，六成成分股披露预增",
-    "url": "https://www.toutiao.com/article/7670103854893072922/",
-    "source": "今日头条",
-    "time": "2026-08-04 17:20"
-  },
-  {
-    "title": "私募观察：量化超额环境改善，中性策略迎配置良机，IC/IM贴水处历史低位",
-    "url": "https://m.10jqka.com.cn/20260804/c678664671.shtml",
-    "source": "同花顺",
-    "time": "2026-08-04 09:00"
-  },
-  {
-    "title": "国投瑞银中证500指数量化增强Y单位净值2.9562、近一年收益亮眼",
-    "url": "https://finance.sina.com.cn/fund/quotes/022909/bc.shtml",
-    "source": "新浪财经",
-    "time": "2026-08-04 09:00"
-  },
-  {
-    "title": "指数增强策略需求升温，中证500增强ETF华泰柏瑞近一月吸金超5.25亿元",
-    "url": "https://www.nbd.com.cn/articles/2026-08-04/4531451.html",
-    "source": "每日经济新闻",
-    "time": "2026-08-04 09:00"
-  },
-  {
-    "title": "指数型基金定投排行：易方达中证500量化增强A近两年定投收益22.60%",
-    "url": "https://www.jjmmw.com/fund/dtph/s5o13d0f0a1mp11",
-    "source": "基金买卖网",
-    "time": "2026-08-03 09:00"
-  },
-  {
-    "title": "量化资产配置月报：8月中证500减配成长因子、增配红利与低波",
-    "url": "https://reportify.cn/reports/1281661047119417344",
-    "source": "报告星球",
-    "time": "2026-08-03 09:00"
+    "title": "中信建投：美国FCC拟禁进口中国光模块仍处草案，短期情绪扰动终将消化",
+    "url": "https://new.qq.com/rain/a/20260811A02CZI00",
+    "source": "中信建投",
+    "time": "2026-08-09 16:34"
   }
 ]
