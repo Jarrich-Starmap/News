@@ -1,106 +1,97 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.08.11 – 08.17 · 按本周新增 Star 数排序",
-  "updated": "2026.08.18",
+  "period": "2026.08.12 – 08.18 · 按本周新增 Star 数排序",
+  "updated": "2026.08.19",
   "projects": [
     {
       "rank": 1,
       "owner": "cathrynlavery",
       "repo": "diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "面向 Claude Code 的 29 种「编辑式图表」技能库，用自包含 HTML + SVG 生成系统设计、架构与流程可视化，强调无阴影、无 Mermaid 模板味的干净编辑式图表，让 AI 编码智能体产出更清晰、可维护的视觉文档；本周以 15.6k 新增 Star 蝉联榜首，总 Star 达 20.4k。",
-      "stars": "20.4k",
-      "weekly_stars": "15.6k"
+      "description": "面向 Claude Code 的 27 种「编辑式图表」技能库，用自包含 HTML + SVG 生成系统设计、架构与流程可视化，强调无阴影、无 Mermaid 模板味的干净编辑式图表，让 AI 编码智能体产出更清晰、可维护的视觉文档；本周以 16.3k 新增 Star 蝉联榜首，总 Star 达 21.5k。",
+      "stars": "21.5k",
+      "weekly_stars": "16.3k"
     },
     {
       "rank": 2,
-      "owner": "PrimeIntellect-ai",
-      "repo": "prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "Prime Intellect 开源的自我进化 RLM（推理语言模型）智能体，面向编码工作流与长时自主任务，能在使用过程中持续改进自身能力；本周新增 6.4k Star，总 Star 达 16.8k。",
-      "stars": "16.8k",
-      "weekly_stars": "6.4k"
-    },
-    {
-      "rank": 3,
       "owner": "semantica-agi",
       "repo": "semantica",
       "url": "https://github.com/semantica-agi/semantica",
-      "description": "图原生的上下文与可问责 AI 基础设施，融合知识图谱、本体建模与 Graph-RAG，为智能体提供带来源追溯的长期记忆与可解释推理链；本周新增 5.3k Star，总 Star 达 8.4k。",
-      "stars": "8.4k",
-      "weekly_stars": "5.3k"
+      "description": "图原生的上下文与可问责 AI 基础设施，融合知识图谱、本体建模与 Graph-RAG，为智能体提供带来源追溯的长期记忆与可解释推理链；本周新增 4.7k Star，总 Star 达 8.9k。",
+      "stars": "8.9k",
+      "weekly_stars": "4.7k"
+    },
+    {
+      "rank": 3,
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "Prime Intellect 开源的自我进化 RLM（推理语言模型）智能体，面向编码工作流与长时自主任务，能在使用过程中持续改进自身能力；本周新增 4.3k Star，总 Star 达 17.1k。",
+      "stars": "17.1k",
+      "weekly_stars": "4.3k"
     },
     {
       "rank": 4,
-      "owner": "TencentCloud",
-      "repo": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "腾讯云开源的团队级 AI Agent 记忆中枢，把对话、文档与代码沉淀为对话记忆、技能、LLM-Wiki 与代码图谱四类可复用记忆资产，可跨智能体与团队成员共享；本周新增 3.6k Star，总 Star 达 22.6k。",
-      "stars": "22.6k",
+      "owner": "cactus-compute",
+      "repo": "needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "Cactus Compute 开源的 14MB 超小基础模型，面向手机、可穿戴、智能家居与机器人等微型设备端侧推理，基于 Gemma 等模型蒸馏优化；本周新增 3.6k Star，总 Star 达 7.4k。",
+      "stars": "7.4k",
       "weekly_stars": "3.6k"
     },
     {
       "rank": 5,
-      "owner": "cactus-compute",
-      "repo": "needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "Cactus Compute 开源的 14MB 超小基础模型，面向手机、可穿戴、智能家居与机器人等微型设备端侧推理，基于 Gemma 等模型蒸馏优化；本周新增 3.0k Star，总 Star 达 7.1k。",
-      "stars": "7.1k",
-      "weekly_stars": "3.0k"
-    },
-    {
-      "rank": 6,
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "谷歌 Chrome 团队 Addy Osmani 开源的生产级 AI 编码智能体工程技能库，覆盖测试、可观测性、安全等工程场景，适配 Claude Code、Codex、Cursor 等主流编码智能体；本周新增 2.9k Star，总 Star 高达 88.0k。",
-      "stars": "88.0k",
-      "weekly_stars": "2.9k"
-    },
-    {
-      "rank": 7,
-      "owner": "anthropics",
-      "repo": "skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Anthropic 官方开源的 Agent Skills 公共仓库，集中维护供 Claude 等编码智能体调用的技能集规范与示例，为智能体生态提供统一的技能定义与分发标准；本周新晋上榜即新增 2.7k Star，总 Star 高达 169.9k。",
-      "stars": "169.9k",
-      "weekly_stars": "2.7k"
-    },
-    {
-      "rank": 8,
       "owner": "unslothai",
       "repo": "unsloth",
       "url": "https://github.com/unslothai/unsloth",
-      "description": "热门的开源本地 LLM 训练与微调工具，提供图形界面在本地运行并微调 Qwen、DeepSeek、Gemma、Kimi、MiniMax 等大模型及 FLUX 等扩散模型，以极低显存占用大幅加速微调；本周新增 2.6k Star，总 Star 高达 73.1k。",
-      "stars": "73.1k",
-      "weekly_stars": "2.6k"
+      "description": "热门的开源本地 LLM 训练与微调工具，提供图形界面在本地运行并微调 Qwen、DeepSeek、Gemma、Kimi、MiniMax 等大模型及 FLUX 等扩散模型，以极低显存占用大幅加速微调；本周新增 3.3k Star，总 Star 高达 73.5k。",
+      "stars": "73.5k",
+      "weekly_stars": "3.3k"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "owner": "macro-inc",
       "repo": "macro",
       "url": "https://github.com/macro-inc/macro",
-      "description": "AI 原生的团队一体化工作空间，把邮件、聊天、文档、任务、智能体、通话与 CRM 用共享 AI 记忆 @ 关联起来，让 AI 代理在统一工作区中执行多步骤任务；本周新增 2.6k Star，总 Star 达 3.5k。",
-      "stars": "3.5k",
-      "weekly_stars": "2.6k"
+      "description": "AI 原生的团队一体化工作空间，把邮件、聊天、文档、任务、智能体、通话与 CRM 用共享 AI 记忆 @ 关联起来，让 AI 代理在统一工作区中执行多步骤任务；本周新增 2.7k Star，总 Star 达 3.6k。",
+      "stars": "3.6k",
+      "weekly_stars": "2.7k"
     },
     {
-      "rank": 10,
-      "owner": "vitali87",
-      "repo": "code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "面向 monorepo 的代码知识图谱 RAG，用 tree-sitter 解析多语言代码库并存入 Memgraph 图数据库，让 AI 通过 MCP 查询、理解并直接修改跨语言代码；本周新增 1.7k Star，总 Star 达 4.5k。",
-      "stars": "4.5k",
-      "weekly_stars": "1.7k"
-    },
-    {
-      "rank": 11,
+      "rank": 7,
       "owner": "lightningpixel",
       "repo": "modly",
       "url": "https://github.com/lightningpixel/modly",
-      "description": "本地 AI 桌面应用，通过图片或文本提示词在本地 GPU 上生成 3D 模型，全程离线运行、数据不出本机，面向设计师与创作者提供隐私安全的端侧 3D 内容创作；本周新晋上榜即新增 1.3k Star，总 Star 达 6.2k。",
-      "stars": "6.2k",
+      "description": "本地 AI 桌面应用，通过图片或文本提示词在本地 GPU 上生成 3D 模型，全程离线运行、数据不出本机，面向设计师与创作者提供隐私安全的端侧 3D 内容创作；本周新增 1.3k Star，总 Star 达 6.6k。",
+      "stars": "6.6k",
       "weekly_stars": "1.3k"
+    },
+    {
+      "rank": 8,
+      "owner": "AlexsJones",
+      "repo": "llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "LLM 模型与运行时匹配工具，一条命令即可扫描硬件并推荐可在本机运行的百款模型与推理后端（GGUF、MLX、Unsloth 等），帮助用户在本地设备快速落地大模型推理；本周新晋上榜即新增 861 Star，总 Star 达 32.7k。",
+      "stars": "32.7k",
+      "weekly_stars": "861"
+    },
+    {
+      "rank": 9,
+      "owner": "vitali87",
+      "repo": "code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "面向 monorepo 的代码知识图谱 RAG，用 tree-sitter 解析多语言代码库并存入 Memgraph 图数据库，让 AI 通过 MCP 查询、理解并直接修改跨语言代码；本周新增 1.1k Star，总 Star 达 4.6k。",
+      "stars": "4.6k",
+      "weekly_stars": "1.1k"
+    },
+    {
+      "rank": 10,
+      "owner": "Lightricks",
+      "repo": "LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Lightricks 开源的 LTX-2 音视频生成模型官方推理与 LoRA 训练包，提供 Python 接口在本地运行新一代音视频生成模型并微调定制；本周新晋上榜即新增 544 Star，总 Star 达 9.1k。",
+      "stars": "9.1k",
+      "weekly_stars": "544"
     }
   ]
 }
