@@ -1,97 +1,79 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.08.12 – 08.18 · 按本周新增 Star 数排序",
-  "updated": "2026.08.19",
+  "period": "2026.08.18 – 08.24 · 按本周新增 Star 数排序",
+  "updated": "2026.08.24",
   "projects": [
     {
       "rank": 1,
-      "owner": "cathrynlavery",
-      "repo": "diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "面向 Claude Code 的 27 种「编辑式图表」技能库，用自包含 HTML + SVG 生成系统设计、架构与流程可视化，强调无阴影、无 Mermaid 模板味的干净编辑式图表，让 AI 编码智能体产出更清晰、可维护的视觉文档；本周以 16.3k 新增 Star 蝉联榜首，总 Star 达 21.5k。",
-      "stars": "21.5k",
-      "weekly_stars": "16.3k"
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型与自动化工作流，根据主题或关键词一键生成高清短视频，自动完成脚本、配音（TTS）、字幕与剪辑，并导出至 YouTube Shorts / TikTok / 抖音等平台，是开源 AI 视频生成领域的明星项目；本周以 11.0k 新增 Star 强势登顶周榜，总 Star 高达 115.2k。",
+      "stars": "115.2k",
+      "weekly_stars": "11.0k"
     },
     {
       "rank": 2,
-      "owner": "semantica-agi",
-      "repo": "semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "图原生的上下文与可问责 AI 基础设施，融合知识图谱、本体建模与 Graph-RAG，为智能体提供带来源追溯的长期记忆与可解释推理链；本周新增 4.7k Star，总 Star 达 8.9k。",
-      "stars": "8.9k",
-      "weekly_stars": "4.7k"
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "字节跳动火山引擎开源的「自我进化上下文数据库」，统一智能体的记忆（Memory）、知识 RAG 与技能（Skills），让 AI 智能体在多轮任务中持续积累与调用上下文；本周新增 3.4k Star，总 Star 达 32.4k。",
+      "stars": "32.4k",
+      "weekly_stars": "3.4k"
     },
     {
       "rank": 3,
-      "owner": "PrimeIntellect-ai",
-      "repo": "prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "Prime Intellect 开源的自我进化 RLM（推理语言模型）智能体，面向编码工作流与长时自主任务，能在使用过程中持续改进自身能力；本周新增 4.3k Star，总 Star 达 17.1k。",
-      "stars": "17.1k",
-      "weekly_stars": "4.3k"
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "面向智能体编程 CLI（如 Claude Code、Cursor）的长期记忆方案，把编码智能体的上下文与决策沉淀为可跨厂商交接的持久记忆，解决不同 AI 编程工具之间上下文无法延续的痛点；本周新增 2.6k Star，总 Star 达 4.2k。",
+      "stars": "4.2k",
+      "weekly_stars": "2.6k"
     },
     {
       "rank": 4,
-      "owner": "cactus-compute",
-      "repo": "needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "Cactus Compute 开源的 14MB 超小基础模型，面向手机、可穿戴、智能家居与机器人等微型设备端侧推理，基于 Gemma 等模型蒸馏优化；本周新增 3.6k Star，总 Star 达 7.4k。",
-      "stars": "7.4k",
-      "weekly_stars": "3.6k"
+      "owner": "modular",
+      "repo": "modular",
+      "url": "https://github.com/modular/modular",
+      "description": "Modular 公司推出的 AI 基础设施平台，包含面向 AI 的高性能编程语言 Mojo 与推理引擎 MAX，主打用统一技术栈替代 Python / C++ / CUDA 碎片化的 AI 开发体验；本周新增 2.0k Star，总 Star 达 28.9k。",
+      "stars": "28.9k",
+      "weekly_stars": "2.0k"
     },
     {
       "rank": 5,
-      "owner": "unslothai",
-      "repo": "unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "热门的开源本地 LLM 训练与微调工具，提供图形界面在本地运行并微调 Qwen、DeepSeek、Gemma、Kimi、MiniMax 等大模型及 FLUX 等扩散模型，以极低显存占用大幅加速微调；本周新增 3.3k Star，总 Star 高达 73.5k。",
-      "stars": "73.5k",
-      "weekly_stars": "3.3k"
+      "owner": "cursor",
+      "repo": "plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "AI 编程编辑器 Cursor 的官方插件规范与官方插件集合，定义了扩展 Cursor 能力的插件接口与开发标准，让开发者为这款 AI 编码工具构建自定义功能；本周新增 1.7k Star，总 Star 达 4.8k。",
+      "stars": "4.8k",
+      "weekly_stars": "1.7k"
     },
     {
       "rank": 6,
-      "owner": "macro-inc",
-      "repo": "macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "AI 原生的团队一体化工作空间，把邮件、聊天、文档、任务、智能体、通话与 CRM 用共享 AI 记忆 @ 关联起来，让 AI 代理在统一工作区中执行多步骤任务；本周新增 2.7k Star，总 Star 达 3.6k。",
-      "stars": "3.6k",
-      "weekly_stars": "2.7k"
+      "owner": "jundot",
+      "repo": "omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "面向 Apple Silicon 的本地 LLM 推理服务器，用连续批处理（continuous batching）与 SSD 缓存为 Mac 提供高吞吐大模型推理，并可通过 macOS 菜单栏便捷管理；本周新增 1.6k Star，总 Star 达 20.4k。",
+      "stars": "20.4k",
+      "weekly_stars": "1.6k"
     },
     {
       "rank": 7,
-      "owner": "lightningpixel",
-      "repo": "modly",
-      "url": "https://github.com/lightningpixel/modly",
-      "description": "本地 AI 桌面应用，通过图片或文本提示词在本地 GPU 上生成 3D 模型，全程离线运行、数据不出本机，面向设计师与创作者提供隐私安全的端侧 3D 内容创作；本周新增 1.3k Star，总 Star 达 6.6k。",
-      "stars": "6.6k",
-      "weekly_stars": "1.3k"
+      "owner": "apache",
+      "repo": "maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache 孵化中的本地优先（local-first）AI 智能体工作空间，将模型消息、工具调用、权限决策与终止事件记录为仅追加日志，为 AI Agent 提供可审计、可回放的运行轨迹；本周新晋上榜即新增 810 Star，总 Star 达 2.2k。",
+      "stars": "2.2k",
+      "weekly_stars": "810"
     },
     {
       "rank": 8,
-      "owner": "AlexsJones",
-      "repo": "llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "LLM 模型与运行时匹配工具，一条命令即可扫描硬件并推荐可在本机运行的百款模型与推理后端（GGUF、MLX、Unsloth 等），帮助用户在本地设备快速落地大模型推理；本周新晋上榜即新增 861 Star，总 Star 达 32.7k。",
-      "stars": "32.7k",
-      "weekly_stars": "861"
-    },
-    {
-      "rank": 9,
-      "owner": "vitali87",
-      "repo": "code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "面向 monorepo 的代码知识图谱 RAG，用 tree-sitter 解析多语言代码库并存入 Memgraph 图数据库，让 AI 通过 MCP 查询、理解并直接修改跨语言代码；本周新增 1.1k Star，总 Star 达 4.6k。",
-      "stars": "4.6k",
-      "weekly_stars": "1.1k"
-    },
-    {
-      "rank": 10,
-      "owner": "Lightricks",
-      "repo": "LTX-2",
-      "url": "https://github.com/Lightricks/LTX-2",
-      "description": "Lightricks 开源的 LTX-2 音视频生成模型官方推理与 LoRA 训练包，提供 Python 接口在本地运行新一代音视频生成模型并微调定制；本周新晋上榜即新增 544 Star，总 Star 达 9.1k。",
-      "stars": "9.1k",
-      "weekly_stars": "544"
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Anthropic 官方的 Claude 插件社区市场（Claude Cowork / Claude Code 插件目录的只读镜像），汇集社区提交的插件扩展，丰富 Claude 编码智能体的能力；本周新晋上榜即新增 341 Star，总 Star 达 821。",
+      "stars": "821",
+      "weekly_stars": "341"
     }
   ]
 }
