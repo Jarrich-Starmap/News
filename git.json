@@ -1,6 +1,6 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.08.21 – 08.27 · 按本周新增 Star 数排序",
+  "period": "2026.08.22 – 08.28 · 按本周新增 Star 数排序",
   "updated": "2026.08.28",
   "projects": [
     {
@@ -8,90 +8,117 @@
       "owner": "openai",
       "repo": "codex",
       "url": "https://github.com/openai/codex",
-      "description": "OpenAI 开源的轻量级终端编码智能体，支持在 CLI 中调用模型完成代码补全、执行与多文件编辑，是本周涨势最猛的项目，以 11.4k 新增 Star 登顶周榜，总 Star 达 119.1k。",
-      "stars": "119.1k",
-      "weekly_stars": "11.4k"
+      "description": "OpenAI 开源的轻量级终端编码智能体，支持在 CLI 中调用模型完成代码补全、执行与多文件编辑，是本周涨势最猛的项目，以 12.1k 新增 Star 蝉联周榜冠军，总 Star 达 119.2k。",
+      "stars": "119.2k",
+      "weekly_stars": "12.1k"
     },
     {
       "rank": 2,
-      "owner": "harry0703",
-      "repo": "MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型与自动化工作流，根据主题或关键词一键生成高清短视频，自动完成脚本、配音、字幕与剪辑，是开源 AI 视频生成明星项目；本周新增 9.0k Star，总 Star 达 117.2k。",
-      "stars": "117.2k",
-      "weekly_stars": "9.0k"
-    },
-    {
-      "rank": 3,
       "owner": "freestylefly",
       "repo": "awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "GPT-Image2 工业级提示词引擎与模板库（Prompt as Code），逆向 530+ 案例并沉淀 20+ 套工业级模板，提炼为可复用 Skills，本周新增 5.3k Star，总 Star 达 22.8k。",
-      "stars": "22.8k",
-      "weekly_stars": "5.3k"
+      "description": "GPT-Image2 工业级提示词引擎与模板库（Prompt as Code），逆向 530+ 案例并沉淀 20+ 套工业级模板，提炼为可复用 Skills，本周新增 9.5k Star，总 Star 达 22.9k。",
+      "stars": "22.9k",
+      "weekly_stars": "9.5k"
+    },
+    {
+      "rank": 3,
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型与自动化工作流，根据主题或关键词一键生成高清短视频，自动完成脚本、配音、字幕与剪辑，是开源 AI 视频生成明星项目；本周新增 7.2k Star，总 Star 达 117.2k。",
+      "stars": "117.2k",
+      "weekly_stars": "7.2k"
     },
     {
       "rank": 4,
-      "owner": "volcengine",
-      "repo": "OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "火山引擎开源的「自我进化上下文数据库」，统一智能体记忆（Memory）、知识 RAG 与技能（Skills），让 AI 智能体在多轮任务中持续积累与调用上下文；本周新增 4.2k Star，总 Star 达 33.8k。",
-      "stars": "33.8k",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "免费使用 Claude Code、Codex、Pi、OpenCode 等编码智能体的聚合入口，提供 13 亿+ 免费 Token，支持终端、App、IDE 与手机多端接入；本周新增 4.2k Star，总 Star 达 50.8k。",
+      "stars": "50.8k",
       "weekly_stars": "4.2k"
     },
     {
       "rank": 5,
-      "owner": "chaitanyagiri",
-      "repo": "munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "本地多智能体（multi-agent）编排框架，支持在本地并行调度多个 AI Agent 协同完成复杂任务；本周新晋上榜即新增 2.5k Star，总 Star 达 5.0k。",
-      "stars": "5.0k",
-      "weekly_stars": "2.5k"
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "火山引擎开源的「自我进化上下文数据库」，统一智能体记忆（Memory）、知识 RAG 与技能（Skills），让 AI 智能体在多轮任务中持续积累与调用上下文；本周新增 3.7k Star，总 Star 达 33.8k。",
+      "stars": "33.8k",
+      "weekly_stars": "3.7k"
     },
     {
       "rank": 6,
-      "owner": "modular",
-      "repo": "modular",
-      "url": "https://github.com/modular/modular",
-      "description": "Modular 公司推出的 AI 基础设施平台，包含面向 AI 的高性能编程语言 Mojo 与推理引擎 MAX，主打统一技术栈替代碎片化的 AI 开发体验；本周新增 2.4k Star，总 Star 达 29.2k。",
-      "stars": "29.2k",
-      "weekly_stars": "2.4k"
+      "owner": "santifer",
+      "repo": "career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "开源 AI 求职助手，自动扫描招聘网站、将职位评估为结构化 A-H 报告并给出 1-5 综合评分，支持定制简历与追踪申请进度，本地运行于 Claude Code、Codex 等 AI 编码 CLI；本周新增 3.1k Star，总 Star 达 68.8k。",
+      "stars": "68.8k",
+      "weekly_stars": "3.1k"
     },
     {
       "rank": 7,
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "面向智能体编程 CLI（如 Claude Code、Cursor）的长期记忆方案，把编码智能体的上下文与决策沉淀为可跨厂商交接的持久记忆；本周新增 2.1k Star，总 Star 达 4.9k。",
-      "stars": "4.9k",
-      "weekly_stars": "2.1k"
-    },
-    {
-      "rank": 8,
-      "owner": "cursor",
-      "repo": "plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "AI 编程编辑器 Cursor 的官方插件规范与官方插件集合，定义了扩展 Cursor 能力的插件接口与开发标准；本周新增 2.0k Star，总 Star 达 5.6k。",
-      "stars": "5.6k",
-      "weekly_stars": "2.0k"
-    },
-    {
-      "rank": 9,
       "owner": "apache",
       "repo": "maka",
       "url": "https://github.com/apache/maka",
-      "description": "Apache 孵化中的本地优先（local-first）AI 智能体工作空间，将模型消息、工具调用、权限决策与终止事件记录为仅追加日志，为 AI Agent 提供可审计、可回放的运行轨迹；本周新增 1.8k Star，总 Star 达 3.7k。",
+      "description": "Apache 孵化中的本地优先（local-first）AI 智能体工作空间，将模型消息、工具调用、权限决策与终止事件记录为仅追加日志，为 AI Agent 提供可审计、可回放的运行轨迹；本周新增 2.2k Star，总 Star 达 3.7k。",
       "stars": "3.7k",
-      "weekly_stars": "1.8k"
+      "weekly_stars": "2.2k"
+    },
+    {
+      "rank": 8,
+      "owner": "chaitanyagiri",
+      "repo": "munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "本地多智能体（multi-agent）编排框架，支持在本地并行调度多个 AI Agent 协同完成复杂任务；本周新晋上榜即新增 2.2k Star，总 Star 达 5.0k。",
+      "stars": "5.0k",
+      "weekly_stars": "2.2k"
+    },
+    {
+      "rank": 9,
+      "owner": "modular",
+      "repo": "modular",
+      "url": "https://github.com/modular/modular",
+      "description": "Modular 公司推出的 AI 基础设施平台，包含面向 AI 的高性能编程语言 Mojo 与推理引擎 MAX，主打统一技术栈替代碎片化的 AI 开发体验；本周新增 2.0k Star，总 Star 达 29.2k。",
+      "stars": "29.2k",
+      "weekly_stars": "2.0k"
     },
     {
       "rank": 10,
+      "owner": "cursor",
+      "repo": "plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "AI 编程编辑器 Cursor 的官方插件规范与官方插件集合，定义了扩展 Cursor 能力的插件接口与开发标准；本周新增 1.9k Star，总 Star 达 5.7k。",
+      "stars": "5.7k",
+      "weekly_stars": "1.9k"
+    },
+    {
+      "rank": 11,
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "开源的个人 AI 超级智能，构建本地优先的人生记忆库，可编排智能体舰队与工作流，并具备深度研究能力；本周新增 1.8k Star，总 Star 达 38.5k。",
+      "stars": "38.5k",
+      "weekly_stars": "1.8k"
+    },
+    {
+      "rank": 12,
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Anthropic 官方的 Claude Cowork / Claude Code 社区插件市场，支持开发者提交与分发插件，是 Claude 生态扩展的核心入口；本周新增 1.8k Star，总 Star 达 2.4k。",
+      "stars": "2.4k",
+      "weekly_stars": "1.8k"
+    },
+    {
+      "rank": 13,
       "owner": "tashfeenahmed",
       "repo": "freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "免费 LLM API 聚合网关，汇集 34 个免费 Provider、635 个免费模型端点，统一到 /v1 接口并支持智能路由与自动故障切换，大幅降低 AI 应用接入成本；本周新增 1.4k Star，总 Star 达 21.0k。",
+      "description": "免费 LLM API 聚合网关，汇集 34 个免费 Provider、635 个免费模型端点，统一到 /v1 接口并支持智能路由与自动故障切换，大幅降低 AI 应用接入成本；本周新增 1.7k Star，总 Star 达 21.0k。",
       "stars": "21.0k",
-      "weekly_stars": "1.4k"
+      "weekly_stars": "1.7k"
     }
   ]
 }
