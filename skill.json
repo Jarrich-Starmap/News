@@ -1,0 +1,127 @@
+{
+  "title": "SKILLHUB 热门 SKILL 周榜",
+  "period": "2026.08.22 – 08.29 · 按平台热度（浏览量）排序",
+  "updated": "2026.08.29",
+  "skills": [
+    {
+      "rank": 1,
+      "owner": "openclaw",
+      "repo": "openclaw-zh-cn",
+      "url": "https://www.skillhub.club/skills/openclaw-openclaw-zh-cn",
+      "description": "OpenClaw 官方技能简体中文版，覆盖智能体的安装、配置与使用指导，配合「龙虾」生态实现自然语言驱动电脑操作。",
+      "views": "343.5k"
+    },
+    {
+      "rank": 2,
+      "owner": "openclaw",
+      "repo": "summarize",
+      "url": "https://www.skillhub.club/skills/openclaw-openclaw-summarize",
+      "description": "从 URL、播客和本地文件提取文本/转写的智能摘要技能，支持网页、PDF、图片、音频等多种格式内容总结，是转写 YouTube/视频的优秀降级方案。",
+      "views": "342.7k"
+    },
+    {
+      "rank": 3,
+      "owner": "obra",
+      "repo": "systematic-debugging",
+      "url": "https://www.skillhub.club/skills/obra-superpowers-systematic-debugging",
+      "description": "结构化软件调试方法，强制在提出修复方案前进行根本原因分析，提供四阶段流程与常见陷阱清单，防止随机猜测、确保系统性解决问题，获平台 S 级评分 9.2。",
+      "views": "128.7k"
+    },
+    {
+      "rank": 4,
+      "owner": "anthropics",
+      "repo": "mcp-builder",
+      "url": "https://www.skillhub.club/skills/anthropics-skills-mcp-builder",
+      "description": "Anthropic 官方出品的 MCP 服务器构建工作流，指导研究、实现、测试和评估四个阶段，含 TypeScript 与 Python 示例。",
+      "views": "107.9k"
+    },
+    {
+      "rank": 5,
+      "owner": "anthropics",
+      "repo": "frontend-design",
+      "url": "https://www.skillhub.club/skills/frontend-design",
+      "description": "Anthropic 官方技能，生成具有鲜明美学方向的前端代码，提供字体、色彩、动效和空间布局的具体指导，避免通用 AI 设计模式。",
+      "views": "94.3k"
+    },
+    {
+      "rank": 6,
+      "owner": "microsoft",
+      "repo": "mcp-for-beginners",
+      "url": "https://www.skillhub.club/skills/microsoft-mcp-for-beginners-zh-cn",
+      "description": "微软官方 MCP（Model Context Protocol）入门教学技能，提供简体中文、繁体中文、葡语等六个语言版本，帮助开发者快速理解 MCP 核心概念并上手配置，是平台当前最热门的入门级 SKILL。",
+      "views": "94.2k"
+    },
+    {
+      "rank": 7,
+      "owner": "nextlevelbuilder",
+      "repo": "ui-ux-pro-max",
+      "url": "https://www.skillhub.club/skills/nextlevelbuilder-ui-ux-pro-max-skill-ui-ux-pro-max",
+      "description": "UI/UX 设计结构化知识库与工作流工具，提供可搜索的风格、色彩、字体和实现模式数据库，帮助 Agent 产出高质量界面设计。",
+      "views": "56.1k"
+    },
+    {
+      "rank": 8,
+      "owner": "metabase",
+      "repo": "docs-review",
+      "url": "https://www.skillhub.club/skills/metabase-metabase-docs-review",
+      "description": "结构化文档审查技能，强制执行写作风格指南，支持本地与 GitHub PR 两种审查模式，包含全面的检查清单与一致的格式要求。",
+      "views": "46.7k"
+    },
+    {
+      "rank": 9,
+      "owner": "muratcankoylan",
+      "repo": "context-optimization",
+      "url": "https://www.skillhub.club/skills/muratcankoylan-agent-skills-for-context-engineering-context-optimization",
+      "description": "全面实用的 LLM 上下文优化技能，提供令牌缩减、成本节约和性能提升策略，附优秀的实施指导。",
+      "views": "14.5k"
+    },
+    {
+      "rank": 10,
+      "owner": "alchaincyf",
+      "repo": "nuwa-skill",
+      "url": "https://www.skillhub.club/skills/openclaw-skills-alchaincyf-nuwa-skill",
+      "description": "「女娲」技能：输入任意人名自动调研、提取思维框架，用多智能体并行研究生成可运行的「视角技能」，实现像那个人一样思考。",
+      "views": "8.5k"
+    },
+    {
+      "rank": 11,
+      "owner": "davepoon",
+      "repo": "skill-creator",
+      "url": "https://www.skillhub.club/skills/davepoon-buildwithclaude-skill-creator",
+      "description": "提供创建 Claude Skills 的完整框架与工具，包括模板、验证脚本和打包工具，为技能结构、资源组织和渐进式加载模式建立清晰规范。",
+      "views": "2.7k"
+    },
+    {
+      "rank": 12,
+      "owner": "massgen",
+      "repo": "file-search",
+      "url": "https://www.skillhub.club/skills/massgen-massgen-file-search",
+      "description": "使用 ripgrep 和 ast-grep 进行高效代码库搜索的专家级指导，强调针对性搜索策略以避免结果过载，获平台 S 级评分 9.0。",
+      "views": "912"
+    },
+    {
+      "rank": 13,
+      "owner": "therealxiaomanchu",
+      "repo": "create-ex",
+      "url": "https://www.skillhub.club/skills/therealxiaomanchu-create-ex",
+      "description": "把前任蒸馏成 AI Skill：导入微信聊天记录、照片、朋友圈，生成 Relationship Memory + Persona，支持人格持续进化，本周最具话题性的作品之一。",
+      "views": "872"
+    },
+    {
+      "rank": 14,
+      "owner": "inferencesh",
+      "repo": "ai-content-pipeline",
+      "url": "https://www.skillhub.club/skills/inferencesh-skills-ai-content-pipeline",
+      "description": "串联 AI 工具自动化生成和编辑图像、视频、音频及文本的多步骤内容创作流程，规模化生产视频与营销材料。",
+      "views": "260"
+    },
+    {
+      "rank": 15,
+      "owner": "different-ai",
+      "repo": "linkedin-post",
+      "url": "https://www.skillhub.club/skills/different-ai-zero-finance-linkedin-post",
+      "description": "利用 Twitter 推文表现数据为专业受众起草 LinkedIn 帖子，含模板、金融内容合规指南和语气调整流程。",
+      "views": "214"
+    }
+  ]
+}
