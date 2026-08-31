@@ -1,124 +1,124 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.08.24 – 08.30 · 按本周新增 Star 数排序",
-  "updated": "2026.08.31",
+  "period": "2026.08.25 – 08.31 · 按本周新增 Star 数排序",
+  "updated": "2026.09.01",
   "projects": [
     {
       "rank": 1,
       "owner": "tt-a1i",
       "repo": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent 技能库，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 14.9k Star，总 Star 达 33.9k。",
-      "stars": "33.9k",
-      "weekly_stars": "14.9k"
+      "description": "Agent 技能库，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 18.1k Star，总 Star 达 38.1k。",
+      "stars": "38.1k",
+      "weekly_stars": "18.1k"
     },
     {
       "rank": 2,
       "owner": "freestylefly",
       "repo": "awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "GPT-Image2 工业级提示词引擎与模板库（Prompt as Code），逆向 530+ 案例并沉淀 20+ 套工业级模板，提炼为可复用 Skills，持续更新；本周新增 13.1k Star，总 Star 达 25.6k。",
-      "stars": "25.6k",
-      "weekly_stars": "13.1k"
+      "description": "GPT-Image2 工业级提示词引擎与模板库（Prompt as Code），逆向 530+ 案例并沉淀 20+ 套工业级模板，提炼为可复用 Skills，持续更新；本周新增 13.4k Star，总 Star 达 26.3k。",
+      "stars": "26.3k",
+      "weekly_stars": "13.4k"
     },
     {
       "rank": 3,
-      "owner": "openai",
-      "repo": "codex",
-      "url": "https://github.com/openai/codex",
-      "description": "OpenAI 开源的轻量级终端编码智能体，支持在 CLI 中调用模型完成代码补全、执行与多文件编辑，持续领跑 Coding Agent 赛道；本周新增 7.8k Star，总 Star 达 120.0k。",
-      "stars": "120.0k",
-      "weekly_stars": "7.8k"
-    },
-    {
-      "rank": 4,
       "owner": "MadsLorentzen",
       "repo": "ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "在本地运行的 AI 求职框架，基于 Claude Code 自动评估招聘信息、定制简历、撰写求职信并准备面试，数据完全由自己掌控；本周新增 5.1k Star，总 Star 达 38.4k。",
-      "stars": "38.4k",
-      "weekly_stars": "5.1k"
+      "description": "在本地运行的 AI 求职框架，基于 Claude Code 自动评估招聘信息、定制简历、撰写求职信并准备面试，数据完全由自己掌控；本周新增 5.3k Star，总 Star 达 39.0k。",
+      "stars": "39.0k",
+      "weekly_stars": "5.3k"
     },
     {
-      "rank": 5,
-      "owner": "Alishahryar1",
-      "repo": "free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "免费使用 Claude Code、Codex、Pi、OpenCode 等编码智能体的聚合入口，提供 13 亿+ 免费 Token，支持终端、App、IDE 与手机多端接入；本周新增 4.9k Star，总 Star 达 51.9k。",
-      "stars": "51.9k",
-      "weekly_stars": "4.9k"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "owner": "K-Dense-AI",
       "repo": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "面向科学研究的 Agent Skills 库，内置 165 个经过验证的技能与 100+ 科学数据库，覆盖生物、化学、医学与药物发现，兼容 Cursor、Claude Code、Codex 等平台；本周新增 3.6k Star，总 Star 达 38.9k。",
-      "stars": "38.9k",
-      "weekly_stars": "3.6k"
+      "description": "面向科学研究的 Agent Skills 库，内置 165 个经过验证的技能与 100+ 科学数据库，覆盖生物、化学、医学与药物发现，被全球 19 万+ 科研人员使用，兼容 Cursor、Claude Code、Codex 等平台；本周新增 4.3k Star，总 Star 达 40.6k。",
+      "stars": "40.6k",
+      "weekly_stars": "4.3k"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "owner": "rohitg00",
       "repo": "ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "从零开始学习 AI 工程的系统教程仓库，以动手实践方式讲解 LLM、Agent 与工程化落地，覆盖学习、构建到交付的完整路径；本周新增 3.5k Star，总 Star 达 51.2k。",
-      "stars": "51.2k",
-      "weekly_stars": "3.5k"
+      "description": "从零开始学习 AI 工程的系统教程仓库，以动手实践方式讲解 LLM、Agent 与工程化落地，覆盖学习、构建到交付的完整路径；本周新增 3.7k Star，总 Star 达 51.5k。",
+      "stars": "51.5k",
+      "weekly_stars": "3.7k"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "owner": "tashfeenahmed",
       "repo": "freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "免费 LLM API 聚合网关，汇集 34 个免费 Provider、635 个免费模型端点，统一到 /v1 接口并支持智能路由与自动故障切换，每月提供 74 亿 Token 额度；本周新增 2.7k Star，总 Star 达 22.6k。",
-      "stars": "22.6k",
-      "weekly_stars": "2.7k"
+      "description": "免费 LLM API 聚合网关，汇集 34 个免费 Provider、635 个免费模型端点，统一到 /v1 接口并支持智能路由与自动故障切换，每月提供 74 亿 Token 额度；本周新增 3.0k Star，总 Star 达 23.3k。",
+      "stars": "23.3k",
+      "weekly_stars": "3.0k"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "owner": "tinyhumansai",
       "repo": "openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "开源的个人 AI 超级智能，构建本地优先的人生记忆库，可编排智能体舰队与工作流，并具备深度研究能力；本周新增 2.4k Star，总 Star 达 39.0k。",
-      "stars": "39.0k",
-      "weekly_stars": "2.4k"
+      "description": "开源的个人 AI 超级智能，构建本地优先的人生记忆库，可编排智能体舰队与工作流，并具备深度研究能力；本周新增 2.5k Star，总 Star 达 39.2k。",
+      "stars": "39.2k",
+      "weekly_stars": "2.5k"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "owner": "anthropics",
       "repo": "claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Anthropic 官方的 Claude Cowork / Claude Code 社区插件市场，支持开发者提交与分发插件，是 Claude 生态扩展的核心入口；本周新增 2.2k Star，总 Star 达 2.8k。",
-      "stars": "2.8k",
+      "description": "Anthropic 官方的 Claude Cowork / Claude Code 社区插件市场，支持开发者提交与分发插件，是 Claude 生态扩展的核心入口；本周新增 2.2k Star，总 Star 达 3.0k。",
+      "stars": "3.0k",
       "weekly_stars": "2.2k"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "owner": "THU-MAIC",
       "repo": "OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "清华大学开源的开放多智能体交互课堂，一键即可获得沉浸式多 Agent 协作学习体验，支持课程编排与多角色互动；本周新增 1.9k Star，总 Star 达 23.6k。",
-      "stars": "23.6k",
+      "description": "清华大学开源的开放多智能体交互课堂，一键即可获得沉浸式多 Agent 协作学习体验，支持课程编排与多角色互动；本周新增 2.1k Star，总 Star 达 26.6k。",
+      "stars": "26.6k",
+      "weekly_stars": "2.1k"
+    },
+    {
+      "rank": 10,
+      "owner": "apache",
+      "repo": "maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache 孵化中的本地优先（local-first）AI 智能体工作空间，将模型消息、工具调用、权限决策与终止事件记录为仅追加日志，为 AI Agent 提供可审计、可回放的运行轨迹；本周新增 2.0k Star，总 Star 达 4.3k。",
+      "stars": "4.3k",
+      "weekly_stars": "2.0k"
+    },
+    {
+      "rank": 11,
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Anthropic 官方维护的高质量 Claude Code 插件目录，收录经官方审核的插件清单，是 Claude 生态开发者分发与发现插件的权威渠道；本周新增 1.9k Star，总 Star 达 35.7k。",
+      "stars": "35.7k",
       "weekly_stars": "1.9k"
     },
     {
       "rank": 12,
-      "owner": "apache",
-      "repo": "maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache 孵化中的本地优先（local-first）AI 智能体工作空间，将模型消息、工具调用、权限决策与终止事件记录为仅追加日志，为 AI Agent 提供可审计、可回放的运行轨迹；本周新增 1.9k Star，总 Star 达 4.2k。",
-      "stars": "4.2k",
+      "owner": "abi",
+      "repo": "screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "经典 AI 截图转代码工具，粘贴截图即可生成干净可用的 HTML/Tailwind/React/Vue 代码，持续位居 AI 生产力工具头部；本周新增 1.9k Star，总 Star 达 76.7k。",
+      "stars": "76.7k",
       "weekly_stars": "1.9k"
     },
     {
       "rank": 13,
-      "owner": "abi",
-      "repo": "screenshot-to-code",
-      "url": "https://github.com/abi/screenshot-to-code",
-      "description": "经典 AI 截图转代码工具，粘贴截图即可生成干净可用的 HTML/Tailwind/React/Vue 代码，持续位居 AI 生产力工具头部；本周新增 1.7k Star，总 Star 达 76.3k。",
-      "stars": "76.3k",
-      "weekly_stars": "1.7k"
+      "owner": "cursor",
+      "repo": "plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor 官方插件规范与插件目录，定义插件开发标准并收录官方及社区插件，是 Cursor 编辑器生态扩展的核心入口；本周新增 1.5k Star，总 Star 达 6.4k。",
+      "stars": "6.4k",
+      "weekly_stars": "1.5k"
     }
   ]
 }
