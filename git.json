@@ -1,133 +1,142 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.08.29 – 09.04 · 按本周新增 Star 数排序",
-  "updated": "2026.09.04",
+  "period": "2026.08.29 – 09.05 · 按本周新增 Star 数排序",
+  "updated": "2026.09.05",
   "projects": [
     {
       "rank": 1,
       "owner": "tt-a1i",
       "repo": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent 技能库，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 26.6k Star，总 Star 达 45.5k。",
-      "stars": "45.5k",
-      "weekly_stars": "26.6k"
+      "description": "Agent 技能库，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 24.2k Star，总 Star 达 47.7k。",
+      "stars": "47.7k",
+      "weekly_stars": "24.2k"
     },
     {
       "rank": 2,
       "owner": "bilawalsidhu",
       "repo": "gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "浏览器内的「间谍卫星」空间智能模拟器，基于真实开源数据在照片级 3D 地球上实时呈现全球地理与动态信息；本周新增 10.7k Star，总 Star 达 16.8k。",
-      "stars": "16.8k",
-      "weekly_stars": "10.7k"
+      "description": "浏览器内的「间谍卫星」空间智能模拟器，基于真实开源数据在照片级 3D 地球上实时呈现全球地理与动态信息；本周新增 10.5k Star，总 Star 达 17.4k。",
+      "stars": "17.4k",
+      "weekly_stars": "10.5k"
     },
     {
       "rank": 3,
       "owner": "THU-MAIC",
       "repo": "OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "清华大学开源的开放多智能体交互课堂，一键即可获得沉浸式多 Agent 协作学习体验，支持课程编排与多角色互动；本周新增 9.4k Star，总 Star 达 31.0k。",
-      "stars": "31.0k",
-      "weekly_stars": "9.4k"
+      "description": "清华大学开源的开放多智能体交互课堂，一键即可获得沉浸式多 Agent 协作学习体验，支持课程编排与多角色互动；本周新增 10.0k Star，总 Star 达 31.4k。",
+      "stars": "31.4k",
+      "weekly_stars": "10.0k"
     },
     {
       "rank": 4,
       "owner": "K-Dense-AI",
       "repo": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "号称 #1 的科学 Agent Skills 库，内置 165 个验证技能与 100+ 科学数据库，覆盖生物、化学、医学与药物发现，兼容 Cursor、Claude Code、Codex 等主流 Agent；本周新增 7.6k Star，总 Star 达 42.3k。",
-      "stars": "42.3k",
-      "weekly_stars": "7.6k"
+      "description": "科学 Agent Skills 库，内置 165 个验证技能与 100+ 科学数据库，覆盖生物、化学、医学与药物发现，兼容主流编码 Agent，号称 #1 科学技能库；本周新增 7.4k Star，总 Star 达 42.6k。",
+      "stars": "42.6k",
+      "weekly_stars": "7.4k"
     },
     {
       "rank": 5,
-      "owner": "freestylefly",
-      "repo": "awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "GPT-Image2 工业级提示词引擎与模板库（Prompt as Code），逆向 530+ 案例并沉淀 20+ 套工业级模板，提炼为可复用 Skills，持续更新；本周新增 7.0k Star，总 Star 达 27.7k。",
-      "stars": "27.7k",
-      "weekly_stars": "7.0k"
-    },
-    {
-      "rank": 6,
-      "owner": "tashfeenahmed",
-      "repo": "freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "免费 LLM API 聚合网关，汇集 34 个免费 Provider、635 个免费模型端点并支持自定义 OpenAI 兼容端点，统一 /v1 接口，具备智能路由、自动故障切换与密钥加密，每月提供 74 亿 Token 额度；本周新增 3.4k Star，总 Star 达 24.1k。",
-      "stars": "24.1k",
-      "weekly_stars": "3.4k"
-    },
-    {
-      "rank": 7,
-      "owner": "jingyaogong",
-      "repo": "minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "只需 2 小时即可从零训练 6400 万参数小型 LLM 的教学项目，完整演示数据准备、预训练与微调全流程，是学习大模型训练的绝佳入门；本周新增 2.7k Star，总 Star 达 58.2k。",
-      "stars": "58.2k",
-      "weekly_stars": "2.7k"
-    },
-    {
-      "rank": 8,
       "owner": "debpalash",
       "repo": "VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "开源、完全本地优先的 ElevenLabs 替代品，支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录与有声书制作，基于 Tauri + MLX/CUDA 实现端侧推理；本周新增 2.5k Star，总 Star 达 16.0k。",
-      "stars": "16.0k",
-      "weekly_stars": "2.5k"
+      "description": "开源、完全本地优先的 ElevenLabs 替代品，支持语音克隆、语音设计、视频配音、听写、转录与有声书制作，基于 Tauri + MLX/CUDA 实现端侧推理；本周新增 3.9k Star，总 Star 达 17.5k。",
+      "stars": "17.5k",
+      "weekly_stars": "3.9k"
+    },
+    {
+      "rank": 6,
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "只需 2 小时即可从零训练 6400 万参数小型 LLM 的教学项目，完整演示数据准备、预训练与微调全流程，是学习大模型训练的绝佳入门；本周新增 3.1k Star，总 Star 达 58.5k。",
+      "stars": "58.5k",
+      "weekly_stars": "3.1k"
+    },
+    {
+      "rank": 7,
+      "owner": "abi",
+      "repo": "screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "截图转代码利器：粘贴设计稿截图即可生成干净的 HTML/Tailwind/React/Vue 代码，大幅缩短前端还原成本；本周新增 2.4k Star，总 Star 达 77.6k。",
+      "stars": "77.6k",
+      "weekly_stars": "2.4k"
+    },
+    {
+      "rank": 8,
+      "owner": "google-research",
+      "repo": "timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "Google Research 开源的预训练时序基础模型 TimesFM，专用于时间序列预测，可零样本/少样本适配多种预测任务；本周新增 2.3k Star，总 Star 达 31.0k。",
+      "stars": "31.0k",
+      "weekly_stars": "2.3k"
     },
     {
       "rank": 9,
       "owner": "p-e-w",
       "repo": "heretic",
       "url": "https://github.com/p-e-w/heretic",
-      "description": "面向语言模型的自动审查移除工具，可一键解除模型内置审查与安全限制，为研究人员探索模型行为边界提供底层能力；本周新增 2.0k Star，总 Star 达 30.3k。",
-      "stars": "30.3k",
-      "weekly_stars": "2.0k"
+      "description": "面向语言模型的自动审查移除工具，可一键解除模型内置审查与安全限制，为研究人员探索模型行为边界提供底层能力；本周新增 2.1k Star，总 Star 达 30.4k。",
+      "stars": "30.4k",
+      "weekly_stars": "2.1k"
     },
     {
       "rank": 10,
       "owner": "handsomestWei",
       "repo": "patent-disclosure-skill",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利 Agent 技能库，支持专利点挖掘与发明/实用/外观交底书编写、通俗解读专利、嗅探政策动向并辅助审查答复，可嵌入 Obsidian 等工具链；本周新增 1.8k Star，总 Star 达 7.2k。",
-      "stars": "7.2k",
+      "description": "中国专利 Agent 技能库，支持专利点挖掘与发明/实用/外观交底书编写、通俗解读专利、嗅探政策动向并辅助审查答复，可嵌入 Obsidian 等工具链；本周新增 1.8k Star，总 Star 达 7.4k。",
+      "stars": "7.4k",
       "weekly_stars": "1.8k"
     },
     {
       "rank": 11,
-      "owner": "cursor",
-      "repo": "plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor 官方插件规范与官方插件目录，定义插件开发标准并收录官方及社区插件，是 Cursor 编辑器生态扩展的核心入口；本周新增 1.3k Star，总 Star 达 6.7k。",
-      "stars": "6.7k",
-      "weekly_stars": "1.3k"
+      "owner": "MakazhanAlpamys",
+      "repo": "Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "从单个 YAML 配置即可微调 LLM 的极简框架，采用分层流式训练技术，仅需 4GB 显存笔记本 GPU 即可训练 8B 参数模型；本周新增 1.8k Star，总 Star 达 5.3k。",
+      "stars": "5.3k",
+      "weekly_stars": "1.8k"
     },
     {
       "rank": 12,
       "owner": "Gitlawb",
       "repo": "openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
-      "description": "可随处运行、兼容任意后端的开源 Claude 编程代理（CLI），主打 AI 编码与 Agent 任务自动化，突破厂商锁定限制；本周新增 1.0k Star，总 Star 达 32.3k。",
-      "stars": "32.3k",
-      "weekly_stars": "1.0k"
+      "description": "可随处运行、兼容任意后端的开源 Claude 编程代理（CLI），主打 AI 编码与 Agent 任务自动化，突破厂商锁定限制；本周新增 1.4k Star，总 Star 达 32.5k。",
+      "stars": "32.5k",
+      "weekly_stars": "1.4k"
     },
     {
       "rank": 13,
       "owner": "punkpeye",
       "repo": "awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "精选 MCP 服务器索引合集，覆盖各类工具与 API 的 Model Context Protocol 服务，是构建 AI Agent 工具生态的高质量导航清单；本周新增 1.0k Star，总 Star 达 94.0k。",
-      "stars": "94.0k",
-      "weekly_stars": "1.0k"
+      "description": "精选 MCP 服务器索引合集，覆盖各类工具与 API 的 Model Context Protocol 服务，是构建 AI Agent 工具生态的高质量导航清单；本周新增 1.1k Star，总 Star 达 94.1k。",
+      "stars": "94.1k",
+      "weekly_stars": "1.1k"
     },
     {
       "rank": 14,
-      "owner": "google-research",
-      "repo": "timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "Google Research 开源的预训练时序基础模型 TimesFM，专用于时间序列预测，可零样本/少样本适配多种预测任务；本周新增 787 Star，总 Star 达 30.6k。",
-      "stars": "30.6k",
-      "weekly_stars": "787"
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools 官方 MCP 服务器，将浏览器调试、审查与性能分析能力接入编码 Agent，支持远程调试与多标签管理；本周新增 1.1k Star，总 Star 达 50.9k。",
+      "stars": "50.9k",
+      "weekly_stars": "1.1k"
+    },
+    {
+      "rank": 15,
+      "owner": "OpenWhispr",
+      "repo": "openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "description": "隐私优先的跨平台语音转文字听写应用，支持本地（Nvidia Parakeet/Whisper）与云端模型（BYOK），无需上传即可完成口述转写；本周新增 642 Star，总 Star 达 6.7k。",
+      "stars": "6.7k",
+      "weekly_stars": "642"
     }
   ]
 }
