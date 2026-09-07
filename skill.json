@@ -1,7 +1,7 @@
 {
   "title": "SKILLHUB 热门 SKILL 榜",
-  "period": "2026.09.07 · 按平台趋势热度（trending）排序",
-  "updated": "2026.09.07",
+  "period": "2026.09.08 · 按平台趋势热度（trending）排序",
+  "updated": "2026.09.08",
   "skills": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "repo": "lh6-anniversary-blessing",
       "url": "https://skillhub.cn/skills/tencent-adm/lh6-anniversary-blessing",
       "description": "腾讯云轻量应用服务器六周年送祝福活动：用户选择一个云上故事和一种祝福方式，生成专属祝福文案或祝福海报，并进入活动页登录领取抽奖机会。",
-      "downloads": "1.7k",
+      "downloads": "1.9k",
       "installs": 0,
       "stars": 0
     },
@@ -19,199 +19,199 @@
       "repo": "baozheng",
       "url": "https://skillhub.cn/skills/user_741dc82b/baozheng",
       "description": "包拯.Skills你身边的专家律师团 — 专业法律咨询 + 要素式/通用起诉状起草 + 刑事专项材料辅助 + 法条分析与法规检索。flk.npc.gov.cn API实时法条优先，不可用时AI知识库降级兜底，法条来源按四档标注可核验（已核验-flk API / 已核验-单源 / 已引-离线库 / 未核验-模型生成），交付末尾附法条/事实/金额/程序分项置信度；以22类法律领域覆盖矩阵约束路由边界；支持35个起诉状模板、5类刑事专项材料辅助；内置Logic Doctor逻辑自检、诉讼时效追踪及10类异常容错处理（含连续失败熔断）；渐进式意图收敛协议（3轮状态机）；混合意图自动任务拆解（按依赖排序→合并→顺序执行）；含反模式清单与危机干预出口（自杀/家暴/未成年人侵害先于一切法律分析）。非标准案由自动使用通用模板。",
-      "downloads": "262k",
+      "downloads": "306k",
       "installs": 0,
-      "stars": 17
+      "stars": 20
     },
     {
       "rank": 3,
-      "owner": "user_741dc82b",
-      "repo": "libai",
-      "url": "https://skillhub.cn/skills/user_741dc82b/libai",
-      "description": "李白.Skill:润色专家 检测并消除中文文本中的AI生成痕迹，将生硬的机器输出转化为自然流畅的人类文笔。融合规则检测、分层改写（词汇→句式→内容→逻辑→语气）和六步质控流水线，确保最终文本通过人工审查。",
-      "downloads": "172k",
-      "installs": 0,
-      "stars": 42
-    },
-    {
-      "rank": 4,
-      "owner": "beatra-ai",
-      "repo": "talking-avatar-video",
-      "url": "https://skillhub.cn/skills/beatra-ai/talking-avatar-video",
-      "description": "用一张人像和一段短脚本或语音，制作有明确讲述内容的数字人口播视频。可使用现成录音，也可以先选择音色，把脚本生成旁白，让画面中的人物随声音完成稳定、自然的口播。适合 AI 主播、虚拟主播视频、数字人讲解、让照片说话、照片说话视频、产品讲解视频、数字人培训视频、公告和社交口播，并在交付后检查人物一致性、声音清晰度、口型同步和动作稳定性。",
-      "downloads": "98.8k",
-      "installs": 0,
-      "stars": 8
-    },
-    {
-      "rank": 5,
       "owner": "beatra-ai",
       "repo": "beatra",
       "url": "https://skillhub.cn/skills/beatra-ai/beatra",
       "description": "通过同一个AI创作工具完成AI图片、视频、音乐与语音创作，查找公开社交数据，编辑视觉成果，并集中查看和管理生成资产。Beatra 全能创作支持AI图片生成（文生图）、AI视频生成（图生视频）和AI视频编辑，通过AI音乐生成把想法做成歌曲或纯音乐，也可用AI语音生成（文字转语音）、多语言旁白和AI语音克隆完成跨媒介内容；还能查找抖音数据、小红书数据，以及 YouTube、TikTok、Instagram 与 X 上的公开帖子、笔记、评论、账号和趋势，把社交媒体数据用于竞品调研和创作。它是一款面向AI内容创作与多模态内容创作的AI创作套件，用起来就是一个把图片、视频、音乐与语音收在同一处的AI创作助手，适用于社交内容、产品展示、营销素材、课程、播客、短片和跨媒介项目；还能在不同媒介间复用原始素材、已有成果和查到的公开资料，查看制作进度、返回文件、实际用量和积分记录。",
-      "downloads": "234k",
+      "downloads": "235k",
       "installs": 0,
-      "stars": 29
+      "stars": 33
     },
     {
-      "rank": 6,
-      "owner": "beatra-ai",
-      "repo": "ai-podcast-voiceover",
-      "url": "https://skillhub.cn/skills/beatra-ai/ai-podcast-voiceover",
-      "description": "把文章、公众号文章、笔记或定稿，通过AI播客配音和文字转语音，制作成自然流畅的单人播客口播与MP3单集音频。先把书面内容整理成适合聆听的播客脚本，明确人名、术语和数字的读法，再选择主播音色，调整语速、停顿和表达，形成可持续复用的节目声音。适合文字转播客、文章转播客、AI播客生成、AI播客音频生成、公众号文章转音频、知识解说、新闻评论和个人栏目。",
-      "downloads": "93.0k",
-      "installs": 0,
-      "stars": 8
-    },
-    {
-      "rank": 7,
-      "owner": "zcwl",
-      "repo": "multi-search-engine",
-      "url": "https://skillhub.cn/skills/zcwl/multi-search-engine",
-      "description": "多搜索引擎集成,16引擎(7国内+9全球)。Multi search engine integration with 16 engines (7 CN + 9 Global)。核心能力: -",
-      "downloads": "361k",
-      "installs": 0,
-      "stars": 26
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "owner": "user_741dc82b",
       "repo": "dev-expert",
       "url": "https://skillhub.cn/skills/user_741dc82b/dev-expert",
       "description": "编程专家.Skill P8级编程助手,覆盖：软件/网站项目总控、API设计、Bug诊断、代码生成、代码审查、重构、测试用例、性能基准、技术选型、文档生成、任务拆解、Spec驱动、Karpathy规范、CMS二次开发、前端设计、MySQL、项目知识图谱，以及工程纪律层（根因调试硬闭环、阶段导航、事故复盘/SLO、威胁建模/供应链安全、生产就绪/渐进式发布）。支持 @标识 显式调用跳过路由。",
-      "downloads": "713k",
+      "downloads": "757k",
       "installs": 0,
-      "stars": 179
+      "stars": 182
     },
     {
-      "rank": 9,
+      "rank": 5,
       "owner": "user_814dbe54",
       "repo": "dev-expert",
       "url": "https://skillhub.cn/skills/user_814dbe54/dev-expert",
       "description": "编程专家.Skill P8级编程助手,覆盖：软件/网站项目总控、API设计、Bug诊断、代码生成、代码审查、重构、测试用例、性能基准、技术选型、文档生成、任务拆解、Spec驱动、Karpathy规范、CMS二次开发、前端设计、MySQL、项目知识图谱，以及工程纪律层（根因调试硬闭环、阶段导航、事故复盘/SLO、威胁建模/供应链安全、生产就绪/渐进式发布、AI编码治理、面向Agent代码可读性、LLM应用安全）。支持 @标识 显式调用跳过路由。",
-      "downloads": "59.1k",
+      "downloads": "103k",
       "installs": 0,
       "stars": 1
     },
     {
-      "rank": 10,
-      "owner": "user_741dc82b",
-      "repo": "anti-fraud",
-      "url": "https://skillhub.cn/skills/user_741dc82b/anti-fraud",
-      "description": "防骗大师.Skill:你身边的生活类防骗专家。 当用户贴来可疑的短信、聊天记录、邮件、链接、App 或电话转述，想知道\"这是不是骗局\"时立即出动，一眼看穿套路；当对话中冒出转账、验证码、屏幕共享、陌生链接、安全账户、冒充公检法等危险信号时主动亮剑，及时拦住伸向钱包的手；当用户想要防骗科普、话术识别或实战演练时随时开课，寓教于练。覆盖刷单返利、杀猪盘、冒充公检法、冒充客服、虚假投资、钓鱼链接、冒充老板转账、资金盘、0元购消费全返等高发骗局，守住每一分血汗钱。",
-      "downloads": "256k",
+      "rank": 6,
+      "owner": "zcwl",
+      "repo": "multi-search-engine",
+      "url": "https://skillhub.cn/skills/zcwl/multi-search-engine",
+      "description": "多搜索引擎集成,16引擎(7国内+9全球)。Multi search engine integration with 16 engines (7 CN + 9 Global)。核心能力: -",
+      "downloads": "381k",
       "installs": 0,
-      "stars": 15
+      "stars": 26
     },
     {
-      "rank": 11,
-      "owner": "org-dlg3hiaf",
-      "repo": "omni-viral-video-deconstruction",
-      "url": "https://skillhub.cn/skills/org-dlg3hiaf/omni-viral-video-deconstruction",
-      "description": "【全能自媒体】视频号爆款短视频拆解。视频号爆款短视频拆解（需本地上传视频）。看图拆爆款，把本地视频按视频号带货/流量逻辑拆成结构分段、脚本类型、爆款归因和六维评分报告。素材全程本地提取，不传视频不传帧；写作说明书由服务端分 3 包下发。每次开单扣 5 点，需用户 API Key。仅支持本地视频上传，暂不支持视频号链接。",
-      "downloads": "31.6k",
+      "rank": 7,
+      "owner": "beatra-ai",
+      "repo": "talking-avatar-video",
+      "url": "https://skillhub.cn/skills/beatra-ai/talking-avatar-video",
+      "description": "用一张人像和一段短脚本或语音，制作有明确讲述内容的数字人口播视频。可使用现成录音，也可以先选择音色，把脚本生成旁白，让画面中的人物随声音完成稳定、自然的口播。适合 AI 主播、虚拟主播视频、数字人讲解、让照片说话、照片说话视频、产品讲解视频、数字人培训视频、公告和社交口播，并在交付后检查人物一致性、声音清晰度、口型同步和动作稳定性。",
+      "downloads": "99k",
+      "installs": 0,
+      "stars": 11
+    },
+    {
+      "rank": 8,
+      "owner": "beatra-ai",
+      "repo": "ai-podcast-voiceover",
+      "url": "https://skillhub.cn/skills/beatra-ai/ai-podcast-voiceover",
+      "description": "把文章、公众号文章、笔记或定稿，通过AI播客配音和文字转语音，制作成自然流畅的单人播客口播与MP3单集音频。先把书面内容整理成适合聆听的播客脚本，明确人名、术语和数字的读法，再选择主播音色，调整语速、停顿和表达，形成可持续复用的节目声音。适合文字转播客、文章转播客、AI播客生成、AI播客音频生成、公众号文章转音频、知识解说、新闻评论和个人栏目。",
+      "downloads": "93k",
+      "installs": 0,
+      "stars": 9
+    },
+    {
+      "rank": 9,
+      "owner": "user_741dc82b",
+      "repo": "libai",
+      "url": "https://skillhub.cn/skills/user_741dc82b/libai",
+      "description": "李白.Skill:润色专家 检测并消除中文文本中的AI生成痕迹，将生硬的机器输出转化为自然流畅的人类文笔。融合规则检测、分层改写（词汇→句式→内容→逻辑→语气）和六步质控流水线，确保最终文本通过人工审查。",
+      "downloads": "173k",
+      "installs": 0,
+      "stars": 44
+    },
+    {
+      "rank": 10,
+      "owner": "user_814dbe54",
+      "repo": "baozheng",
+      "url": "https://skillhub.cn/skills/user_814dbe54/baozheng",
+      "description": "包拯.Skills你身边的专家律师团 — 专业法律咨询 + 要素式/通用起诉状起草 + 刑事专项材料辅助 + 法条分析与法规检索。flk.npc.gov.cn API实时法条优先，不可用时AI知识库降级兜底，法条来源按四档标注可核验（已核验-flk API / 已核验-单源 / 已引-离线库 / 未核验-模型生成），交付末尾附法条/事实/金额/程序分项置信度；以22类法律领域覆盖矩阵约束路由边界；支持35个起诉状模板、5类刑事专项材料辅助；内置Logic Doctor逻辑自检、诉讼时效追踪及10类异常容错处理（含连续失败熔断）；渐进式意图收敛协议（3轮状态机）；混合意图自动任务拆解（按依赖排序→合并→顺序执行）；含反模式清单与危机干预出口（自杀/家暴/未成年人侵害先于一切法律分析）。非标准案由自动使用通用模板。",
+      "downloads": "44k",
       "installs": 0,
       "stars": 0
     },
     {
+      "rank": 11,
+      "owner": "user_741dc82b",
+      "repo": "anti-fraud",
+      "url": "https://skillhub.cn/skills/user_741dc82b/anti-fraud",
+      "description": "防骗大师.Skill:你身边的生活类防骗专家。 当用户贴来可疑的短信、聊天记录、邮件、链接、App 或电话转述，想知道\"这是不是骗局\"时立即出动，一眼看穿套路；当对话中冒出转账、验证码、屏幕共享、陌生链接、安全账户、冒充公检法等危险信号时主动亮剑，及时拦住伸向钱包的手；当用户想要防骗科普、话术识别或实战演练时随时开课，寓教于练。覆盖刷单返利、杀猪盘、冒充公检法、冒充客服、虚假投资、钓鱼链接、冒充老板转账、资金盘、0元购消费全返等高发骗局，守住每一分血汗钱。",
+      "downloads": "299k",
+      "installs": 0,
+      "stars": 15
+    },
+    {
       "rank": 12,
-      "owner": "mysteel",
-      "repo": "mysteel-datasearch",
-      "url": "https://skillhub.cn/skills/mysteel/mysteel-datasearch",
-      "description": "大宗商品价格数据查询技能。用于查询大宗商品期现货价格、宏观经济指标、产业链供需数据、进出口库存数据、金融市场数据等。当用户询问：(1) 期货/现货价格查询，如\"螺纹钢价格\"、\"铜期货收盘价\"； (2) 历史行情或趋势分析；(3) 区域或企业价格对比；(4) 宏观经济指标，如GDP、CPI；(5) 产业链上下游数据；(6) 多市场金融数据（期权、股票、债券、外汇）；(7) 结算确认单生成时触发此技能。",
-      "downloads": "45.7k",
+      "owner": "user_814dbe54",
+      "repo": "anti-fraud",
+      "url": "https://skillhub.cn/skills/user_814dbe54/anti-fraud",
+      "description": "防骗大师.Skill:你身边的生活类防骗专家。 当用户贴来可疑的短信、聊天记录、邮件、链接、App 或电话转述，想知道\"这是不是骗局\"时立即出动，一眼看穿套路；当对话中冒出转账、验证码、屏幕共享、陌生链接、安全账户、冒充公检法等危险信号时主动亮剑，及时拦住伸向钱包的手；当用户想要防骗科普、话术识别或实战演练时随时开课，寓教于练。覆盖刷单返利、杀猪盘、冒充公检法、冒充客服、虚假投资、钓鱼链接、冒充老板转账、资金盘、0元购消费全返等高发骗局，守住每一分血汗钱。",
+      "downloads": "43k",
       "installs": 0,
       "stars": 0
     },
     {
       "rank": 13,
+      "owner": "beatra-ai",
+      "repo": "viral-video-teardown-remake",
+      "url": "https://skillhub.cn/skills/beatra-ai/viral-video-teardown-remake",
+      "description": "把一条已经跑出来的短视频，变成你自己的那一条。参考视频可以是文件、截图或你自己的描述，也可以直接粘一个视频链接——抖音、TikTok、小红书、Instagram、YouTube、X 都能读到标题文案、作者、公开数据和评论区留言；YouTube 还支持字幕提取，拿到整段逐字稿。爆款短视频拆解与复刻工作流：逐段拆出钩子、中段节奏和转化引导，判定它属于哪一类脚本结构，说清它到底靠什么跑起来，再把这套骨架原样套到你的产品或选题上——交付画面与口播分开写的分镜表、优先取用你自己素材、必要时才生成的参考帧、选定音色的口播配音，以及一条动起来的竖屏短片，或者按分段交付的素材配上带时间码的剪辑清单。适合爆款拆解、对标爆款、抄爆款结构、二创改写、视频号、抖音、小红书、快手起号找对标，也适合把收藏夹里存了很久的参考视频，变成一套能反复复用的内容公式。",
+      "downloads": "72k",
+      "installs": 0,
+      "stars": 12
+    },
+    {
+      "rank": 14,
       "owner": "user_a730098d",
       "repo": "pentest",
       "url": "https://skillhub.cn/skills/user_a730098d/pentest",
       "description": "这个技能特别简单——你只需要调用它，给一个网站域名，它就会自动帮你跑一遍渗透测试，找出这个网站存在哪些安全漏洞。 不需要你配环境、不用你手动发包，一切自动化。测完直接出结果，告诉你哪里有问题、怎么修。 它的愿景是：让每个人都能成为白帽黑客——只要输入一个域名，就能知道自己的网站安不安全。一切只为授权测试，只为发现漏洞、修复风险，让互联网更安全。",
-      "downloads": "33.7k",
+      "downloads": "34k",
       "installs": 0,
-      "stars": 5
-    },
-    {
-      "rank": 14,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-wx-viral-script-generator",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-viral-script-generator",
-      "description": "【零一数科·出品】视频号爆款文案生成（体验版）。免费免登录出脚本，给创作目的、行业、受众、选题就按爆款结构（Hook-中段-CTA、节奏标签）产出口播脚本，信息不全也能按爆款潜质兜底。本地运行、无需 Key，零成本上手。",
-      "downloads": "126k",
-      "installs": 0,
-      "stars": 66
+      "stars": 7
     },
     {
       "rank": 15,
-      "owner": "org-kkw9656k",
-      "repo": "xique-ai",
-      "url": "https://skillhub.cn/skills/org-kkw9656k/xique-ai",
-      "description": "喜鹊标书助手是一款面向 WorkBuddy 用户的智能标书工具。上传招标文件后，用户可以按需配置篇幅、写作方式、图文风格和表格样式，逐步完成大纲规划、目录预览与修改、正文生成，并实时查看任务进度。生成完成后，还支持在线调整内容和排版，最终一键导出 Word 标书，帮助用户更高效地完成从文件解析到成稿交付的全过程。 请登录喜鹊AI标书官网获取Apikey：https://www.xiquebiaoshu.com/?source=skillhub",
-      "downloads": "32.2k",
+      "owner": "mysteel",
+      "repo": "mysteel-datasearch",
+      "url": "https://skillhub.cn/skills/mysteel/mysteel-datasearch",
+      "description": "大宗商品价格数据查询技能。用于查询大宗商品期现货价格、宏观经济指标、产业链供需数据、进出口库存数据、金融市场数据等。当用户询问：(1) 期货/现货价格查询，如\"螺纹钢价格\"、\"铜期货收盘价\"； (2) 历史行情或趋势分析；(3) 区域或企业价格对比；(4) 宏观经济指标，如GDP、CPI；(5) 产业链上下游数据；(6) 多市场金融数据（期权、股票、债券、外汇）；(7) 结算确认单生成时触发此技能。",
+      "downloads": "56k",
+      "installs": 0,
+      "stars": 0
+    },
+    {
+      "rank": 16,
+      "owner": "org-sb0eogd5",
+      "repo": "fengyupentest",
+      "url": "https://skillhub.cn/skills/org-sb0eogd5/fengyupentest",
+      "description": "# 「砺刃」 授权场景下，将红队实战能力转化为可直接提交的SRC有效战果。 面向授权渗透测试、补天、厂商SRC及众测平台打造的一体化挖洞工具链。 融合 pentest‑lyan 工程化渗透方法论与 src‑vuln‑hunting 实战提交规范；支持模型自主威胁建模，本地持久化任务状态，全流程支持断点续测。 ## 核心能力 - 12维系统化威胁建模：覆盖数据流、权限边界、资源归属、状态变更、客户端可控输入、并发竞争场景、输出渲染、认证与会话机制、SSRF风险点、各类注入面、文件操作、业务逻辑缺陷，完整覆盖业务Web常见攻击面。 - JS多源深度解析：独立JS文件、页面内联脚本、外部资源引用、页面跳转链接、路径推理、响应动态注入六大采集渠道，自动提取并梳理全部后端接口。 - 三层确认校验门闩机制：依次校验访问可达性、漏洞存在性、可利用性，三项全部通过方可标记为 confirmed，规避“返回200即判定漏洞”的常见误报问题。 - SRC标准化报告输出（补天风格）：自动整理原始请求/响应数据包、危害场景证明、不少于2条可落地修复建议，产出内容可直接用于漏洞报送。 - 白盒审计联动：对接 src‑6k 白盒审计能力，实现接口探测到源码审计的打通，完整还原漏洞利用链路。 ## 适用场景 1. 获得正式授权的目标：常规渗透测试、轻量Web应用安全评估 2. 补天、各厂商SRC、商业众测任务：减少重复开发，开箱即用，对齐平台提交标准 3. 团队协同作业：任务状态按模块持久化存储，支持断点续测，避免工作进度丢失 ## 合规边界 仅可在已获取书面授权的范围内开展测试；恪守最小验证原则，做好测试样本管控。 预授权接口、验证码、随机密钥类对象不随意标记高危；仅验证访问可达性，不随意拔高风险等级。 --- ### 【SkillHub卡片简介｜单行精简版，直接复制用】 「砺刃」——授权环境下把红队手法转化为可提交SRC战果。面向授权渗透、补天及厂商SRC众测的一体化挖洞工具链。内置12维威胁建模、JS多源解析、三层校验防误报，输出补天规范漏洞报告，支持断点续测与白盒联动；严格恪守测试授权边界，适配个人与团队挖洞作业。",
+      "downloads": "30k",
+      "installs": 0,
+      "stars": 2
+    },
+    {
+      "rank": 17,
+      "owner": "user_19b9fbd9",
+      "repo": "psych-council",
+      "url": "https://skillhub.cn/skills/user_19b9fbd9/psych-council",
+      "description": "心理模型议会·机制透镜议事与一锤定音。立场由心智模型决定——议事者不是名人而是约103张心理学模型卡（九族：认知偏差/行为经济学/说服影响/动机习惯/注意记忆/社会身份/决策结构/情绪体验/风险信任），按12维任务域坐标系对事件或产物动态匹配。六阶段——事件·产物勘察（重述问题、打域标签、产物类必绑成功指标）→竞价入场TOP50池（<60出局，12-15席完整立论+余席一句话墙）→三维加权投票→获胜模型融合成一个「首席心理架构师」人格一锤定音（总观点+最终产物，逐条可溯源）→HTML报告。目的：单模型议事=平均答案，议会挖掘被视角掩盖的可能性，再收敛成交付。触发词：心理模型议会、模型议会、用心理模型看、多模型议事、psych council、议事定稿、心理透镜分析、换个机制看这个。不适用：营销文案批量产多版投放（走psych-fission）、名人视角圆桌（走persona-council）、写作者风格裂变（走persona-fission）、代码质量审查（走code-review）、事实查询与实时行情（先取数再议事）。",
+      "downloads": "19k",
       "installs": 0,
       "stars": 1
     },
     {
-      "rank": 16,
-      "owner": "user_5b28ea14",
-      "repo": "smart-charts",
-      "url": "https://skillhub.cn/skills/user_5b28ea14/smart-charts",
-      "description": "26 种图表，3 个主题，2步生成： 1.上传数据 — 将 CSV / Excel / JSON 等格式的数据文件拖入对话框; 2.查看结果 — 交互式图表（HTML），可保存图表为图片.",
-      "downloads": "267k",
-      "installs": 8,
-      "stars": 76
-    },
-    {
-      "rank": 17,
-      "owner": "beatra-ai",
-      "repo": "beatra-ai-music-creator",
-      "url": "https://skillhub.cn/skills/beatra-ai/beatra-ai-music-creator",
-      "description": "从一个主题、一句歌词、一段画面或参考音频开始，用AI音乐生成和AI作曲制作原创歌曲、歌词成曲、纯音乐、BGM、视频配乐、品牌音乐、广告歌、播客片头、游戏音乐和多语言歌曲。这个AI写歌工作室会先确定曲风、情绪、结构、可唱歌词、人声和编曲方向，再使用 Suno 5.5 或你明确选择的其他模型生成可试听音频。适合AI写歌词、文字生成音乐、背景音乐生成、中文歌、双语歌曲、男女对唱和参考音频改编；生成后试听演唱、发音、时长、循环点和编曲效果，再集中优化最好的版本。",
-      "downloads": "29.8k",
-      "installs": 0,
-      "stars": 5
-    },
-    {
       "rank": 18,
-      "owner": "user_ac200df4",
-      "repo": "mglc-wx-video-decomposer",
-      "url": "https://skillhub.cn/skills/user_ac200df4/mglc-wx-video-decomposer",
-      "description": "【曼格云·出品】视频号视频拆解。输入视频号分享链接或本地视频，两阶段产出：脚本采集作品元信息、互动数据与视觉深度拆解（镜头/运镜/转场/情绪/时间线/屏幕文字），再由 AI 注入深度分析层（受众画像、结构解读、爆款归因、爆款公式、六维评分、运营建议、总体评估），一键导出 Markdown / Excel / HTML 看板。",
-      "downloads": "15.8k",
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-wx-viral-script-generator",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-viral-script-generator",
+      "description": "【零一数科·出品】视频号爆款文案生成（体验版）。免费免登录出脚本，给创作目的、行业、受众、选题就按爆款结构（Hook-中段-CTA、节奏标签）产出口播脚本，信息不全也能按爆款潜质兜底。本地运行、无需 Key，零成本上手。",
+      "downloads": "129k",
       "installs": 0,
-      "stars": 0
+      "stars": 68
     },
     {
       "rank": 19,
+      "owner": "user_84b8c7d7",
+      "repo": "image-to-editable-pptx",
+      "url": "https://skillhub.cn/skills/user_84b8c7d7/image-to-editable-pptx",
+      "description": "将 PPT 截图、设计稿、海报、图表页等高保真还原为完全可编辑的 PowerPoint 文件：文本转为文本框、形状转为自选图形、表格转为原生表格、图标与照片提取为图片，颜色像素级采样、版式按像素测量，并用渲染对比闭环校验一致性。与\"图生 PPT\"不同——本技能不重新生成画面，而是精准复刻已有图像并保留逐元素可编辑能力。",
+      "downloads": "16k",
+      "installs": 0,
+      "stars": 2
+    },
+    {
+      "rank": 20,
       "owner": "user_19b9fbd9",
       "repo": "zy9305151",
       "url": "https://skillhub.cn/skills/user_19b9fbd9/zy9305151",
       "description": "单个AI给的是「平均答案」——把一个问题交给158个蒸馏人格竞价、立论、投票，才能看到被平均数抹掉的东西。 核心价值：还原观点的真实分布，而不是模型均值。问「我该不该跳槽」「这笔钱能不能投」「我真的帅吗」，你会看到不同世界观给出的截然不同的答案，以及它们互相投票后的秩序。 内置红线：违法违规问题直接拒开；涉投资必挂「不构成投资建议，仅供参考」双重免责；所有名人言论均标注为方法论蒸馏模拟，非真人立场。 （短版一句话：155位名人蒸馏人设组成的多角度决策议会——竞价入场、TOP10立论、加权投票、议长综合，输出HTML圆桌报告，还原观点分布而非AI均值。）",
-      "downloads": "19.7k",
+      "downloads": "20k",
       "installs": 0,
-      "stars": 4
+      "stars": 6
     },
     {
-      "rank": 20,
+      "rank": 21,
       "owner": "org-28ib33ph",
       "repo": "lingyi-wx-video-decomposer-plus",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-video-decomposer-plus",
       "description": "【零一数科·出品】视频号爆款短视频拆解（付费版：全能）。一键拆解爆款，把一条视频号视频拆成结构分段、爆款归因、六维评分和可借鉴策略，照着学照着抄。支持视频号分享链接和本地视频，付费全能版远端分析，1–5 分钟出 Markdown 报告。",
-      "downloads": "142k",
+      "downloads": "143k",
       "installs": 0,
       "stars": 86
-    },
-    {
-      "rank": 21,
-      "owner": "user_814dbe54",
-      "repo": "smart-charts",
-      "url": "https://skillhub.cn/skills/user_814dbe54/smart-charts",
-      "description": "Intelligent chart generation and data analysis skill. Reads user-supplied data files (CSV/Excel/JSON), analyzes data characteristics with LLM assistance, auto-recommends and generates interactive ECharts visualizations. Use when the user asks to analyze data, generate charts, create visualizations, or work with tabular data files.",
-      "downloads": "16.3k",
-      "installs": 0,
-      "stars": 0
     },
     {
       "rank": 22,
@@ -219,7 +219,7 @@
       "repo": "lingyi-content-quality-check",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-content-quality-check",
       "description": "【零一数科·出品】：爆款内容预检。发前先测会不会违规、能不能爆、人群买不买——把发布从赌运气变成心里有底。视频号/公众号文案一键过三关：① 敏感词+广告法违禁词合规检测，命中词直接给替换建议；② 模拟目标人群真实观看反应与评论区原声；③ 爆款概率预测，逐维度打分说清依据。合规要准、爆款看依据，发出去前帮你把最后一道关。触发词：内容质检、敏感词检测、广告法检测、违禁词扫描、发布前审核、爆款预测、人群模拟。",
-      "downloads": "86.5k",
+      "downloads": "88k",
       "installs": 0,
       "stars": 27
     },
@@ -229,29 +229,29 @@
       "repo": "qilinbashe",
       "url": "https://skillhub.cn/skills/user_cd0fcd93/qilinbashe",
       "description": "律师AI办案工作台：从接案到结案全流程提效——案件分析、要件梳理、文书初稿、证据质证、法庭攻防演练（模拟法庭三方对打、质证策略、庭审发问）、赔偿与费用计算、期限提醒、复盘归档；覆盖民事、刑事、劳动、非诉、破产、执行、行政、仲裁八大领域，111 个专家技能＋能力全景图导航；法条可核验、结论可复核。",
-      "downloads": "102k",
+      "downloads": "108k",
       "installs": 0,
-      "stars": 46
+      "stars": 47
     },
     {
       "rank": 24,
-      "owner": "org-sb0eogd5",
-      "repo": "fengyupentest",
-      "url": "https://skillhub.cn/skills/org-sb0eogd5/fengyupentest",
-      "description": "# 「砺刃」 授权场景下，将红队实战能力转化为可直接提交的SRC有效战果。 面向授权渗透测试、补天、厂商SRC及众测平台打造的一体化挖洞工具链。 融合 pentest‑lyan 工程化渗透方法论与 src‑vuln‑hunting 实战提交规范；支持模型自主威胁建模，本地持久化任务状态，全流程支持断点续测。 ## 核心能力 - 12维系统化威胁建模：覆盖数据流、权限边界、资源归属、状态变更、客户端可控输入、并发竞争场景、输出渲染、认证与会话机制、SSRF风险点、各类注入面、文件操作、业务逻辑缺陷，完整覆盖业务Web常见攻击面。 - JS多源深度解析：独立JS文件、页面内联脚本、外部资源引用、页面跳转链接、路径推理、响应动态注入六大采集渠道，自动提取并梳理全部后端接口。 - 三层确认校验门闩机制：依次校验访问可达性、漏洞存在性、可利用性，三项全部通过方可标记为 confirmed，规避“返回200即判定漏洞”的常见误报问题。 - SRC标准化报告输出（补天风格）：自动整理原始请求/响应数据包、危害场景证明、不少于2条可落地修复建议，产出内容可直接用于漏洞报送。 - 白盒审计联动：对接 src‑6k 白盒审计能力，实现接口探测到源码审计的打通，完整还原漏洞利用链路。 ## 适用场景 1. 获得正式授权的目标：常规渗透测试、轻量Web应用安全评估 2. 补天、各厂商SRC、商业众测任务：减少重复开发，开箱即用，对齐平台提交标准 3. 团队协同作业：任务状态按模块持久化存储，支持断点续测，避免工作进度丢失 ## 合规边界 仅可在已获取书面授权的范围内开展测试；恪守最小验证原则，做好测试样本管控。 预授权接口、验证码、随机密钥类对象不随意标记高危；仅验证访问可达性，不随意拔高风险等级。 --- ### 【SkillHub卡片简介｜单行精简版，直接复制用】 「砺刃」——授权环境下把红队手法转化为可提交SRC战果。面向授权渗透、补天及厂商SRC众测的一体化挖洞工具链。内置12维威胁建模、JS多源解析、三层校验防误报，输出补天规范漏洞报告，支持断点续测与白盒联动；严格恪守测试授权边界，适配个人与团队挖洞作业。",
-      "downloads": "29.6k",
-      "installs": 0,
-      "stars": 2
+      "owner": "user_f3d82da7",
+      "repo": "chinese-official-writing",
+      "url": "https://skillhub.cn/skills/user_f3d82da7/chinese-official-writing",
+      "description": "用于中文公文、事务性材料和新闻稿件的起草、改写、压缩和复核；用户要求写申请、请示、报告、通知、通告、意见、决定、决议、议案、公报、命令、函、复函、批复、说明、方案、纪要、公告、公示、通报、制度、规定、办法、管理办法、细则、操作规程、工作要点、总结、调研、讲话、致辞、可研、审查材料、AI 算力等正式文本，或需校验这类材料的文种、格式、去口语化、降 AI 味时使用；适用于机关、企事业单位、学校、新闻机构。",
+      "downloads": "109k",
+      "installs": 53,
+      "stars": 61
     },
     {
       "rank": 25,
-      "owner": "user_19b9fbd9",
-      "repo": "zy930511",
-      "url": "https://skillhub.cn/skills/user_19b9fbd9/zy930511",
-      "description": "以书铸魂技能：输入一本书（PDF/EPUB/TXT/书名/作者），深度蒸馏书中的方法论、思维模型、决策启发式与表达风格，自动生成一个以该书或作者思想为核心人设的新 Skill（带标准 YAML 头，可直接上传 SkillHub）。一本书 = 一个思想系统，把《穷查理宝典》《原则》《原子习惯》变成能替你思考、帮你决策、模仿作者风格的 AI 顾问。蒸馏不是摘抄，是提魂。",
-      "downloads": "20.5k",
-      "installs": 0,
-      "stars": 9
+      "owner": "tencent-adm",
+      "repo": "ima-skills",
+      "url": "https://skillhub.cn/skills/tencent-adm/ima-skills",
+      "description": "ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。",
+      "downloads": "309k",
+      "installs": 11831,
+      "stars": 517
     },
     {
       "rank": 26,
@@ -259,89 +259,89 @@
       "repo": "lingyi-wx-video-decomposer-exp",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-video-decomposer-exp",
       "description": "【零一数科·出品】视频号爆款短视频拆解（免费版：需本地上传视频）。免费看视频拆爆款，把本地视频按视频号带货/流量逻辑拆成结构分段、脚本类型、爆款归因和六维评分报告，照着学照着抄。素材全程本地提取，不传视频不传帧，免登录免 Key；仅支持本地视频上传，暂不支持视频号链接。",
-      "downloads": "103k",
+      "downloads": "104k",
       "installs": 0,
       "stars": 56
     },
     {
       "rank": 27,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-wx-account-diagnose",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-account-diagnose",
-      "description": "【零一数科·出品】公众号诊断（付费版）。给自己的号做一次内容体系体检。选题结构分布+更新频率与断更+定位一致性（自述定位 vs 实际写作方向）+内容矩阵健康度四项信号灯+内容支柱与内容缺口+账号普遍偏弱的评分维度+可执行策略建议；可选 HTML 报告。默认只需说出公众号名字，正文与互动指标由服务端自动获取；也可用本地历史文章文件夹，后台导出表格作为可选增强。约 20 点/篇 + 30 点洞察。触发词：诊断我的公众号、我的号做得怎么样、账号内容诊断、我的选题分布、这个号定位准不准。",
-      "downloads": "42.2k",
-      "installs": 0,
-      "stars": 3
-    },
-    {
-      "rank": 28,
-      "owner": "user_f3d82da7",
-      "repo": "chinese-official-writing",
-      "url": "https://skillhub.cn/skills/user_f3d82da7/chinese-official-writing",
-      "description": "用于中文公文、事务性材料和新闻稿件的起草、改写、压缩和复核；用户要求写申请、请示、报告、通知、通告、意见、决定、决议、议案、公报、命令、函、复函、批复、说明、方案、纪要、公告、公示、通报、制度、规定、办法、管理办法、细则、操作规程、工作要点、总结、调研、讲话、致辞、可研、审查材料、AI 算力等正式文本，或需校验这类材料的文种、格式、去口语化、降 AI 味时使用；适用于机关、企事业单位、学校、新闻机构。",
-      "downloads": "104k",
-      "installs": 53,
-      "stars": 58
-    },
-    {
-      "rank": 29,
       "owner": "user_814dbe54",
       "repo": "qilinbashe",
       "url": "https://skillhub.cn/skills/user_814dbe54/qilinbashe",
       "description": "律师AI办案工作台：从接案到结案全流程提效——案件分析、要件梳理、文书初稿、证据质证、法庭攻防演练（模拟法庭三方对打、质证策略、庭审发问）、赔偿与费用计算、期限提醒、复盘归档；覆盖民事、刑事、劳动、非诉、破产、执行、行政、仲裁八大领域，111 个技能文件（110 个专家技能＋能力目录导航）；法条可核验、结论可复核、不装懂。",
-      "downloads": "12.3k",
+      "downloads": "17k",
       "installs": 0,
       "stars": 0
     },
     {
-      "rank": 30,
-      "owner": "tencent-adm",
-      "repo": "ima-skills",
-      "url": "https://skillhub.cn/skills/tencent-adm/ima-skills",
-      "description": "ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。",
-      "downloads": "305k",
-      "installs": 11831,
-      "stars": 517
-    },
-    {
-      "rank": 31,
+      "rank": 28,
       "owner": "org-28ib33ph",
-      "repo": "lingyi-wx-video-script-creator-plus",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-video-script-creator-plus",
-      "description": "【零一数科·出品】视频号挂车爆单短视频脚本生成（付费版）。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的挂车脚本，或按方向/目的/商品原创多条口播脚本（含分段表、口播全文、六维质检评分）。",
-      "downloads": "75.1k",
+      "repo": "lingyi-wx-account-diagnose",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-account-diagnose",
+      "description": "【零一数科·出品】公众号诊断（付费版）。给自己的号做一次内容体系体检。选题结构分布+更新频率与断更+定位一致性（自述定位 vs 实际写作方向）+内容矩阵健康度四项信号灯+内容支柱与内容缺口+账号普遍偏弱的评分维度+可执行策略建议；可选 HTML 报告。默认只需说出公众号名字，正文与互动指标由服务端自动获取；也可用本地历史文章文件夹，后台导出表格作为可选增强。约 20 点/篇 + 30 点洞察。触发词：诊断我的公众号、我的号做得怎么样、账号内容诊断、我的选题分布、这个号定位准不准。",
+      "downloads": "44k",
       "installs": 0,
-      "stars": 25
+      "stars": 3
     },
     {
-      "rank": 32,
+      "rank": 29,
       "owner": "user_3b54b400",
       "repo": "douyin-pro",
       "url": "https://skillhub.cn/skills/user_3b54b400/douyin-pro",
       "description": "抖音短视频双路径生产体系（单 Skill 版）。Path A[付费·高质量]：策略大脑→（可选：素材混剪/AI高光提取）→脚本优化→AI生图/素材准备→配音渲染（百炼/GPT-SoVITS/CosyVoice/VoxCPM2+剪映/Remotion/ffmpeg/数字人）。Path B[免费·动画风]：采集热点→脚本→edge-tts免费配音+HyperFrames开源渲染→MP4，零云费开箱快。触发词分层：①\"抖音短视频/选题规划/合规闸门/运营策略\" ②\"口播脚本/AI生图/AI配音/视频渲染/Remotion渲染\" ③\"蹭热点/快速出片/免费做视频\" ④\"混剪/高光提取/素材粗剪/autoclip",
-      "downloads": "74.5k",
+      "downloads": "77k",
       "installs": 0,
-      "stars": 50
+      "stars": 51
     },
     {
-      "rank": 33,
+      "rank": 30,
       "owner": "user_ab5ae6ee",
       "repo": "unclecheng-reduce-ai-perception-v2",
       "url": "https://skillhub.cn/skills/user_ab5ae6ee/unclecheng-reduce-ai-perception-v2",
       "description": "去除文本中的AI写作痕迹，让文字读起来更像人类写作。当用户要求'去AI味'、'降AI味'、'让回复更像人话'、'润色'、'改写得更自然'时使用。检测并修复：AI高频词汇、过度结构化、虚假客观性、机械化连接词、完美主义陷阱、公式化结尾、过度修饰、情感缺失等问题。",
-      "downloads": "202k",
+      "downloads": "205k",
       "installs": 650,
-      "stars": 619
+      "stars": 620
     },
     {
-      "rank": 34,
+      "rank": 31,
+      "owner": "user_5b28ea14",
+      "repo": "smart-charts",
+      "url": "https://skillhub.cn/skills/user_5b28ea14/smart-charts",
+      "description": "26 种图表，3 个主题，2步生成： 1.上传数据 — 将 CSV / Excel / JSON 等格式的数据文件拖入对话框; 2.查看结果 — 交互式图表（HTML），可保存图表为图片.",
+      "downloads": "270k",
+      "installs": 8,
+      "stars": 78
+    },
+    {
+      "rank": 32,
       "owner": "org-28ib33ph",
       "repo": "lingyi-member-system-setup",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-member-system-setup",
       "description": "【零一数科·出品】会员体系搭建（免费版）。为私域用户设计会员体系搭建，产出会员等级成长表、积分获取消耗规则表、权益配置矩阵、积分财务测算表四件套。适用于会员积分体系设计、会员等级阶梯、成长值规则、权益配置、积分获取与消耗、积分财务测算、私域会员运营。",
-      "downloads": "28.0k",
+      "downloads": "30k",
       "installs": 0,
       "stars": 2
+    },
+    {
+      "rank": 33,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-wx-video-script-creator-plus",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-video-script-creator-plus",
+      "description": "【零一数科·出品】视频号挂车爆单短视频脚本生成（付费版）。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的挂车脚本，或按方向/目的/商品原创多条口播脚本（含分段表、口播全文、六维质检评分）。",
+      "downloads": "75k",
+      "installs": 0,
+      "stars": 25
+    },
+    {
+      "rank": 34,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-cross-domain-synergy-plan",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-cross-domain-synergy-plan",
+      "description": "【零一数科·出品】公私域联动方案生成（免费版）。梳理公众号、视频号、企微、社群、小程序、商城、线下活动等触点，设计公域种草→私域沉淀→小程序承接→会员成长链路，产出触点地图、承接链路图、渠道优先级、承接期触达 SOP 四件套。适用于公私域触点盘点、私域承接链路设计、渠道优先级评估、新客承接 SOP、公转私沉淀、触点割裂诊断。",
+      "downloads": "27k",
+      "installs": 0,
+      "stars": 1
     },
     {
       "rank": 35,
@@ -349,72 +349,62 @@
       "repo": "lingyi-copy-de-ai-human-eval",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-copy-de-ai-human-eval",
       "description": "【零一数科·出品】文案去AI味+真人点评（付费版）。把小红书/视频号/公众号/抖音文案改写得像真人写、消除 AI 痕迹降 AI 率，并模拟真实人群画像的读者逐段评估「哪里还像 AI、哪里不像人写」，给出人味打分与残留痕迹定位。别人只改不验，本品改完让真人评估把关。触发词：文案去AI味、社媒文案去AI、去AI味、降AI率、AI去痕、过AI检测、人味改写、真人评估、读者验收、真人试读。",
-      "downloads": "70.3k",
+      "downloads": "71k",
       "installs": 0,
       "stars": 14
     },
     {
       "rank": 36,
       "owner": "org-28ib33ph",
-      "repo": "lingyi-cross-domain-synergy-plan",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-cross-domain-synergy-plan",
-      "description": "【零一数科·出品】公私域联动方案生成（免费版）。梳理公众号、视频号、企微、社群、小程序、商城、线下活动等触点，设计公域种草→私域沉淀→小程序承接→会员成长链路，产出触点地图、承接链路图、渠道优先级、承接期触达 SOP 四件套。适用于公私域触点盘点、私域承接链路设计、渠道优先级评估、新客承接 SOP、公转私沉淀、触点割裂诊断。",
-      "downloads": "25.8k",
+      "repo": "lingyi-private-domain-sales-repurchase-strategy",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-private-domain-sales-repurchase-strategy",
+      "description": "【零一数科·出品】私域销售和复购策略（免费版）。为私域用户拆解首购/复购/沉睡/高客单四类转化漏斗，按人群包+触发条件+话术+权益+导购动作五要素配置，产出首购转化漏斗、复购策略表、企微话术组、沉睡召回方案四件套。适用于私域复购提升、首单转化、沉睡用户召回、连带加购、转化漏斗拆解、企微1对1转化话术、导购SOP配置、私域销售和复购策略。",
+      "downloads": "21k",
       "installs": 0,
       "stars": 1
     },
     {
       "rank": 37,
-      "owner": "showapi",
-      "repo": "handwritten-newspaper-template-generator-showapi",
-      "url": "https://skillhub.cn/skills/showapi/handwritten-newspaper-template-generator-showapi",
-      "description": "根据主题、年级和画面比例，自动生成符合A4打印标准的手抄报黑白线稿模板；适用于小学手抄报作业辅助、主题黑板报线稿设计、儿童涂色填字模板生成场景",
-      "downloads": "22.7k",
-      "installs": 0,
-      "stars": 2
-    },
-    {
-      "rank": 38,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-private-domain-sales-repurchase-strategy",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-private-domain-sales-repurchase-strategy",
-      "description": "【零一数科·出品】私域销售和复购策略（免费版）。为私域用户拆解首购/复购/沉睡/高客单四类转化漏斗，按人群包+触发条件+话术+权益+导购动作五要素配置，产出首购转化漏斗、复购策略表、企微话术组、沉睡召回方案四件套。适用于私域复购提升、首单转化、沉睡用户召回、连带加购、转化漏斗拆解、企微1对1转化话术、导购SOP配置、私域销售和复购策略。",
-      "downloads": "19.6k",
-      "installs": 0,
-      "stars": 1
-    },
-    {
-      "rank": 39,
       "owner": "org-28ib33ph",
       "repo": "lingyi-private-domain-tag-system-build",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-private-domain-tag-system-build",
       "description": "【零一数科·出品】私域标签体系搭建（免费版）。从0搭建可落地、可治理、不腐烂的私域标签体系，产出标签分级架构、标签字典与元数据（18字段）、治理SOP、落地实施路线四件套。适用于私域标签体系搭建、标签字典设计、标签治理、标签架构规划、打标方式矩阵、标签资产盘点。免登录免 Key、本地方法论产出。",
-      "downloads": "23.0k",
+      "downloads": "25k",
       "installs": 0,
       "stars": 0
     },
     {
-      "rank": 40,
-      "owner": "org-32m5yxyy",
-      "repo": "biaoshu-bailian",
-      "url": "https://skillhub.cn/skills/org-32m5yxyy/biaoshu-bailian",
-      "description": "百炼®标书是一个面向投标场景标书写作的skill，可以帮用户完成三件事：解读招标文件、生成投标文件、审查投标文件合规风险。它适合用自然语言直接协作，用户只要提供文件和需求，就能拿到解读结果、成品标书和审查报告。百炼®标书官网:https://biaoshu.zhiliaobiaoxun.com",
-      "downloads": "28.0k",
-      "installs": 0,
-      "stars": 48
-    },
-    {
-      "rank": 41,
+      "rank": 38,
       "owner": "tencent-adm",
       "repo": "cloudbase",
       "url": "https://skillhub.cn/skills/tencent-adm/cloudbase",
       "description": "腾讯云 CloudBase 是面向 AI Coding 的后端一体化平台，内置数据库、存储、身份认证、云函数与云托管等服务，支持快速构建小程序、Web、移动 App、管理后台与 AI 应用。",
-      "downloads": "92.1k",
+      "downloads": "94k",
       "installs": 9,
-      "stars": 25
+      "stars": 26
     },
     {
-      "rank": 42,
+      "rank": 39,
+      "owner": "org-kkw9656k",
+      "repo": "xique-ai",
+      "url": "https://skillhub.cn/skills/org-kkw9656k/xique-ai",
+      "description": "喜鹊标书助手是一款面向 WorkBuddy 用户的智能标书工具。上传招标文件后，用户可以按需配置篇幅、写作方式、图文风格和表格样式，逐步完成大纲规划、目录预览与修改、正文生成，并实时查看任务进度。生成完成后，还支持在线调整内容和排版，最终一键导出 Word 标书，帮助用户更高效地完成从文件解析到成稿交付的全过程。 请登录喜鹊AI标书官网获取Apikey：https://www.xiquebiaoshu.com/?source=skillhub",
+      "downloads": "32k",
+      "installs": 0,
+      "stars": 2
+    },
+    {
+      "rank": 40,
+      "owner": "showapi",
+      "repo": "handwritten-newspaper-template-generator-showapi",
+      "url": "https://skillhub.cn/skills/showapi/handwritten-newspaper-template-generator-showapi",
+      "description": "根据主题、年级和画面比例，自动生成符合A4打印标准的手抄报黑白线稿模板；适用于小学手抄报作业辅助、主题黑板报线稿设计、儿童涂色填字模板生成场景",
+      "downloads": "24k",
+      "installs": 0,
+      "stars": 2
+    },
+    {
+      "rank": 41,
       "owner": "user_19b9fbd9",
       "repo": "zy9305157",
       "url": "https://skillhub.cn/skills/user_19b9fbd9/zy9305157",
@@ -424,57 +414,127 @@
       "stars": 0
     },
     {
+      "rank": 42,
+      "owner": "org-32m5yxyy",
+      "repo": "biaoshu-bailian",
+      "url": "https://skillhub.cn/skills/org-32m5yxyy/biaoshu-bailian",
+      "description": "百炼®标书是一个面向投标场景标书写作的skill，可以帮用户完成四件事：解读招标文件、生成投标文件、审查投标文件合规风险以及标书查重。它适合用自然语言直接写作，用户只要提供文件和需求，就能拿到解读结果、成品标书、审查报告、查重报告。百炼®标书官网:https://biaoshu.zhiliaobiaoxun.com",
+      "downloads": "32k",
+      "installs": 0,
+      "stars": 48
+    },
+    {
       "rank": 43,
-      "owner": "user_1a470ba8",
-      "repo": "wps-office-suite",
-      "url": "https://skillhub.cn/skills/user_1a470ba8/wps-office-suite",
-      "description": "WPS Office 全家桶 - 四引擎（WPS/MS Office/LibreOffice/纯Python）智能识别用户已安装软件，纯Python模式支持排序/筛选/图表/公式/统计，含文档模板（代码生成）、最佳实践案例、故障排除大章（20+避坑+15 FAQ+15错误ID 统一索引）、自动重试、硬件自适应、环境自检、Skill更新提醒；v5.0新增：定时任务注册管理（schtasks/crontab）、目录轮询监听（YAML规则+大文件分片）、使用统计与稳定性中心（SQLite埋点+引擎健康+引擎偏好）、COM三步自愈（regsvr32→修复安装→手动指引）、对话式数据查询（NL2SQL式意图解析+查询计划+连续追问）、multi-agent编排引擎桥接（白名单探测+流水线模板注册）",
-      "downloads": "163k",
-      "installs": 0,
-      "stars": 73
-    },
-    {
-      "rank": 44,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-yunying-diaoyan-baogao",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-yunying-diaoyan-baogao",
-      "description": "【零一数科·出品】：社媒运营调研报告（付费版）。自动扒竞品社媒打法，一键出调研报告——你只给品牌和关键词，我就能去抖音/视频号采集真实视频素材，现造任务专属分析框架，生成含数据基础、打法拆解、合规话术、可执行建议的 Markdown 报告。适合做社媒运营调研、竞品对标、内容选题与爆款公式提炼。需要 python3 和技能目录 config.json 里的 LY_API_KEY。",
-      "downloads": "54.9k",
-      "installs": 0,
-      "stars": 17
-    },
-    {
-      "rank": 45,
-      "owner": "laoxi",
-      "repo": "ppt-craft-master",
-      "url": "https://skillhub.cn/skills/laoxi/ppt-craft-master",
-      "description": "PPT生成助手。不止\"做 PPT\"，而是以\"内容策略 + 视觉设计 + 叙事导演\"三位一体，产出有观点、有数据、有金句、排版精致、绝不溢出的演示文稿。内置页数→结构骨架、风格选择矩阵、设计令牌系统、28 种带图示版式库、金句弹药库、图文资产规范、动效纪律与 10 维终审评分卡。覆盖商务/教育/科技/医疗/金融/创意/政府等全行业，中英双语，支持模板或 AI 自动配色。触发词：做PPT、生成PPT、制作幻灯片、PPT 大纲、PPT 排版、演示文稿、演讲稿、create presentation、make ppt、帮我做个 PPT。",
-      "downloads": "35.9k",
-      "installs": 0,
-      "stars": 35
-    },
-    {
-      "rank": 46,
       "owner": "user_3a370331",
       "repo": "totorosir-workbuddy-checkin",
       "url": "https://skillhub.cn/skills/user_3a370331/totorosir-workbuddy-checkin",
-      "description": "WorkBuddy签到助手（WorkBuddy「Buddy 加油站」每日签到自动化 Skill，接口直签，无需点击 GUI，跨平台支持 Windows / macOS / Linux）。当用户说\"每天自动签到 WorkBuddy / 每日签到 / 自动领 Buddy 加油站积分 / 自动领 100 积分 / 设置 WorkBuddy 每日签到 / WorkBuddy 打卡 / 自动打卡 WorkBuddy\"时使用。原理是读取本机已登录的 WorkBuddy 登录态 accessToken，直接调用官方签到接口完成领取；签到完成后弹出操作系统级桌面通知（跨平台 toast / 气球提示）展示结果与积分余额；可选在签到失败或成功时向微信推送提醒（企业微信群机器人 / PushPlus / Bark）。安全约束：只读登录态、绝不打印 token、不修改登录态文件、不依赖第三方 Skill。",
-      "downloads": "9.6k",
+      "description": "WorkBuddy签到助手（WorkBuddy「Buddy 加油站」每日签到自动化 Skill，接口直签，无需点击 GUI，跨平台支持 Windows / macOS / Linux）。当用户说\"每天自动签到 WorkBuddy / 每日签到 / 自动领 Buddy 加油站积分 / 自动领 100 积分 / 设置 WorkBuddy 每日签到 / WorkBuddy 打卡 / 自动打卡 WorkBuddy / 帮我签到一次 / 现在签个到 / 检查签到环境\"时使用。原理是读取本机已登录 WorkBuddy 的登录态 accessToken，直接调用官方签到接口完成领取；支持桌面通知与可选微信推送。",
+      "downloads": "15k",
       "installs": 0,
       "stars": 2
     },
     {
-      "rank": 47,
+      "rank": 44,
+      "owner": "user_1a470ba8",
+      "repo": "wps-office-suite",
+      "url": "https://skillhub.cn/skills/user_1a470ba8/wps-office-suite",
+      "description": "WPS Office 全家桶 - 四引擎（WPS/MS Office/LibreOffice/纯Python）智能识别用户已安装软件，纯Python模式支持排序/筛选/图表/公式/统计，含文档模板（代码生成）、最佳实践案例、故障排除大章（20+避坑+15 FAQ+15错误ID 统一索引）、自动重试、硬件自适应、环境自检、Skill更新提醒；v5.0新增：定时任务注册管理（schtasks/crontab）、目录轮询监听（YAML规则+大文件分片）、使用统计与稳定性中心（SQLite埋点+引擎健康+引擎偏好）、COM三步自愈（regsvr32→修复安装→手动指引）、对话式数据查询（NL2SQL式意图解析+查询计划+连续追问）、multi-agent编排引擎桥接（白名单探测+流水线模板注册）",
+      "downloads": "165k",
+      "installs": 0,
+      "stars": 75
+    },
+    {
+      "rank": 45,
       "owner": "user_11064e10",
       "repo": "tax-policy-knowledge",
       "url": "https://skillhub.cn/skills/user_11064e10/tax-policy-knowledge",
       "description": "全税费种财税政策智能问答与风险合规助手。以「全量财税知识库 + 多维度风险指标模型 + 合规应对指引」三大专业底座为核心：覆盖13个税种+7项地方税费+6项社保费+新业态并自动联网更新；量化风险指标自动评分定位虚开、阴阳合同、私户收款、税负异常等高风险点；正负面清单、七流一致（由五流合一扩展，新增收入流/成本流/人员流）整改与合规报告一键生成。配套100+合同模板、发票正负面清单、促销红包合规、财税培训等。新增「经营合规八大陷阱」识别与整改：虚假贸易、空转走单、融资性贸易、循环贸易、违规挂靠、假冒国企、供应商主体异常、围标串标，覆盖国资委74号\"十不准\"、46号令终身追责、最高法隐性借贷无效与七流一致核验。",
-      "downloads": "63.6k",
+      "downloads": "66k",
       "installs": 93,
       "stars": 35
     },
     {
+      "rank": 46,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-yunying-diaoyan-baogao",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-yunying-diaoyan-baogao",
+      "description": "【零一数科·出品】：社媒运营调研报告（付费版）。自动扒竞品社媒打法，一键出调研报告——你只给品牌和关键词，我就能去抖音/视频号采集真实视频素材，现造任务专属分析框架，生成含数据基础、打法拆解、合规话术、可执行建议的 Markdown 报告。适合做社媒运营调研、竞品对标、内容选题与爆款公式提炼。需要 python3 和技能目录 config.json 里的 LY_API_KEY。",
+      "downloads": "55k",
+      "installs": 0,
+      "stars": 17
+    },
+    {
+      "rank": 47,
+      "owner": "user_c9faff27",
+      "repo": "dknowc-official-doc-writer-skillhub",
+      "url": "https://skillhub.cn/skills/user_c9faff27/dknowc-official-doc-writer-skillhub",
+      "description": "深知公文写作，是由北京彩智科技有限公司旗下“深知可信智能”提供的正式材料写作助手，准确、规范地完成企事业单位与政府机关等场景下的文档编写、审查和规范排版需求，所有依据或参考材料，都全程可溯源到权威部门发布的规范性文件。本技能用于公文写作、正式文书起草、汇报材料整理、讲话稿撰写、工作总结方案报告生成，也支持对用户上传的 Word 文稿进行格式审查、内容核查、重新排版和内容优化，帮助用户把零散想法、会议记录、工作素材转化为逻辑清楚、表述稳妥、格式规范、可直接修改使用的正式文稿。支持通知、请示、报告、函、意见、通报、通告、公告、方案、总结、管理办法、汇报材料、发言稿、讲话稿、调研报告、经验材料等常见文种和工作材料。依托深知可信搜索，获取准确有效的法规政策依据、行业信息与数据、标准规范和案例参考，并单独生成可交互的可信溯源报告，帮助用户写得有依据、能复核、可交付。正式文稿支持生成 Word 文档，并可按用户明确要求生成红头文件。",
+      "downloads": "72k",
+      "installs": 22,
+      "stars": 58
+    },
+    {
       "rank": 48,
+      "owner": "tencent-adm",
+      "repo": "westock-data",
+      "url": "https://skillhub.cn/skills/tencent-adm/westock-data",
+      "description": "金融市场结构化数据查询的权威入口。支持股票（A股/港股/美股）、ETF、指数、板块、期货、外汇、可转债的 K 线、技术指标、筹码、财报、研报、公告、风险事件、股东、分红、ETF 持仓、新股/投资日历、龙虎榜等数据查询(不同标的与市场支持的维度不同)；同时支持行业经营数据、申万行业估值/盈利预测/财务、全球宏观经济等数据查询；微信搜索\"腾讯微证券\"小程序，获取更多专业服务～",
+      "downloads": "32k",
+      "installs": 528,
+      "stars": 170
+    },
+    {
+      "rank": 49,
+      "owner": "user_814dbe54",
+      "repo": "smart-charts",
+      "url": "https://skillhub.cn/skills/user_814dbe54/smart-charts",
+      "description": "Intelligent chart generation and data analysis skill. Reads user-supplied data files (CSV/Excel/JSON), analyzes data characteristics with LLM assistance, auto-recommends and generates interactive ECharts visualizations. Use when the user asks to analyze data, generate charts, create visualizations, or work with tabular data files.",
+      "downloads": "18k",
+      "installs": 0,
+      "stars": 0
+    },
+    {
+      "rank": 50,
+      "owner": "user_84b8c7d7",
+      "repo": "paperless-business-system-from-files",
+      "url": "https://skillhub.cn/skills/user_84b8c7d7/paperless-business-system-from-files",
+      "description": "读取用户提示词和上传的业务附件，自动识别业务类型、字段、公式、流程、权限和报表规则，生成对应的完整本地部署 Python Web 系统。支持能源、点工、生产、质量、设备、库存、审批及组合业务，并交付完整源码、SQLite 数据库、导入导出、权限审计、备份恢复和 Windows EXE 打包代码。 生产日报与班报系统 质量问题与整改闭环系统 设备点检、保养与维修系统 库存管理与采购预警系统 考勤与交接班系统 安全巡检与隐患整改系统 会议任务跟踪与闭环系统 自定义业务台账、审批流程和管理看板 系统采用通用的 business-system-blueprint.json 业务蓝图进行配置，可根据不同电子档灵活定义数据实体、字段、页面、表单、角色权限、审批流程、统计指标、导入导出规则、审计策略和数据保留规则。 技能可连续完成电子档安全检查、结构分析、字段映射、系统生成、历史数据导入、自动测试和完整源码 ZIP 交付，不仅生成分析报告或静态演示页面。",
+      "downloads": "192k",
+      "installs": 0,
+      "stars": 10
+    },
+    {
+      "rank": 51,
+      "owner": "laoxi",
+      "repo": "ppt-craft-master",
+      "url": "https://skillhub.cn/skills/laoxi/ppt-craft-master",
+      "description": "PPT生成助手。不止\"做 PPT\"，而是以\"内容策略 + 视觉设计 + 叙事导演\"三位一体，产出有观点、有数据、有金句、排版精致、绝不溢出的演示文稿。内置页数→结构骨架、风格选择矩阵、设计令牌系统、28 种带图示版式库、金句弹药库、图文资产规范、动效纪律与 10 维终审评分卡。覆盖商务/教育/科技/医疗/金融/创意/政府等全行业，中英双语，支持模板或 AI 自动配色。触发词：做PPT、生成PPT、制作幻灯片、PPT 大纲、PPT 排版、演示文稿、演讲稿、create presentation、make ppt、帮我做个 PPT。",
+      "downloads": "37k",
+      "installs": 0,
+      "stars": 35
+    },
+    {
+      "rank": 52,
+      "owner": "user_f486c577",
+      "repo": "slides-maker",
+      "url": "https://skillhub.cn/skills/user_f486c577/slides-maker",
+      "description": "slide-maker：让 AI 真正\"做\"出一份能改的 PPT,而不是一张看起来像 PPT 的图。（更多模版和细节在 Github: https://github.com/addsumtech/slides_maker） - 📝 每一页都能改：纯原生文本框、形状、图表，双击就编辑，不是贴图 - 📚 先读懂,再动手：深读你的材料，一个数字都不编；每条论断带出处，网络信息追到一手来源才允许上页 - 🎭 交付前先过审：独立 AI 评审 + 确定性排版检查(溢出、对比度、中文排版)，审到点头才交给你 - 🎨 不套模板：按场合与受众定设计，18 种成套风格、AI 生成专属视觉(字体和组件跟着风格走)、图标与入场动画 - 🀄 中文排版认真做：字体配对、行距、中英文混排都有专门规则；出错还有白话排障 FAQ",
+      "downloads": "38k",
+      "installs": 0,
+      "stars": 22
+    },
+    {
+      "rank": 53,
+      "owner": "tencent-adm",
+      "repo": "agently-mail",
+      "url": "https://skillhub.cn/skills/tencent-adm/agently-mail",
+      "description": "Agently Mail 是 QQ 邮箱团队为 Agent 打造的专属邮箱服务，与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。 Agently Mail 支持微信登录授权、读取邮件、搜索邮件、发送邮件、回复、转发、移动到已删除、上传和下载附件。 Agently Mail 官网 https://agent.qq.com",
+      "downloads": "110k",
+      "installs": 0,
+      "stars": 79
+    },
+    {
+      "rank": 54,
       "owner": "user_a730098d",
       "repo": "android-apk-blackbox-hunt",
       "url": "https://skillhub.cn/skills/user_a730098d/android-apk-blackbox-hunt",
@@ -484,134 +544,74 @@
       "stars": 4
     },
     {
-      "rank": 49,
-      "owner": "tencent-adm",
-      "repo": "agently-mail",
-      "url": "https://skillhub.cn/skills/tencent-adm/agently-mail",
-      "description": "Agently Mail 是 QQ 邮箱团队为 Agent 打造的专属邮箱服务，与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。 Agently Mail 支持微信登录授权、读取邮件、搜索邮件、发送邮件、回复、转发、移动到已删除、上传和下载附件。 Agently Mail 官网 https://agent.qq.com",
-      "downloads": "108k",
-      "installs": 0,
-      "stars": 78
-    },
-    {
-      "rank": 50,
-      "owner": "user_f486c577",
-      "repo": "slides-maker",
-      "url": "https://skillhub.cn/skills/user_f486c577/slides-maker",
-      "description": "slide-maker：让 AI 真正\"做\"出一份能改的 PPT,而不是一张看起来像 PPT 的图。（更多模版和细节在 Github: https://github.com/addsumtech/slides_maker） - 📝 每一页都能改：纯原生文本框、形状、图表，双击就编辑，不是贴图 - 📚 先读懂,再动手：深读你的材料，一个数字都不编；每条论断带出处，网络信息追到一手来源才允许上页 - 🎭 交付前先过审：独立 AI 评审 + 确定性排版检查(溢出、对比度、中文排版)，审到点头才交给你 - 🎨 不套模板：按场合与受众定设计，18 种成套风格、AI 生成专属视觉(字体和组件跟着风格走)、图标与入场动画 - 🀄 中文排版认真做：字体配对、行距、中英文混排都有专门规则；出错还有白话排障 FAQ",
-      "downloads": "36.2k",
-      "installs": 0,
-      "stars": 22
-    },
-    {
-      "rank": 51,
-      "owner": "tencent-adm",
-      "repo": "westock-data",
-      "url": "https://skillhub.cn/skills/tencent-adm/westock-data",
-      "description": "金融市场结构化数据查询的权威入口。支持股票（A股/港股/美股）、ETF、指数、板块、期货、外汇、可转债的 K 线、技术指标、筹码、财报、研报、公告、风险事件、股东、分红、ETF 持仓、新股/投资日历、龙虎榜等数据查询(不同标的与市场支持的维度不同)；同时支持行业经营数据、申万行业估值/盈利预测/财务、全球宏观经济等数据查询；微信搜索\"腾讯微证券\"小程序，获取更多专业服务～",
-      "downloads": "30.9k",
-      "installs": 528,
-      "stars": 169
-    },
-    {
-      "rank": 52,
-      "owner": "showapi",
-      "repo": "software-architecture-diagram-generator-showapi",
-      "url": "https://skillhub.cn/skills/showapi/software-architecture-diagram-generator-showapi",
-      "description": "通过输入软件说明书或文本，自动深度解析架构意图，结构化抽取组件与层级，生成Mermaid架构代码，进行专业评审与补全，融合输出完整架构设计文档，并渲染高清架构图。适用于软件工程文档编写、架构评审、技术方案输出等场景。",
-      "downloads": "13.4k",
-      "installs": 0,
-      "stars": 0
-    },
-    {
-      "rank": 53,
-      "owner": "user_34343d1f",
-      "repo": "jiangai",
-      "url": "https://skillhub.cn/skills/user_34343d1f/jiangai",
-      "description": "五层爆破法和多轮迭代策略有效降AI率、去AI味，同时保留原意、事实准确性和逻辑完整性。给出优化结果同时输出改造日志和五项量化自评分，清晰可靠。",
-      "downloads": "41.8k",
-      "installs": 0,
-      "stars": 19
-    },
-    {
-      "rank": 54,
-      "owner": "davtime",
-      "repo": "qimaoxiaoshuoxiezuo",
-      "url": "https://skillhub.cn/skills/davtime/qimaoxiaoshuoxiezuo",
-      "description": "专为「七猫免费小说」平台优化的分章节网文创作助手，基于七猫平台特性与畅销榜实战优化设计|单章完整爽点闭环（欺-打-悬）、第1章即小爆点、章末强钩子、可分享金句、适合短剧化/改编的强对话强冲突，以及稳定日更万字的全勤友好产出。内置生产级质量保障：卷级章节规划、九维度审查（含七猫专属维度）、.learnings 连续性记忆系统、关键情节 Mermaid 图解，确保长篇不写偏、不穿帮、不重复。仅在用户明确指向七猫平台创作时触发：写七猫小说、七猫免费小说、七猫平台连载、按七猫风格写网文。对非七猫平台需求不要触发，改用对应流程。",
-      "downloads": "24.6k",
-      "installs": 0,
-      "stars": 21
-    },
-    {
       "rank": 55,
-      "owner": "tencent-adm",
-      "repo": "browserskill",
-      "url": "https://skillhub.cn/skills/tencent-adm/browserskill",
-      "description": "BrowserSkill 是腾讯开源的一个智能浏览器自动化工具，让 WorkBuddy 能够像人一样操作网页——自动填表、点击、翻页、截图，完成任何需要浏览器的复杂任务。",
-      "downloads": "10.7k",
-      "installs": 0,
-      "stars": 4
-    },
-    {
-      "rank": 56,
       "owner": "org-28ib33ph",
       "repo": "lingyi-wx-account-decomposer-paid",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-account-decomposer-paid",
       "description": "【零一数科·出品】视频号账号诊断与拆解（付费版）。对标爆款账号，抄一份起号模板——发我一个账号名，几分钟拿到一份完整拆解：粉丝画像、内容矩阵、逐条视频拆解、爆款公式、竞品对标、运营建议，照着他的爆款路径抄出你的起号模板。付费远端分析，输入账号名称即可。",
-      "downloads": "39.4k",
+      "downloads": "39k",
       "installs": 0,
       "stars": 8
     },
     {
-      "rank": 57,
-      "owner": "beatra-ai",
-      "repo": "music-generation-studio",
-      "url": "https://skillhub.cn/skills/beatra-ai/music-generation-studio",
-      "description": "从一个主题、一句歌词、一段画面或参考音频开始，用 AI音乐生成和 AI作曲制作原创歌曲、歌词成曲、纯音乐、BGM、视频配乐、品牌音乐、广告歌、播客片头、游戏音乐和多语言歌曲。这个 AI写歌工作室会先确定曲风、情绪、结构、可唱歌词、人声和编曲方向，再使用 Suno 5.5 或你明确选择的其他模型生成可试听音频。适合 AI写歌词、文字生成音乐、背景音乐生成、中文歌、双语歌曲、男女对唱和参考音频改编；生成后试听演唱、发音、时长、循环点和编曲效果，再集中优化最好的版本。",
-      "downloads": "13.1k",
-      "installs": 0,
-      "stars": 4
-    },
-    {
-      "rank": 58,
-      "owner": "davtime",
-      "repo": "xiaoshuopingfen",
-      "url": "https://skillhub.cn/skills/davtime/xiaoshuopingfen",
-      "description": "专业小说评分：基于 6 维度（情节、人物、文笔、世界观、情感、创新）对小说文本进行量化评分与结构化简评。当用户需要评估小说质量、给作品打分、审查网文/短篇/长篇质量、或获取专业写作反馈时使用。",
-      "downloads": "5.9k",
-      "installs": 0,
-      "stars": 8
-    },
-    {
-      "rank": 59,
-      "owner": "laoxi",
-      "repo": "stock-value-invest",
-      "url": "https://skillhub.cn/skills/laoxi/stock-value-invest",
-      "description": "一个\"能算、能查、还能把脉\"的价值投资分析助手。融合邱国鹭《投资中最简单的事》\"三好原则\"(好行业/好公司/好价格)、帕特·多尔西《股市真规则》护城河框架、安全边际思想，叠加一套可复现的量化硬模型(反向DCF/EPV/情景加权/杜邦/ROIC-WACC/Piotroski F-Score/Beneish M-Score/Altman Z-Score/盈余质量/时间序列)，并可选接入巴菲特·芒格·段永平三大师视角会诊。覆盖 A股/港股/美股。量化定边界，定性定方向，两层都过才算数。Use when user needs to (1) 系统分析一只股票是否值得价值投资 (2) 评估行业格局/护城河/定价权 (3) 用 DCF 或反向 DCF 判断当前价格贵不贵 (4) 检查财务质量与造假/破产风险 (5) 计算安全边际与买卖区间 (6) 用巴菲特芒格段永平视角把脉一家公司。",
-      "downloads": "24.9k",
-      "installs": 0,
-      "stars": 17
-    },
-    {
-      "rank": 60,
-      "owner": "davtime",
-      "repo": "omni-content-matrix",
-      "url": "https://skillhub.cn/skills/davtime/omni-content-matrix",
-      "description": "一人公司/个人创作者全平台内容矩阵。Use when the user asks for 自媒体矩阵、多平台分发、内容日历、一周作战计划、选题评分、账号定位、平台选择、一源多发、内容拆解、标题改写、竞品对标、数据复盘、涨粉诊断、变现路径、私域引流、商单/知识付费/带货 planning, or wants to turn one core idea/article/video into an executable weekly content plan across B站、知乎、小红书、视频号、公众号、抖音、微博、快手、今日头条、西瓜视频、百家号、豆瓣.",
-      "downloads": "13.3k",
-      "installs": 0,
-      "stars": 14
-    },
-    {
-      "rank": 61,
+      "rank": 56,
       "owner": "davtime",
       "repo": "weixingongzhonghaochuangzuo",
       "url": "https://skillhub.cn/skills/davtime/weixingongzhonghaochuangzuo",
       "description": "微信公众号创作专家：把选题洞察、素材研读、事实核验、原创写作、内容再创作、视觉策划、移动排版、交付质检组织为一套连续的内容生产工作流。内置推断纪律、事实账本、20 种写作风格、财经垂直专题、去 AI 味规范、原创性自检与合规红线。适用于写公众号文章、公众号排版、改写已有稿件、做封面配图方案、通过原创性自检等场景。",
-      "downloads": "6.3k",
+      "downloads": "7.9k",
+      "installs": 0,
+      "stars": 9
+    },
+    {
+      "rank": 57,
+      "owner": "davtime",
+      "repo": "omni-content-matrix",
+      "url": "https://skillhub.cn/skills/davtime/omni-content-matrix",
+      "description": "一人公司/个人创作者全平台内容矩阵。Use when the user asks for 自媒体矩阵、多平台分发、内容日历、一周作战计划、选题评分、账号定位、平台选择、一源多发、内容拆解、标题改写、竞品对标、数据复盘、涨粉诊断、变现路径、私域引流、商单/知识付费/带货 planning, or wants to turn one core idea/article/video into an executable weekly content plan across B站、知乎、小红书、视频号、公众号、抖音、微博、快手、今日头条、西瓜视频、百家号、豆瓣.",
+      "downloads": "15k",
+      "installs": 0,
+      "stars": 14
+    },
+    {
+      "rank": 58,
+      "owner": "davtime",
+      "repo": "public-document-layout-master",
+      "url": "https://skillhub.cn/skills/davtime/public-document-layout-master",
+      "description": "面向党政机关及政务办公场景的公文智能排版 Skill。支持新建、重排、校验、修复 DOCX，覆盖标准公文、红头文件、信函、命令、纪要、通知、请示、报告、函、批复、通报、决定、意见、公告、通告、议案以及汇报材料、讲话材料、会议材料等多种场景；自动识别内容层级、保留表格与图片、按版式配置生成 Word，并在输出前执行版面与结构质量检查。",
+      "downloads": "13k",
+      "installs": 0,
+      "stars": 13
+    },
+    {
+      "rank": 59,
+      "owner": "davtime",
+      "repo": "qimaoxiaoshuoxiezuo",
+      "url": "https://skillhub.cn/skills/davtime/qimaoxiaoshuoxiezuo",
+      "description": "专为「七猫免费小说」平台优化的分章节网文创作助手，基于七猫平台特性与畅销榜实战优化设计|单章完整爽点闭环（欺-打-悬）、第1章即小爆点、章末强钩子、可分享金句、适合短剧化/改编的强对话强冲突，以及稳定日更万字的全勤友好产出。内置生产级质量保障：卷级章节规划、九维度审查（含七猫专属维度）、.learnings 连续性记忆系统、关键情节 Mermaid 图解，确保长篇不写偏、不穿帮、不重复。仅在用户明确指向七猫平台创作时触发：写七猫小说、七猫免费小说、七猫平台连载、按七猫风格写网文。对非七猫平台需求不要触发，改用对应流程。",
+      "downloads": "26k",
+      "installs": 0,
+      "stars": 21
+    },
+    {
+      "rank": 60,
+      "owner": "davtime",
+      "repo": "xiaoshuopingfen",
+      "url": "https://skillhub.cn/skills/davtime/xiaoshuopingfen",
+      "description": "专业小说评分：基于 6 维度（情节、人物、文笔、世界观、情感、创新）对小说文本进行量化评分与结构化简评。当用户需要评估小说质量、给作品打分、审查网文/短篇/长篇质量、或获取专业写作反馈时使用。",
+      "downloads": "7.5k",
       "installs": 0,
       "stars": 8
+    },
+    {
+      "rank": 61,
+      "owner": "laoxi",
+      "repo": "stock-value-invest",
+      "url": "https://skillhub.cn/skills/laoxi/stock-value-invest",
+      "description": "一个\"能算、能查、还能把脉\"的价值投资分析助手。融合邱国鹭《投资中最简单的事》\"三好原则\"(好行业/好公司/好价格)、帕特·多尔西《股市真规则》护城河框架、安全边际思想，叠加一套可复现的量化硬模型(反向DCF/EPV/情景加权/杜邦/ROIC-WACC/Piotroski F-Score/Beneish M-Score/Altman Z-Score/盈余质量/时间序列)，并可选接入巴菲特·芒格·段永平三大师视角会诊。覆盖 A股/港股/美股。量化定边界，定性定方向，两层都过才算数。Use when user needs to (1) 系统分析一只股票是否值得价值投资 (2) 评估行业格局/护城河/定价权 (3) 用 DCF 或反向 DCF 判断当前价格贵不贵 (4) 检查财务质量与造假/破产风险 (5) 计算安全边际与买卖区间 (6) 用巴菲特芒格段永平视角把脉一家公司。",
+      "downloads": "26k",
+      "installs": 0,
+      "stars": 17
     },
     {
       "rank": 62,
@@ -619,339 +619,339 @@
       "repo": "fanqiexiaoshuoxiezuo",
       "url": "https://skillhub.cn/skills/laoxi/fanqiexiaoshuoxiezuo",
       "description": "专为「番茄小说」平台优化的网文创作助手。支持各题材，单部 10-200 章，结尾悬念钩子，强化情绪拉扯/爆点分布，深度润色去 AI 味。爽文长篇的连续性工程与番茄平台数据化写法。仅在用户明确指向番茄小说创作、创作网文、分章节写作、连续剧情、章节悬念、长篇小说时使用。对非番茄平台需求（晋江/起点/公众号/通用小说创作）不触发。",
-      "downloads": "30.8k",
+      "downloads": "33k",
       "installs": 0,
       "stars": 37
     },
     {
       "rank": 63,
-      "owner": "beatra-ai",
-      "repo": "voice-cloning-studio",
-      "url": "https://skillhub.cn/skills/beatra-ai/voice-cloning-studio",
-      "description": "这是一个 AI 声音克隆工作室和声音克隆工具，可用单人清晰语音样本完成 AI 声音克隆、语音克隆和自定义 AI 声音制作，创建可反复使用的个人专属音色或品牌声音。适合克隆自己的声音、从样本制作音色，并用于旁白、课程、产品故事、客户通知、系列内容和品牌声音；创建前查看样本质量、音色名称与当前费用，成功后用短句完成声音克隆试听。",
-      "downloads": "14.1k",
-      "installs": 0,
-      "stars": 6
-    },
-    {
-      "rank": 64,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-daily-hot-topic",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-daily-hot-topic",
-      "description": "【零一数科·出品】：每日热点选题——每天获取抖音、小红书等平台今日热榜，结合你指定行业/品牌关键词，匹配出可跟进的热点选题（含切入角度、文案方向、形式建议、风险提示、排期建议），把当天热点跟你产品结合出选题，一键出 Markdown 日报。热门搜索词：小红书热点、抖音热点、今日热搜、蹭热点、热点选题、追热点。触发词：热点日报、今日热点、热点选题、热点追踪、社媒热点。",
-      "downloads": "32.3k",
-      "installs": 0,
-      "stars": 9
-    },
-    {
-      "rank": 65,
-      "owner": "davtime",
-      "repo": "biaoshuzhizuoshengchengshenchachachong",
-      "url": "https://skillhub.cn/skills/davtime/biaoshuzhizuoshengchengshenchachachong",
-      "description": "招投标标书全流程辅助|既能按货物采购/服务项目/工程施工三大行业生成完整投标文件，内置废标风险自查；又能在生成后做雷同/围串标风险初筛，输出含风险等级与定位的结构化检测报告。覆盖\"制作→自查\"闭环。",
-      "downloads": "13.0k",
-      "installs": 0,
-      "stars": 14
-    },
-    {
-      "rank": 66,
-      "owner": "davtime",
-      "repo": "public-document-layout-master",
-      "url": "https://skillhub.cn/skills/davtime/public-document-layout-master",
-      "description": "面向党政机关及政务办公场景的公文智能排版 Skill。支持新建、重排、校验、修复 DOCX，覆盖标准公文、红头文件、信函、命令、纪要、通知、请示、报告、函、批复、通报、决定、意见、公告、通告、议案以及汇报材料、讲话材料、会议材料等多种场景；自动识别内容层级、保留表格与图片、按版式配置生成 Word，并在输出前执行版面与结构质量检查。",
-      "downloads": "11.4k",
-      "installs": 0,
-      "stars": 13
-    },
-    {
-      "rank": 67,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-creator-filter",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-creator-filter",
-      "description": "【零一数科·出品】视频号达人筛选（付费版）。找了好几个达人想合作，但到底哪个真能带得动你的货？挑错人 = 白花钱还没转化。把产品和候选达人发给我，AI 逐个深扒每位达人的受众画像、内容调性、转化潜力，按六维评分排推荐名次，直接告诉你首选跟谁合作、为什么他最合适——再也不用凭感觉选人。报告含推荐排名、六维匹配评分、首选达人合作方案、受众画像与代表视频。触发词：视频号达人筛选、视频号达人匹配、达人筛选、达人匹配、带货达人筛选、达人带货、达人带货筛选、哪个达人适合带货、KOL筛选、达人对比、达人推荐、达人投放、视频号达人、达人数据分析、找达人、选达人、达人合作、creator match。",
-      "downloads": "29.4k",
-      "installs": 0,
-      "stars": 4
-    },
-    {
-      "rank": 68,
-      "owner": "user_814dbe54",
-      "repo": "wps-office-suite",
-      "url": "https://skillhub.cn/skills/user_814dbe54/wps-office-suite",
-      "description": "WPS Office 全家桶 - 四引擎（WPS/MS Office/LibreOffice/纯Python）智能识别用户已安装软件，纯Python模式支持排序/筛选/图表/公式/统计，含文档模板（代码生成）、最佳实践案例、故障排除大章（20+避坑+15 FAQ+15错误ID 统一索引）、自动重试、硬件自适应、环境自检、Skill更新提醒；v5.0新增：定时任务注册管理（schtasks/crontab）、目录轮询监听（YAML规则+大文件分片）、使用统计与稳定性中心（SQLite埋点+引擎健康+引擎偏好）、COM三步自愈（regsvr32→修复安装→手动指引）、对话式数据查询（NL2SQL式意图解析+查询计划+连续追问）、multi-agent编排引擎桥接（白名单探测+流水线模板注册）",
-      "downloads": "6.4k",
-      "installs": 0,
-      "stars": 0
-    },
-    {
-      "rank": 69,
       "owner": "davtime",
       "repo": "zhongguozhuanli-zhuanxiecailiaojiedushenchazhengce",
       "url": "https://skillhub.cn/skills/davtime/zhongguozhuanli-zhuanxiecailiaojiedushenchazhengce",
       "description": "交底书撰写、软件著作权材料、专利通俗解读、多Agent并行审查、审查答复RAG、政策动向嗅探，组成完整专利工作链。当用户需要写专利交底书、申请软著、读懂专利、审查专利申请文件、答复审查意见、追踪政策动向时使用。",
-      "downloads": "19.8k",
+      "downloads": "21k",
       "installs": 0,
       "stars": 16
     },
     {
-      "rank": 70,
-      "owner": "user_814dbe54",
-      "repo": "wechat-cli",
-      "url": "https://skillhub.cn/skills/user_814dbe54/wechat-cli",
-      "description": "通过 wechat-cli 读取和分析微信聊天记录。当用户想查看、搜索、导出或分析微信消息、联系人、收藏时调用此技能。",
-      "downloads": "7.2k",
+      "rank": 64,
+      "owner": "showapi",
+      "repo": "software-architecture-diagram-generator-showapi",
+      "url": "https://skillhub.cn/skills/showapi/software-architecture-diagram-generator-showapi",
+      "description": "通过输入软件说明书或文本，自动深度解析架构意图，结构化抽取组件与层级，生成Mermaid架构代码，进行专业评审与补全，融合输出完整架构设计文档，并渲染高清架构图。适用于软件工程文档编写、架构评审、技术方案输出等场景。",
+      "downloads": "14k",
       "installs": 0,
       "stars": 1
     },
     {
-      "rank": 71,
-      "owner": "org-32m5yxyy",
-      "repo": "zlbx-bidding-payskill",
-      "url": "https://skillhub.cn/skills/org-32m5yxyy/zlbx-bidding-payskill",
-      "description": "全网招中标数据查询与分析助手。当用户涉及以下任何场景时，必须使用此SKILL：查询招标/中标公告、搜索标讯、查找临期/即将到期项目、商机预测、推荐潜在投标供应商、分析公司主营业务/历史中标、查询公司上下游合作客户与供应商、分析竞争对手/竞对企业、查询Top采购单位/Top中标单位/Top中标品牌、招中标数据统计分析、查询品牌型号历史中标单价/价格趋势、市场分析/行业分析/采购寻源/渠道拓展等采购与投标相关场景。即使用户没有提到「知了标讯」，只要涉及招投标、采购、中标、供应商、竞争对手等关键词，都应使用本SKILL。新设备通常可获赠 100 积分免费额度（每日限量，发完为止），直接提问即可使用；额度用完后通过微信支付购买次数包，余额按设备保存、换对话继续有效，全程无需注册或配置 API Key。",
-      "downloads": "13.0k",
+      "rank": 65,
+      "owner": "user_09cf1a59",
+      "repo": "paper-deweight-fd",
+      "url": "https://skillhub.cn/skills/user_09cf1a59/paper-deweight-fd",
+      "description": "论文降重工具。用于降低论文重复率和 AIGC 检测率，通过同义词替换、句式变换、文献综述模板等方法对论文进行改写降重。当用户需要修改论文、降低查重率、改写文献综述、去除 AI 痕迹、改百科定义时使用。仅提供降重改写功能，不具备查重检测能力。",
+      "downloads": "11k",
       "installs": 0,
-      "stars": 10
+      "stars": 7
     },
     {
-      "rank": 72,
-      "owner": "user_bddf3fe6",
-      "repo": "contextweave-interactive-architecture",
-      "url": "https://skillhub.cn/skills/user_bddf3fe6/contextweave-interactive-architecture",
-      "description": "使用 ContextWeave 生成或修改架构图、流程图、思维导图和复杂信息图。适用于需要从代码、文件或自然语言中提取结构与关系并实际产出 CW、SVG、HTML、可编辑 PPTX 或原生 VSDX 的请求；未特别说明时，PPTX 与 Visio 使用原生形状和连接器导出。不适用于统计图表、手绘插画或像素级排版。",
-      "downloads": "203k",
-      "installs": 239,
-      "stars": 215
+      "rank": 66,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-daily-hot-topic",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-daily-hot-topic",
+      "description": "【零一数科·出品】：每日热点选题——每天获取抖音、小红书等平台今日热榜，结合你指定行业/品牌关键词，匹配出可跟进的热点选题（含切入角度、文案方向、形式建议、风险提示、排期建议），把当天热点跟你产品结合出选题，一键出 Markdown 日报。热门搜索词：小红书热点、抖音热点、今日热搜、蹭热点、热点选题、追热点。触发词：热点日报、今日热点、热点选题、热点追踪、社媒热点。",
+      "downloads": "32k",
+      "installs": 0,
+      "stars": 9
     },
     {
-      "rank": 73,
+      "rank": 67,
+      "owner": "davtime",
+      "repo": "biaoshuzhizuoshengchengshenchachachong",
+      "url": "https://skillhub.cn/skills/davtime/biaoshuzhizuoshengchengshenchachachong",
+      "description": "招投标标书全流程辅助|既能按货物采购/服务项目/工程施工三大行业生成完整投标文件，内置废标风险自查；又能在生成后做雷同/围串标风险初筛，输出含风险等级与定位的结构化检测报告。覆盖\"制作→自查\"闭环。",
+      "downloads": "15k",
+      "installs": 0,
+      "stars": 15
+    },
+    {
+      "rank": 68,
+      "owner": "user_34343d1f",
+      "repo": "jiangai",
+      "url": "https://skillhub.cn/skills/user_34343d1f/jiangai",
+      "description": "五层爆破法和多轮迭代策略有效降AI率、去AI味，同时保留原意、事实准确性和逻辑完整性。给出优化结果同时输出改造日志和五项量化自评分，清晰可靠。",
+      "downloads": "42k",
+      "installs": 0,
+      "stars": 19
+    },
+    {
+      "rank": 69,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-creator-filter",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-creator-filter",
+      "description": "【零一数科·出品】视频号达人筛选（付费版）。找了好几个达人想合作，但到底哪个真能带得动你的货？挑错人 = 白花钱还没转化。把产品和候选达人发给我，AI 逐个深扒每位达人的受众画像、内容调性、转化潜力，按六维评分排推荐名次，直接告诉你首选跟谁合作、为什么他最合适——再也不用凭感觉选人。报告含推荐排名、六维匹配评分、首选达人合作方案、受众画像与代表视频。触发词：视频号达人筛选、视频号达人匹配、达人筛选、达人匹配、带货达人筛选、达人带货、达人带货筛选、哪个达人适合带货、KOL筛选、达人对比、达人推荐、达人投放、视频号达人、达人数据分析、找达人、选达人、达人合作、creator match。",
+      "downloads": "29k",
+      "installs": 0,
+      "stars": 4
+    },
+    {
+      "rank": 70,
+      "owner": "user_98035bfb",
+      "repo": "zlbx-bidding",
+      "url": "https://skillhub.cn/skills/user_98035bfb/zlbx-bidding",
+      "description": "全网招中标数据查询与分析助手。当用户涉及以下任何场景时，必须使用此SKILL：查询招标/中标公告、搜索标讯、查找临期/即将到期项目、商机预测、推荐潜在投标供应商、分析公司主营业务/历史中标、查询公司上下游合作客户与供应商、分析竞争对手/竞对企业、查询Top采购单位/Top中标单位/Top中标品牌、招中标数据统计分析（按月/季/年/省份/品牌等维度）、查询品牌型号历史中标单价/价格趋势、市场分析/行业分析/采购寻源/渠道拓展等采购与投标相关场景。即使用户没有提到「知了标讯」，只要涉及招投标、采购、中标、供应商、竞争对手等关键词，都应使用本SKILL。",
+      "downloads": "15k",
+      "installs": 212,
+      "stars": 12
+    },
+    {
+      "rank": 71,
       "owner": "laoxi",
       "repo": "stock-theme-radar",
       "url": "https://skillhub.cn/skills/laoxi/stock-theme-radar",
       "description": "输入一个题材名称或一条新闻/事件/截图，自动识别模式并输出结构化结果：给题材出「追踪卡」（定义/驱动/关联标的/来源/动态/建议），给事件出「映射表」（事件→题材→个股，带关联概率、时间维度与证据强度）。全程区分硬逻辑与题材炒作，覆盖 A 股，支持港股/美股题材。所有关键事实标注来源类型，不臆造数据，不构成投资建议。",
-      "downloads": "20.7k",
+      "downloads": "22k",
       "installs": 0,
       "stars": 14
     },
     {
-      "rank": 74,
+      "rank": 72,
       "owner": "org-28ib33ph",
       "repo": "lingyi-wx-account-quick-analysis",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-account-quick-analysis",
       "description": "【零一数科·出品】：微信视频号账号拆解（轻量版）。发一个视频号账号名，几分钟拿到一份账号快拆报告——账号总览/受众画像/内容矩阵/爆款公式/对标竞品/运营建议，照着爆款路径抄起号模板。触发词：视频号账号快拆、账号快拆、快速拆解视频号账号、快拆账号。",
-      "downloads": "27.7k",
+      "downloads": "28k",
+      "installs": 0,
+      "stars": 5
+    },
+    {
+      "rank": 73,
+      "owner": "org-32m5yxyy",
+      "repo": "zlbx-bidding-payskill",
+      "url": "https://skillhub.cn/skills/org-32m5yxyy/zlbx-bidding-payskill",
+      "description": "全网招中标数据查询与分析助手。当用户涉及以下任何场景时，必须使用此SKILL：查询招标/中标公告、搜索标讯、查找临期/即将到期项目、商机预测、推荐潜在投标供应商、分析公司主营业务/历史中标、查询公司上下游合作客户与供应商、分析竞争对手/竞对企业、查询Top采购单位/Top中标单位/Top中标品牌、招中标数据统计分析、查询品牌型号历史中标单价/价格趋势、市场分析/行业分析/采购寻源/渠道拓展等采购与投标相关场景。即使用户没有提到「知了标讯」，只要涉及招投标、采购、中标、供应商、竞争对手等关键词，都应使用本SKILL。新设备通常可获赠 100 积分免费额度（每日限量，发完为止），直接提问即可使用；额度用完后通过微信支付购买次数包，余额按设备保存、换对话继续有效，全程无需注册或配置 API Key。",
+      "downloads": "14k",
+      "installs": 0,
+      "stars": 10
+    },
+    {
+      "rank": 74,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-wx-video-oral-seeding-script-plus",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-video-oral-seeding-script-plus",
+      "description": "【零一数科·出品】视频号口播种草脚本生成。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的口播种草脚本，或按方向/目的/商品原创多条口播种草脚本（含分段表、口播全文、六维质检评分）。",
+      "downloads": "26k",
       "installs": 0,
       "stars": 5
     },
     {
       "rank": 75,
+      "owner": "org-32m5yxyy",
+      "repo": "zhiliao-official-tender-assistant",
+      "url": "https://skillhub.cn/skills/org-32m5yxyy/zhiliao-official-tender-assistant",
+      "description": "知了标讯官方招投标数据助手，覆盖招标公告与中标结果查询、企业工商与招中标画像、竞争对手分析、市场趋势统计、Top采购/中标单位与品牌、历史中标价格、临期项目商机挖掘等。当用户涉及招投标、政府采购、中标查询、供应商/竞对分析、采购市场研究等任何场景时，必须使用此SKILL；即使未出现「招投标」字样，只要涉及中标、采购、供应商、竞对、市场份额等需求均应使用。",
+      "downloads": "11k",
+      "installs": 0,
+      "stars": 9
+    },
+    {
+      "rank": 76,
+      "owner": "user_290ac21c",
+      "repo": "find-skill-skillhub",
+      "url": "https://skillhub.cn/skills/user_290ac21c/find-skill-skillhub",
+      "description": "在 SkillHub 平台查找/搜索 Skill 技能。基于 skills 列表接口，支持关键词分词搜索、一级标签（一级分类）筛选、以及二者组合检索。当用户说『找个 xxx 技能』『有没有处理 PDF 的 skill』『SkillHub 上搜一下 xxx』『按分类看技能』『办公效率类有哪些技能』『推荐一个做数据分析的 skill』『这个需求有现成技能吗』等需要在 SkillHub 上发现/检索/推荐 Skill 的场景时使用本技能。",
+      "downloads": "78k",
+      "installs": 0,
+      "stars": 229
+    },
+    {
+      "rank": 77,
       "owner": "org-28ib33ph",
       "repo": "lingyi-forbidden-word-detect-optimize",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-forbidden-word-detect-optimize",
       "description": "【零一数科·出品】违禁词检测+优化（付费版）。把一份待发布文案按「法规合规层→平台规则层→内容质量层」三层结构做发布前质检，逐条问题用三栏对照（违规原句位置→违反条款→合规改法建议）+风险分级，给质检结论与修改记录。适用于违禁词检测+优化、内容审核、违禁词检测、发布前合规检查、新媒体文案合规、广告法自查、平台限流词排查。",
-      "downloads": "25.0k",
+      "downloads": "25k",
       "installs": 0,
       "stars": 1
     },
     {
-      "rank": 76,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-live-script-creation",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-live-script-creation",
-      "description": "【零一数科·出品】直播脚本创作（免费版）。从带货品类/主题产出一整套可落地执行的直播脚本四件套——整场节奏脚本表、单品讲解话术表、话术分类库、合规约束清单。适用于直播脚本创作、带货话术、直播流程设计、直播间互动设计、逼单话术、主播口播稿、直播脚本模板。",
-      "downloads": "23.1k",
-      "installs": 0,
-      "stars": 4
-    },
-    {
-      "rank": 77,
-      "owner": "showapi",
-      "repo": "city-weather-poster-generator-showapi",
-      "url": "https://skillhub.cn/skills/showapi/city-weather-poster-generator-showapi",
-      "description": "根据用户输入的城市或景点，自动识别准确省市，查询实时天气，提炼城市地标并设计构图，融合天气、地标、日期及指定风格生成专业提示词，最终生成精美的城市天气宣传画报；适用于旅游宣传、城市文化推广、每日天气海报制作场景",
-      "downloads": "9.6k",
-      "installs": 0,
-      "stars": 0
-    },
-    {
       "rank": 78,
-      "owner": "user_3b34947d",
-      "repo": "ppt-generator-skill",
-      "url": "https://skillhub.cn/skills/user_3b34947d/ppt-generator-skill",
-      "description": "智能 PPT 生成助手。根据用户描述的主题、行业、风格，自动生成漂亮的 PPT 文件。支持所有行业（商务、教育、科技、医疗、金融、创意等），支持中英文双语，支持用户提供的模板或 AI 自动配色。触发词：做PPT、生成PPT、制作幻灯片、make ppt、create presentation、帮我做个PPT。",
-      "downloads": "95.3k",
-      "installs": 1378,
-      "stars": 273
-    },
-    {
-      "rank": 79,
-      "owner": "user_09cf1a59",
-      "repo": "paper-deweight-fd",
-      "url": "https://skillhub.cn/skills/user_09cf1a59/paper-deweight-fd",
-      "description": "论文降重工具。用于降低论文重复率和 AIGC 检测率，通过同义词替换、句式变换、文献综述模板等方法对论文进行改写降重。当用户需要修改论文、降低查重率、改写文献综述、去除 AI 痕迹、改百科定义时使用。仅提供降重改写功能，不具备查重检测能力。",
-      "downloads": "10.6k",
-      "installs": 0,
-      "stars": 6
-    },
-    {
-      "rank": 80,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-wx-video-oral-seeding-script-plus",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-video-oral-seeding-script-plus",
-      "description": "【零一数科·出品】视频号口播种草脚本生成。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的口播种草脚本，或按方向/目的/商品原创多条口播种草脚本（含分段表、口播全文、六维质检评分）。",
-      "downloads": "26.3k",
-      "installs": 0,
-      "stars": 5
-    },
-    {
-      "rank": 81,
-      "owner": "user_9d5a2a39",
-      "repo": "cnfinancialscraper",
-      "url": "https://skillhub.cn/skills/user_9d5a2a39/cnfinancialscraper",
-      "description": "中国金融机构数据爬取与分析综合 Skill v7.7.0。全量机构名单（2334家，43大类）、 全网舆情（4 类 60+ 商业财经媒体源 + RSS 直连 + akshare 兜底）、A股报告/公告/研报、 结构化市场数据（期货/宏观/Shibor/港股美股）、深度类人浏览器爬取、真实风险指标分析、 定期报告解读（财报自动解读/同比环比/亮点风险/评分评级）。 🆕 v7.7.0 四模块优化：爬取自适应（早停/降并发/死域跳过+耗时统计）、知识库语音指令接线、 下载断点续传+sha256 校验+并发批量、分析指标扩展（Sortino/胜率）与 nav_trend_analysis 趋势分析。 v7.6.0（承接）知识库总结同步（IMA/Dify/Obsidian/本地）与反向校对；v7.5.0（承接）编码检测链/下载加固/SSL 降级。 v7.3.0（承接）：机构名单完善、智能多级爬取、网页内容识别、数据分析汇总、语音交互。 v7.2.0 爬取硬化（承接）：软拦截检测接线、Retry-After 遵从、URL 去重器（跨进程持久化）。 v7.1.0 定期报告解读（承接）：财报自动解读，纯规则零依赖。 v7.0.0（承接）：机构名单完成、网络拦截 API 挖掘、操作宏录制回放、异步并发标签池。 v6.0.0（承接）：数据源商业化、浏览器深度类人化、真实 PDF/HTML 报告导出、zip 增量打包。 触发词：爬取机构、舆情爬取、全网舆情、网页爬取、智能爬取、内容识别、表格识别、 汇总分析、语音交互、语音爬取、公告下载、券商研报、批量爬取、定时爬取、文档分析、 东方财富、龙虎榜、北向资金、监管动态、搜索引擎、网页归档、类人爬取、数据回测、 结构化数据、期货、宏观经济、港股美股、风险指标、组合复刻、夏普比率等（完整触发词见下方 auto_trigger）。",
-      "downloads": "104k",
-      "installs": 0,
-      "stars": 218
-    },
-    {
-      "rank": 82,
       "owner": "davtime",
       "repo": "xiaoshuozhuantuiwenfenjing",
       "url": "https://skillhub.cn/skills/davtime/xiaoshuozhuantuiwenfenjing",
       "description": "把小说原文改写成短视频推文（标题+人物卡+场景卡+口播叙事+分镜脚本），内置爆点节奏、合规红线、多平台适配与系列化支持。",
-      "downloads": "10.0k",
+      "downloads": "11k",
       "installs": 0,
       "stars": 8
     },
     {
-      "rank": 83,
-      "owner": "user_73de2035",
-      "repo": "workbuddy-guide",
-      "url": "https://skillhub.cn/skills/user_73de2035/workbuddy-guide",
-      "description": "WorkBuddy 全功能指南与排障手册（适配 5.5.1）。用户问怎么用/怎么配/连不上/报错、按角色 HR/开发/运营求推荐，或问人机双写、资料库/团队空间/轻量发布、设计创意/Ardot/3D模型、多端同步/锁屏远程、灵感/一键做同款、行业Buddy/图片处理/视频生成、个人网站/D2C/备课等场景实战时触发。内置错误速查、59条FAQ、角色路线图与诊断脚本，新手45分钟上手，边界不清先反问",
-      "downloads": "59.5k",
+      "rank": 79,
+      "owner": "user_98035bfb",
+      "repo": "tender-search",
+      "url": "https://skillhub.cn/skills/user_98035bfb/tender-search",
+      "description": "全网招中标数据查询与分析助手。当用户涉及以下任何场景时，必须使用此SKILL：查询招标/中标公告、搜索标讯、查找临期/即将到期项目、商机预测、推荐潜在投标供应商、分析公司主营业务/历史中标、查询公司上下游合作客户与供应商、分析竞争对手/竞对企业、查询Top采购单位/Top中标单位/Top中标品牌、招中标数据统计分析（按月/季/年/省份/品牌等维度）、查询品牌型号历史中标单价/价格趋势、市场分析/行业分析/采购寻源/渠道拓展等采购与投标相关场景。即使用户没有提到「知了标讯」，只要涉及招投标、采购、中标、供应商、竞争对手等关键词，都应使用本SKILL。",
+      "downloads": "14k",
       "installs": 0,
-      "stars": 54
+      "stars": 13
+    },
+    {
+      "rank": 80,
+      "owner": "user_3b34947d",
+      "repo": "ppt-generator-skill",
+      "url": "https://skillhub.cn/skills/user_3b34947d/ppt-generator-skill",
+      "description": "智能 PPT 生成助手。根据用户描述的主题、行业、风格，自动生成漂亮的 PPT 文件。支持所有行业（商务、教育、科技、医疗、金融、创意等），支持中英文双语，支持用户提供的模板或 AI 自动配色。触发词：做PPT、生成PPT、制作幻灯片、make ppt、create presentation、帮我做个PPT。",
+      "downloads": "96k",
+      "installs": 1378,
+      "stars": 277
+    },
+    {
+      "rank": 81,
+      "owner": "user_814dbe54",
+      "repo": "wps-office-suite",
+      "url": "https://skillhub.cn/skills/user_814dbe54/wps-office-suite",
+      "description": "WPS Office 全家桶 - 四引擎（WPS/MS Office/LibreOffice/纯Python）智能识别用户已安装软件，纯Python模式支持排序/筛选/图表/公式/统计，含文档模板（代码生成）、最佳实践案例、故障排除大章（20+避坑+15 FAQ+15错误ID 统一索引）、自动重试、硬件自适应、环境自检、Skill更新提醒；v5.0新增：定时任务注册管理（schtasks/crontab）、目录轮询监听（YAML规则+大文件分片）、使用统计与稳定性中心（SQLite埋点+引擎健康+引擎偏好）、COM三步自愈（regsvr32→修复安装→手动指引）、对话式数据查询（NL2SQL式意图解析+查询计划+连续追问）、multi-agent编排引擎桥接（白名单探测+流水线模板注册）",
+      "downloads": "7.4k",
+      "installs": 0,
+      "stars": 0
+    },
+    {
+      "rank": 82,
+      "owner": "user_bddf3fe6",
+      "repo": "contextweave-interactive-architecture",
+      "url": "https://skillhub.cn/skills/user_bddf3fe6/contextweave-interactive-architecture",
+      "description": "使用 ContextWeave 生成或修改架构图、流程图、思维导图和复杂信息图。适用于需要从代码、文件或自然语言中提取结构与关系并实际产出 CW、SVG、HTML、可编辑 PPTX 或原生 VSDX 的请求；未特别说明时，PPTX 与 Visio 使用原生形状和连接器导出。不适用于统计图表、手绘插画或像素级排版。",
+      "downloads": "205k",
+      "installs": 239,
+      "stars": 218
+    },
+    {
+      "rank": 83,
+      "owner": "davtime",
+      "repo": "xiaoshuojubenzhuanfenjing",
+      "url": "https://skillhub.cn/skills/davtime/xiaoshuojubenzhuanfenjing",
+      "description": "小说转剧本、剧本转分镜、小说直转分镜，组成「小说→剧本→分镜」完整链路。当用户需要把小说改成剧本、写出分镜脚本、拆解小说镜头、生成角色人设卡与 AI 绘图提示词时使用。",
+      "downloads": "12k",
+      "installs": 0,
+      "stars": 18
     },
     {
       "rank": 84,
-      "owner": "davtime",
-      "repo": "wechat-official-account-typesetting-master",
-      "url": "https://skillhub.cn/skills/davtime/wechat-official-account-typesetting-master",
-      "description": "微信公众号全域排版与内容视觉整理 Skill。将 Markdown、纯文本或已有文章稿件整理为可复制到公众号的微信兼容 HTML，并提供语义结构优化、主题推荐、组件化卡片、图片与链接处理、预览、排版诊断和发布前校验。",
-      "downloads": "11.2k",
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-live-script-creation",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-live-script-creation",
+      "description": "【零一数科·出品】直播脚本创作（免费版）。从带货品类/主题产出一整套可落地执行的直播脚本四件套——整场节奏脚本表、单品讲解话术表、话术分类库、合规约束清单。适用于直播脚本创作、带货话术、直播流程设计、直播间互动设计、逼单话术、主播口播稿、直播脚本模板。",
+      "downloads": "23k",
       "installs": 0,
-      "stars": 12
+      "stars": 4
     },
     {
       "rank": 85,
-      "owner": "user_4894573e",
-      "repo": "high-quality-skill-guidance",
-      "url": "https://skillhub.cn/skills/user_4894573e/high-quality-skill-guidance",
-      "description": "把高质量 Skill 设计变成积木原创特色的标准化工作流：用 10 格积木链把模糊念头设计成可链接、可复用、可衡量、可演进的 AI Skill——产出技能蓝图 + 文件结构图（7套框架范例）→ 五维就绪度打分 → 测试打磨闭环。 \"创建 skill 前的设计指南\"，与 skill-creator 兄弟分工：本 skill 出蓝图 brief，施工落地交给它。 零技术门槛：直接说需求即可开工；赶时间走轻量通道（约30分钟出蓝图）。 四步施工流：意图路由 + 10 格流水线 → 概念讨论→初步方案→深化设计→施工蓝图。 Use when: \"创建/做一个 skill\"、\"设计 skill\"、\"怎么写好一个 skill\"、\"我想创建一个XXX技能\"、\"skill 怎么设计\"、\"skill 目录怎么搭\"、\"SKILL.md 该写什么\"、\"create/build/design/improve a skill\"；正在用 skill-creator 写改 skill 想先把关；想给 skill 打分体检（\"给我的 skill 打个分\"\"体检 skill\"\"这个 skill 哪里不合格\"）。 Make sure to use this skill whenever the user wants to create/design/improve ANY skill, even without saying \"做技能\"（如\"把这件事教给 AI\"\"让 AI 更会做 XX\"\"帮我把这个流程固化下来\"）; 也接 skill-rebuild 吸收结果入库（\"吸收结果落库\"）. Do NOT use for: 安装/推荐/管理已装 skill; 找/发现/搜索 skill（交给 find-skills 类）; 吸收优秀 skill 的拆解提炼（\"这个 skill 很好你学一下\" → skill-rebuild，本 skill 只做入库）; 一次性脚本或无复用价值的单点小助手; 纯学 Skill 设计理论（本 skill 产蓝图不讲理论）. 中文主语言：中文提问即中文引导、术语保留英文；英文用户英文引导。",
-      "downloads": "10.2k",
-      "installs": 0,
-      "stars": 7
-    },
-    {
-      "rank": 86,
-      "owner": "user_98035bfb",
-      "repo": "zlbx-bidding",
-      "url": "https://skillhub.cn/skills/user_98035bfb/zlbx-bidding",
-      "description": "全网招中标数据查询与分析助手。当用户涉及以下任何场景时，必须使用此SKILL：查询招标/中标公告、搜索标讯、查找临期/即将到期项目、商机预测、推荐潜在投标供应商、分析公司主营业务/历史中标、查询公司上下游合作客户与供应商、分析竞争对手/竞对企业、查询Top采购单位/Top中标单位/Top中标品牌、招中标数据统计分析（按月/季/年/省份/品牌等维度）、查询品牌型号历史中标单价/价格趋势、市场分析/行业分析/采购寻源/渠道拓展等采购与投标相关场景。即使用户没有提到「知了标讯」，只要涉及招投标、采购、中标、供应商、竞争对手等关键词，都应使用本SKILL。",
-      "downloads": "13.3k",
-      "installs": 212,
-      "stars": 12
-    },
-    {
-      "rank": 87,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-short-video-content-audit",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-short-video-content-audit",
-      "description": "【零一数科·出品】短视频内容审核（文案/画面/声音）（付费版）。视频发布前内容合规质检。支持口播文本或本地视频上传；文本层实质质检+画面声音人工复核清单+总判定。触发词：短视频内容审核、口播合规、发布前违禁词、广告法视频。",
-      "downloads": "21.5k",
-      "installs": 0,
-      "stars": 2
-    },
-    {
-      "rank": 88,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-private-domain-activity-planner",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-private-domain-activity-planner",
-      "description": "【零一数科·出品】私域活动策划（免费版）。为私域会员设计内容栏目与互动活动，产出月度内容排期、活动方案、玩法机制、物料清单四件套。适用于会员促活排期、会员日策划、节日活动、UGC机制设计、内容栏目搭建、互动玩法与裂变任务、物料清单筹备。",
-      "downloads": "21.3k",
-      "installs": 0,
-      "stars": 1
-    },
-    {
-      "rank": 89,
       "owner": "org-28ib33ph",
       "repo": "lingyi-wx-video-script-creator-ultra",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wx-video-script-creator-ultra",
       "description": "【零一数科·出品】视频号爆款文案生成。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的视频脚本，或按方向/目的/商品原创多条视频脚本（含分段表、脚本全文、六维质检评分）。",
-      "downloads": "22.9k",
+      "downloads": "23k",
       "installs": 0,
       "stars": 3
     },
     {
-      "rank": 90,
+      "rank": 86,
       "owner": "org-28ib33ph",
       "repo": "lingyi-user-persona-and-crowd-insight",
       "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-user-persona-and-crowd-insight",
       "description": "【零一数科·出品】用户画像与人群洞察 / User Persona & Crowd Insight（免费版）。盘点数据与画像就绪度，设计标签体系、分群模型、代表性画像与人群洞察，产出可被推荐/营销/内容/产品复用的画像资产及洞察→运营动作回路。适用于用户画像、人群洞察、标签体系、用户分群、精准营销前人群定义、画像落地。",
-      "downloads": "23.2k",
+      "downloads": "23k",
+      "installs": 0,
+      "stars": 2
+    },
+    {
+      "rank": 87,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-one-click-rewrite-multi-publish",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-one-click-rewrite-multi-publish",
+      "description": "【零一数科·出品】一键改稿多平台分发（免费版）。面向新媒体运营与内容编辑，把一篇原稿按四平台调性差异化改写为可直接发布的分版本，并做合规自检（导流容忍度/违禁词/篇幅）。",
+      "downloads": "22k",
+      "installs": 0,
+      "stars": 4
+    },
+    {
+      "rank": 88,
+      "owner": "user_19b9fbd9",
+      "repo": "zy930511",
+      "url": "https://skillhub.cn/skills/user_19b9fbd9/zy930511",
+      "description": "以书铸魂技能：输入一本书（PDF/EPUB/TXT/书名/作者），深度蒸馏书中的方法论、思维模型、决策启发式与表达风格，自动生成一个以该书或作者思想为核心人设的新 Skill（带标准 YAML 头，可直接上传 SkillHub）。一本书 = 一个思想系统，把《穷查理宝典》《原则》《原子习惯》变成能替你思考、帮你决策、模仿作者风格的 AI 顾问。蒸馏不是摘抄，是提魂。",
+      "downloads": "21k",
+      "installs": 0,
+      "stars": 10
+    },
+    {
+      "rank": 89,
+      "owner": "user_5ea84866",
+      "repo": "kdocs-skill",
+      "url": "https://skillhub.cn/skills/user_5ea84866/kdocs-skill",
+      "description": "操作金山文档（WPS 云文档 / Kdocs / 365.kdocs.cn / www.kdocs.cn）云文档的官方 Skill。核心能力覆盖云端新建、读取、编辑、搜索、分享、整理在线文档（智能文档、Word、Excel、PDF、PPT、演示文稿、智能表格、多维表格）及个人知识库。当用户的任务涉及云文档操作时使用，包括但不限于：写周报/日报/工作汇报、处理合同/发票、创建报名表/登记表、网页剪藏、接龙转表格、信息收集、文档总结与内容生成、改写仿写、翻译、AI PPT生成、PDF拆分导出、标签分类归档、收藏管理、碎片笔记整理、表格美化、回收站还原、知识库管理。",
+      "downloads": "121k",
+      "installs": 0,
+      "stars": 120
+    },
+    {
+      "rank": 90,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-short-video-content-audit",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-short-video-content-audit",
+      "description": "【零一数科·出品】短视频内容审核（文案/画面/声音）（付费版）。视频发布前内容合规质检。支持口播文本或本地视频上传；文本层实质质检+画面声音人工复核清单+总判定。触发词：短视频内容审核、口播合规、发布前违禁词、广告法视频。",
+      "downloads": "22k",
       "installs": 0,
       "stars": 2
     },
     {
       "rank": 91,
-      "owner": "user_290ac21c",
-      "repo": "find-skill-skillhub",
-      "url": "https://skillhub.cn/skills/user_290ac21c/find-skill-skillhub",
-      "description": "在 SkillHub 平台查找/搜索 Skill 技能。基于 skills 列表接口，支持关键词分词搜索、一级标签（一级分类）筛选、以及二者组合检索。当用户说『找个 xxx 技能』『有没有处理 PDF 的 skill』『SkillHub 上搜一下 xxx』『按分类看技能』『办公效率类有哪些技能』『推荐一个做数据分析的 skill』『这个需求有现成技能吗』等需要在 SkillHub 上发现/检索/推荐 Skill 的场景时使用本技能。",
-      "downloads": "75.8k",
-      "installs": 0,
-      "stars": 229
-    },
-    {
-      "rank": 92,
       "owner": "org-28ib33ph",
-      "repo": "lingyi-wecom-ops-plan-generator",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wecom-ops-plan-generator",
-      "description": "【零一数科·出品】企微运营方案生成（免费版）。把企微分层客户翻译成符合官方频次/合规约束的触达动作，产出分人群触点编排矩阵、话术填充表、频次排程表、合规折叠校验清单四件套。适用于企微1v1私聊触达SOP、朋友圈分人群发、群发精准触达、触达动作落版、企微频次额度分配、防折叠防封号。免登录免 Key、纯本地方法论产出。",
-      "downloads": "22.0k",
+      "repo": "lingyi-private-domain-activity-planner",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-private-domain-activity-planner",
+      "description": "【零一数科·出品】私域活动策划（免费版）。为私域会员设计内容栏目与互动活动，产出月度内容排期、活动方案、玩法机制、物料清单四件套。适用于会员促活排期、会员日策划、节日活动、UGC机制设计、内容栏目搭建、互动玩法与裂变任务、物料清单筹备。",
+      "downloads": "21k",
       "installs": 0,
       "stars": 1
     },
     {
-      "rank": 93,
-      "owner": "org-28ib33ph",
-      "repo": "lingyi-one-click-rewrite-multi-publish",
-      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-one-click-rewrite-multi-publish",
-      "description": "【零一数科·出品】一键改稿多平台分发（免费版）。面向新媒体运营与内容编辑，把一篇原稿按四平台调性差异化改写为可直接发布的分版本，并做合规自检（导流容忍度/违禁词/篇幅）。",
-      "downloads": "21.9k",
-      "installs": 0,
-      "stars": 4
-    },
-    {
-      "rank": 94,
+      "rank": 92,
       "owner": "davtime",
       "repo": "gongwenxiezuo",
       "url": "https://skillhub.cn/skills/davtime/gongwenxiezuo",
       "description": "面向机关、企事业单位、学校与新闻机构的中文公文与正式材料写作助手。用于通知、请示、报告、函、复函、批复、会议纪要、通报、通告、公告、意见、方案、总结、管理办法、汇报材料、发言稿、讲话稿、调研报告、经验材料、申请、说明、公示、采购公告、新闻消息、新闻评论等文种的起草、改写、润色、扩写、压缩、结构调整、语气统一与内容审查；支持按 GB/T 9704-2012 生成普通 Word 与红头文件。无外部接口、无账号、无联网依赖：所有依据、数据和素材均来自用户当轮提供的材料或用户明确授权的本地个人素材库；仅在用户明确要求核查时效事实时才可选联网核验，且搜索结果只作来源参考，绝不写成用户事实。",
-      "downloads": "12.4k",
+      "downloads": "14k",
       "installs": 0,
-      "stars": 14
+      "stars": 15
+    },
+    {
+      "rank": 93,
+      "owner": "org-28ib33ph",
+      "repo": "lingyi-wecom-ops-plan-generator",
+      "url": "https://skillhub.cn/skills/org-28ib33ph/lingyi-wecom-ops-plan-generator",
+      "description": "【零一数科·出品】企微运营方案生成（免费版）。把企微分层客户翻译成符合官方频次/合规约束的触达动作，产出分人群触点编排矩阵、话术填充表、频次排程表、合规折叠校验清单四件套。适用于企微1v1私聊触达SOP、朋友圈分人群发、群发精准触达、触达动作落版、企微频次额度分配、防折叠防封号。免登录免 Key、纯本地方法论产出。",
+      "downloads": "22k",
+      "installs": 0,
+      "stars": 1
+    },
+    {
+      "rank": 94,
+      "owner": "showapi",
+      "repo": "city-weather-poster-generator-showapi",
+      "url": "https://skillhub.cn/skills/showapi/city-weather-poster-generator-showapi",
+      "description": "根据用户输入的城市或景点，自动识别准确省市，查询实时天气，提炼城市地标并设计构图，融合天气、地标、日期及指定风格生成专业提示词，最终生成精美的城市天气宣传画报；适用于旅游宣传、城市文化推广、每日天气海报制作场景",
+      "downloads": "10k",
+      "installs": 0,
+      "stars": 0
     },
     {
       "rank": 95,
-      "owner": "beatra-ai",
-      "repo": "beatra-ai-video-studio",
-      "url": "https://skillhub.cn/skills/beatra-ai/beatra-ai-video-studio",
-      "description": "从一段镜头描述、一张图片、首尾帧、参考素材或已有视频出发，规划并制作短视频。Beatra AI视频工作室支持文生视频、图生视频、参考生视频、首尾帧视频、AI视频编辑和AI视频延长，覆盖产品视频、广告创意、社交短视频、AI空镜素材、转场、揭示和电影感概念镜头。交付后检查动作、主体稳定性、运镜、连续性与发布场景；如果请求或结果包含音频，也一并检查音频，再决定最小有效的修改、延长或重新生成。",
-      "downloads": "19.4k",
+      "owner": "davtime",
+      "repo": "wechat-official-account-typesetting-master",
+      "url": "https://skillhub.cn/skills/davtime/wechat-official-account-typesetting-master",
+      "description": "微信公众号全域排版与内容视觉整理 Skill。将 Markdown、纯文本或已有文章稿件整理为可复制到公众号的微信兼容 HTML，并提供语义结构优化、主题推荐、组件化卡片、图片与链接处理、预览、排版诊断和发布前校验。",
+      "downloads": "12k",
       "installs": 0,
-      "stars": 5
+      "stars": 12
     },
     {
       "rank": 96,
@@ -959,49 +959,49 @@
       "repo": "humanizer-zh",
       "url": "https://skillhub.cn/skills/clawhub_liuxy951129-cpu/humanizer-zh",
       "description": "去除文本中的 AI 生成痕迹。适用于编辑或审阅文本，使其听起来更自然、更像人类书写。 基于维基百科的\"AI 写作特征\"综合指南。检测并修复以下模式：夸大的象征意义、 宣传性语言、以 -ing 结尾的肤浅分析、模糊的归因、破折号过度使用、三段式法则、 AI 词汇、否定式排比、过多的连接性短语。",
-      "downloads": "69.4k",
+      "downloads": "70k",
       "installs": 5832,
       "stars": 97
     },
     {
       "rank": 97,
-      "owner": "user_c9faff27",
-      "repo": "dknowc-official-doc-writer-skillhub",
-      "url": "https://skillhub.cn/skills/user_c9faff27/dknowc-official-doc-writer-skillhub",
-      "description": "深知公文写作，是由北京彩智科技有限公司旗下“深知可信智能”提供的正式材料写作助手，准确、规范地完成企事业单位与政府机关等场景下的文档编写、审查和规范排版需求，所有依据或参考材料，都全程可溯源到权威部门发布的规范性文件。本技能用于公文写作、正式文书起草、汇报材料整理、讲话稿撰写、工作总结方案报告生成，也支持对用户上传的 Word 文稿进行格式审查、内容核查、重新排版和内容优化，帮助用户把零散想法、会议记录、工作素材转化为逻辑清楚、表述稳妥、格式规范、可直接修改使用的正式文稿。支持通知、请示、报告、函、意见、通报、通告、公告、方案、总结、管理办法、汇报材料、发言稿、讲话稿、调研报告、经验材料等常见文种和工作材料。依托深知可信搜索，获取准确有效的法规政策依据、行业信息与数据、标准规范和案例参考，并单独生成可交互的可信溯源报告，帮助用户写得有依据、能复核、可交付。正式文稿支持生成 Word 文档，并可按用户明确要求生成红头文件。",
-      "downloads": "67.1k",
-      "installs": 22,
-      "stars": 58
+      "owner": "user_9d5a2a39",
+      "repo": "cnfinancialscraper",
+      "url": "https://skillhub.cn/skills/user_9d5a2a39/cnfinancialscraper",
+      "description": "中国金融机构数据爬取与分析综合 Skill v7.7.0。全量机构名单（2334家，43大类）、 全网舆情（4 类 60+ 商业财经媒体源 + RSS 直连 + akshare 兜底）、A股报告/公告/研报、 结构化市场数据（期货/宏观/Shibor/港股美股）、深度类人浏览器爬取、真实风险指标分析、 定期报告解读（财报自动解读/同比环比/亮点风险/评分评级）。 🆕 v7.7.0 四模块优化：爬取自适应（早停/降并发/死域跳过+耗时统计）、知识库语音指令接线、 下载断点续传+sha256 校验+并发批量、分析指标扩展（Sortino/胜率）与 nav_trend_analysis 趋势分析。 v7.6.0（承接）知识库总结同步（IMA/Dify/Obsidian/本地）与反向校对；v7.5.0（承接）编码检测链/下载加固/SSL 降级。 v7.3.0（承接）：机构名单完善、智能多级爬取、网页内容识别、数据分析汇总、语音交互。 v7.2.0 爬取硬化（承接）：软拦截检测接线、Retry-After 遵从、URL 去重器（跨进程持久化）。 v7.1.0 定期报告解读（承接）：财报自动解读，纯规则零依赖。 v7.0.0（承接）：机构名单完成、网络拦截 API 挖掘、操作宏录制回放、异步并发标签池。 v6.0.0（承接）：数据源商业化、浏览器深度类人化、真实 PDF/HTML 报告导出、zip 增量打包。 触发词：爬取机构、舆情爬取、全网舆情、网页爬取、智能爬取、内容识别、表格识别、 汇总分析、语音交互、语音爬取、公告下载、券商研报、批量爬取、定时爬取、文档分析、 东方财富、龙虎榜、北向资金、监管动态、搜索引擎、网页归档、类人爬取、数据回测、 结构化数据、期货、宏观经济、港股美股、风险指标、组合复刻、夏普比率等（完整触发词见下方 auto_trigger）。",
+      "downloads": "105k",
+      "installs": 0,
+      "stars": 220
     },
     {
       "rank": 98,
-      "owner": "org-32m5yxyy",
-      "repo": "zhiliao-official-tender-assistant",
-      "url": "https://skillhub.cn/skills/org-32m5yxyy/zhiliao-official-tender-assistant",
-      "description": "知了标讯官方招投标数据助手，覆盖招标公告与中标结果查询、企业工商与招中标画像、竞争对手分析、市场趋势统计、Top采购/中标单位与品牌、历史中标价格、临期项目商机挖掘等。当用户涉及招投标、政府采购、中标查询、供应商/竞对分析、采购市场研究等任何场景时，必须使用此SKILL；即使未出现「招投标」字样，只要涉及中标、采购、供应商、竞对、市场份额等需求均应使用。",
-      "downloads": "8.3k",
+      "owner": "davtime",
+      "repo": "jinjiangxiaoshuoxiezuo",
+      "url": "https://skillhub.cn/skills/davtime/jinjiangxiaoshuoxiezuo",
+      "description": "专为「晋江文学城」平台优化的分章节网文创作助手。以「情感分类」为第一决策点：开卷必须先选定 言情 / 纯爱 / 百合 / 无CP，全链路设定均按所选情感分类分支加载，并设有跨分类冲突拦截闸门。支持三档产出模式自选：A 粗纲（卷级蓝图）/ B 细纲（逐章骨架）/ C 全文（逐章成稿 3000-5000 字），可中途升档或降档。覆盖核心梗六问 → 产出模式 → 规划 → 逐章创作 → 一致性校验 → 去AI味 → 发布合规 全流程。支持各题材，单部 10-200 章。 仅在用户明确指向晋江平台时触发：晋江小说、晋江文学城、言情/纯爱/百合/无CP 网文、按晋江审美写文、晋江过签、晋江榜单。对番茄/起点/七猫等平台需求不触发，改用对应平台流程。",
+      "downloads": "3.3k",
+      "installs": 0,
+      "stars": 7
+    },
+    {
+      "rank": 99,
+      "owner": "davtime",
+      "repo": "hetongfengxianshencha",
+      "url": "https://skillhub.cn/skills/davtime/hetongfengxianshencha",
+      "description": "通用合同风险审查助手 — 本地、无网络地识别合同风险条款、提取关键信息、给出修订建议与法律依据，支持按甲方/乙方视角分析。",
+      "downloads": "10k",
       "installs": 0,
       "stars": 9
     },
     {
-      "rank": 99,
-      "owner": "showapi",
-      "repo": "showapi-pc-config-comparison-image",
-      "url": "https://skillhub.cn/skills/showapi/showapi-pc-config-comparison-image",
-      "description": "根据用户预算、品牌偏好及用途，推演高、中、低三档电脑配置单，并输出全中文的配置横向对比图；适用于电脑装机推荐、硬件搭配方案生成、配置单可视化展示场景",
-      "downloads": "7.9k",
-      "installs": 0,
-      "stars": 0
-    },
-    {
       "rank": 100,
       "owner": "davtime",
-      "repo": "xiaoshuojubenzhuanfenjing",
-      "url": "https://skillhub.cn/skills/davtime/xiaoshuojubenzhuanfenjing",
-      "description": "小说转剧本、剧本转分镜、小说直转分镜，组成「小说→剧本→分镜」完整链路。当用户需要把小说改成剧本、写出分镜脚本、拆解小说镜头、生成角色人设卡与 AI 绘图提示词时使用。",
-      "downloads": "11.0k",
+      "repo": "xueshulunwenyushenchaloudongsaomiao",
+      "url": "https://skillhub.cn/skills/davtime/xueshulunwenyushenchaloudongsaomiao",
+      "description": "学术论文双轨审查台：①机械扫描（本地规则引擎，七维量化评分：排版规范/内容真实/可行性/内容真伪/AI痕迹/学术规范/期刊适配，可复现、隐私安全）；②专家会诊（多视角审稿人角色，审查理论贡献、方法论、文献对话、逻辑链条、主编预筛）。 触发：论文审查、审稿、预审、论文体检、论文检测、论文扫描、投稿前检查、理论贡献、方法论、文献对话、逻辑链条、Desk Reject、格式审查、AI检测。",
+      "downloads": "11k",
       "installs": 0,
-      "stars": 18
+      "stars": 14
     }
   ]
 }
