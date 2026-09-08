@@ -1,133 +1,88 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.09.02 – 09.08 · 按本周新增 Star 数排序",
-  "updated": "2026.09.08",
+  "period": "2026.09.03 – 09.09 · 按本周新增 Star 数排序",
+  "updated": "2026.09.09",
   "projects": [
     {
       "rank": 1,
       "owner": "tt-a1i",
       "repo": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent 技能库，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 17.2k Star，总 Star 达 52.5k。",
-      "stars": "52.5k",
-      "weekly_stars": "17.2k"
+      "description": "Agent 技能库，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 14.9k Star，总 Star 达 54.5k。",
+      "stars": "54.5k",
+      "weekly_stars": "14.9k"
     },
     {
       "rank": 2,
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "让 AI 智能体学习「最懒的资深工程师」的思考方式：最好的代码是永远不需要写的代码，引导 Agent 克制生成、减少无谓改动，显著降低代码维护负担；本周新增 12.2k Star，总 Star 达 130.7k。",
-      "stars": "130.7k",
-      "weekly_stars": "12.2k"
+      "owner": "blader",
+      "repo": "humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent 技能，可自动去除文本中的 AI 生成痕迹（修辞浮夸、陈词滥调、机械句式等），让内容读起来更自然；本周新增 5.8k Star，总 Star 达 45.3k。",
+      "stars": "45.3k",
+      "weekly_stars": "5.8k"
     },
     {
       "rank": 3,
-      "owner": "THU-MAIC",
-      "repo": "OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "清华大学开源的开放多智能体交互课堂，一键即可获得沉浸式多 Agent 协作学习体验，支持课程编排与多角色互动；本周新增 9.2k Star，总 Star 达 33k。",
-      "stars": "33k",
-      "weekly_stars": "9.2k"
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "Nous Research 开源的「陪你一起成长」的智能体，强调随使用持续演进、越用越懂你，适配长期陪伴型 Agent 场景；本周新增 4.2k Star，总 Star 达 243.4k。",
+      "stars": "243.4k",
+      "weekly_stars": "4.2k"
     },
     {
       "rank": 4,
-      "owner": "debpalash",
-      "repo": "VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "开源、完全本地优先的 ElevenLabs 替代品，支持语音克隆、语音设计、视频配音、听写、转录与 646 种语言的有声书制作，基于 Tauri + MLX/CUDA 实现端侧推理；本周新增 7.5k Star，总 Star 达 20.5k。",
-      "stars": "20.5k",
-      "weekly_stars": "7.5k"
-    },
-    {
-      "rank": 5,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "面向 Claude Code、Codex 等编码智能体的 Agent 执行框架性能优化系统，以研究优先的思路整合技能、直觉、记忆与安全能力，提升 Agent 长期运行效率；本周新增 6.4k Star，总 Star 达 252.6k。",
-      "stars": "252.6k",
-      "weekly_stars": "6.4k"
-    },
-    {
-      "rank": 6,
-      "owner": "jingyaogong",
-      "repo": "minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "从零训练 64M 参数大语言模型的教学项目，约 2 小时即可跑通预训练、指令微调与对齐全流程，附保姆级教程，适合入门 LLM 原理；本周新增 3.8k Star，总 Star 达 59.4k。",
-      "stars": "59.4k",
+      "owner": "heygen-com",
+      "repo": "hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "HeyGen 开源的面向 AI Agent 的视频生成框架：写 HTML 即可渲染视频，让智能体原生具备视频创作能力；本周新增 3.8k Star，总 Star 达 47.6k。",
+      "stars": "47.6k",
       "weekly_stars": "3.8k"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "owner": "google-research",
       "repo": "timesfm",
       "url": "https://github.com/google-research/timesfm",
-      "description": "Google Research 开源的时间序列基础模型 TimesFM，预训练后可高效完成时间序列预测任务，无需针对特定数据集重新训练；本周新增 3.2k Star，总 Star 达 31.8k。",
-      "stars": "31.8k",
-      "weekly_stars": "3.2k"
+      "description": "Google Research 开源的时间序列基础模型 TimesFM，预训练后可高效完成时间序列预测任务，无需针对特定数据集重新训练；本周新增 3.5k Star，总 Star 达 32k。",
+      "stars": "32k",
+      "weekly_stars": "3.5k"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "owner": "Imbad0202",
       "repo": "academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "面向 Claude Code 的学术研究技能包，覆盖从调研、写作、审阅、修订到定稿的完整科研流程；本周新增 2.3k Star，总 Star 达 46.8k。",
-      "stars": "46.8k",
-      "weekly_stars": "2.3k"
+      "description": "面向 Claude Code 的学术研究技能包，覆盖从调研、写作、审阅、修订到定稿的完整科研流程；本周新增 2.4k Star，总 Star 达 47k。",
+      "stars": "47k",
+      "weekly_stars": "2.4k"
+    },
+    {
+      "rank": 7,
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "Agent 元编排框架：可部署多智能体群体协作、协调自主工作流、构建对话式 AI 系统，支持工具调用与多模型编排；本周新增 1.6k Star，总 Star 达 71.6k。",
+      "stars": "71.6k",
+      "weekly_stars": "1.6k"
+    },
+    {
+      "rank": 8,
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools 团队官方的 MCP 服务，把浏览器调试能力开放给编码 Agent，支持 DOM/网络/性能等多维度自动化审查；本周新增 1k Star，总 Star 达 51.4k。",
+      "stars": "51.4k",
+      "weekly_stars": "1k"
     },
     {
       "rank": 9,
-      "owner": "handsomestWei",
-      "repo": "patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利 Agent 技能，支持专利点挖掘与交底书编写（发明/实用新型/外观），可通俗解读专利并跟踪政策动向，辅助处理审查环节；本周新增 2.1k Star，总 Star 达 8.4k。",
-      "stars": "8.4k",
-      "weekly_stars": "2.1k"
-    },
-    {
-      "rank": 10,
-      "owner": "magnitudedev",
-      "repo": "magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "开源本地推理服务器，针对你的硬件自动选择最佳本地模型，可无缝接入 Pi、OpenCode、Claude Code、Cline 等现有编码 Agent；本周新增 2.0k Star，总 Star 达 4k。",
-      "stars": "4k",
-      "weekly_stars": "2.0k"
-    },
-    {
-      "rank": 11,
-      "owner": "Gitlawb",
-      "repo": "openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "description": "开源编码 Agent CLI，一套终端工作流统一对接 OpenAI 兼容 API、Gemini、GitHub Models、Codex、Ollama 等云端与本地模型后端，内置 MCP、Agent、斜杠命令与 VS Code 扩展，宣称可在任意环境运行、接入任意工具；本周新增 1.9k Star，总 Star 达 32.9k。",
-      "stars": "32.9k",
-      "weekly_stars": "1.9k"
-    },
-    {
-      "rank": 12,
-      "owner": "pollen-robotics",
-      "repo": "microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "面向 Microduck 机器人的强化学习训练环境集合，基于 mjlab 提供可复现的 RL 训练场景；本周新增 1.1k Star，总 Star 达 1.9k。",
-      "stars": "1.9k",
-      "weekly_stars": "1.1k"
-    },
-    {
-      "rank": 13,
-      "owner": "advaitpaliwal",
-      "repo": "feynman",
-      "url": "https://github.com/advaitpaliwal/feynman",
-      "description": "开源的 AI 研究智能体，面向科研场景提供自动化调研与信息整合能力；本周新增 262 Star，总 Star 达 9k。",
-      "stars": "9k",
-      "weekly_stars": "262"
-    },
-    {
-      "rank": 14,
-      "owner": "roboflow",
-      "repo": "rf-detr",
-      "url": "https://github.com/roboflow/rf-detr",
-      "description": "Roboflow 开源的实时目标检测与实例分割模型架构，基于 DETR 系列在精度与实时性之间取得良好平衡，支持高效部署；本周新增 224 Star，总 Star 达 9.4k。",
-      "stars": "9.4k",
-      "weekly_stars": "224"
+      "owner": "openai",
+      "repo": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "OpenAI 官方发布的 Codex 技能目录，收录可直接复用的 Agent 技能包，覆盖常用任务模板与最佳实践；本周新增 969 Star，总 Star 达 26.4k。",
+      "stars": "26.4k",
+      "weekly_stars": "969"
     }
   ]
 }
