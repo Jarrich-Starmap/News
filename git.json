@@ -1,88 +1,97 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.09.03 – 09.09 · 按本周新增 Star 数排序",
-  "updated": "2026.09.09",
+  "period": "2026.09.04 – 09.10 · 按本周新增 Star 数排序",
+  "updated": "2026.09.10",
   "projects": [
     {
       "rank": 1,
-      "owner": "tt-a1i",
-      "repo": "archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent 技能库，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 14.9k Star，总 Star 达 54.5k。",
-      "stars": "54.5k",
-      "weekly_stars": "14.9k"
+      "owner": "mattpocock",
+      "repo": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "面向真实工程师的 Agent 技能库，来自作者日常 .agents 目录实战沉淀，覆盖编码、调试、重构等高频场景，可无缝接入 Claude Code 等工具；本周新增 13.4k Star。",
+      "stars": "257.7k",
+      "weekly_stars": "13.4k"
     },
     {
       "rank": 2,
-      "owner": "blader",
-      "repo": "humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent 技能，可自动去除文本中的 AI 生成痕迹（修辞浮夸、陈词滥调、机械句式等），让内容读起来更自然；本周新增 5.8k Star，总 Star 达 45.3k。",
-      "stars": "45.3k",
-      "weekly_stars": "5.8k"
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent 技能，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 13.3k Star，总 Star 达 55.9k。",
+      "stars": "55.9k",
+      "weekly_stars": "13.3k"
     },
     {
       "rank": 3,
-      "owner": "NousResearch",
-      "repo": "hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "Nous Research 开源的「陪你一起成长」的智能体，强调随使用持续演进、越用越懂你，适配长期陪伴型 Agent 场景；本周新增 4.2k Star，总 Star 达 243.4k。",
-      "stars": "243.4k",
-      "weekly_stars": "4.2k"
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "让 AI Agent 像团队里最懒的资深开发一样思考：最好的代码是没写的代码，通过减少无谓产出提升效率；本周新增 12.6k Star。",
+      "stars": "133.2k",
+      "weekly_stars": "12.6k"
     },
     {
       "rank": 4,
-      "owner": "heygen-com",
-      "repo": "hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "HeyGen 开源的面向 AI Agent 的视频生成框架：写 HTML 即可渲染视频，让智能体原生具备视频创作能力；本周新增 3.8k Star，总 Star 达 47.6k。",
-      "stars": "47.6k",
-      "weekly_stars": "3.8k"
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "Agent 工作流（harness）性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与研测优先开发能力；本周新增 8.5k Star，总 Star 达 255.0k。",
+      "stars": "255k",
+      "weekly_stars": "8.5k"
     },
     {
       "rank": 5,
-      "owner": "google-research",
-      "repo": "timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "Google Research 开源的时间序列基础模型 TimesFM，预训练后可高效完成时间序列预测任务，无需针对特定数据集重新训练；本周新增 3.5k Star，总 Star 达 32k。",
-      "stars": "32k",
-      "weekly_stars": "3.5k"
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "面向 ADHD 友好输出的 Coding Agent 技能，阻止 AI 把答案埋在长篇大论里，直接给出关键结论；本周新增 5.9k Star。",
+      "stars": "33.9k",
+      "weekly_stars": "5.9k"
     },
     {
       "rank": 6,
-      "owner": "Imbad0202",
-      "repo": "academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "面向 Claude Code 的学术研究技能包，覆盖从调研、写作、审阅、修订到定稿的完整科研流程；本周新增 2.4k Star，总 Star 达 47k。",
-      "stars": "47k",
-      "weekly_stars": "2.4k"
+      "owner": "blader",
+      "repo": "humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent 技能，自动去除文本中的 AI 写作痕迹，基于维基百科《AI 写作迹象》指南检测并修复空泛比喻、宣传语等模式；本周新增 5.8k Star。",
+      "stars": "45.9k",
+      "weekly_stars": "5.8k"
     },
     {
       "rank": 7,
-      "owner": "ruvnet",
-      "repo": "ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "Agent 元编排框架：可部署多智能体群体协作、协调自主工作流、构建对话式 AI 系统，支持工具调用与多模型编排；本周新增 1.6k Star，总 Star 达 71.6k。",
-      "stars": "71.6k",
-      "weekly_stars": "1.6k"
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "清华开源的多 Agent 互动式课堂，一键获得沉浸式多智能体学习体验，适合教学与演示场景；本周新增 4.4k Star。",
+      "stars": "34.3k",
+      "weekly_stars": "4.4k"
     },
     {
       "rank": 8,
-      "owner": "ChromeDevTools",
-      "repo": "chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools 团队官方的 MCP 服务，把浏览器调试能力开放给编码 Agent，支持 DOM/网络/性能等多维度自动化审查；本周新增 1k Star，总 Star 达 51.4k。",
-      "stars": "51.4k",
-      "weekly_stars": "1k"
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "Nous Research 出品的可成长型 Agent 框架，随使用持续演进，主打自适应记忆与自主扩展能力；本周新增 4.2k Star，总 Star 达 243.8k。",
+      "stars": "243.8k",
+      "weekly_stars": "4.2k"
     },
     {
       "rank": 9,
-      "owner": "openai",
-      "repo": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "OpenAI 官方发布的 Codex 技能目录，收录可直接复用的 Agent 技能包，覆盖常用任务模板与最佳实践；本周新增 969 Star，总 Star 达 26.4k。",
-      "stars": "26.4k",
-      "weekly_stars": "969"
+      "owner": "heygen-com",
+      "repo": "hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "HeyGen 开源：写 HTML 即可渲染视频，专为 Agent 打造的视频生成方案，Agent 可直接产出可播放内容；本周新增 3.9k Star。",
+      "stars": "48.3k",
+      "weekly_stars": "3.9k"
+    },
+    {
+      "rank": 10,
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "面向 Claude Code 的学术研究技能包：调研→写作→评审→修订→定稿全流程，规范 Agent 产出学术内容；本周新增 2.4k Star，总 Star 达 47.2k。",
+      "stars": "47.2k",
+      "weekly_stars": "2.4k"
     }
   ]
 }
