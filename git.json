@@ -1,87 +1,87 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.09.06 – 09.12 · 按本周新增 Star 数排序",
-  "updated": "2026.09.12",
+  "period": "2026.09.13 – 09.19 · 按本周新增 Star 数排序",
+  "updated": "2026.09.13",
   "projects": [
     {
       "rank": 1,
-      "owner": "mattpocock",
-      "repo": "skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "面向真实工程师的 Agent 技能库，直接取自作者日常 .agents 目录，覆盖编码、调试、重构等高频工程场景，可无缝接入 Claude Code 等工具；本周新增 12.4k Star，总 Star 达 259.6k。",
-      "stars": "259.6k",
-      "weekly_stars": "12.4k"
-    },
-    {
-      "rank": 2,
-      "owner": "tt-a1i",
-      "repo": "archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent 技能，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 12k Star，总 Star 达 58.4k。",
-      "stars": "58.4k",
-      "weekly_stars": "12k"
-    },
-    {
-      "rank": 3,
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "让 AI Agent 像团队里最懒的资深开发一样思考：最好的代码是没写的代码，通过最大化复用、抑制重复造轮子来提升效率；本周新增 11.6k Star，总 Star 达 135.7k。",
-      "stars": "135.7k",
-      "weekly_stars": "11.6k"
-    },
-    {
-      "rank": 4,
       "owner": "ayghri",
       "repo": "i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "ADHD 友好的 Coding Agent 技能，阻止 AI 把关键结论埋在长篇大论里，直接给出答案要点；本周新增 10.2k Star，总 Star 达 41.1k。",
-      "stars": "41.1k",
-      "weekly_stars": "10.2k"
+      "description": "ADHD 友好的 Coding Agent 技能，阻止 AI 把关键结论埋在长篇大论里，直接给出答案要点；本周新增 13.2k Star，总 Star 达 43.2k。",
+      "stars": "43.2k",
+      "weekly_stars": "13.2k"
+    },
+    {
+      "rank": 2,
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "让 AI Agent 像团队里最懒的资深开发一样思考：最好的代码是没写的代码，通过最大化复用、抑制重复造轮子来提升效率；本周新增 11.1k Star，总 Star 达 136.5k。",
+      "stars": "136.5k",
+      "weekly_stars": "11.1k"
+    },
+    {
+      "rank": 3,
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent 技能，用于生成美观且可验证的架构图、流程图、时序图、数据流图与生命周期图，输出自包含 HTML 并支持动画与高清导出；本周新增 11k Star，总 Star 达 59.5k。",
+      "stars": "59.5k",
+      "weekly_stars": "11k"
+    },
+    {
+      "rank": 4,
+      "owner": "mattpocock",
+      "repo": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "面向真实工程师的 Agent 技能库，直接取自作者日常 .agents 目录，覆盖编码、调试、重构等高频工程场景，可无缝接入 Claude Code 等工具；本周新增 10.6k Star，总 Star 达 260.4k。",
+      "stars": "260.4k",
+      "weekly_stars": "10.6k"
     },
     {
       "rank": 5,
       "owner": "affaan-m",
       "repo": "ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent 工作流（harness）性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与研测优先开发能力；本周新增 9.3k Star，总 Star 达 256.4k。",
-      "stars": "256.4k",
-      "weekly_stars": "9.3k"
+      "description": "Agent 工作流（harness）性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与研测优先开发能力；本周新增 8.7k Star，总 Star 达 256.9k。",
+      "stars": "256.9k",
+      "weekly_stars": "8.7k"
     },
     {
       "rank": 6,
       "owner": "cathrynlavery",
       "repo": "diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "为 Claude Code、Codex、Pi 打造的 38 种编辑部级图表样式，输出自包含 HTML + SVG，不依赖 Mermaid，适合技术文档与演示配图；本周新增 7.3k Star，总 Star 达 38.4k。",
-      "stars": "38.4k",
-      "weekly_stars": "7.3k"
+      "description": "为 Claude Code、Codex、Pi 打造的 38 种编辑部级图表样式，输出自包含 HTML + SVG，不依赖 Mermaid，适合技术文档与演示配图；本周新增 7.8k Star，总 Star 达 38.8k。",
+      "stars": "38.8k",
+      "weekly_stars": "7.8k"
     },
     {
       "rank": 7,
-      "owner": "blader",
-      "repo": "humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent 技能，自动去除文本中的 AI 写作痕迹，基于维基百科《AI 写作迹象》指南检测并修复空泛比喻、宣传语、破折号滥用等模式；本周新增 5.2k Star，总 Star 达 46.8k。",
-      "stars": "46.8k",
-      "weekly_stars": "5.2k"
-    },
-    {
-      "rank": 8,
       "owner": "heygen-com",
       "repo": "hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "description": "HeyGen 开源：写 HTML 即可渲染视频，专为 Agent 打造的视频生成方案，Agent 可直接产出可播放内容；本周新增 4.9k Star，总 Star 达 49k。",
-      "stars": "49k",
-      "weekly_stars": "4.9k"
+      "description": "HeyGen 开源：写 HTML 即可渲染视频，专为 Agent 打造的视频生成方案，Agent 可直接产出可播放内容；本周新增 5.1k Star，总 Star 达 49.2k。",
+      "stars": "49.2k",
+      "weekly_stars": "5.1k"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "owner": "microsoft",
       "repo": "markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "description": "微软开源的 Python 工具，将 PDF、Word、Excel、PPT 等办公文档高效转换为 Markdown，是喂给大模型做 RAG 与文档问答的常用预处理组件；本周新增 4.6k Star，总 Star 达 182.6k。",
-      "stars": "182.6k",
+      "description": "微软开源的 Python 工具，将 PDF、Word、Excel、PPT 等办公文档高效转换为 Markdown，是喂给大模型做 RAG 与文档问答的常用预处理组件；本周新增 4.7k Star，总 Star 达 183.1k。",
+      "stars": "183.1k",
+      "weekly_stars": "4.7k"
+    },
+    {
+      "rank": 9,
+      "owner": "blader",
+      "repo": "humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent 技能，自动去除文本中的 AI 写作痕迹，基于维基百科《AI 写作迹象》指南检测并修复空泛比喻、宣传语、破折号滥用等模式；本周新增 4.6k Star，总 Star 达 47.3k。",
+      "stars": "47.3k",
       "weekly_stars": "4.6k"
     },
     {
@@ -89,9 +89,9 @@
       "owner": "THU-MAIC",
       "repo": "OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "清华大学 MAIC 实验室开源的多智能体互动课堂，一键生成由 AI 教师与 AI 同学共同参与的沉浸式学习体验，自动产出课件、测验与讲解；本周新增 4.2k Star，总 Star 达 35.8k。",
-      "stars": "35.8k",
-      "weekly_stars": "4.2k"
+      "description": "清华大学 MAIC 实验室开源的多智能体互动课堂，一键生成由 AI 教师与 AI 同学共同参与的沉浸式学习体验，自动产出课件、测验与讲解；本周新增 4.5k Star，总 Star 达 36.1k。",
+      "stars": "36.1k",
+      "weekly_stars": "4.5k"
     }
   ]
 }
