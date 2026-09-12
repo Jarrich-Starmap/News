@@ -1,187 +1,187 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.09.12 · 按 ClawHub 24 小时下载趋势（trending）排序",
-  "updated": "2026.09.12",
+  "period": "2026.09.13 · 按 ClawHub 24 小时下载趋势（trending）排序",
+  "updated": "2026.09.13",
   "skills": [
     {
       "rank": 1,
-      "owner": "apidojo-io",
-      "repo": "tiktok-scraper",
-      "url": "https://clawhub.ai/apidojo-io/skills/tiktok-scraper",
-      "description": "TikTok 数据抓取技能：号称最快最省的 TikTok 抓取方案，无需登录与代理，经海量实战验证。",
-      "downloads_24h": 259,
+      "owner": "clawcall-dev",
+      "repo": "clawcall-dev",
+      "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
+      "description": "ClawCall 技能：让 AI Agent 拨打美国真实电话，自动拨号、语音沟通、处理电话菜单与等待，并回传通话记录、结果与录音链接。",
+      "downloads_24h": "1.3k",
       "source": "clawhub"
     },
     {
       "rank": 2,
-      "owner": "designed-by-ai",
-      "repo": "design-mobile-apps",
-      "url": "https://clawhub.ai/skills-sh/designed-by-ai/skills/design-mobile-apps",
-      "description": "移动应用设计技能：使用 Sleek 设计并构建移动端应用界面（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
+      "owner": "anotb",
+      "repo": "homeassistant-skill",
+      "url": "https://clawhub.ai/anotb/skills/homeassistant-skill",
+      "description": "Home Assistant 智能家居技能：通过 REST API 控制家居设备与自动化，覆盖 25 类实体。",
+      "downloads_24h": 499,
+      "source": "clawhub"
     },
     {
       "rank": 3,
-      "owner": "apidojo-io",
-      "repo": "x-scraper",
-      "url": "https://clawhub.ai/apidojo-io/skills/x-scraper",
-      "description": "推文（X/Twitter）抓取技能：最快最省成本地抓取推文数据，实战验证充分。",
-      "downloads_24h": 243,
-      "source": "clawhub"
-    },
-    {
-      "rank": 4,
-      "owner": "othmanadi",
-      "repo": "planning-with-files",
-      "url": "https://clawhub.ai/othmanadi/skills/planning-with-files",
-      "description": "基于文件的持久化规划技能：为多步 AI Agent 工作提供持续的计划与任务追踪。",
-      "downloads_24h": 251,
-      "source": "clawhub"
-    },
-    {
-      "rank": 5,
-      "owner": "flowkit-labs",
-      "repo": "reddit-automation",
-      "url": "https://clawhub.ai/skills-sh/flowkit-labs/skills/reddit-automation",
-      "description": "Reddit 自动化技能：由 flowkit-labs 团队构建，覆盖 Reddit 平台操作自动化（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
-    },
-    {
-      "rank": 6,
-      "owner": "am-will",
-      "repo": "remotion-best-practices",
-      "url": "https://clawhub.ai/am-will/skills/remotion-best-practices",
-      "description": "Remotion 最佳实践技能：使用 React 制作视频的配置、渲染与动画等最佳做法。",
-      "downloads_24h": 248,
-      "source": "clawhub"
-    },
-    {
-      "rank": 7,
-      "owner": "genmedia-labs",
-      "repo": "video-edit",
-      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/video-edit",
-      "description": "视频编辑 Pro Pack（RunComfy）：面向视频后期处理（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
-    },
-    {
-      "rank": 8,
-      "owner": "fetcher-sh",
-      "repo": "youtube-api",
-      "url": "https://clawhub.ai/fetcher-sh/skills/youtube-api",
-      "description": "YouTube API 技能：通过 fetcher.sh 按次付费（USDC/x402）访问 YouTube 数据。",
-      "downloads_24h": 178,
-      "source": "clawhub"
-    },
-    {
-      "rank": 9,
-      "owner": "mikecourt",
-      "repo": "wisdom-accountability-coach",
-      "url": "https://clawhub.ai/mikecourt/skills/wisdom-accountability-coach",
-      "description": "智慧与问责教练技能：长期记忆追踪、哲学教学与个人目标问责辅导。",
-      "downloads_24h": 207,
-      "source": "clawhub"
-    },
-    {
-      "rank": 10,
-      "owner": "genmedia-labs",
-      "repo": "wan-3-0-prime-reference-to-video",
-      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/wan-3-0-prime-reference-to-video",
-      "description": "Wan 3.0 Prime 参考图生视频技能：基于参考图生成视频（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
-    },
-    {
-      "rank": 11,
-      "owner": "clawcall-dev",
-      "repo": "clawcall-dev",
-      "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
-      "description": "ClawCall 技能：让 AI Agent 拨打美国电话并完成通话。",
-      "downloads_24h": 175,
-      "source": "clawhub"
-    },
-    {
-      "rank": 12,
-      "owner": "101-skills",
-      "repo": "ai-video-generation",
-      "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/ai-video-generation",
-      "description": "AI 视频生成技能（Superpowers 合集）：可通过 belt CLI 安装使用（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
-    },
-    {
-      "rank": 13,
-      "owner": "fetcher-sh",
-      "repo": "google-play-api",
-      "url": "https://clawhub.ai/fetcher-sh/skills/google-play-api",
-      "description": "Google Play Store API 技能：按次付费（USDC/x402）查询应用商店数据。",
-      "downloads_24h": 172,
-      "source": "clawhub"
-    },
-    {
-      "rank": 14,
-      "owner": "smitti7971",
-      "repo": "n8n-monitor",
-      "url": "https://clawhub.ai/smitti7971/skills/n8n-monitor",
-      "description": "n8n 监控技能：监控容器状态、健康度、近期日志及 CPU/内存占用。",
-      "downloads_24h": 171,
-      "source": "clawhub"
-    },
-    {
-      "rank": 15,
-      "owner": "101-skills",
-      "repo": "twitter-automation",
-      "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/twitter-automation",
-      "description": "Twitter/X 自动化技能（Superpowers 合集）：可通过 belt CLI 安装使用（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
-    },
-    {
-      "rank": 16,
-      "owner": "alexander-morris",
-      "repo": "muse",
-      "url": "https://clawhub.ai/alexander-morris/skills/muse",
-      "description": "Muse 技能：让 Agent 接入团队完整编码历史，提供上下文与记忆支持。",
-      "downloads_24h": 169,
-      "source": "clawhub"
-    },
-    {
-      "rank": 17,
-      "owner": "heygen-com",
-      "repo": "media-use",
-      "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/media-use",
-      "description": "HyperFrames 的媒体操作系统技能：解析、生成与操作媒体资源（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
-    },
-    {
-      "rank": 18,
       "owner": "cournot-ai",
       "repo": "cournot",
       "url": "https://clawhub.ai/cournot-ai/skills/cournot",
       "description": "Cournot Intelligence 技能：用自然语言提问即可完成经济与商业数据分析。",
-      "downloads_24h": 156,
+      "downloads_24h": 260,
+      "source": "clawhub"
+    },
+    {
+      "rank": 4,
+      "owner": "apidojo-io",
+      "repo": "x-scraper",
+      "url": "https://clawhub.ai/apidojo-io/skills/x-scraper",
+      "description": "推文（X/Twitter）抓取技能：最快最省成本地抓取推文数据，经大量实战验证。",
+      "downloads_24h": 230,
+      "source": "clawhub"
+    },
+    {
+      "rank": 5,
+      "owner": "apidojo-io",
+      "repo": "tiktok-scraper",
+      "url": "https://clawhub.ai/apidojo-io/skills/tiktok-scraper",
+      "description": "TikTok 数据抓取技能：无需登录与代理，号称最快最省的 TikTok 抓取方案。",
+      "downloads_24h": 219,
+      "source": "clawhub"
+    },
+    {
+      "rank": 6,
+      "owner": "pskoett",
+      "repo": "self-improving-agent",
+      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
+      "description": "自我改进 Agent 技能：捕获经验、错误与纠正，实现持续迭代优化。",
+      "downloads_24h": 154,
+      "source": "clawhub"
+    },
+    {
+      "rank": 7,
+      "owner": "fetcher-sh",
+      "repo": "google-search",
+      "url": "https://clawhub.ai/fetcher-sh/skills/google-search",
+      "description": "Google 搜索 API 替代方案：通过 fetcher.sh 提供 SERP 检索能力。",
+      "downloads_24h": 151,
+      "source": "clawhub"
+    },
+    {
+      "rank": 8,
+      "owner": "fetcher-sh",
+      "repo": "google-maps-api",
+      "url": "https://clawhub.ai/fetcher-sh/skills/google-maps-api",
+      "description": "Google Maps / Places API 替代方案：通过 fetcher.sh 提供地图与地点数据。",
+      "downloads_24h": 150,
+      "source": "clawhub"
+    },
+    {
+      "rank": 9,
+      "owner": "spclaudehome",
+      "repo": "skill-vetter",
+      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
+      "description": "技能安全审查：安装任何技能前的安全优先审查，识别红旗、权限范围与可疑模式。",
+      "downloads_24h": 128,
+      "source": "clawhub"
+    },
+    {
+      "rank": 10,
+      "owner": "steipete",
+      "repo": "gog",
+      "url": "https://clawhub.ai/steipete/skills/gog",
+      "description": "Google Workspace 命令行工具：覆盖 Gmail、日历、Drive、通讯录、Sheets 与 Docs。",
+      "downloads_24h": 101,
+      "source": "clawhub"
+    },
+    {
+      "rank": 11,
+      "owner": "yanranxiaoxi",
+      "repo": "easyeda-api",
+      "url": "https://clawhub.ai/yanranxiaoxi/skills/easyeda-api",
+      "description": "EasyEDA Pro API 技能：面向 AI Agent 的立创 EDA 专业版操作能力。",
+      "downloads_24h": 92,
+      "source": "clawhub"
+    },
+    {
+      "rank": 12,
+      "owner": "ccy123abcd",
+      "repo": "mode-switch-machine-stack",
+      "url": "https://clawhub.ai/ccy123abcd/skills/mode-switch-machine-stack",
+      "description": "Mode Switch Kit 技能：一条命令切换 VPN、Agent 与服务模式。",
+      "downloads_24h": 90,
+      "source": "clawhub"
+    },
+    {
+      "rank": 13,
+      "owner": "yjkj999999",
+      "repo": "a-share-dragon-tiger-report",
+      "url": "https://clawhub.ai/yjkj999999/skills/a-share-dragon-tiger-report",
+      "description": "A股涨停板龙虎榜深度研判+财富密码策略：生成 21 章结构报告，含 22 条计算口径与四层漏斗筛选。",
+      "downloads_24h": 87,
+      "source": "clawhub"
+    },
+    {
+      "rank": 14,
+      "owner": "autogame-17",
+      "repo": "feishu-evolver-wrapper",
+      "url": "https://clawhub.ai/autogame-17/skills/feishu-evolver-wrapper",
+      "description": "飞书 Evolver 封装技能（已废弃）：相关功能已不再维护。",
+      "downloads_24h": 90,
+      "source": "clawhub"
+    },
+    {
+      "rank": 15,
+      "owner": "jimcollinson",
+      "repo": "x0x",
+      "url": "https://clawhub.ai/jimcollinson/skills/x0x",
+      "description": "x0x 技能：为 AI Agent 提供安全的点对点组网能力（gossip 广播等）。",
+      "downloads_24h": 89,
+      "source": "clawhub"
+    },
+    {
+      "rank": 16,
+      "owner": "zuoyunlai",
+      "repo": "lunheng-article-pipeline",
+      "url": "https://clawhub.ai/zuoyunlai/skills/lunheng-article-pipeline",
+      "description": "论衡 — 严肃长文流水线：学术/商业评论/行业分析/公众号深度长文，三角验证+M门+F失败模式防御+数据信任 3 档+修订≤2 轮。",
+      "downloads_24h": 83,
+      "source": "clawhub"
+    },
+    {
+      "rank": 17,
+      "owner": "xerg",
+      "repo": "xerg",
+      "url": "https://clawhub.ai/xerg/skills/xerg",
+      "description": "xerg 技能：审计并削减 AI Agent 的运行时花销（按美元计）。",
+      "downloads_24h": 83,
+      "source": "clawhub"
+    },
+    {
+      "rank": 18,
+      "owner": "griffmurder",
+      "repo": "taskbullet",
+      "url": "https://clawhub.ai/griffmurder/skills/taskbullet",
+      "description": "TaskBullet 技能：把最后一公里的人工任务交给 TaskBullet 虚拟助理执行。",
+      "downloads_24h": 83,
       "source": "clawhub"
     },
     {
       "rank": 19,
-      "owner": "wyb92",
-      "repo": "mysteel-pricesearch",
-      "url": "https://clawhub.ai/wyb92/skills/mysteel-pricesearch",
-      "description": "Mysteel 大宗商品价格查询技能：查询期现货价格、宏观指标、产业链供需与库存、金融市场数据等。",
-      "downloads_24h": 165,
+      "owner": "arunjeetsingh",
+      "repo": "open-pr",
+      "url": "https://clawhub.ai/arunjeetsingh/skills/open-pr",
+      "description": "Open Pull Request 技能：构建、校验并提交可直接评审的 PR。",
+      "downloads_24h": 80,
       "source": "clawhub"
     },
     {
       "rank": 20,
-      "owner": "heygen-com",
-      "repo": "hyperframes",
-      "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/hyperframes",
-      "description": "HyperFrames 入口技能：用 HTML 渲染视频的框架说明（skills.sh 同步）。",
-      "downloads_24h": null,
-      "source": "skills.sh"
+      "owner": "double6-ai",
+      "repo": "double6-ppt-cli",
+      "url": "https://clawhub.ai/double6-ai/skills/double6-ppt-cli",
+      "description": "Double6 PPT CLI：基于 ppt-master 与 iOfficeAI/OfficeCLI，生成、套用模板、读取、检查并闭环修复原生 PPT。",
+      "downloads_24h": 79,
+      "source": "clawhub"
     }
   ]
 }
