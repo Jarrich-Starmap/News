@@ -1,15 +1,15 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.09.13 · 按 ClawHub 24 小时下载趋势（trending）排序",
-  "updated": "2026.09.13",
+  "period": "2026.09.14 · 按 ClawHub 24 小时下载趋势（trending）排序",
+  "updated": "2026.09.14",
   "skills": [
     {
       "rank": 1,
       "owner": "clawcall-dev",
       "repo": "clawcall-dev",
       "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
-      "description": "ClawCall 技能：让 AI Agent 拨打美国真实电话，自动拨号、语音沟通、处理电话菜单与等待，并回传通话记录、结果与录音链接。",
-      "downloads_24h": "1.3k",
+      "description": "ClawCall 技能：让 AI Agent 拨打真实的美国电话，自动拨号、语音沟通、处理电话菜单与等待，并回传通话记录、结果与录音链接。",
+      "downloads_24h": "1.4k",
       "source": "clawhub"
     },
     {
@@ -18,7 +18,7 @@
       "repo": "homeassistant-skill",
       "url": "https://clawhub.ai/anotb/skills/homeassistant-skill",
       "description": "Home Assistant 智能家居技能：通过 REST API 控制家居设备与自动化，覆盖 25 类实体。",
-      "downloads_24h": 499,
+      "downloads_24h": 377,
       "source": "clawhub"
     },
     {
@@ -27,70 +27,70 @@
       "repo": "cournot",
       "url": "https://clawhub.ai/cournot-ai/skills/cournot",
       "description": "Cournot Intelligence 技能：用自然语言提问即可完成经济与商业数据分析。",
-      "downloads_24h": 260,
+      "downloads_24h": 255,
       "source": "clawhub"
     },
     {
       "rank": 4,
-      "owner": "apidojo-io",
-      "repo": "x-scraper",
-      "url": "https://clawhub.ai/apidojo-io/skills/x-scraper",
-      "description": "推文（X/Twitter）抓取技能：最快最省成本地抓取推文数据，经大量实战验证。",
-      "downloads_24h": 230,
-      "source": "clawhub"
-    },
-    {
-      "rank": 5,
-      "owner": "apidojo-io",
-      "repo": "tiktok-scraper",
-      "url": "https://clawhub.ai/apidojo-io/skills/tiktok-scraper",
-      "description": "TikTok 数据抓取技能：无需登录与代理，号称最快最省的 TikTok 抓取方案。",
-      "downloads_24h": 219,
-      "source": "clawhub"
-    },
-    {
-      "rank": 6,
       "owner": "pskoett",
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "自我改进 Agent 技能：捕获经验、错误与纠正，实现持续迭代优化。",
-      "downloads_24h": 154,
+      "downloads_24h": 188,
+      "source": "clawhub"
+    },
+    {
+      "rank": 5,
+      "owner": "spclaudehome",
+      "repo": "skill-vetter",
+      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
+      "description": "技能安全审查：安装任何技能前先做安全优先审查，识别红旗、权限范围与可疑模式。",
+      "downloads_24h": 146,
+      "source": "clawhub"
+    },
+    {
+      "rank": 6,
+      "owner": "apidojo-io",
+      "repo": "x-scraper",
+      "url": "https://clawhub.ai/apidojo-io/skills/x-scraper",
+      "description": "推文（X/Twitter）抓取技能：主打最快最省成本，经大量实战验证。",
+      "downloads_24h": 127,
       "source": "clawhub"
     },
     {
       "rank": 7,
-      "owner": "fetcher-sh",
-      "repo": "google-search",
-      "url": "https://clawhub.ai/fetcher-sh/skills/google-search",
-      "description": "Google 搜索 API 替代方案：通过 fetcher.sh 提供 SERP 检索能力。",
-      "downloads_24h": 151,
+      "owner": "apidojo-io",
+      "repo": "tiktok-scraper",
+      "url": "https://clawhub.ai/apidojo-io/skills/tiktok-scraper",
+      "description": "TikTok 数据抓取技能：无需登录与代理，号称最快最省的 TikTok 抓取方案。",
+      "downloads_24h": 117,
       "source": "clawhub"
     },
     {
       "rank": 8,
-      "owner": "fetcher-sh",
-      "repo": "google-maps-api",
-      "url": "https://clawhub.ai/fetcher-sh/skills/google-maps-api",
-      "description": "Google Maps / Places API 替代方案：通过 fetcher.sh 提供地图与地点数据。",
-      "downloads_24h": 150,
+      "owner": "liupengyang-1008",
+      "repo": "dsh-plugin-development",
+      "url": "https://clawhub.ai/liupengyang-1008/skills/dsh-plugin-development",
+      "description": "DSH（DeepSeek Harness）插件开发技能：开发期辅助在 DSH 平台上构建插件。",
+      "downloads_24h": 103,
       "source": "clawhub"
     },
     {
       "rank": 9,
-      "owner": "spclaudehome",
-      "repo": "skill-vetter",
-      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
-      "description": "技能安全审查：安装任何技能前的安全优先审查，识别红旗、权限范围与可疑模式。",
-      "downloads_24h": 128,
-      "source": "clawhub"
-    },
-    {
-      "rank": 10,
       "owner": "steipete",
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
       "description": "Google Workspace 命令行工具：覆盖 Gmail、日历、Drive、通讯录、Sheets 与 Docs。",
-      "downloads_24h": 101,
+      "downloads_24h": 116,
+      "source": "clawhub"
+    },
+    {
+      "rank": 10,
+      "owner": "benkalsky",
+      "repo": "wordpress-api-pro",
+      "url": "https://clawhub.ai/benkalsky/skills/wordpress-api-pro",
+      "description": "生产级 WordPress REST API 集成：管理文章、页面等内容。",
+      "downloads_24h": 113,
       "source": "clawhub"
     },
     {
@@ -99,88 +99,88 @@
       "repo": "easyeda-api",
       "url": "https://clawhub.ai/yanranxiaoxi/skills/easyeda-api",
       "description": "EasyEDA Pro API 技能：面向 AI Agent 的立创 EDA 专业版操作能力。",
-      "downloads_24h": 92,
+      "downloads_24h": 106,
       "source": "clawhub"
     },
     {
       "rank": 12,
-      "owner": "ccy123abcd",
-      "repo": "mode-switch-machine-stack",
-      "url": "https://clawhub.ai/ccy123abcd/skills/mode-switch-machine-stack",
-      "description": "Mode Switch Kit 技能：一条命令切换 VPN、Agent 与服务模式。",
-      "downloads_24h": 90,
+      "owner": "binggg",
+      "repo": "cloudbase",
+      "url": "https://clawhub.ai/binggg/skills/cloudbase",
+      "description": "腾讯云开发 CloudBase 技能：覆盖开发、设计、构建、部署、调试与迁移等全流程。",
+      "downloads_24h": 95,
       "source": "clawhub"
     },
     {
       "rank": 13,
-      "owner": "yjkj999999",
-      "repo": "a-share-dragon-tiger-report",
-      "url": "https://clawhub.ai/yjkj999999/skills/a-share-dragon-tiger-report",
-      "description": "A股涨停板龙虎榜深度研判+财富密码策略：生成 21 章结构报告，含 22 条计算口径与四层漏斗筛选。",
-      "downloads_24h": 87,
+      "owner": "fetcher-sh",
+      "repo": "google-news",
+      "url": "https://clawhub.ai/fetcher-sh/skills/google-news",
+      "description": "Google News API 替代方案：在 fetcher.sh 上按次调用（USDC 经 x402 支付）。",
+      "downloads_24h": 86,
       "source": "clawhub"
     },
     {
       "rank": 14,
-      "owner": "autogame-17",
-      "repo": "feishu-evolver-wrapper",
-      "url": "https://clawhub.ai/autogame-17/skills/feishu-evolver-wrapper",
-      "description": "飞书 Evolver 封装技能（已废弃）：相关功能已不再维护。",
-      "downloads_24h": 90,
+      "owner": "jarvis-drakon",
+      "repo": "shieldcortex",
+      "url": "https://clawhub.ai/jarvis-drakon/skills/shieldcortex",
+      "description": "AI Agent 的记忆与防护：语义召回、知识图谱与记忆衰减。",
+      "downloads_24h": 92,
       "source": "clawhub"
     },
     {
       "rank": 15,
-      "owner": "jimcollinson",
-      "repo": "x0x",
-      "url": "https://clawhub.ai/jimcollinson/skills/x0x",
-      "description": "x0x 技能：为 AI Agent 提供安全的点对点组网能力（gossip 广播等）。",
-      "downloads_24h": 89,
+      "owner": "lahfir",
+      "repo": "agent-desktop",
+      "url": "https://clawhub.ai/lahfir/skills/agent-desktop",
+      "description": "基于原生 OS 无障碍树的可靠 computer use 能力。",
+      "downloads_24h": 87,
       "source": "clawhub"
     },
     {
       "rank": 16,
-      "owner": "zuoyunlai",
-      "repo": "lunheng-article-pipeline",
-      "url": "https://clawhub.ai/zuoyunlai/skills/lunheng-article-pipeline",
-      "description": "论衡 — 严肃长文流水线：学术/商业评论/行业分析/公众号深度长文，三角验证+M门+F失败模式防御+数据信任 3 档+修订≤2 轮。",
-      "downloads_24h": 83,
+      "owner": "autogame-17",
+      "repo": "feishu-evolver-wrapper",
+      "url": "https://clawhub.ai/autogame-17/skills/feishu-evolver-wrapper",
+      "description": "飞书 Evolver 封装技能（已废弃）：相关功能已不再维护。",
+      "downloads_24h": 87,
       "source": "clawhub"
     },
     {
       "rank": 17,
-      "owner": "xerg",
-      "repo": "xerg",
-      "url": "https://clawhub.ai/xerg/skills/xerg",
-      "description": "xerg 技能：审计并削减 AI Agent 的运行时花销（按美元计）。",
-      "downloads_24h": 83,
+      "owner": "afonsoft",
+      "repo": "write-specs",
+      "url": "https://clawhub.ai/afonsoft/skills/write-specs",
+      "description": "写 SPEC 技能：在编码前创建或完善功能 SPEC（SDD）。",
+      "downloads_24h": 84,
       "source": "clawhub"
     },
     {
       "rank": 18,
-      "owner": "griffmurder",
-      "repo": "taskbullet",
-      "url": "https://clawhub.ai/griffmurder/skills/taskbullet",
-      "description": "TaskBullet 技能：把最后一公里的人工任务交给 TaskBullet 虚拟助理执行。",
+      "owner": "linlannet",
+      "repo": "assist-skills",
+      "url": "https://clawhub.ai/linlannet/skills/assist-skills",
+      "description": "AI 开发助手项目接入技能：内置 deploy 脚本，支持双击、右键「发送到」与命令行部署。",
       "downloads_24h": 83,
       "source": "clawhub"
     },
     {
       "rank": 19,
-      "owner": "arunjeetsingh",
-      "repo": "open-pr",
-      "url": "https://clawhub.ai/arunjeetsingh/skills/open-pr",
-      "description": "Open Pull Request 技能：构建、校验并提交可直接评审的 PR。",
-      "downloads_24h": 80,
+      "owner": "benkalsky",
+      "repo": "hostinger-mcp",
+      "url": "https://clawhub.ai/benkalsky/skills/hostinger-mcp",
+      "description": "Hostinger 基础设施运维指南：管理 VPS 等资源。",
+      "downloads_24h": 83,
       "source": "clawhub"
     },
     {
       "rank": 20,
-      "owner": "double6-ai",
-      "repo": "double6-ppt-cli",
-      "url": "https://clawhub.ai/double6-ai/skills/double6-ppt-cli",
-      "description": "Double6 PPT CLI：基于 ppt-master 与 iOfficeAI/OfficeCLI，生成、套用模板、读取、检查并闭环修复原生 PPT。",
-      "downloads_24h": 79,
+      "owner": "fetcher-sh",
+      "repo": "youtube-api",
+      "url": "https://clawhub.ai/fetcher-sh/skills/youtube-api",
+      "description": "YouTube API 替代方案：在 fetcher.sh 上按次调用（USDC 经 x402 支付）。",
+      "downloads_24h": 82,
       "source": "clawhub"
     }
   ]
