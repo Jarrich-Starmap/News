@@ -5,69 +5,60 @@
   "projects": [
     {
       "rank": 1,
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "ADHD 友好的 Coding Agent 技能，阻止 AI 把关键结论埋在长篇大论里，直接给出答案要点；本周新增 17.9k Star，总 Star 达 46.8k。",
-      "stars": "46.8k",
-      "weekly_stars": "17.9k"
-    },
-    {
-      "rank": 2,
       "owner": "bilawalsidhu",
       "repo": "gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "浏览器里的卫星视角模拟器，用真实公开数据在 3D 地球上做开源空间情报分析，由实时语音 Agent 通过工具链操控镜头；本周新增 15.2k Star，总 Star 达 35.6k。",
-      "stars": "35.6k",
-      "weekly_stars": "15.2k"
+      "description": "浏览器里的卫星视角模拟器，用真实公开数据在 3D 地球上做开源空间情报分析，由实时语音 Agent 通过工具链操控镜头；本周新增 14.8k Star，总 Star 达 35.9k。",
+      "stars": "35.9k",
+      "weekly_stars": "14.8k"
+    },
+    {
+      "rank": 2,
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "ADHD 友好的 Coding Agent 技能，阻止 AI 把关键结论埋在长篇大论里，直接给出答案要点；本周新增 13.7k Star，总 Star 达 46.9k。",
+      "stars": "46.9k",
+      "weekly_stars": "13.7k"
     },
     {
       "rank": 3,
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "让 AI Agent 像团队里最懒的资深开发一样思考：最好的代码是没写的代码，通过最大化复用、抑制重复造轮子来提升效率；本周新增 7.5k Star，总 Star 达 140.2k。",
-      "stars": "140.2k",
-      "weekly_stars": "7.5k"
-    },
-    {
-      "rank": 4,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent 工作流（harness）性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与研测优先开发能力；本周新增 5.4k Star，总 Star 达 260.0k。",
-      "stars": "260.0k",
-      "weekly_stars": "5.4k"
-    },
-    {
-      "rank": 5,
       "owner": "alibaba",
       "repo": "open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里巴巴开源的高性能代码评审工具，采用确定性流水线 + LLM Agent 混合架构，支持行级精确评论，内置 NPE、线程安全、XSS、SQL 注入等多语言规则集，兼容 OpenAI 与 Anthropic；本周新增 5.2k Star，总 Star 达 31.3k。",
-      "stars": "31.3k",
-      "weekly_stars": "5.2k"
+      "description": "阿里巴巴开源的高性能代码评审工具，采用确定性流水线 + LLM Agent 混合架构，支持行级精确评论，内置 NPE、线程安全、XSS、SQL 注入等多语言规则集，兼容 OpenAI 与 Anthropic；本周新增 8.6k Star，总 Star 达 31.8k。",
+      "stars": "31.8k",
+      "weekly_stars": "8.6k"
+    },
+    {
+      "rank": 4,
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "让 AI Agent 像团队里最懒的资深开发一样思考：最好的代码是没写的代码，通过最大化复用、抑制重复造轮子来提升效率；本周新增 7.2k Star，总 Star 达 140.4k。",
+      "stars": "140.4k",
+      "weekly_stars": "7.2k"
+    },
+    {
+      "rank": 5,
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "Agent 工作流（harness）性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与研测优先开发能力；本周新增 5.3k Star，总 Star 达 260.3k。",
+      "stars": "260.3k",
+      "weekly_stars": "5.3k"
     },
     {
       "rank": 6,
       "owner": "obra",
       "repo": "superpowers",
       "url": "https://github.com/obra/superpowers",
-      "description": "可落地的 Agent 技能框架与软件开发方法论，把技能、流程与工程规范打包成可复用体系，让 AI 编码助手真正按工程节奏交付；本周新增 4.2k Star，总 Star 达 287.6k。",
+      "description": "可落地的 Agent 技能框架与软件开发方法论，把技能、流程与工程规范打包成可复用体系，让 AI 编码助手真正按工程节奏交付；本周新增 4.0k Star，总 Star 达 287.6k。",
       "stars": "287.6k",
-      "weekly_stars": "4.2k"
+      "weekly_stars": "4.0k"
     },
     {
       "rank": 7,
-      "owner": "THU-MAIC",
-      "repo": "OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "清华大学 MAIC 实验室开源的多智能体互动课堂，一键生成由 AI 教师与 AI 同学共同参与的沉浸式学习体验，自动产出课件、测验与讲解；本周新增 3.7k Star，总 Star 达 37.4k。",
-      "stars": "37.4k",
-      "weekly_stars": "3.7k"
-    },
-    {
-      "rank": 8,
       "owner": "TauricResearch",
       "repo": "TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
@@ -76,21 +67,30 @@
       "weekly_stars": "3.4k"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "owner": "blader",
       "repo": "humanizer",
       "url": "https://github.com/blader/humanizer",
-      "description": "Agent 技能，用于去除文本中的 AI 生成痕迹，识别并改写 20 多种「AI 味」句式，让写作更自然；本周新增 3.2k Star，总 Star 达 49.1k。",
-      "stars": "49.1k",
+      "description": "Agent 技能，用于去除文本中的 AI 生成痕迹，识别并改写 20 多种「AI 味」句式，让写作更自然；本周新增 3.3k Star，总 Star 达 49.2k。",
+      "stars": "49.2k",
+      "weekly_stars": "3.3k"
+    },
+    {
+      "rank": 9,
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "清华大学 MAIC 实验室开源的多智能体互动课堂，一键生成由 AI 教师与 AI 同学共同参与的沉浸式学习体验，自动产出课件、测验与讲解；本周新增 3.2k Star，总 Star 达 37.4k。",
+      "stars": "37.4k",
       "weekly_stars": "3.2k"
     },
     {
       "rank": 10,
-      "owner": "microsoft",
-      "repo": "markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "微软开源的 Python 工具，将 PDF、Word、Excel、PPT 等办公文档高效转换为 Markdown，是喂给大模型做 RAG 与文档问答的常用预处理组件；本周新增 3.0k Star，总 Star 达 184.8k。",
-      "stars": "184.8k",
+      "owner": "Tencent",
+      "repo": "WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "腾讯开源的 LLM 知识平台，把原始文档转成可查询的 RAG、自主推理 Agent 与自维护 Wiki，打通文档入库到问答的一体化链路；本周新增 3.0k Star，总 Star 达 25.3k。",
+      "stars": "25.3k",
       "weekly_stars": "3.0k"
     }
   ]
