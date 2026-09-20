@@ -1,169 +1,151 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.09.14 – 09.20 · 按本周新增 Star 数排序",
-  "updated": "2026.09.20",
+  "period": "2026.09.15 – 09.21 · 按本周新增 Star 数排序",
+  "updated": "2026.09.21",
   "projects": [
     {
       "rank": 1,
       "owner": "alibaba",
       "repo": "open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里巴巴开源的高性能代码评审工具，采用确定性流水线 + LLM Agent 混合架构，支持行级精确评论，内置 NPE、线程安全、XSS、SQL 注入等多语言规则集，兼容 OpenAI 与 Anthropic 接口。本周新增 15.0k Star，总 Star 达 37.4k。",
-      "stars": "37.4k",
-      "weekly_stars": "15.0k"
+      "description": "阿里巴巴开源的高性能代码评审工具，采用确定性流水线 + LLM Agent 混合架构，支持行级精确评论，内置 NPE、线程安全、XSS、SQL 注入等多语言规则集，兼容 OpenAI 与 Anthropic 接口。本周新增 15.5k Star，总 Star 达 38.3k。",
+      "stars": "38.3k",
+      "weekly_stars": "15.5k"
     },
     {
       "rank": 2,
       "owner": "affaan-m",
       "repo": "ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent 工作流（harness）性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与研测优先开发能力。本周新增 6.3k Star，总 Star 达 262.7k。",
-      "stars": "262.7k",
-      "weekly_stars": "6.3k"
+      "description": "Agent 工作流（harness）性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与研测优先开发能力。本周新增 6.5k Star，总 Star 达 263.5k。",
+      "stars": "263.5k",
+      "weekly_stars": "6.5k"
     },
     {
       "rank": 3,
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "ADHD 友好的 Coding Agent 技能，阻止 AI 把关键结论埋在长篇大论里，直接抛出答案要点。本周新增 5.6k Star，总 Star 达 48.6k。",
-      "stars": "48.6k",
-      "weekly_stars": "5.6k"
-    },
-    {
-      "rank": 4,
       "owner": "stablyai",
       "repo": "orca",
       "url": "https://github.com/stablyai/orca",
-      "description": "面向并行 Agent 舰队的 ADE（Agent 开发环境），可用自有订阅运行任意 Coding Agent，覆盖桌面端、移动端与远程运行时。本周新增 5.4k Star，总 Star 达 72.5k。",
-      "stars": "72.5k",
-      "weekly_stars": "5.4k"
+      "description": "面向并行 Agent 舰队的 ADE（Agent 开发环境），可用自有订阅运行任意 Coding Agent，覆盖桌面端、移动端与远程运行时。本周新增 5.8k Star，总 Star 达 73.4k。",
+      "stars": "73.4k",
+      "weekly_stars": "5.8k"
+    },
+    {
+      "rank": 4,
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "ADHD 友好的 Coding Agent 技能，阻止 AI 把关键结论埋在长篇大论里，直接抛出答案要点。本周新增 5.2k Star，总 Star 达 49.1k。",
+      "stars": "49.1k",
+      "weekly_stars": "5.2k"
     },
     {
       "rank": 5,
       "owner": "Tencent",
       "repo": "WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
-      "description": "腾讯开源的 LLM 知识平台，把原始文档转成可查询的 RAG、自主推理 Agent 与自维护 Wiki，打通文档入库到问答的一体化链路。本周新增 4.9k Star，总 Star 达 27.4k。",
-      "stars": "27.4k",
-      "weekly_stars": "4.9k"
+      "description": "腾讯开源的 LLM 知识平台，把原始文档转成可查询的 RAG、自主推理 Agent 与自维护 Wiki，打通文档入库到问答的一体化链路。本周新增 5.2k Star，总 Star 达 27.9k。",
+      "stars": "27.9k",
+      "weekly_stars": "5.2k"
     },
     {
       "rank": 6,
-      "owner": "Panniantong",
-      "repo": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "给 AI Agent 装上「看全网」的眼睛，用一个 CLI 免 API 费用地读取与搜索 Twitter、Reddit、YouTube、GitHub、B 站、小红书。本周新增 3.9k Star，总 Star 达 83.4k。",
-      "stars": "83.4k",
-      "weekly_stars": "3.9k"
-    },
-    {
-      "rank": 7,
       "owner": "addyosmani",
       "repo": "agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "description": "面向 AI 编码 Agent 的生产级工程技能集合，把资深工程师的实战经验沉淀为可直接调用的技能。本周新增 3.4k Star，总 Star 达 96.9k。",
-      "stars": "96.9k",
-      "weekly_stars": "3.4k"
+      "description": "面向 AI 编码 Agent 的生产级工程技能集合，把资深工程师的实战经验沉淀为可直接调用的技能。本周新增 4.0k Star，总 Star 达 97.6k。",
+      "stars": "97.6k",
+      "weekly_stars": "4.0k"
+    },
+    {
+      "rank": 7,
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "给 AI Agent 装上「看全网」的眼睛，用一个 CLI 免 API 费用地读取与搜索 Twitter、Reddit、YouTube、GitHub、B 站、小红书。本周新增 3.7k Star，总 Star 达 83.8k。",
+      "stars": "83.8k",
+      "weekly_stars": "3.7k"
     },
     {
       "rank": 8,
       "owner": "blader",
       "repo": "humanizer",
       "url": "https://github.com/blader/humanizer",
-      "description": "Agent 技能，用于去除文本中的 AI 生成痕迹，识别并改写多类「AI 味」句式，让写作更自然。本周新增 3.0k Star，总 Star 达 50.2k。",
-      "stars": "50.2k",
+      "description": "Agent 技能，用于去除文本中的 AI 生成痕迹，识别并改写多类「AI 味」句式，让写作更自然。本周新增 3.0k Star，总 Star 达 50.6k。",
+      "stars": "50.6k",
       "weekly_stars": "3.0k"
     },
     {
       "rank": 9,
-      "owner": "microsoft",
-      "repo": "markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "微软出品的文档转 Markdown 工具，把 PDF、Office 等各类格式统一转成适合 LLM 与 Agent 消费的 Markdown，是 RAG 与知识库流水线的常用前置件。本周新增 2.8k Star，总 Star 达 185.6k。",
-      "stars": "185.6k",
-      "weekly_stars": "2.8k"
-    },
-    {
-      "rank": 10,
       "owner": "heygen-com",
       "repo": "hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "description": "HeyGen 的「写 HTML 就能渲染视频」方案，为 Agent 而生的视频生成流水线，用前端技术栈直接产出成片。本周新增 2.5k Star，总 Star 达 51.6k。",
-      "stars": "51.6k",
+      "description": "HeyGen 的「写 HTML 就能渲染视频」方案，为 Agent 而生的视频生成流水线，用前端技术栈直接产出成片。本周新增 2.5k Star，总 Star 达 51.9k。",
+      "stars": "51.9k",
       "weekly_stars": "2.5k"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "owner": "anthropics",
       "repo": "claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "description": "Anthropic 的终端 Agent 编码工具，理解代码库，用自然语言完成日常任务、代码解读与 Git 工作流操作。本周新增 2.0k Star，总 Star 达 146.6k。",
-      "stars": "146.6k",
-      "weekly_stars": "2.0k"
+      "description": "Anthropic 的终端 Agent 编码工具，理解代码库，用自然语言完成日常任务、代码解读与 Git 工作流操作。本周新增 2.3k Star，总 Star 达 147.0k。",
+      "stars": "147.0k",
+      "weekly_stars": "2.3k"
+    },
+    {
+      "rank": 11,
+      "owner": "petergyang",
+      "repo": "no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "description": "写作净化技能，识别并清除 20 余种「AI 味」套路表达，让文稿回归自然笔触。本周新增 1.8k Star，总 Star 达 10.8k。",
+      "stars": "10.8k",
+      "weekly_stars": "1.8k"
     },
     {
       "rank": 12,
       "owner": "danny-avila",
       "repo": "LibreChat",
       "url": "https://github.com/danny-avila/LibreChat",
-      "description": "增强版 ChatGPT 克隆，内置 Agent、MCP、技能与多模型切换（Anthropic、OpenAI、DeepSeek、Gemini、Groq 等），支持代码解释器、工件与多用户安全认证，可自托管。本周新增 1.6k Star，总 Star 达 44.4k。",
-      "stars": "44.4k",
+      "description": "增强版 ChatGPT 克隆，内置 Agent、MCP、技能与多模型切换（Anthropic、OpenAI、DeepSeek、Gemini、Groq 等），支持代码解释器、工件与多用户安全认证，可自托管。本周新增 1.6k Star，总 Star 达 44.5k。",
+      "stars": "44.5k",
       "weekly_stars": "1.6k"
     },
     {
       "rank": 13,
-      "owner": "mksglu",
-      "repo": "context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "面向 AI 编码 Agent 的上下文窗口优化方案，沙箱化工具输出（减少 98%）、持久化会话记忆，并通过 MCP + hooks 在 17 个平台上统一路由。本周新增 1.4k Star，总 Star 达 23.6k。",
-      "stars": "23.6k",
-      "weekly_stars": "1.4k"
-    },
-    {
-      "rank": 14,
-      "owner": "huggingface",
-      "repo": "transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "Hugging Face 的模型定义框架，覆盖文本、视觉、音频与多模态模型的推理与训练，是开源大模型生态的基石。本周新增 1.3k Star，总 Star 达 166.4k。",
-      "stars": "166.4k",
-      "weekly_stars": "1.3k"
-    },
-    {
-      "rank": 15,
-      "owner": "max-sixty",
-      "repo": "worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Git worktree 管理 CLI，专为并行 AI Agent 工作流设计，让多分支并行开发互不干扰。本周新增 1.1k Star，总 Star 达 8.1k。",
-      "stars": "8.1k",
-      "weekly_stars": "1.1k"
-    },
-    {
-      "rank": 16,
-      "owner": "kunchenguid",
-      "repo": "firstmate",
-      "url": "https://github.com/kunchenguid/firstmate",
-      "description": "一个 Agent 负责对话、一队 Agent 负责交付的协作框架，把多 Agent 编排收拢到单一入口。本周新增 1.1k Star，总 Star 达 6.7k。",
-      "stars": "6.7k",
-      "weekly_stars": "1.1k"
-    },
-    {
-      "rank": 17,
       "owner": "anthropics",
       "repo": "knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Anthropic 面向知识工作者的开源插件库，为 Claude Cowork 提供开箱即用的工作流插件。本周新增 1.0k Star，总 Star 达 25.1k。",
-      "stars": "25.1k",
-      "weekly_stars": "1.0k"
+      "description": "Anthropic 面向知识工作者的开源插件库，为 Claude Cowork 提供开箱即用的工作流插件。本周新增 1.3k Star，总 Star 达 25.3k。",
+      "stars": "25.3k",
+      "weekly_stars": "1.3k"
     },
     {
-      "rank": 18,
-      "owner": "openai",
-      "repo": "plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI 官方插件仓库，为生态提供标准化的插件集合与接入方式。本周新增 522 Star，总 Star 达 7.0k。",
-      "stars": "7.0k",
-      "weekly_stars": "522"
+      "rank": 14,
+      "owner": "mksglu",
+      "repo": "context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "面向 AI 编码 Agent 的上下文窗口优化方案，沙箱化工具输出（减少 98%）、持久化会话记忆，并通过 MCP + hooks 在 17 个平台上统一路由。本周新增 1.2k Star，总 Star 达 23.8k。",
+      "stars": "23.8k",
+      "weekly_stars": "1.2k"
+    },
+    {
+      "rank": 15,
+      "owner": "cline",
+      "repo": "cline",
+      "url": "https://github.com/cline/cline",
+      "description": "以 SDK、IDE 扩展或 CLI 助手三种形态提供的自主编码 Agent，可在编辑器内完成多步任务的自主执行。本周新增 1.2k Star，总 Star 达 68.9k。",
+      "stars": "68.9k",
+      "weekly_stars": "1.2k"
+    },
+    {
+      "rank": 16,
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Git worktree 管理 CLI，专为并行 AI Agent 工作流设计，让多分支并行开发互不干扰。本周新增 822 Star，总 Star 达 8.2k。",
+      "stars": "8.2k",
+      "weekly_stars": "822"
     }
   ]
 }
