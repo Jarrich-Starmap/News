@@ -1,167 +1,167 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.09.22 · 按 ClawHub 热门趋势排序",
-  "updated": "2026.09.22",
+  "period": "2026.09.23 · 按 ClawHub 热门趋势排序",
+  "updated": "2026.09.23",
   "projects": [
     {
       "rank": 1,
       "owner": "clawcall-dev",
       "repo": "clawcall-dev",
       "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
-      "description": "让 AI Agent 拨打真实的美国电话：自动处理等待与电话菜单，可完成确认、改期、取消、预订、跟进、查单等事务，支持转接真人、语音留言、把用户接入实时通话；不适用于短信、邮件与国际通话。",
-      "downloads": "1.2k"
+      "description": "让 AI Agent 代打美国电话：处理等待与电话菜单，预约/改约/取消/查询订单，支持留言与转接真人；不适用于短信、邮件与国际通话",
+      "downloads": "1.6k"
     },
     {
       "rank": 2,
       "owner": "skills-sh/101-skills/superpowers",
       "repo": "ai-image-generation",
       "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/ai-image-generation",
-      "description": "通过 belt CLI（npx skills add belt-sh/cli）调用 50+ AI 模型生成图片。",
-      "downloads": ""
+      "description": "通过 belt CLI 调用 AI 模型生成与编辑图片",
+      "downloads": "355k"
     },
     {
       "rank": 3,
       "owner": "cournot-ai",
       "repo": "cournot",
       "url": "https://clawhub.ai/cournot-ai/skills/cournot",
-      "description": "用自然语言向 Cournot 查询加密事件预测市场的概率，返回结构化概率、被评估的具体主张及其依据来源。",
-      "downloads": "265"
+      "description": "用自然语言查询 Cournot 预测市场的概率",
+      "downloads": "276"
     },
     {
       "rank": 4,
       "owner": "anotb",
       "repo": "homeassistant-skill",
       "url": "https://clawhub.ai/anotb/skills/homeassistant-skill",
-      "description": "通过 REST API 控制 Home Assistant 的设备与自动化，覆盖灯光、空调、门锁、在家状态、天气、日历、通知、脚本等 25 类实体域，适用于智能家居设备与自动化相关提问。",
-      "downloads": "296"
+      "description": "通过 REST API 控制 Home Assistant 设备与自动化，覆盖灯光、空调、门锁、天气、日历等 25 类实体域",
+      "downloads": "304"
     },
     {
       "rank": 5,
       "owner": "skills-sh/101-skills/superpowers",
       "repo": "ai-video-generation",
       "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/ai-video-generation",
-      "description": "通过 belt CLI（npx skills add belt-sh/cli）调用 AI 模型生成视频。",
-      "downloads": ""
+      "description": "通过 belt CLI 调用 AI 模型生成视频",
+      "downloads": "355k"
     },
     {
       "rank": 6,
-      "owner": "fangkelvin",
-      "repo": "find-skills-skill",
-      "url": "https://clawhub.ai/fangkelvin/skills/find-skills-skill",
-      "description": "从多个来源搜索与发现 OpenClaw 技能，用于查找可用技能、检索特定功能或探索新技能。",
-      "downloads": "185"
+      "owner": "pskoett",
+      "repo": "self-improving-agent",
+      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
+      "description": "把经验、错误与纠正记录到 markdown 文件以实现持续改进，重要经验可提升为工作区记忆",
+      "downloads": "173"
     },
     {
       "rank": 7,
       "owner": "skills-sh/designed-by-ai",
       "repo": "design-mobile-apps",
       "url": "https://clawhub.ai/skills-sh/designed-by-ai/skills/design-mobile-apps",
-      "description": "使用 Sleek 设计与实现移动端应用界面。",
-      "downloads": ""
+      "description": "通过 Sleek 的 REST API 用自然语言描述需求，设计与生成移动端应用界面",
+      "downloads": "366k"
     },
     {
       "rank": 8,
-      "owner": "aeneassoft",
-      "repo": "clawphylax-verify",
-      "url": "https://clawhub.ai/aeneassoft/skills/clawphylax-verify",
-      "description": "安装前的技能安全体检：逐个检查技能文件夹内的每个文件（SKILL 等），判断第三方 ClawHub 技能是否安全，适用于安装前或用户询问技能是否可信时。",
-      "downloads": "134"
+      "owner": "aiwithenoch",
+      "repo": "jev-skill",
+      "url": "https://clawhub.ai/aiwithenoch/skills/jev-skill",
+      "description": "用 OpenJev-HF、LangChain 与 LocalJev 构建 Jev agent 运行框架",
+      "downloads": "85"
     },
     {
       "rank": 9,
       "owner": "spclaudehome",
       "repo": "skill-vetter",
       "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
-      "description": "面向 AI Agent 的安全优先技能审查：安装 ClawdHub、GitHub 等来源的技能前，检查危险信号、权限范围与可疑模式。",
-      "downloads": "172"
+      "description": "面向 AI Agent 的安全优先技能审查：安装前检查风险信号、权限范围与可疑模式",
+      "downloads": "138"
     },
     {
       "rank": 10,
       "owner": "skills-sh/qu-skills/superpowers",
       "repo": "ai-video-generation",
       "url": "https://clawhub.ai/skills-sh/qu-skills/superpowers/ai-video-generation",
-      "description": "通过 belt CLI（npx skills add belt-sh/cli）调用 AI 模型生成视频。",
-      "downloads": ""
+      "description": "通过 belt CLI 调用 AI 模型生成视频",
+      "downloads": "172k"
     },
     {
       "rank": 11,
-      "owner": "ivangdavila",
-      "repo": "word-docx",
-      "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
-      "description": "创建、读取与编辑 Microsoft Word / DOCX 文档，支持可靠的样式、编号、修订留痕、表格、分节与兼容性检查。",
-      "downloads": "157"
+      "owner": "steipete",
+      "repo": "gog",
+      "url": "https://clawhub.ai/steipete/skills/gog",
+      "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
+      "downloads": "130"
     },
     {
       "rank": 12,
       "owner": "skills-sh/qu-skills/superpowers",
       "repo": "ai-avatar-video",
       "url": "https://clawhub.ai/skills-sh/qu-skills/superpowers/ai-avatar-video",
-      "description": "通过 belt CLI（npx skills add belt-sh/cli）生成 AI 数字人/头像视频。",
-      "downloads": ""
+      "description": "通过 belt CLI 生成 AI 数字人/头像视频",
+      "downloads": "173k"
     },
     {
       "rank": 13,
-      "owner": "chrischall",
-      "repo": "office-outlook-mcp",
-      "url": "https://clawhub.ai/chrischall/skills/office-outlook-mcp",
-      "description": "通过 Outlook REST API 读取并操作用户的 Outlook / Microsoft 365 邮箱（邮件、文件夹、日历、联系人、任务），使用从已登录浏览器会话中获取的 bearer token。",
-      "downloads": "132"
+      "owner": "ra1labsworkx-wq",
+      "repo": "snapback-selfheal",
+      "url": "https://clawhub.ai/ra1labsworkx-wq/skills/snapback-selfheal",
+      "description": "诊断 AI Agent 运行失败并给出结构化修复方案，支持运行中实时捕捉循环、卡死与预算超支",
+      "downloads": "78"
     },
     {
       "rank": 14,
-      "owner": "pskoett",
-      "repo": "self-improving-agent",
-      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "捕获经验、错误与纠正以实现持续改进：命令或操作意外失败、用户指出答案有误、需要沉淀偏好等场景下记录学习。",
-      "downloads": "155"
+      "owner": "fangkelvin",
+      "repo": "find-skills-skill",
+      "url": "https://clawhub.ai/fangkelvin/skills/find-skills-skill",
+      "description": "从多个来源搜索与发现 OpenClaw 技能",
+      "downloads": "123"
     },
     {
       "rank": 15,
-      "owner": "skills-sh/typesafe-ai",
-      "repo": "typesafe-ai",
-      "url": "https://clawhub.ai/skills-sh/typesafe-ai/skills/typesafe-ai",
-      "description": "使用 TypeSafe 把 AI 能力单元化，像使用普通函数一样调用。",
-      "downloads": ""
+      "owner": "skills-sh/vercel-labs",
+      "repo": "find-skills",
+      "url": "https://clawhub.ai/skills-sh/vercel-labs/skills/find-skills",
+      "description": "帮助在开放 agent 技能生态中发现并安装技能（Vercel Labs / Skills CLI）",
+      "downloads": "3.5M"
     },
     {
       "rank": 16,
-      "owner": "steipete",
-      "repo": "gog",
-      "url": "https://clawhub.ai/steipete/skills/gog",
-      "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人、表格与文档。",
-      "downloads": "145"
+      "owner": "ivangdavila",
+      "repo": "word-docx",
+      "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
+      "description": "创建、检查与编辑 Word / DOCX 文档，支持样式、编号、修订、表格与兼容性检查",
+      "downloads": "115"
     },
     {
       "rank": 17,
-      "owner": "skills-sh/flowkit-labs",
-      "repo": "reddit-automation",
-      "url": "https://clawhub.ai/skills-sh/flowkit-labs/skills/reddit-automation",
-      "description": "Reddit 自动化操作技能，由 Flowkit Labs 团队构建。",
-      "downloads": ""
+      "owner": "skills-sh/genmedia-labs",
+      "repo": "ai-image-generation",
+      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/ai-image-generation",
+      "description": "通过 RunComfy CLI 调用 11+ AI 模型生成与编辑图片",
+      "downloads": "614k"
     },
     {
       "rank": 18,
-      "owner": "aeneassoft",
-      "repo": "skill-network-audit",
-      "url": "https://clawhub.ai/aeneassoft/skills/skill-network-audit",
-      "description": "审计技能的网络行为：这个技能把数据发往哪里、访问过哪些主机。用于排查已安装技能的网络动作、Agent 访问未知域名后的溯源与安全告警复核。",
-      "downloads": "121"
+      "owner": "jkdavey",
+      "repo": "vaunt-signals",
+      "url": "https://clawhub.ai/jkdavey/skills/vaunt-signals",
+      "description": "Hyperliquid 实盘引擎的真实资金交易信号，按次付费，返回买入/卖出价与成交成本",
+      "downloads": "75"
     },
     {
       "rank": 19,
-      "owner": "jacky1n7",
-      "repo": "openclaw-tavily-search",
-      "url": "https://clawhub.ai/jacky1n7/skills/openclaw-tavily-search",
-      "description": "通过 Tavily 搜索公开网络并返回带 URL 与摘要的结构化结果，适用于获取最新信息、来源发现、链接查询、新闻与金融搜索。",
-      "downloads": "136"
+      "owner": "othmanadi",
+      "repo": "planning-with-files",
+      "url": "https://clawhub.ai/othmanadi/skills/planning-with-files",
+      "description": "用持久化 markdown 文件作为多步任务的磁盘工作记忆，支持计划恢复与进度追踪",
+      "downloads": "106"
     },
     {
       "rank": 20,
       "owner": "skills-sh/genmedia-labs",
-      "repo": "seedance-2-5-image-to-video",
-      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/seedance-2-5-image-to-video",
-      "description": "使用 Seedance 2.5 把图片转为视频。",
-      "downloads": ""
+      "repo": "image-to-video",
+      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/image-to-video",
+      "description": "在 RunComfy 上按意图选择图生视频模型，把静态图片转换为视频",
+      "downloads": "615k"
     }
   ]
 }
