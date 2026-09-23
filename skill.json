@@ -1,15 +1,15 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.09.23 · 按 ClawHub 热门趋势排序",
-  "updated": "2026.09.23",
+  "period": "2026.09.24 · 按 ClawHub 热门趋势排序",
+  "updated": "2026.09.24",
   "projects": [
     {
       "rank": 1,
       "owner": "clawcall-dev",
       "repo": "clawcall-dev",
       "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
-      "description": "让 AI Agent 代打美国电话：处理等待与电话菜单，预约/改约/取消/查询订单，支持留言与转接真人；不适用于短信、邮件与国际通话",
-      "downloads": "1.6k"
+      "description": "让 AI Agent 代打美国电话：处理等待与电话菜单，预约/改约/取消/查询订单，支持留言与转接真人",
+      "downloads": "1.3k"
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "repo": "ai-image-generation",
       "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/ai-image-generation",
       "description": "通过 belt CLI 调用 AI 模型生成与编辑图片",
-      "downloads": "355k"
+      "downloads": ""
     },
     {
       "rank": 3,
@@ -25,7 +25,7 @@
       "repo": "cournot",
       "url": "https://clawhub.ai/cournot-ai/skills/cournot",
       "description": "用自然语言查询 Cournot 预测市场的概率",
-      "downloads": "276"
+      "downloads": "269"
     },
     {
       "rank": 4,
@@ -33,7 +33,7 @@
       "repo": "homeassistant-skill",
       "url": "https://clawhub.ai/anotb/skills/homeassistant-skill",
       "description": "通过 REST API 控制 Home Assistant 设备与自动化，覆盖灯光、空调、门锁、天气、日历等 25 类实体域",
-      "downloads": "304"
+      "downloads": "316"
     },
     {
       "rank": 5,
@@ -41,7 +41,7 @@
       "repo": "ai-video-generation",
       "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/ai-video-generation",
       "description": "通过 belt CLI 调用 AI 模型生成视频",
-      "downloads": "355k"
+      "downloads": ""
     },
     {
       "rank": 6,
@@ -49,7 +49,7 @@
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "把经验、错误与纠正记录到 markdown 文件以实现持续改进，重要经验可提升为工作区记忆",
-      "downloads": "173"
+      "downloads": "208"
     },
     {
       "rank": 7,
@@ -57,23 +57,23 @@
       "repo": "design-mobile-apps",
       "url": "https://clawhub.ai/skills-sh/designed-by-ai/skills/design-mobile-apps",
       "description": "通过 Sleek 的 REST API 用自然语言描述需求，设计与生成移动端应用界面",
-      "downloads": "366k"
+      "downloads": ""
     },
     {
       "rank": 8,
-      "owner": "aiwithenoch",
-      "repo": "jev-skill",
-      "url": "https://clawhub.ai/aiwithenoch/skills/jev-skill",
-      "description": "用 OpenJev-HF、LangChain 与 LocalJev 构建 Jev agent 运行框架",
-      "downloads": "85"
+      "owner": "iamzifei",
+      "repo": "aikey",
+      "url": "https://clawhub.ai/iamzifei/skills/aikey",
+      "description": "两套技能的总入口：做内容（选题/写稿/审核/复盘）+ 看生意（组合体检/营收归因/客户集中度/依赖风险/拿不准的决策），提供三种使用模式",
+      "downloads": "84"
     },
     {
       "rank": 9,
-      "owner": "spclaudehome",
-      "repo": "skill-vetter",
-      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
-      "description": "面向 AI Agent 的安全优先技能审查：安装前检查风险信号、权限范围与可疑模式",
-      "downloads": "138"
+      "owner": "fetcher-sh",
+      "repo": "app-store-api",
+      "url": "https://clawhub.ai/fetcher-sh/skills/app-store-api",
+      "description": "fetcher.sh 上的 Apple App Store API 替代，按次付费（USDC）",
+      "downloads": "199"
     },
     {
       "rank": 10,
@@ -81,15 +81,15 @@
       "repo": "ai-video-generation",
       "url": "https://clawhub.ai/skills-sh/qu-skills/superpowers/ai-video-generation",
       "description": "通过 belt CLI 调用 AI 模型生成视频",
-      "downloads": "172k"
+      "downloads": ""
     },
     {
       "rank": 11,
-      "owner": "steipete",
-      "repo": "gog",
-      "url": "https://clawhub.ai/steipete/skills/gog",
-      "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
-      "downloads": "130"
+      "owner": "fetcher-sh",
+      "repo": "google-search",
+      "url": "https://clawhub.ai/fetcher-sh/skills/google-search",
+      "description": "fetcher.sh 上的 Google 搜索 / SERP API 替代，按次付费",
+      "downloads": "198"
     },
     {
       "rank": 12,
@@ -97,15 +97,15 @@
       "repo": "ai-avatar-video",
       "url": "https://clawhub.ai/skills-sh/qu-skills/superpowers/ai-avatar-video",
       "description": "通过 belt CLI 生成 AI 数字人/头像视频",
-      "downloads": "173k"
+      "downloads": ""
     },
     {
       "rank": 13,
-      "owner": "ra1labsworkx-wq",
-      "repo": "snapback-selfheal",
-      "url": "https://clawhub.ai/ra1labsworkx-wq/skills/snapback-selfheal",
-      "description": "诊断 AI Agent 运行失败并给出结构化修复方案，支持运行中实时捕捉循环、卡死与预算超支",
-      "downloads": "78"
+      "owner": "adifsgaid",
+      "repo": "socialfaktory",
+      "url": "https://clawhub.ai/adifsgaid/skills/socialfaktory",
+      "description": "撰写、生成、排期并发布品牌社媒内容与视频",
+      "downloads": "70"
     },
     {
       "rank": 14,
@@ -113,7 +113,7 @@
       "repo": "find-skills-skill",
       "url": "https://clawhub.ai/fangkelvin/skills/find-skills-skill",
       "description": "从多个来源搜索与发现 OpenClaw 技能",
-      "downloads": "123"
+      "downloads": "159"
     },
     {
       "rank": 15,
@@ -121,47 +121,47 @@
       "repo": "find-skills",
       "url": "https://clawhub.ai/skills-sh/vercel-labs/skills/find-skills",
       "description": "帮助在开放 agent 技能生态中发现并安装技能（Vercel Labs / Skills CLI）",
-      "downloads": "3.5M"
+      "downloads": ""
     },
     {
       "rank": 16,
-      "owner": "ivangdavila",
-      "repo": "word-docx",
-      "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
-      "description": "创建、检查与编辑 Word / DOCX 文档，支持样式、编号、修订、表格与兼容性检查",
-      "downloads": "115"
+      "owner": "spclaudehome",
+      "repo": "skill-vetter",
+      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
+      "description": "面向 AI Agent 的安全优先技能审查：安装前检查风险信号、权限范围与可疑模式",
+      "downloads": "158"
     },
     {
       "rank": 17,
       "owner": "skills-sh/genmedia-labs",
-      "repo": "ai-image-generation",
-      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/ai-image-generation",
-      "description": "通过 RunComfy CLI 调用 11+ AI 模型生成与编辑图片",
-      "downloads": "614k"
+      "repo": "image-to-video",
+      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/image-to-video",
+      "description": "在 RunComfy 上按意图选择图生视频模型，把静态图片转换为视频",
+      "downloads": ""
     },
     {
       "rank": 18,
-      "owner": "jkdavey",
-      "repo": "vaunt-signals",
-      "url": "https://clawhub.ai/jkdavey/skills/vaunt-signals",
-      "description": "Hyperliquid 实盘引擎的真实资金交易信号，按次付费，返回买入/卖出价与成交成本",
-      "downloads": "75"
+      "owner": "ismalogistics",
+      "repo": "agent-throne",
+      "url": "https://clawhub.ai/ismalogistics/skills/agent-throne",
+      "description": "让 Agent 参与“Agent 王座”竞技的技能",
+      "downloads": "68"
     },
     {
       "rank": 19,
-      "owner": "othmanadi",
-      "repo": "planning-with-files",
-      "url": "https://clawhub.ai/othmanadi/skills/planning-with-files",
-      "description": "用持久化 markdown 文件作为多步任务的磁盘工作记忆，支持计划恢复与进度追踪",
-      "downloads": "106"
+      "owner": "steipete",
+      "repo": "gog",
+      "url": "https://clawhub.ai/steipete/skills/gog",
+      "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
+      "downloads": "142"
     },
     {
       "rank": 20,
       "owner": "skills-sh/genmedia-labs",
-      "repo": "image-to-video",
-      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/image-to-video",
-      "description": "在 RunComfy 上按意图选择图生视频模型，把静态图片转换为视频",
-      "downloads": "615k"
+      "repo": "ai-video-generation",
+      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/ai-video-generation",
+      "description": "通过 RunComfy CLI 调用多种 AI 视频模型生成视频",
+      "downloads": ""
     }
   ]
 }
