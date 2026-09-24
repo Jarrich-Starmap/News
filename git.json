@@ -1,43 +1,43 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.09.18 – 09.24 · 按本周新增 Star 数排序",
-  "updated": "2026.09.24",
+  "period": "2026.09.19 – 09.25 · 按本周新增 Star 数排序",
+  "updated": "2026.09.25",
   "projects": [
     {
       "rank": 1,
       "owner": "cloudflare",
       "repo": "security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "面向 AI 编码代理的多阶段安全审计技能，审计发现可机器读取、支持独立验证，本周新增 Star 登顶。",
-      "stars": "20.8k",
-      "weekly_stars": "15.4k"
+      "description": "面向 AI 编码代理的多阶段安全审计技能，审计发现机器可读、支持独立验证，本周新增 Star 继续居首。",
+      "stars": "21.2k",
+      "weekly_stars": "15.3k"
     },
     {
       "rank": 2,
       "owner": "alibaba",
       "repo": "open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里开源混合架构代码审查工具：确定性流水线 + LLM Agent 协同，支持行级精确评论与多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI / Anthropic。",
-      "stars": "40.1k",
-      "weekly_stars": "12.6k"
+      "description": "阿里开源混合架构代码审查工具：确定性流水线 + LLM Agent 协同，经阿里规模实战验证，支持行级精确评论与多语言规则集。",
+      "stars": "40.7k",
+      "weekly_stars": "9.8k"
     },
     {
       "rank": 3,
       "owner": "affaan-m",
       "repo": "ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "description": "面向 Claude Code、Codex、Cursor 等编码代理的性能优化系统，覆盖技能、直觉、记忆、安全与研究优先的开发范式。",
+      "description": "面向编码代理的 harness 性能优化系统，覆盖技能、直觉、记忆、安全与研究优先的开发范式。",
       "stars": "266k",
-      "weekly_stars": "6.9k"
+      "weekly_stars": "6.7k"
     },
     {
       "rank": 4,
       "owner": "stablyai",
       "repo": "orca",
       "url": "https://github.com/stablyai/orca",
-      "description": "并行代理集群的 ADE（代理开发环境），可用自有订阅同时调度多个编码代理，支持桌面端、移动端与远程运行时。",
-      "stars": "76.4k",
-      "weekly_stars": "6.2k"
+      "description": "并行代理集群的 ADE（代理开发环境），可用自有订阅同时调度多个编码代理，支持桌面端与远程运行时。",
+      "stars": "77.4k",
+      "weekly_stars": "6.4k"
     },
     {
       "rank": 5,
@@ -45,8 +45,8 @@
       "repo": "WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "腾讯开源 LLM 知识平台：把原始文档转成可查询的 RAG、自主推理代理与自维护 Wiki。",
-      "stars": "29.3k",
-      "weekly_stars": "5.3k"
+      "stars": "29.7k",
+      "weekly_stars": "4.5k"
     },
     {
       "rank": 6,
@@ -54,8 +54,8 @@
       "repo": "BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "让 AI 代理直接操作用户已登录的真实浏览器且不打断正常工作，提供 CLI 与浏览器扩展。",
-      "stars": "6.9k",
-      "weekly_stars": "4.6k"
+      "stars": "7.1k",
+      "weekly_stars": "4.5k"
     },
     {
       "rank": 7,
@@ -63,26 +63,26 @@
       "repo": "agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "面向 AI 编码代理的生产级工程技能集。",
-      "stars": "98.7k",
-      "weekly_stars": "4.2k"
+      "stars": "98.8k",
+      "weekly_stars": "3.9k"
     },
     {
       "rank": 8,
-      "owner": "JustVugg",
-      "repo": "colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "纯 C、零依赖的 MoE 推理引擎，专家权重从磁盘流式加载，让前沿大模型跑在自有硬件上。",
-      "stars": "37.3k",
-      "weekly_stars": "4k"
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "会自主学习的代理记忆系统（Agent Memory That Learns），本周新上榜。",
+      "stars": "27.6k",
+      "weekly_stars": "3.2k"
     },
     {
       "rank": 9,
-      "owner": "Panniantong",
-      "repo": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "给 AI 代理装上「眼睛」，可读取与检索 Twitter、Reddit、YouTube、GitHub 等全网内容。",
-      "stars": "85.1k",
-      "weekly_stars": "3k"
+      "owner": "farion1231",
+      "repo": "cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "跨平台桌面一站式助手，统一管理与切换 Claude Code、Codex、OpenCode 等编码代理，本周新上榜。",
+      "stars": "136k",
+      "weekly_stars": "3.1k"
     },
     {
       "rank": 10,
@@ -95,12 +95,12 @@
     },
     {
       "rank": 11,
-      "owner": "TencentCloud",
-      "repo": "Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "自托管 AI 助手，原生支持多用户与多代理协作。",
-      "stars": "4.7k",
-      "weekly_stars": "2.1k"
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "纯 C、零依赖的 MoE 推理引擎，专家权重从磁盘流式加载，让前沿大模型跑在自有硬件上。",
+      "stars": "37.5k",
+      "weekly_stars": "2.7k"
     },
     {
       "rank": 12,
@@ -109,43 +109,43 @@
       "url": "https://github.com/vercel-labs/json-render",
       "description": "生成式 UI 框架，用 AI 按需渲染界面。",
       "stars": "18.2k",
-      "weekly_stars": "1.9k"
+      "weekly_stars": "2k"
     },
     {
       "rank": 13,
-      "owner": "jamiepine",
-      "repo": "voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "开源 AI 语音工作室，支持声音克隆、听写与创作。",
-      "stars": "55.5k",
-      "weekly_stars": "1.9k"
+      "owner": "BuilderIO",
+      "repo": "agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "面向代理原生应用（agentic apps）的开发框架，本周新上榜。",
+      "stars": "6.8k",
+      "weekly_stars": "2k"
     },
     {
       "rank": 14,
-      "owner": "SnailSploit",
-      "repo": "Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "面向 Claude 技能体系的进攻性安全技能库，用于授权渗透测试与红队演练。",
-      "stars": "6.8k",
-      "weekly_stars": "1.6k"
+      "owner": "TencentCloud",
+      "repo": "Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "自托管 AI 助手，原生支持多用户与多代理协作。",
+      "stars": "4.8k",
+      "weekly_stars": "1.9k"
     },
     {
       "rank": 15,
-      "owner": "Fission-AI",
-      "repo": "OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "面向 AI 编码助手的规格驱动开发（SDD）工作流。",
-      "stars": "70k",
-      "weekly_stars": "1.6k"
+      "owner": "alphaXiv",
+      "repo": "OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "把编码代理变成研究代理，本周新上榜。",
+      "stars": "5.7k",
+      "weekly_stars": "1.8k"
     },
     {
       "rank": 16,
-      "owner": "anthropics",
-      "repo": "knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "面向知识工作者的开源插件集，用于 Claude Cowork 场景。",
-      "stars": "25.5k",
-      "weekly_stars": "1.4k"
+      "owner": "dream-num",
+      "repo": "univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "面向 AI 代理的 Office 底座：表格、文档、幻灯片、画布、关系表与 PDF 在同一运行时内处理，本周新上榜。",
+      "stars": "17.4k",
+      "weekly_stars": "1.7k"
     }
   ]
 }
