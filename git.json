@@ -1,151 +1,151 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.09.20 – 09.26 · 按本周新增 Star 数排序",
-  "updated": "2026.09.26",
+  "period": "2026.09.24 – 09.30 · 按本周新增 Star 数排序",
+  "updated": "2026.09.30",
   "projects": [
     {
       "rank": 1,
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "面向 AI 编码代理的多阶段安全审计技能，审计发现机器可读、支持独立验证，本周新增 Star 继续居首。",
-      "stars": "21.6k",
-      "weekly_stars": "11.3k"
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "会自主学习的 Agent 记忆系统（Agent Memory That Learns），提供 LLM Wrapper、SDK 与 HTTP API，支持 Docker 快速启动并可切换多种 LLM Provider，本周新增 Star 大幅领先、登顶榜单。",
+      "stars": "42.6k",
+      "weekly_stars": "17.4k"
     },
     {
       "rank": 2,
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里开源混合架构代码审查工具：确定性流水线 + LLM Agent 协同，经阿里规模实战验证，支持行级精确评论与多语言规则集。",
-      "stars": "41.2k",
-      "weekly_stars": "6.9k"
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "把一群 Agent 当成一家公司来管理的开源应用：支持角色、预算与审批编排，可接入 Claude Code、Codex 等编码代理，本周持续位居趋势榜第一梯队。",
+      "stars": "94.2k",
+      "weekly_stars": "12.9k"
     },
     {
       "rank": 3,
-      "owner": "stablyai",
-      "repo": "orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "并行代理集群的 ADE（代理开发环境），可用自有订阅同时调度多个编码代理，支持桌面端与远程运行时。",
-      "stars": "78.2k",
-      "weekly_stars": "6.5k"
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "完全本地运行的 ElevenLabs 开源替代方案：语音克隆、声音设计、视频配音、听写与有声书制作，覆盖 646 种语言，本周新上榜即冲入前三。",
+      "stars": "47.4k",
+      "weekly_stars": "12.7k"
     },
     {
       "rank": 4,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "面向编码代理的 harness 性能优化系统，覆盖技能、直觉、记忆、安全与研究优先的开发范式。",
-      "stars": "267k",
-      "weekly_stars": "6.2k"
+      "owner": "rocketride-org",
+      "repo": "rocketride-server",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "高性能 AI 流水线引擎，C++ 内核搭配 50+ 可扩展 Python 节点，用于构建与调试 LLM 工作流，本周成为增速最快的黑马项目。",
+      "stars": "17.2k",
+      "weekly_stars": "8.1k"
     },
     {
       "rank": 5,
+      "owner": "dream-num",
+      "repo": "univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "面向 AI Agent 的 Office 底座：表格、文档、幻灯片、画布、关系表与 PDF 在同一运行时内处理，本周热度继续走高。",
+      "stars": "21.2k",
+      "weekly_stars": "6.3k"
+    },
+    {
+      "rank": 6,
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "并行代理集群的 ADE（代理开发环境），可用自有订阅同时调度多个编码代理，在独立 git worktree 中并行执行，支持桌面端与远程运行时。",
+      "stars": "81.5k",
+      "weekly_stars": "6.2k"
+    },
+    {
+      "rank": 7,
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "从零开始学做 AI 工程的开源课程，含 523 节课，主打「学得会、做得出、交付得了」的学习路径，本周保持高位。",
+      "stars": "61.1k",
+      "weekly_stars": "5.8k"
+    },
+    {
+      "rank": 8,
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "让 AI Agent 像「最懒的资深工程师」一样思考，主张最好的代码就是没写的那行，本周新上榜。",
+      "stars": "147.5k",
+      "weekly_stars": "3.8k"
+    },
+    {
+      "rank": 9,
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "面向 AI 编码代理的多阶段安全审计技能，审计发现机器可读、支持独立验证，本周继续稳居前列。",
+      "stars": "23.1k",
+      "weekly_stars": "3.8k"
+    },
+    {
+      "rank": 10,
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "面向编码代理的能力框架与软件开发方法论，可落地为可复用技能集，本周依旧保持高热度。",
+      "stars": "292.5k",
+      "weekly_stars": "2.8k"
+    },
+    {
+      "rank": 11,
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "让 AI 编码 harness 更擅长设计的设计语言规范，本周热度回升。",
+      "stars": "72.5k",
+      "weekly_stars": "2.6k"
+    },
+    {
+      "rank": 12,
       "owner": "Tencent",
       "repo": "WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "腾讯开源 LLM 知识平台：把原始文档转成可查询的 RAG、自主推理代理与自维护 Wiki。",
-      "stars": "30k",
-      "weekly_stars": "3.7k"
-    },
-    {
-      "rank": 6,
-      "owner": "obra",
-      "repo": "superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "面向编码代理的能力框架与软件开发方法论，本周重回高位。",
-      "stars": "292k",
-      "weekly_stars": "3.4k"
-    },
-    {
-      "rank": 7,
-      "owner": "Tencent",
-      "repo": "BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "让 AI 代理直接操作用户已登录的真实浏览器且不打断正常工作，提供 CLI 与浏览器扩展。",
-      "stars": "7.2k",
-      "weekly_stars": "3.4k"
-    },
-    {
-      "rank": 8,
-      "owner": "vectorize-io",
-      "repo": "hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "会自主学习的代理记忆系统（Agent Memory That Learns）。",
-      "stars": "29.6k",
-      "weekly_stars": "3.4k"
-    },
-    {
-      "rank": 9,
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "面向 AI 编码代理的生产级工程技能集。",
-      "stars": "99k",
-      "weekly_stars": "3.3k"
-    },
-    {
-      "rank": 10,
-      "owner": "farion1231",
-      "repo": "cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "跨平台桌面一站式助手，统一管理与切换 Claude Code、Codex、OpenCode 等编码代理。",
-      "stars": "137k",
-      "weekly_stars": "3.2k"
-    },
-    {
-      "rank": 11,
-      "owner": "dream-num",
-      "repo": "univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "面向 AI 代理的 Office 底座：表格、文档、幻灯片、画布、关系表与 PDF 在同一运行时内处理。",
-      "stars": "18.3k",
-      "weekly_stars": "2.8k"
-    },
-    {
-      "rank": 12,
-      "owner": "bojieli",
-      "repo": "ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库，含全书正文、编译版 PDF 与按章配套代码，本周新上榜。",
-      "stars": "51k",
+      "stars": "31.2k",
       "weekly_stars": "2.5k"
     },
     {
       "rank": 13,
       "owner": "anthropics",
-      "repo": "claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Anthropic 官方终端编码代理，理解代码库、执行日常任务、解释复杂代码并处理 git 工作流。",
-      "stars": "148k",
-      "weekly_stars": "2.4k"
+      "repo": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "Anthropic 面向金融服务业的 Claude Agent、插件与 MCP 集成集合，覆盖投行、股票研究、私募与基金运营场景，本周新上榜。",
+      "stars": "38.2k",
+      "weekly_stars": "2.1k"
     },
     {
       "rank": 14,
-      "owner": "paperclipai",
-      "repo": "paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "开源应用，用于在工作场景中统一管理 AI 代理团队，本周新上榜。",
-      "stars": "84.3k",
-      "weekly_stars": "2.3k"
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "能随用户一同成长的自进化 Agent，从交互中持续学习，本周新上榜。",
+      "stars": "249.8k",
+      "weekly_stars": "2.0k"
     },
     {
       "rank": 15,
-      "owner": "Nasiko-Labs",
-      "repo": "nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "面向 AI 代理的开发者控制平面（Developer Control Plane），本周新上榜。",
-      "stars": "8.9k",
-      "weekly_stars": "2.3k"
+      "owner": "earendil-works",
+      "repo": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI Agent 工具集：统一 LLM API、Agent 循环、TUI 与编码 Agent CLI，本周新上榜。",
+      "stars": "110.1k",
+      "weekly_stars": "2.0k"
     },
     {
       "rank": 16,
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "让 AI 编码 harness 更擅长设计的设计语言规范，本周新上榜。",
-      "stars": "71.1k",
-      "weekly_stars": "2.1k"
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "为 AI 注入「审美」的 Agent 技能，避免生成无聊空泛的内容，本周新上榜。",
+      "stars": "90.9k",
+      "weekly_stars": "1.9k"
     }
   ]
 }
