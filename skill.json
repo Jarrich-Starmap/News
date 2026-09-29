@@ -1,167 +1,167 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.09.26 · 按 ClawHub 热门趋势排序（24h 下载热度）· 其中 8 条来自 skills.sh 渠道，源站未展示作者与下载量",
-  "updated": "2026.09.26",
+  "period": "2026.09.30 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.09.30",
   "projects": [
     {
       "rank": 1,
-      "owner": "clawcall-dev",
-      "repo": "clawcall-dev",
-      "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
-      "description": "让 AI 代理拨打美国电话并完成语音通话，适用于代打电话场景",
-      "downloads": "1.6k"
-    },
-    {
-      "rank": 2,
-      "owner": "skills.sh",
-      "repo": "ai-video-generation",
-      "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/ai-video-generation",
-      "description": "AI 视频生成：通过 belt CLI 安装调用，一条命令即可生成 AI 视频",
-      "downloads": null
-    },
-    {
-      "rank": 3,
-      "owner": "cournot-ai",
-      "repo": "cournot",
-      "url": "https://clawhub.ai/cournot-ai/skills/cournot",
-      "description": "Cournot 智能情报：让 AI 代理用自然语言提问并获取结构化分析结论",
-      "downloads": "132"
-    },
-    {
-      "rank": 4,
-      "owner": "anotb",
-      "repo": "homeassistant-skill",
-      "url": "https://clawhub.ai/anotb/skills/homeassistant-skill",
-      "description": "通过 REST API 控制 Home Assistant 设备与自动化，支持多个实体操作",
-      "downloads": "292"
-    },
-    {
-      "rank": 5,
-      "owner": "skills.sh",
-      "repo": "ai-image-generation",
-      "url": "https://clawhub.ai/skills-sh/101-skills/superpowers/ai-image-generation",
-      "description": "AI 图像生成：借助 belt CLI 安装后快速生成 AI 图片",
-      "downloads": null
-    },
-    {
-      "rank": 6,
-      "owner": "fetcher-sh",
-      "repo": "google-search",
-      "url": "https://clawhub.ai/fetcher-sh/skills/google-search",
-      "description": "fetcher.sh 上的 Google 搜索 API 与 SERP API 替代方案",
-      "downloads": "163"
-    },
-    {
-      "rank": 7,
-      "owner": "skills.sh",
-      "repo": "design-mobile-apps",
-      "url": "https://clawhub.ai/skills-sh/designed-by-ai/skills/design-mobile-apps",
-      "description": "使用 Sleek 设计并构建移动端应用，覆盖移动 App 设计流程",
-      "downloads": null
-    },
-    {
-      "rank": 8,
-      "owner": "markozigman",
-      "repo": "botdid",
-      "url": "https://clawhub.ai/markozigman/skills/botdid",
-      "description": "把机器人每天实际完成的事项发布成简短日志给所有者",
-      "downloads": "106"
-    },
-    {
-      "rank": 9,
-      "owner": "fetcher-sh",
-      "repo": "google-maps-api",
-      "url": "https://clawhub.ai/fetcher-sh/skills/google-maps-api",
-      "description": "fetcher.sh 上的 Google 地图 API 与 Places API 替代方案",
-      "downloads": "149"
-    },
-    {
-      "rank": 10,
-      "owner": "skills.sh",
-      "repo": "ai-avatar-video",
-      "url": "https://clawhub.ai/skills-sh/qu-skills/superpowers/ai-avatar-video",
-      "description": "AI 数字人视频生成：通过 belt CLI 一键生成虚拟形象视频",
-      "downloads": null
-    },
-    {
-      "rank": 11,
       "owner": "pskoett",
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "记录经验、错误与修正，帮助智能体实现持续自我改进",
-      "downloads": "144"
+      "description": "记录学习成果、错误与修正，让智能体持续自我改进，本期稳居 Trending 榜首",
+      "downloads": "482k"
     },
     {
-      "rank": 12,
-      "owner": "skills.sh",
-      "repo": "ai-video-generation",
-      "url": "https://clawhub.ai/skills-sh/qu-skills/superpowers/ai-video-generation",
-      "description": "AI 视频生成：通过 belt CLI 安装调用，一条命令即可生成 AI 视频",
-      "downloads": null
-    },
-    {
-      "rank": 13,
-      "owner": "alvinxiao2",
-      "repo": "qianyuan-guard",
-      "url": "https://clawhub.ai/alvinxiao2/skills/qianyuan-guard",
-      "description": "在生产环境构建、调试或写入前，检查已知陷阱与易错点",
-      "downloads": "100"
-    },
-    {
-      "rank": 14,
+      "rank": 2,
       "owner": "spclaudehome",
       "repo": "skill-vetter",
       "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
       "description": "面向 AI Agent 的安全优先技能审查：安装前检查风险信号与权限范围",
-      "downloads": "119"
+      "downloads": "275k"
     },
     {
-      "rank": 15,
-      "owner": "skills.sh",
-      "repo": "ai-music",
-      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/ai-music",
-      "description": "在 RunComfy 上通过一条 CLI 命令生成 AI 音乐，含人声歌曲",
-      "downloads": null
+      "rank": 3,
+      "owner": "ivangdavila",
+      "repo": "self-improving",
+      "url": "https://clawhub.ai/ivangdavila/skills/self-improving",
+      "description": "自我反思 + 自我批评 + 自我学习 + 自组织记忆，构建主动型智能体",
+      "downloads": "210k"
     },
     {
-      "rank": 16,
-      "owner": "fangkelvin",
-      "repo": "find-skills-skill",
-      "url": "https://clawhub.ai/fangkelvin/skills/find-skills-skill",
-      "description": "从多个渠道搜索并发现 OpenClaw 技能",
-      "downloads": "105"
-    },
-    {
-      "rank": 17,
-      "owner": "skills.sh",
-      "repo": "seedance-2-5-image-to-video",
-      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/seedance-2-5-image-to-video",
-      "description": "基于 Seedance 2.5 模型，将图片转换为视频的生成技能",
-      "downloads": null
-    },
-    {
-      "rank": 18,
-      "owner": "darkd",
-      "repo": "backup-chain",
-      "url": "https://clawhub.ai/darkd/skills/backup-chain",
-      "description": "带围栏与哈希链的工作区备份：生成可校验的压缩快照",
-      "downloads": "80"
-    },
-    {
-      "rank": 19,
+      "rank": 4,
       "owner": "steipete",
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
-      "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
-      "downloads": "102"
+      "description": "官方出品，Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
+      "downloads": "195k"
+    },
+    {
+      "rank": 5,
+      "owner": "halthelobster",
+      "repo": "proactive-agent",
+      "url": "https://clawhub.ai/halthelobster/skills/proactive-agent",
+      "description": "把 AI 代理从任务执行者转变为主动协作的伙伴",
+      "downloads": "176k"
+    },
+    {
+      "rank": 6,
+      "owner": "gpyangyoujun",
+      "repo": "multi-search-engine",
+      "url": "https://clawhub.ai/gpyangyoujun/skills/multi-search-engine",
+      "description": "多引擎聚合搜索：集成 16 个搜索引擎（7 个国内 + 9 个全球），注重隐私",
+      "downloads": "162k"
+    },
+    {
+      "rank": 7,
+      "owner": "biostartechnology",
+      "repo": "humanizer",
+      "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
+      "description": "去除文本中的 AI 生成痕迹，让文稿读起来更像真人写作",
+      "downloads": "131k"
+    },
+    {
+      "rank": 8,
+      "owner": "steipete",
+      "repo": "github",
+      "url": "https://clawhub.ai/steipete/skills/github",
+      "description": "官方出品，通过 gh CLI 操作 GitHub：issue、PR、workflow 等全流程",
+      "downloads": "200k"
+    },
+    {
+      "rank": 9,
+      "owner": "oswalpalash",
+      "repo": "ontology",
+      "url": "https://clawhub.ai/oswalpalash/skills/ontology",
+      "description": "类型化知识图谱，用于结构化 Agent 记忆与可组合技能",
+      "downloads": "199k"
+    },
+    {
+      "rank": 10,
+      "owner": "shaivpidadi",
+      "repo": "free-ride",
+      "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
+      "description": "为 OpenClaw 管理 OpenRouter 免费 AI 模型，自动排序并调用可用模型",
+      "downloads": "71.3k"
+    },
+    {
+      "rank": 11,
+      "owner": "matrixy",
+      "repo": "agent-browser-clawdbot",
+      "url": "https://clawhub.ai/matrixy/skills/agent-browser-clawdbot",
+      "description": "面向 AI Agent 优化的无头浏览器自动化 CLI，基于可访问性树驱动",
+      "downloads": "157k"
+    },
+    {
+      "rank": 12,
+      "owner": "steipete",
+      "repo": "obsidian",
+      "url": "https://clawhub.ai/steipete/skills/obsidian",
+      "description": "官方出品，操作 Obsidian 笔记库（Markdown）并通过 obsidian-cli 自动化",
+      "downloads": "111k"
+    },
+    {
+      "rank": 13,
+      "owner": "maximeprades",
+      "repo": "auto-updater",
+      "url": "https://clawhub.ai/maximeprades/skills/auto-updater",
+      "description": "每天自动更新 Clawdbot 及全部已安装技能，通过定时任务执行",
+      "downloads": "99.9k"
+    },
+    {
+      "rank": 14,
+      "owner": "steipete",
+      "repo": "weather",
+      "url": "https://clawhub.ai/steipete/skills/weather",
+      "description": "官方出品，获取实时天气与预报，无需 API Key",
+      "downloads": "171k"
+    },
+    {
+      "rank": 15,
+      "owner": "steipete",
+      "repo": "nano-banana-pro",
+      "url": "https://clawhub.ai/steipete/skills/nano-banana-pro",
+      "description": "官方出品，基于 Nano Banana Pro（Gemini 3 Pro Image）生成与编辑图片",
+      "downloads": "107k"
+    },
+    {
+      "rank": 16,
+      "owner": "byungkyu",
+      "repo": "api-gateway",
+      "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
+      "description": "通过 Maton 网关调用第三方 API，由网关自动注入凭据",
+      "downloads": "87.1k"
+    },
+    {
+      "rank": 17,
+      "owner": "matagul",
+      "repo": "desktop-control",
+      "url": "https://clawhub.ai/matagul/skills/desktop-control",
+      "description": "进阶桌面自动化：鼠标、键盘与屏幕控制",
+      "downloads": "62k"
+    },
+    {
+      "rank": 18,
+      "owner": "ivangdavila",
+      "repo": "word-docx",
+      "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
+      "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
+      "downloads": "93.5k"
+    },
+    {
+      "rank": 19,
+      "owner": "michaelgathara",
+      "repo": "youtube-watcher",
+      "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
+      "description": "抓取并阅读 YouTube 视频字幕文稿，便于总结与二次加工",
+      "downloads": "55.3k"
     },
     {
       "rank": 20,
-      "owner": "skills.sh",
-      "repo": "reddit-automation",
-      "url": "https://clawhub.ai/skills-sh/flowkit-labs/skills/reddit-automation",
-      "description": "Reddit 自动化：在 Reddit 平台自动执行发帖与互动任务",
-      "downloads": null
+      "owner": "steipete",
+      "repo": "openai-whisper",
+      "url": "https://clawhub.ai/steipete/skills/openai-whisper",
+      "description": "官方出品，基于 Whisper CLI 的本地语音转文字，无需 API Key",
+      "downloads": "88.8k"
     }
   ]
 }
