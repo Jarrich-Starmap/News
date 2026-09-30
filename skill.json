@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.09.30 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.09.30",
+  "period": "2026.10.01 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.01",
   "projects": [
     {
       "rank": 1,
@@ -33,7 +33,7 @@
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
       "description": "官方出品，Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
-      "downloads": "195k"
+      "downloads": "196k"
     },
     {
       "rank": 5,
@@ -129,7 +129,7 @@
       "repo": "api-gateway",
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
       "description": "通过 Maton 网关调用第三方 API，由网关自动注入凭据",
-      "downloads": "87.1k"
+      "downloads": "87.2k"
     },
     {
       "rank": 17,
@@ -137,7 +137,7 @@
       "repo": "desktop-control",
       "url": "https://clawhub.ai/matagul/skills/desktop-control",
       "description": "进阶桌面自动化：鼠标、键盘与屏幕控制",
-      "downloads": "62k"
+      "downloads": "62.1k"
     },
     {
       "rank": 18,
@@ -145,7 +145,7 @@
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "93.5k"
+      "downloads": "93.6k"
     },
     {
       "rank": 19,
@@ -153,7 +153,7 @@
       "repo": "youtube-watcher",
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
       "description": "抓取并阅读 YouTube 视频字幕文稿，便于总结与二次加工",
-      "downloads": "55.3k"
+      "downloads": "55.4k"
     },
     {
       "rank": 20,
