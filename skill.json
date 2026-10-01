@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.01 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.01",
+  "period": "2026.10.02 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.02",
   "projects": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "repo": "self-improving",
       "url": "https://clawhub.ai/ivangdavila/skills/self-improving",
       "description": "自我反思 + 自我批评 + 自我学习 + 自组织记忆，构建主动型智能体",
-      "downloads": "210k"
+      "downloads": "211k"
     },
     {
       "rank": 4,
@@ -57,7 +57,7 @@
       "repo": "humanizer",
       "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
       "description": "去除文本中的 AI 生成痕迹，让文稿读起来更像真人写作",
-      "downloads": "131k"
+      "downloads": "132k"
     },
     {
       "rank": 8,
@@ -105,7 +105,7 @@
       "repo": "auto-updater",
       "url": "https://clawhub.ai/maximeprades/skills/auto-updater",
       "description": "每天自动更新 Clawdbot 及全部已安装技能，通过定时任务执行",
-      "downloads": "99.9k"
+      "downloads": "100k"
     },
     {
       "rank": 14,
