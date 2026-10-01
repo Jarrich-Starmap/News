@@ -1,151 +1,142 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.09.25 – 10.01 · 按本周新增 Star 数排序",
-  "updated": "2026.10.01",
+  "period": "2026.09.26 – 10.02 · 按本周新增 Star 数排序",
+  "updated": "2026.10.02",
   "projects": [
     {
       "rank": 1,
       "owner": "vectorize-io",
       "repo": "hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
-      "description": "会自主学习的 Agent 记忆系统（Agent Memory That Learns），本周新增 Star 居全站首位，蝉联榜首。",
-      "stars": "43.8k",
-      "weekly_stars": "17.4k"
+      "description": "会自主学习的 Agent 记忆系统（Agent Memory That Learns），本周新增 1.8 万 Star，连续多周霸榜。",
+      "stars": "44.2k",
+      "weekly_stars": "18.4k"
     },
     {
       "rank": 2,
-      "owner": "paperclipai",
-      "repo": "paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "开源的多 Agent 管理应用，让团队像经营公司一样管理 Agent，本周新增近 1.3 万 Star。",
-      "stars": "95.2k",
-      "weekly_stars": "12.9k"
-    },
-    {
-      "rank": 3,
       "owner": "debpalash",
       "repo": "VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "完全本地运行的开源 ElevenLabs 替代方案：语音克隆、声音设计、视频配音、听写与有声书制作，覆盖 646 种语言，本周新上榜即冲入前三。",
-      "stars": "50.1k",
-      "weekly_stars": "12.7k"
+      "description": "完全本地运行的开源 ElevenLabs 替代方案：语音克隆、声音设计、视频配音、听写与有声书制作，覆盖 646 种语言，本周热度大幅回升。",
+      "stars": "51.2k",
+      "weekly_stars": "15.2k"
+    },
+    {
+      "rank": 3,
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "开源的多 Agent 管理应用，让团队像经营公司一样管理 Agent，本周新增近 1.4 万 Star，重回前三。",
+      "stars": "95.7k",
+      "weekly_stars": "13.9k"
     },
     {
       "rank": 4,
-      "owner": "dream-num",
-      "repo": "univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "面向 AI Agent 的 Office 底座：表格、文档、幻灯片、画布、关系表与 PDF 在同一运行时内处理，本周热度继续走高。",
-      "stars": "22.1k",
-      "weekly_stars": "6.7k"
-    },
-    {
-      "rank": 5,
-      "owner": "stablyai",
-      "repo": "orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "面向并行 Agent 集群的 ADE（代理开发环境），可用自有订阅同时调度多个编码代理，覆盖桌面、移动与远程运行时。",
-      "stars": "82.2k",
-      "weekly_stars": "6.2k"
-    },
-    {
-      "rank": 6,
       "owner": "rohitg00",
       "repo": "ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "主打「学得会、做得出、交付得了」的 AI 工程学习路径，本周热度继续走高。",
-      "stars": "62.1k",
-      "weekly_stars": "5.8k"
+      "stars": "62.3k",
+      "weekly_stars": "6.5k"
     },
     {
-      "rank": 7,
-      "owner": "google",
-      "repo": "ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google 开源的 Agentic 编排运行时（open agentic orchestration runtime），本周新上榜即进入前十。",
-      "stars": "12.7k",
-      "weekly_stars": "5.2k"
+      "rank": 5,
+      "owner": "dream-num",
+      "repo": "univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "面向 AI Agent 的 Office 底座：表格、文档、幻灯片、画布、关系表与 PDF 在同一运行时内处理，本周热度继续走高。",
+      "stars": "22.2k",
+      "weekly_stars": "6.1k"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "owner": "pbakaus",
       "repo": "impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "description": "让 AI 编码 harness 更擅长设计的设计语言规范，本周热度回升。",
-      "stars": "72.9k",
-      "weekly_stars": "2.6k"
+      "description": "让 AI 编码 harness 更擅长设计的设计语言规范，本周热度继续。",
+      "stars": "73.5k",
+      "weekly_stars": "2.8k"
     },
     {
-      "rank": 9,
-      "owner": "pacifio",
-      "repo": "atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "面向 Agent 的源码管理方案：可并行使用多个编码代理，集中追踪并查询各自的改动，本周新上榜。",
-      "stars": "8.6k",
-      "weekly_stars": "2.6k"
-    },
-    {
-      "rank": 10,
-      "owner": "Tencent",
-      "repo": "WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "腾讯开源 LLM 知识平台：把原始文档转成可查询的 RAG、自主推理代理与自维护 Wiki。",
-      "stars": "31.5k",
-      "weekly_stars": "2.4k"
-    },
-    {
-      "rank": 11,
+      "rank": 7,
       "owner": "anthropics",
       "repo": "financial-services",
       "url": "https://github.com/anthropics/financial-services",
-      "description": "Anthropic 面向金融服务业开源的 Claude Agent、插件与 MCP 集成集合，本周新上榜。",
-      "stars": "38.3k",
-      "weekly_stars": "2.1k"
+      "description": "Anthropic 面向金融服务业开源的 Claude Agent、插件与 MCP 集成集合，本周热度延续。",
+      "stars": "38.5k",
+      "weekly_stars": "1.6k"
+    },
+    {
+      "rank": 8,
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "把一切软件变成 Agent 原生（Making ALL Software Agent-Native）的命令行方案，本周热度延续。",
+      "stars": "51.2k",
+      "weekly_stars": "1.4k"
+    },
+    {
+      "rank": 9,
+      "owner": "TencentCloud",
+      "repo": "Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "腾讯云开源的自托管 AI 助手，支持多用户与多 Agent 协作，本周新上榜。",
+      "stars": "6.2k",
+      "weekly_stars": "1.3k"
+    },
+    {
+      "rank": 10,
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "配置与监控 Claude Code 的 CLI 工具集，本周热度回升。",
+      "stars": "32.3k",
+      "weekly_stars": "914"
+    },
+    {
+      "rank": 11,
+      "owner": "alirezarezvani",
+      "repo": "claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "面向 Claude Code、Codex、Gemini CLI 等 12 款编码 Agent 的技能合集：380+ 技能与插件，覆盖工程、营销、产品与合规，本周新上榜。",
+      "stars": "27.1k",
+      "weekly_stars": "711"
     },
     {
       "rank": 12,
-      "owner": "VectifyAI",
-      "repo": "PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "面向「无向量、基于推理的 RAG」的文档索引方案（Document Index for Vectorless, Reasoning-based RAG），本周新上榜。",
-      "stars": "38.0k",
-      "weekly_stars": "2.0k"
+      "owner": "androoAGI",
+      "repo": "starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "本地优先的桌面 Agent harness：在像素风工作站里让真实 AI Agent 干活，自带密钥即可运行，本周新上榜。",
+      "stars": "831",
+      "weekly_stars": "659"
     },
     {
       "rank": 13,
-      "owner": "superdesigndev",
-      "repo": "treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "被社区称作「Agent 工具的 OpenRouter」，本周新上榜。",
-      "stars": "3.9k",
-      "weekly_stars": "1.8k"
+      "owner": "agent-substrate",
+      "repo": "substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate 核心系统，用 Go 编写的 Agent 基础设施，本周新上榜。",
+      "stars": "4.1k",
+      "weekly_stars": "594"
     },
     {
       "rank": 14,
-      "owner": "mobile-next",
-      "repo": "mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "description": "面向移动端自动化与抓取的 MCP Server，覆盖 iOS、Android、模拟器与真机。",
-      "stars": "8.5k",
-      "weekly_stars": "1.6k"
+      "owner": "tile-ai",
+      "repo": "tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "面向高性能 GPU/CPU/加速器内核开发的领域专用语言，本周热度延续。",
+      "stars": "8.0k",
+      "weekly_stars": "480"
     },
     {
       "rank": 15,
-      "owner": "Nasiko-Labs",
-      "repo": "nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "面向 AI Agent 的开放运行时（The Open Runtime for AI Agents），本周新上榜。",
+      "owner": "anthropics",
+      "repo": "claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "description": "Anthropic 官方的 Claude Code GitHub Action，在 CI 中自动响应 issue、PR 与代码审查。",
       "stars": "9.3k",
-      "weekly_stars": "1.6k"
-    },
-    {
-      "rank": 16,
-      "owner": "NVIDIA",
-      "repo": "OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "NVIDIA 推出的自主 AI Agent 安全私有运行时（safe, private runtime for autonomous AI agents），本周新上榜。",
-      "stars": "12.1k",
-      "weekly_stars": "1.4k"
+      "weekly_stars": "329"
     }
   ]
 }
