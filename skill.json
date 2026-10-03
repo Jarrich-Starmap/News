@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.03 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.03",
+  "period": "2026.10.04 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.04",
   "projects": [
     {
       "rank": 1,
@@ -17,7 +17,7 @@
       "repo": "skill-vetter",
       "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
       "description": "面向 AI Agent 的安全优先技能审查：安装前检查风险信号与权限范围",
-      "downloads": "275k"
+      "downloads": "276k"
     },
     {
       "rank": 3,
