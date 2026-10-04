@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.04 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.04",
+  "period": "2026.10.05 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.05",
   "projects": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "记录学习成果、错误与修正，让智能体持续自我改进，本期稳居 Trending 榜首",
-      "downloads": "482k"
+      "downloads": "483k"
     },
     {
       "rank": 2,
@@ -73,7 +73,7 @@
       "repo": "ontology",
       "url": "https://clawhub.ai/oswalpalash/skills/ontology",
       "description": "类型化知识图谱，用于结构化 Agent 记忆与可组合技能",
-      "downloads": "199k"
+      "downloads": "200k"
     },
     {
       "rank": 10,
@@ -145,7 +145,7 @@
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "93.7k"
+      "downloads": "93.8k"
     },
     {
       "rank": 19,
