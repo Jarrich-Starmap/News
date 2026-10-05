@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.05 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.05",
+  "period": "2026.10.06 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.06",
   "projects": [
     {
       "rank": 1,
@@ -81,7 +81,7 @@
       "repo": "free-ride",
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "为 OpenClaw 管理 OpenRouter 免费 AI 模型，自动排序并调用可用模型",
-      "downloads": "71.4k"
+      "downloads": "71.5k"
     },
     {
       "rank": 11,
@@ -129,7 +129,7 @@
       "repo": "api-gateway",
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
       "description": "通过 Maton 网关调用第三方 API，由网关自动注入凭据",
-      "downloads": "87.3k"
+      "downloads": "87.4k"
     },
     {
       "rank": 17,
@@ -145,7 +145,7 @@
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "93.8k"
+      "downloads": "93.9k"
     },
     {
       "rank": 19,
@@ -161,7 +161,7 @@
       "repo": "openai-whisper",
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
       "description": "官方出品，基于 Whisper CLI 的本地语音转文字，无需 API Key",
-      "downloads": "88.9k"
+      "downloads": "89k"
     }
   ]
 }
