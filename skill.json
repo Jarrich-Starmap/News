@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.07 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.07",
+  "period": "2026.10.08 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.08",
   "projects": [
     {
       "rank": 1,
@@ -145,7 +145,7 @@
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "93.9k"
+      "downloads": "94k"
     },
     {
       "rank": 19,
@@ -153,7 +153,7 @@
       "repo": "youtube-watcher",
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
       "description": "抓取并阅读 YouTube 视频字幕文稿，便于总结与二次加工",
-      "downloads": "55.4k"
+      "downloads": "55.5k"
     },
     {
       "rank": 20,
