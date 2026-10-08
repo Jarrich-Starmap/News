@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.08 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.08",
+  "period": "2026.10.09 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.09",
   "projects": [
     {
       "rank": 1,
@@ -81,7 +81,7 @@
       "repo": "free-ride",
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "为 OpenClaw 管理 OpenRouter 免费 AI 模型，自动排序并调用可用模型",
-      "downloads": "71.5k"
+      "downloads": "71.6k"
     },
     {
       "rank": 11,
@@ -161,7 +161,7 @@
       "repo": "openai-whisper",
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
       "description": "官方出品，基于 Whisper CLI 的本地语音转文字，无需 API Key",
-      "downloads": "89k"
+      "downloads": "89.1k"
     }
   ]
 }
