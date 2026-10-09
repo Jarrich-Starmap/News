@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.09 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.09",
+  "period": "2026.10.10 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.10",
   "projects": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "记录学习成果、错误与修正，让智能体持续自我改进，本期稳居 Trending 榜首",
-      "downloads": "483k"
+      "downloads": "484k"
     },
     {
       "rank": 2,
@@ -49,7 +49,7 @@
       "repo": "multi-search-engine",
       "url": "https://clawhub.ai/gpyangyoujun/skills/multi-search-engine",
       "description": "多引擎聚合搜索：集成 16 个搜索引擎（7 个国内 + 9 个全球），注重隐私",
-      "downloads": "162k"
+      "downloads": "163k"
     },
     {
       "rank": 7,
@@ -129,7 +129,7 @@
       "repo": "api-gateway",
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
       "description": "通过 Maton 网关调用第三方 API，由网关自动注入凭据",
-      "downloads": "87.4k"
+      "downloads": "87.5k"
     },
     {
       "rank": 17,
@@ -145,7 +145,7 @@
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "94k"
+      "downloads": "94.2k"
     },
     {
       "rank": 19,
