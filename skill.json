@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.10 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.10",
+  "period": "2026.10.11 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.11",
   "projects": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "owner": "steipete",
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
-      "description": "官方出品，Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
+      "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
       "downloads": "196k"
     },
     {
@@ -64,7 +64,7 @@
       "owner": "steipete",
       "repo": "github",
       "url": "https://clawhub.ai/steipete/skills/github",
-      "description": "官方出品，通过 gh CLI 操作 GitHub：issue、PR、workflow 等全流程",
+      "description": "通过 gh CLI 操作 GitHub：issue、PR、workflow 等全流程",
       "downloads": "200k"
     },
     {
@@ -89,14 +89,14 @@
       "repo": "agent-browser-clawdbot",
       "url": "https://clawhub.ai/matrixy/skills/agent-browser-clawdbot",
       "description": "面向 AI Agent 优化的无头浏览器自动化 CLI，基于可访问性树驱动",
-      "downloads": "157k"
+      "downloads": "158k"
     },
     {
       "rank": 12,
       "owner": "steipete",
       "repo": "obsidian",
       "url": "https://clawhub.ai/steipete/skills/obsidian",
-      "description": "官方出品，操作 Obsidian 笔记库（Markdown）并通过 obsidian-cli 自动化",
+      "description": "操作 Obsidian 笔记库（Markdown）并通过 obsidian-cli 自动化",
       "downloads": "111k"
     },
     {
@@ -112,7 +112,7 @@
       "owner": "steipete",
       "repo": "weather",
       "url": "https://clawhub.ai/steipete/skills/weather",
-      "description": "官方出品，获取实时天气与预报，无需 API Key",
+      "description": "获取实时天气与预报，无需 API Key",
       "downloads": "171k"
     },
     {
@@ -120,7 +120,7 @@
       "owner": "steipete",
       "repo": "nano-banana-pro",
       "url": "https://clawhub.ai/steipete/skills/nano-banana-pro",
-      "description": "官方出品，基于 Nano Banana Pro（Gemini 3 Pro Image）生成与编辑图片",
+      "description": "基于 Nano Banana Pro（Gemini 3 Pro Image）生成与编辑图片",
       "downloads": "107k"
     },
     {
@@ -145,7 +145,7 @@
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "94.2k"
+      "downloads": "94.3k"
     },
     {
       "rank": 19,
@@ -160,8 +160,8 @@
       "owner": "steipete",
       "repo": "openai-whisper",
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
-      "description": "官方出品，基于 Whisper CLI 的本地语音转文字，无需 API Key",
-      "downloads": "89.1k"
+      "description": "基于 Whisper CLI 的本地语音转文字，无需 API Key",
+      "downloads": "89.2k"
     }
   ]
 }
