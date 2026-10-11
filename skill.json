@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.11 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.11",
+  "period": "2026.10.12 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.12",
   "projects": [
     {
       "rank": 1,
@@ -17,7 +17,7 @@
       "repo": "skill-vetter",
       "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
       "description": "面向 AI Agent 的安全优先技能审查：安装前检查风险信号与权限范围",
-      "downloads": "276k"
+      "downloads": "277k"
     },
     {
       "rank": 3,
@@ -33,7 +33,7 @@
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
       "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
-      "downloads": "196k"
+      "downloads": "197k"
     },
     {
       "rank": 5,
@@ -81,7 +81,7 @@
       "repo": "free-ride",
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "为 OpenClaw 管理 OpenRouter 免费 AI 模型，自动排序并调用可用模型",
-      "downloads": "71.6k"
+      "downloads": "71.7k"
     },
     {
       "rank": 11,
@@ -137,7 +137,7 @@
       "repo": "desktop-control",
       "url": "https://clawhub.ai/matagul/skills/desktop-control",
       "description": "进阶桌面自动化：鼠标、键盘与屏幕控制",
-      "downloads": "62.2k"
+      "downloads": "62.3k"
     },
     {
       "rank": 18,
@@ -145,7 +145,7 @@
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "94.3k"
+      "downloads": "94.4k"
     },
     {
       "rank": 19,
