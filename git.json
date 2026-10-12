@@ -1,16 +1,16 @@
 {
   "title": "GitHub AI 项目周榜",
   "period": "2026.10.12 – 10.18 · 按本周新增 Star 数排序",
-  "updated": "2026.10.12",
+  "updated": "2026.10.13",
   "projects": [
     {
       "rank": 1,
-      "owner": "lexmount",
-      "repo": "moli",
-      "url": "https://github.com/lexmount/moli",
-      "description": "Rust 打造的 AI Agent 专用无头浏览器：轻量、快速、高兼容，为 Agent 提供稳定的网页浏览与自动化能力，本周新增近 1 万 Star 登顶 AI 周榜。",
-      "stars": "16.3k",
-      "weekly_stars": "10.0k"
+      "owner": "morluto",
+      "repo": "rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "用 AI Agent 逆向一切：从应用行为到底层二进制全面拆解，AI 驱动的逆向工程利器，本周新增超 12.7 万 Star 断层登顶。",
+      "stars": "145.7k",
+      "weekly_stars": "127.0k"
     },
     {
       "rank": 2,
@@ -18,125 +18,53 @@
       "repo": "skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Matt Pocock 亲测的 Agent 工程技能集，直接来自其个人 .agents 目录，可组合、可定制，本周热度持续霸榜。",
-      "stars": "285.9k",
-      "weekly_stars": "9.2k"
+      "stars": "287.6k",
+      "weekly_stars": "10.3k"
     },
     {
       "rank": 3,
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "让 AI Agent 像最资深的懒人工程师一样思考——最好的代码是没写的那行，通过技能与规则约束 Agent 少写冗余代码，本周热度飙升。",
-      "stars": "161.0k",
-      "weekly_stars": "7.7k"
-    },
-    {
-      "rank": 4,
-      "owner": "Panniantong",
-      "repo": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "一条 CLI 让 AI Agent 读取与搜索全网内容：Twitter、Reddit、YouTube、GitHub、B 站、小红书全覆盖，零 API 费用，本周热度继续走高。",
-      "stars": "95.9k",
-      "weekly_stars": "6.1k"
-    },
-    {
-      "rank": 5,
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "专为 AI 设计链路打造的设计语言系统，让 Agent 生成更精致的 UI 设计，本周新上榜。",
-      "stars": "79.8k",
-      "weekly_stars": "4.4k"
-    },
-    {
-      "rank": 6,
       "owner": "heygen-com",
       "repo": "hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "description": "写 HTML 就能渲染视频，专为 Agent 打造的视频生成框架，本周新上榜热度大涨。",
-      "stars": "60.8k",
-      "weekly_stars": "4.1k"
+      "description": "写 HTML 渲染视频，专为 Agent 打造的视频生成框架，本周新上榜热度大涨。",
+      "stars": "61.6k",
+      "weekly_stars": "4.2k"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "owner": "thedotmack",
       "repo": "claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "description": "为每个 Agent 提供跨会话持久记忆，自动捕获 Agent 全过程上下文，Claude 记忆增强利器。",
-      "stars": "99.6k",
-      "weekly_stars": "4.0k"
-    },
-    {
-      "rank": 8,
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "生产级工程技能包，专为 AI 编码 Agent 打磨，覆盖主流开发工作流，本周持续上榜。",
-      "stars": "104.9k",
+      "description": "为每个 Agent 提供跨会话持久记忆：自动捕获会话全过程上下文，AI 压缩后回注后续会话，兼容 Claude Code、Codex、Gemini、Copilot 等，本周持续上榜。",
+      "stars": "100.0k",
       "weekly_stars": "3.8k"
     },
     {
-      "rank": 9,
-      "owner": "rohitg00",
-      "repo": "ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "从零学 AI 工程：学习、构建、上线，一套完整的 AI 工程进阶路线图，本周新上榜。",
-      "stars": "67.3k",
-      "weekly_stars": "3.7k"
-    },
-    {
-      "rank": 10,
-      "owner": "calesthio",
-      "repo": "OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "全球首个开源 Agentic 视频生产系统：12 条生产流水线、100+ 组件，AI 视频创作新基建。",
-      "stars": "66.9k",
-      "weekly_stars": "3.5k"
-    },
-    {
-      "rank": 11,
-      "owner": "msitarzewski",
-      "repo": "agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "一站式 AI Agency 工具集，从前端魔法师到 Reddit 社区运营，Agent 军团随时待命。",
-      "stars": "159.0k",
-      "weekly_stars": "3.2k"
-    },
-    {
-      "rank": 12,
-      "owner": "anthropics",
-      "repo": "knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Anthropic 开源的插件库，主要为知识工作者在 Claude 等工具中使用而设计，本周新上榜。",
-      "stars": "29.1k",
-      "weekly_stars": "2.6k"
-    },
-    {
-      "rank": 13,
-      "owner": "tashfeenahmed",
-      "repo": "freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "每月 74 亿 token 的免费 LLM 提供商聚合：34 家免费大模型服务商、635 个免费模型端点，一站式白嫖入口。",
-      "stars": "33.2k",
-      "weekly_stars": "2.6k"
-    },
-    {
-      "rank": 14,
+      "rank": 5,
       "owner": "earthtojake",
       "repo": "text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "给 AI Agent 赋予 CAD 超能力：文本直接生成 CAD 图纸，设计与制造的自动化新玩法。",
-      "stars": "19.2k",
-      "weekly_stars": "2.4k"
+      "description": "给 AI Agent 赋予 CAD 超能力：文本直接生成 CAD 图纸，设计与制造的自动化新玩法，本周新上榜。",
+      "stars": "19.6k",
+      "weekly_stars": "2.5k"
     },
     {
-      "rank": 15,
-      "owner": "666ghj",
-      "repo": "MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "简洁通用的群体智能引擎，可预测万物：麻雀虽小五脏俱全的 Swarm Intelligence 实现，本周新上榜。",
-      "stars": "78.1k",
-      "weekly_stars": "2.1k"
+      "rank": 6,
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "从 Claude Code、Codex、Pi 组装持久化 Agent 团队网络：角色分工、共享上下文与任务所有权，本周新上榜。",
+      "stars": "7.2k",
+      "weekly_stars": "2.0k"
+    },
+    {
+      "rank": 7,
+      "owner": "cursor",
+      "repo": "plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor 插件规范与官方插件集，AI 编程编辑器生态持续扩展，本周新上榜。",
+      "stars": "11.0k",
+      "weekly_stars": "1.1k"
     }
   ]
 }
