@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.12 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.12",
+  "period": "2026.10.13 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.13",
   "projects": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "repo": "github",
       "url": "https://clawhub.ai/steipete/skills/github",
       "description": "通过 gh CLI 操作 GitHub：issue、PR、workflow 等全流程",
-      "downloads": "200k"
+      "downloads": "201k"
     },
     {
       "rank": 9,
@@ -80,7 +80,7 @@
       "owner": "shaivpidadi",
       "repo": "free-ride",
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
-      "description": "为 OpenClaw 管理 OpenRouter 免费 AI 模型，自动排序并调用可用模型",
+      "description": "管理 OpenRouter 上的免费 AI 模型，自动排序可用额度，实现不限量免费调用",
       "downloads": "71.7k"
     },
     {
@@ -88,7 +88,7 @@
       "owner": "matrixy",
       "repo": "agent-browser-clawdbot",
       "url": "https://clawhub.ai/matrixy/skills/agent-browser-clawdbot",
-      "description": "面向 AI Agent 优化的无头浏览器自动化 CLI，基于可访问性树驱动",
+      "description": "面向 AI Agent 优化的无头浏览器自动化 CLI，基于无障碍树高效操作网页",
       "downloads": "158k"
     },
     {
@@ -96,7 +96,7 @@
       "owner": "steipete",
       "repo": "obsidian",
       "url": "https://clawhub.ai/steipete/skills/obsidian",
-      "description": "操作 Obsidian 笔记库（Markdown）并通过 obsidian-cli 自动化",
+      "description": "通过 obsidian-cli 操作 Obsidian 笔记库（纯 Markdown），实现自动化管理",
       "downloads": "111k"
     },
     {
@@ -104,7 +104,7 @@
       "owner": "maximeprades",
       "repo": "auto-updater",
       "url": "https://clawhub.ai/maximeprades/skills/auto-updater",
-      "description": "每天自动更新 Clawdbot 及全部已安装技能，通过定时任务执行",
+      "description": "每日定时自动更新 Clawdbot 与全部已安装技能，保持版本最新",
       "downloads": "100k"
     },
     {
@@ -112,7 +112,7 @@
       "owner": "steipete",
       "repo": "weather",
       "url": "https://clawhub.ai/steipete/skills/weather",
-      "description": "获取实时天气与预报，无需 API Key",
+      "description": "获取当前天气与预报，无需 API Key，开箱即用",
       "downloads": "171k"
     },
     {
@@ -120,7 +120,7 @@
       "owner": "steipete",
       "repo": "nano-banana-pro",
       "url": "https://clawhub.ai/steipete/skills/nano-banana-pro",
-      "description": "基于 Nano Banana Pro（Gemini 3 Pro Image）生成与编辑图片",
+      "description": "基于 Gemini 3 Pro Image 生成与编辑图片（Nano Banana Pro）",
       "downloads": "107k"
     },
     {
@@ -128,15 +128,15 @@
       "owner": "byungkyu",
       "repo": "api-gateway",
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
-      "description": "通过 Maton 网关调用第三方 API，由网关自动注入凭据",
-      "downloads": "87.5k"
+      "description": "通过 Maton 网关调用第三方 API，自动注入凭据，安全托管密钥",
+      "downloads": "87.6k"
     },
     {
       "rank": 17,
       "owner": "matagul",
       "repo": "desktop-control",
       "url": "https://clawhub.ai/matagul/skills/desktop-control",
-      "description": "进阶桌面自动化：鼠标、键盘与屏幕控制",
+      "description": "高级桌面自动化：鼠标、键盘与屏幕控制",
       "downloads": "62.3k"
     },
     {
@@ -144,15 +144,15 @@
       "owner": "ivangdavila",
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
-      "description": "创建、检查与编辑 Microsoft Word / DOCX 文档",
-      "downloads": "94.4k"
+      "description": "创建、检查与编辑 Microsoft Word（DOCX）文档",
+      "downloads": "94.5k"
     },
     {
       "rank": 19,
       "owner": "michaelgathara",
       "repo": "youtube-watcher",
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
-      "description": "抓取并阅读 YouTube 视频字幕文稿，便于总结与二次加工",
+      "description": "抓取并阅读 YouTube 视频字幕，用于视频内容总结",
       "downloads": "55.5k"
     },
     {
