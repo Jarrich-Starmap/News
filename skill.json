@@ -1,22 +1,24 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.13 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.13",
+  "period": "2026.10.14 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.14",
   "projects": [
     {
       "rank": 1,
       "owner": "pskoett",
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "记录学习成果、错误与修正，让智能体持续自我改进，本期稳居 Trending 榜首",
-      "downloads": "484k"
+      "description": "记录经验与错误到 Markdown 文件实现持续改进，重要学习内容可提升为工作区记忆，本期稳居 Trending 榜首",
+      "bookmarks": "4.0k",
+      "downloads": "485k"
     },
     {
       "rank": 2,
       "owner": "spclaudehome",
       "repo": "skill-vetter",
       "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
-      "description": "面向 AI Agent 的安全优先技能审查：安装前检查风险信号与权限范围",
+      "description": "面向 AI Agent 的安全优先技能审查协议，安装任何 skill 前先审查风险与权限范围",
+      "bookmarks": "1.3k",
       "downloads": "277k"
     },
     {
@@ -24,7 +26,8 @@
       "owner": "ivangdavila",
       "repo": "self-improving",
       "url": "https://clawhub.ai/ivangdavila/skills/self-improving",
-      "description": "自我反思 + 自我批评 + 自我学习 + 自组织记忆，构建主动型智能体",
+      "description": "自我反思 + 自我批评 + 自我学习 + 自组织记忆，让知识无需手动维护即可累积",
+      "bookmarks": "1.3k",
       "downloads": "211k"
     },
     {
@@ -32,7 +35,8 @@
       "owner": "steipete",
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
-      "description": "Google Workspace 命令行工具，覆盖 Gmail、日历、Drive、联系人与文档",
+      "description": "Google Workspace CLI，支持 Gmail、Calendar、Drive、Contacts、Sheets、Docs（需 OAuth）",
+      "bookmarks": "953",
       "downloads": "197k"
     },
     {
@@ -40,7 +44,8 @@
       "owner": "halthelobster",
       "repo": "proactive-agent",
       "url": "https://clawhub.ai/halthelobster/skills/proactive-agent",
-      "description": "把 AI 代理从任务执行者转变为主动协作的伙伴",
+      "description": "将 AI Agent 从被动执行者转变为主动合作伙伴（Hal Stack 系列）",
+      "bookmarks": "831",
       "downloads": "177k"
     },
     {
@@ -48,7 +53,8 @@
       "owner": "gpyangyoujun",
       "repo": "multi-search-engine",
       "url": "https://clawhub.ai/gpyangyoujun/skills/multi-search-engine",
-      "description": "多引擎聚合搜索：集成 16 个搜索引擎（7 个国内 + 9 个全球），注重隐私",
+      "description": "集成 16 个搜索引擎（7 个中文 + 9 个国际），无需 API key 即可爬取网页",
+      "bookmarks": "764",
       "downloads": "163k"
     },
     {
@@ -56,7 +62,8 @@
       "owner": "biostartechnology",
       "repo": "humanizer",
       "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
-      "description": "去除文本中的 AI 生成痕迹，让文稿读起来更像真人写作",
+      "description": "识别并去除 AI 生成文本痕迹，让文字更自然，基于维基百科 Signs of AI writing",
+      "bookmarks": "714",
       "downloads": "132k"
     },
     {
@@ -64,7 +71,8 @@
       "owner": "steipete",
       "repo": "github",
       "url": "https://clawhub.ai/steipete/skills/github",
-      "description": "通过 gh CLI 操作 GitHub：issue、PR、workflow 等全流程",
+      "description": "通过 gh CLI 与 GitHub 交互，支持 issue/pr/run 等操作",
+      "bookmarks": "671",
       "downloads": "201k"
     },
     {
@@ -72,7 +80,8 @@
       "owner": "oswalpalash",
       "repo": "ontology",
       "url": "https://clawhub.ai/oswalpalash/skills/ontology",
-      "description": "类型化知识图谱，用于结构化 Agent 记忆与可组合技能",
+      "description": "类型化词汇 + 约束系统，以可验证图结构表示知识（Agent 记忆）",
+      "bookmarks": "660",
       "downloads": "200k"
     },
     {
@@ -80,7 +89,8 @@
       "owner": "shaivpidadi",
       "repo": "free-ride",
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
-      "description": "管理 OpenRouter 上的免费 AI 模型，自动排序可用额度，实现不限量免费调用",
+      "description": "配置 OpenClaw 使用 OpenRouter 免费模型，自动排序备选防限流，实现不限量免费调用",
+      "bookmarks": "491",
       "downloads": "71.7k"
     },
     {
@@ -88,7 +98,8 @@
       "owner": "matrixy",
       "repo": "agent-browser-clawdbot",
       "url": "https://clawhub.ai/matrixy/skills/agent-browser-clawdbot",
-      "description": "面向 AI Agent 优化的无头浏览器自动化 CLI，基于无障碍树高效操作网页",
+      "description": "基于无障碍树快照 + ref 的确定性元素选择，实现快速浏览器自动化",
+      "bookmarks": "463",
       "downloads": "158k"
     },
     {
@@ -96,7 +107,8 @@
       "owner": "steipete",
       "repo": "obsidian",
       "url": "https://clawhub.ai/steipete/skills/obsidian",
-      "description": "通过 obsidian-cli 操作 Obsidian 笔记库（纯 Markdown），实现自动化管理",
+      "description": "操作 Obsidian vault（磁盘上的普通文件夹），通过 obsidian-cli 自动化",
+      "bookmarks": "460",
       "downloads": "111k"
     },
     {
@@ -104,7 +116,8 @@
       "owner": "maximeprades",
       "repo": "auto-updater",
       "url": "https://clawhub.ai/maximeprades/skills/auto-updater",
-      "description": "每日定时自动更新 Clawdbot 与全部已安装技能，保持版本最新",
+      "description": "每日自动检查更新 Clawdbot 及全部已安装技能，保持版本最新",
+      "bookmarks": "446",
       "downloads": "100k"
     },
     {
@@ -112,15 +125,17 @@
       "owner": "steipete",
       "repo": "weather",
       "url": "https://clawhub.ai/steipete/skills/weather",
-      "description": "获取当前天气与预报，无需 API Key，开箱即用",
-      "downloads": "171k"
+      "description": "获取当前天气与预报，无需 API key（两个免费服务源）",
+      "bookmarks": "429",
+      "downloads": "172k"
     },
     {
       "rank": 15,
       "owner": "steipete",
       "repo": "nano-banana-pro",
       "url": "https://clawhub.ai/steipete/skills/nano-banana-pro",
-      "description": "基于 Gemini 3 Pro Image 生成与编辑图片（Nano Banana Pro）",
+      "description": "基于 Google Nano Banana Pro（Gemini 3 Pro Image）API 生成/编辑图像",
+      "bookmarks": "420",
       "downloads": "107k"
     },
     {
@@ -128,7 +143,8 @@
       "owner": "byungkyu",
       "repo": "api-gateway",
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
-      "description": "通过 Maton 网关调用第三方 API，自动注入凭据，安全托管密钥",
+      "description": "通过 Maton 网关管理第三方 API 路由并注入凭据，安全托管密钥",
+      "bookmarks": "394",
       "downloads": "87.6k"
     },
     {
@@ -136,7 +152,8 @@
       "owner": "matagul",
       "repo": "desktop-control",
       "url": "https://clawhub.ai/matagul/skills/desktop-control",
-      "description": "高级桌面自动化：鼠标、键盘与屏幕控制",
+      "description": "OpenClaw 高级桌面自动化：像素级鼠标控制、键盘输入、屏幕捕获、窗口管理",
+      "bookmarks": "382",
       "downloads": "62.3k"
     },
     {
@@ -144,24 +161,27 @@
       "owner": "ivangdavila",
       "repo": "word-docx",
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
-      "description": "创建、检查与编辑 Microsoft Word（DOCX）文档",
-      "downloads": "94.5k"
+      "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
+      "bookmarks": "355",
+      "downloads": "94.6k"
     },
     {
       "rank": 19,
       "owner": "michaelgathara",
       "repo": "youtube-watcher",
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
-      "description": "抓取并阅读 YouTube 视频字幕，用于视频内容总结",
-      "downloads": "55.5k"
+      "description": "抓取 YouTube 视频字幕，支持摘要、问答与内容提取",
+      "bookmarks": "343",
+      "downloads": "55.6k"
     },
     {
       "rank": 20,
       "owner": "steipete",
       "repo": "openai-whisper",
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
-      "description": "基于 Whisper CLI 的本地语音转文字，无需 API Key",
-      "downloads": "89.2k"
+      "description": "通过 Whisper CLI 本地语音转文字，无需 API key",
+      "bookmarks": "341",
+      "downloads": "89.3k"
     }
   ]
 }
