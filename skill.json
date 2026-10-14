@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.14 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.14",
+  "period": "2026.10.15 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.15",
   "projects": [
     {
       "rank": 1,
@@ -63,7 +63,7 @@
       "repo": "humanizer",
       "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
       "description": "识别并去除 AI 生成文本痕迹，让文字更自然，基于维基百科 Signs of AI writing",
-      "bookmarks": "714",
+      "bookmarks": "715",
       "downloads": "132k"
     },
     {
@@ -91,7 +91,7 @@
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "配置 OpenClaw 使用 OpenRouter 免费模型，自动排序备选防限流，实现不限量免费调用",
       "bookmarks": "491",
-      "downloads": "71.7k"
+      "downloads": "71.8k"
     },
     {
       "rank": 11,
@@ -136,7 +136,7 @@
       "url": "https://clawhub.ai/steipete/skills/nano-banana-pro",
       "description": "基于 Google Nano Banana Pro（Gemini 3 Pro Image）API 生成/编辑图像",
       "bookmarks": "420",
-      "downloads": "107k"
+      "downloads": "108k"
     },
     {
       "rank": 16,
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "94.6k"
+      "downloads": "94.7k"
     },
     {
       "rank": 19,
