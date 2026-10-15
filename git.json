@@ -1,16 +1,16 @@
 {
   "title": "GitHub AI 项目周榜",
   "period": "2026.10.12 – 10.18 · 按本周新增 Star 数排序",
-  "updated": "2026.10.15",
+  "updated": "2026.10.16",
   "projects": [
     {
       "rank": 1,
       "owner": "morluto",
       "repo": "rea",
       "url": "https://github.com/morluto/rea",
-      "description": "用 AI Agent 逆向一切：从应用行为到底层二进制全面拆解，AI 驱动的逆向工程利器，本周新增约 18 万 Star 断层登顶。",
-      "stars": "236.0k",
-      "weekly_stars": "183.8k"
+      "description": "用 AI Agent 逆向一切：从应用行为到底层二进制全面拆解，AI 驱动的逆向工程利器，本周新增约 23.9 万 Star 断层登顶。",
+      "stars": "265.4k",
+      "weekly_stars": "239.5k"
     },
     {
       "rank": 2,
@@ -18,8 +18,8 @@
       "repo": "skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Matt Pocock 亲测的 Agent 工程技能集，直接来自其个人 .agents 目录，可组合、可定制，本周持续霸榜。",
-      "stars": "290.9k",
-      "weekly_stars": "12.0k"
+      "stars": "292.5k",
+      "weekly_stars": "12.1k"
     },
     {
       "rank": 3,
@@ -27,17 +27,17 @@
       "repo": "diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "面向 Claude Code、Codex、GitHub Copilot、Cursor 等 AI 编程助手的编辑级图表设计技能，内置 44 种图表类型，自包含 HTML+SVG 输出，本周新上榜。",
-      "stars": "55.2k",
-      "weekly_stars": "9.9k"
+      "stars": "55.8k",
+      "weekly_stars": "10.2k"
     },
     {
       "rank": 4,
       "owner": "ifixai-ai",
       "repo": "iFixAi",
       "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "AI Agent 独立审计工具：由人或 Agent 自查，120 秒内回答「Agent 是否在按预期工作」，AI Agent 经济时代的质检利器，本周新上榜。",
-      "stars": "27.1k",
-      "weekly_stars": "5.5k"
+      "description": "AI Agent 独立审计工具：由人或 Agent 自查，快速回答「Agent 是否在按预期工作」，AI Agent 经济时代的质检利器，本周新上榜。",
+      "stars": "28.3k",
+      "weekly_stars": "5.8k"
     },
     {
       "rank": 5,
@@ -45,8 +45,8 @@
       "repo": "hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "写 HTML 渲染视频，专为 Agent 打造的视频生成框架，本周持续在榜。",
-      "stars": "63.5k",
-      "weekly_stars": "4.7k"
+      "stars": "64.4k",
+      "weekly_stars": "5.3k"
     },
     {
       "rank": 6,
@@ -54,89 +54,89 @@
       "repo": "agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Addy Osmani 出品的生产级 AI 编码 Agent 技能集，覆盖真实工程场景，本周新上榜。",
-      "stars": "106.6k",
-      "weekly_stars": "4.3k"
+      "stars": "107.0k",
+      "weekly_stars": "4.2k"
     },
     {
       "rank": 7,
-      "owner": "thedotmack",
-      "repo": "claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "为每个 Agent 提供跨会话持久记忆：自动捕获会话全过程上下文，AI 压缩后回注后续会话，兼容 Claude Code、Codex、Gemini、Copilot 等，本周持续在榜。",
-      "stars": "100.7k",
-      "weekly_stars": "3.6k"
-    },
-    {
-      "rank": 8,
       "owner": "Alishahryar1",
       "repo": "free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "免费使用 Claude Code、Codex、VSCode、OpenCode 等 10+ 编程助手：13 亿+ 免费 token，支持浏览器原生会话与多模型，本周新上榜。",
-      "stars": "60.5k",
-      "weekly_stars": "3.4k"
+      "description": "免费使用 Claude Code、Codex、VSCode、OpenCode 等 10+ 编程助手：13 亿+ 免费 token，支持浏览器原生会话与多模型，本周持续在榜。",
+      "stars": "60.8k",
+      "weekly_stars": "3.8k"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "owner": "tashfeenahmed",
       "repo": "freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "每月 74 亿 token 的免费 LLM 聚合：34 家免费提供商、635 个免费模型端点，智能路由自动故障转移，本周持续在榜。",
-      "stars": "35.2k",
-      "weekly_stars": "3.4k"
+      "stars": "35.7k",
+      "weekly_stars": "3.7k"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "owner": "calesthio",
       "repo": "OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "全球首个开源 Agentic 视频制作系统：12 条生产流水线、100+ 工具、700+ Agent 技能与生产知识文件，把 AI 编程助手变成完整视频工作室，本周新上榜。",
-      "stars": "68.2k",
+      "stars": "68.6k",
+      "weekly_stars": "3.4k"
+    },
+    {
+      "rank": 10,
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "为每个 Agent 提供跨会话持久记忆：自动捕获会话全过程上下文，AI 压缩后回注后续会话，兼容 Claude Code、Codex、Gemini、Copilot 等，本周持续在榜。",
+      "stars": "101.0k",
       "weekly_stars": "3.4k"
     },
     {
       "rank": 11,
+      "owner": "mksglu",
+      "repo": "context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "AI 编码 Agent 上下文窗口优化器：沙箱化工具输出（减少 98% 冗余）、持久化会话记忆，支持多平台路由，本周持续在榜。",
+      "stars": "29.7k",
+      "weekly_stars": "3.3k"
+    },
+    {
+      "rank": 12,
       "owner": "anthropics",
       "repo": "knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Anthropic 开源的知识工作者插件集，主要面向 Claude Cowork 中的知识办公与研究工作流，本周新上榜。",
-      "stars": "29.6k",
-      "weekly_stars": "3.2k"
-    },
-    {
-      "rank": 12,
-      "owner": "mksglu",
-      "repo": "context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "AI 编码 Agent 上下文窗口优化器：沙箱化工具输出（减少 98% 冗余）、持久化会话记忆，支持 17 个平台路由，本周新上榜。",
-      "stars": "28.9k",
-      "weekly_stars": "3.1k"
+      "stars": "29.8k",
+      "weekly_stars": "2.6k"
     },
     {
       "rank": 13,
+      "owner": "666ghj",
+      "repo": "MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "简洁通用的群体智能引擎：基于知识图谱与多 Agent 模拟预测万物，覆盖金融预测、舆情分析等场景，本周新上榜。",
+      "stars": "79.5k",
+      "weekly_stars": "2.3k"
+    },
+    {
+      "rank": 14,
       "owner": "earthtojake",
       "repo": "text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "给 AI Agent 装上 CAD 超能力：文字描述直出 CAD 模型，让 Agent 具备计算机辅助设计能力，本周新上榜。",
-      "stars": "20.3k",
+      "stars": "20.6k",
       "weekly_stars": "2.2k"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "owner": "vercel-labs",
       "repo": "skills",
       "url": "https://github.com/vercel-labs/skills",
-      "description": "Vercel Labs 出品的开源 Agent 技能工具，一条命令（npx skills）安装与管理技能库，本周新上榜。",
-      "stars": "34.9k",
+      "description": "Vercel Labs 出品的开源 Agent 技能工具，一条命令（npx skills）安装与管理技能库，本周持续在榜。",
+      "stars": "35.1k",
       "weekly_stars": "1.6k"
-    },
-    {
-      "rank": 15,
-      "owner": "p-e-w",
-      "repo": "heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "语言模型审查自动移除工具：全自动去除大模型输出中的内容限制，让模型回答更自由，本周新上榜。",
-      "stars": "35.2k",
-      "weekly_stars": "1.5k"
     }
   ]
 }
