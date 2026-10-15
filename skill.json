@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.15 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.15",
+  "period": "2026.10.16 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.16",
   "projects": [
     {
       "rank": 1,
@@ -28,7 +28,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/self-improving",
       "description": "自我反思 + 自我批评 + 自我学习 + 自组织记忆，让知识无需手动维护即可累积",
       "bookmarks": "1.3k",
-      "downloads": "211k"
+      "downloads": "212k"
     },
     {
       "rank": 4,
@@ -63,7 +63,7 @@
       "repo": "humanizer",
       "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
       "description": "识别并去除 AI 生成文本痕迹，让文字更自然，基于维基百科 Signs of AI writing",
-      "bookmarks": "715",
+      "bookmarks": "716",
       "downloads": "132k"
     },
     {
@@ -109,7 +109,7 @@
       "url": "https://clawhub.ai/steipete/skills/obsidian",
       "description": "操作 Obsidian vault（磁盘上的普通文件夹），通过 obsidian-cli 自动化",
       "bookmarks": "460",
-      "downloads": "111k"
+      "downloads": "112k"
     },
     {
       "rank": 13,
@@ -117,7 +117,7 @@
       "repo": "auto-updater",
       "url": "https://clawhub.ai/maximeprades/skills/auto-updater",
       "description": "每日自动检查更新 Clawdbot 及全部已安装技能，保持版本最新",
-      "bookmarks": "446",
+      "bookmarks": "447",
       "downloads": "100k"
     },
     {
@@ -135,7 +135,7 @@
       "repo": "nano-banana-pro",
       "url": "https://clawhub.ai/steipete/skills/nano-banana-pro",
       "description": "基于 Google Nano Banana Pro（Gemini 3 Pro Image）API 生成/编辑图像",
-      "bookmarks": "420",
+      "bookmarks": "421",
       "downloads": "108k"
     },
     {
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "94.7k"
+      "downloads": "94.8k"
     },
     {
       "rank": 19,
@@ -171,7 +171,7 @@
       "repo": "youtube-watcher",
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
       "description": "抓取 YouTube 视频字幕，支持摘要、问答与内容提取",
-      "bookmarks": "343",
+      "bookmarks": "344",
       "downloads": "55.6k"
     },
     {
