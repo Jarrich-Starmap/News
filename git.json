@@ -1,33 +1,33 @@
 {
   "title": "GitHub AI 项目周榜",
   "period": "2026.10.12 – 10.18 · 按本周新增 Star 数排序",
-  "updated": "2026.10.17",
+  "updated": "2026.10.18",
   "projects": [
     {
       "rank": 1,
       "owner": "morluto",
       "repo": "rea",
       "url": "https://github.com/morluto/rea",
-      "description": "用 AI Agent 逆向一切：从应用行为到底层二进制全面拆解，AI 驱动的逆向工程利器，本周新增约 23.9 万 Star 断层登顶。",
-      "stars": "287.7k",
-      "weekly_stars": "239.5k"
+      "description": "用 AI Agent 逆向一切：从应用行为到底层二进制全面拆解，AI 驱动的逆向工程利器，本周新增约 24.9 万 Star 断层登顶。",
+      "stars": "305.1k",
+      "weekly_stars": "248.9k"
     },
     {
       "rank": 2,
       "owner": "storytold",
       "repo": "artcraft",
       "url": "https://github.com/storytold/artcraft",
-      "description": "面向艺术家、设计师与电影人的意图式创作引擎，主打 AI 图像与视频生成、3D 图形，本周新上榜。",
-      "stars": "30.3k",
-      "weekly_stars": "22.3k"
+      "description": "面向艺术家、设计师与电影人的意图式创作引擎，主打 AI 图像与视频生成、3D 图形，本周持续霸榜。",
+      "stars": "31.6k",
+      "weekly_stars": "20.3k"
     },
     {
       "rank": 3,
       "owner": "debpalash",
       "repo": "VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "开源本地版 ElevenLabs：语音克隆、语音设计、视频配音、听写转写与有声书创作，覆盖 646 种语言且完全本地运行，本周新上榜。",
-      "stars": "70.6k",
+      "description": "开源本地版 ElevenLabs：语音克隆、语音设计、视频配音、听写转写与有声书创作，覆盖 646 种语言且完全本地运行，本周持续在榜。",
+      "stars": "72.9k",
       "weekly_stars": "14.5k"
     },
     {
@@ -36,17 +36,17 @@
       "repo": "skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Matt Pocock 亲测的 Agent 工程技能集，直接来自其个人 .agents 目录，可组合、可定制，本周持续霸榜。",
-      "stars": "293.9k",
-      "weekly_stars": "12.1k"
+      "stars": "294.9k",
+      "weekly_stars": "11.9k"
     },
     {
       "rank": 5,
       "owner": "cathrynlavery",
       "repo": "diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "面向 Claude Code、Codex、GitHub Copilot、Cursor 等 AI 编程助手的编辑级图表设计技能，内置 44 种图表类型，自包含 HTML+SVG 输出，本周新上榜。",
-      "stars": "56.3k",
-      "weekly_stars": "10.2k"
+      "description": "面向 Claude Code、Codex、GitHub Copilot、Cursor 等 AI 编程助手的编辑级图表设计技能，内置 44 种图表类型，自包含 HTML+SVG 输出，本周持续在榜。",
+      "stars": "56.9k",
+      "weekly_stars": "9.0k"
     },
     {
       "rank": 6,
@@ -54,7 +54,7 @@
       "repo": "iFixAi",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "description": "AI Agent 独立审计工具：由人或 Agent 自查，快速回答「Agent 是否在按预期工作」，AI Agent 经济时代的质检利器，本周持续在榜。",
-      "stars": "28.6k",
+      "stars": "29.1k",
       "weekly_stars": "6.8k"
     },
     {
@@ -63,8 +63,8 @@
       "repo": "hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "写 HTML 渲染视频，专为 Agent 打造的视频生成框架，本周持续在榜。",
-      "stars": "65.2k",
-      "weekly_stars": "5.3k"
+      "stars": "65.9k",
+      "weekly_stars": "5.6k"
     },
     {
       "rank": 8,
@@ -72,8 +72,8 @@
       "repo": "context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "AI 编码 Agent 上下文窗口优化器：沙箱化工具输出（减少 98% 冗余）、持久化会话记忆，支持 17 平台路由，本周持续在榜。",
-      "stars": "30.1k",
-      "weekly_stars": "4.0k"
+      "stars": "30.5k",
+      "weekly_stars": "4.2k"
     },
     {
       "rank": 9,
@@ -81,7 +81,7 @@
       "repo": "free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "免费使用 Claude Code、Codex、VSCode、OpenCode 等 10+ 编程助手：13 亿+ 免费 token，支持浏览器原生会话与多模型，本周持续在榜。",
-      "stars": "61.0k",
+      "stars": "61.2k",
       "weekly_stars": "4.0k"
     },
     {
@@ -90,7 +90,7 @@
       "repo": "freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "每月 74 亿 token 的免费 LLM 聚合：34 家免费提供商、635 个免费模型端点，智能路由自动故障转移，本周持续在榜。",
-      "stars": "36.1k",
+      "stars": "36.5k",
       "weekly_stars": "3.7k"
     },
     {
@@ -99,7 +99,7 @@
       "repo": "OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "全球首个开源 Agentic 视频制作系统：12 条生产流水线、100+ 工具、700+ Agent 技能与生产知识文件，把 AI 编程助手变成完整视频工作室，本周持续在榜。",
-      "stars": "68.9k",
+      "stars": "69.1k",
       "weekly_stars": "3.3k"
     },
     {
@@ -107,8 +107,8 @@
       "owner": "K-Dense-AI",
       "repo": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "把任意 AI Agent 变成 AI 科学家：177 个即用科学技能与 100+ 科学数据库，覆盖生物、化学、医学与药物发现，25 万+ 科学家在用，本周新上榜。",
-      "stars": "51.3k",
+      "description": "把任意 AI Agent 变成 AI 科学家：177 个即用科学技能与 100+ 科学数据库，覆盖生物、化学、医学与药物发现，25 万+ 科学家在用，本周持续在榜。",
+      "stars": "52.1k",
       "weekly_stars": "3.0k"
     },
     {
@@ -117,7 +117,7 @@
       "repo": "claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "为每个 Agent 提供跨会话持久记忆：自动捕获会话全过程上下文，AI 压缩后回注后续会话，兼容 Claude Code、Codex、Gemini、Copilot 等，本周持续在榜。",
-      "stars": "101.2k",
+      "stars": "101.4k",
       "weekly_stars": "2.9k"
     },
     {
@@ -125,18 +125,18 @@
       "owner": "MadsLorentzen",
       "repo": "ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "运行在本机的 AI 求职框架：基于 Claude Code 评估招聘信息、定制简历、撰写求职信、模拟面试，本周新上榜。",
-      "stars": "48.2k",
+      "description": "运行在本机的 AI 求职框架：基于 Claude Code 评估招聘信息、定制简历、撰写求职信、模拟面试，本周持续在榜。",
+      "stars": "50.0k",
       "weekly_stars": "2.5k"
     },
     {
       "rank": 15,
       "owner": "anthropics",
-      "repo": "knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Anthropic 开源的知识工作者插件集，主要面向 Claude Cowork 中的知识办公与研究工作流，本周新上榜。",
-      "stars": "29.9k",
-      "weekly_stars": "2.4k"
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Anthropic 官方维护的高质量 Claude Code 插件目录，本周新上榜。",
+      "stars": "41.5k",
+      "weekly_stars": "2.3k"
     }
   ]
 }
