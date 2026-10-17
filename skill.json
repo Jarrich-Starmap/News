@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.17 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.17",
+  "period": "2026.10.18 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.18",
   "projects": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "记录经验与错误到 Markdown 文件实现持续改进，重要学习内容可提升为工作区记忆，本期稳居 Trending 榜首",
       "bookmarks": "4.0k",
-      "downloads": "485k"
+      "downloads": "486k"
     },
     {
       "rank": 2,
@@ -64,7 +64,7 @@
       "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
       "description": "识别并去除 AI 生成文本痕迹，让文字更自然，基于维基百科 Signs of AI writing",
       "bookmarks": "717",
-      "downloads": "132k"
+      "downloads": "133k"
     },
     {
       "rank": 8,
@@ -91,7 +91,7 @@
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "配置 OpenClaw 使用 OpenRouter 免费模型，自动排序备选防限流，实现不限量免费调用",
       "bookmarks": "491",
-      "downloads": "71.8k"
+      "downloads": "71.9k"
     },
     {
       "rank": 11,
@@ -118,7 +118,7 @@
       "url": "https://clawhub.ai/maximeprades/skills/auto-updater",
       "description": "每日自动检查更新 Clawdbot 及全部已安装技能，保持版本最新",
       "bookmarks": "447",
-      "downloads": "100k"
+      "downloads": "101k"
     },
     {
       "rank": 14,
@@ -145,7 +145,7 @@
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
       "description": "通过 Maton 网关管理第三方 API 路由并注入凭据，安全托管密钥",
       "bookmarks": "395",
-      "downloads": "87.6k"
+      "downloads": "87.7k"
     },
     {
       "rank": 17,
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "94.8k"
+      "downloads": "94.9k"
     },
     {
       "rank": 19,
