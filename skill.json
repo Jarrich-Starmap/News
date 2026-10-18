@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.18 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.18",
+  "period": "2026.10.19 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.19",
   "projects": [
     {
       "rank": 1,
@@ -46,7 +46,7 @@
       "url": "https://clawhub.ai/halthelobster/skills/proactive-agent",
       "description": "将 AI Agent 从被动执行者转变为主动合作伙伴（Hal Stack 系列）",
       "bookmarks": "831",
-      "downloads": "177k"
+      "downloads": "178k"
     },
     {
       "rank": 6,
@@ -63,7 +63,7 @@
       "repo": "humanizer",
       "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
       "description": "识别并去除 AI 生成文本痕迹，让文字更自然，基于维基百科 Signs of AI writing",
-      "bookmarks": "717",
+      "bookmarks": "718",
       "downloads": "133k"
     },
     {
@@ -154,7 +154,7 @@
       "url": "https://clawhub.ai/matagul/skills/desktop-control",
       "description": "OpenClaw 高级桌面自动化：像素级鼠标控制、键盘输入、屏幕捕获、窗口管理",
       "bookmarks": "382",
-      "downloads": "62.4k"
+      "downloads": "62.5k"
     },
     {
       "rank": 18,
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "94.9k"
+      "downloads": "95k"
     },
     {
       "rank": 19,
@@ -172,7 +172,7 @@
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
       "description": "抓取 YouTube 视频字幕，支持摘要、问答与内容提取",
       "bookmarks": "344",
-      "downloads": "55.6k"
+      "downloads": "55.7k"
     },
     {
       "rank": 20,
@@ -181,7 +181,7 @@
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
       "description": "通过 Whisper CLI 本地语音转文字，无需 API key",
       "bookmarks": "341",
-      "downloads": "89.4k"
+      "downloads": "89.5k"
     }
   ]
 }
