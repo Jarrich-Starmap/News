@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.19 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.19",
+  "period": "2026.10.20 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.20",
   "projects": [
     {
       "rank": 1,
@@ -63,7 +63,7 @@
       "repo": "humanizer",
       "url": "https://clawhub.ai/biostartechnology/skills/humanizer",
       "description": "识别并去除 AI 生成文本痕迹，让文字更自然，基于维基百科 Signs of AI writing",
-      "bookmarks": "718",
+      "bookmarks": "720",
       "downloads": "133k"
     },
     {
@@ -73,7 +73,7 @@
       "url": "https://clawhub.ai/steipete/skills/github",
       "description": "通过 gh CLI 与 GitHub 交互，支持 issue/pr/run 等操作",
       "bookmarks": "671",
-      "downloads": "201k"
+      "downloads": "202k"
     },
     {
       "rank": 9,
@@ -91,7 +91,7 @@
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "配置 OpenClaw 使用 OpenRouter 免费模型，自动排序备选防限流，实现不限量免费调用",
       "bookmarks": "491",
-      "downloads": "71.9k"
+      "downloads": "72k"
     },
     {
       "rank": 11,
@@ -126,7 +126,7 @@
       "repo": "weather",
       "url": "https://clawhub.ai/steipete/skills/weather",
       "description": "获取当前天气与预报，无需 API key（两个免费服务源）",
-      "bookmarks": "429",
+      "bookmarks": "430",
       "downloads": "172k"
     },
     {
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "95k"
+      "downloads": "95.1k"
     },
     {
       "rank": 19,
@@ -171,7 +171,7 @@
       "repo": "youtube-watcher",
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
       "description": "抓取 YouTube 视频字幕，支持摘要、问答与内容提取",
-      "bookmarks": "344",
+      "bookmarks": "345",
       "downloads": "55.7k"
     },
     {
