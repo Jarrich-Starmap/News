@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.20 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.20",
+  "period": "2026.10.21 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.21",
   "projects": [
     {
       "rank": 1,
@@ -9,8 +9,8 @@
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "记录经验与错误到 Markdown 文件实现持续改进，重要学习内容可提升为工作区记忆，本期稳居 Trending 榜首",
-      "bookmarks": "4.0k",
-      "downloads": "486k"
+      "bookmarks": "4k",
+      "downloads": "487k"
     },
     {
       "rank": 2,
@@ -19,7 +19,7 @@
       "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
       "description": "面向 AI Agent 的安全优先技能审查协议，安装任何 skill 前先审查风险与权限范围",
       "bookmarks": "1.3k",
-      "downloads": "278k"
+      "downloads": "279k"
     },
     {
       "rank": 3,
@@ -37,7 +37,7 @@
       "url": "https://clawhub.ai/steipete/skills/gog",
       "description": "Google Workspace CLI，支持 Gmail、Calendar、Drive、Contacts、Sheets、Docs（需 OAuth）",
       "bookmarks": "953",
-      "downloads": "197k"
+      "downloads": "198k"
     },
     {
       "rank": 5,
@@ -55,7 +55,7 @@
       "url": "https://clawhub.ai/gpyangyoujun/skills/multi-search-engine",
       "description": "集成 16 个搜索引擎（7 个中文 + 9 个国际），无需 API key 即可爬取网页",
       "bookmarks": "764",
-      "downloads": "163k"
+      "downloads": "164k"
     },
     {
       "rank": 7,
@@ -108,7 +108,7 @@
       "repo": "obsidian",
       "url": "https://clawhub.ai/steipete/skills/obsidian",
       "description": "操作 Obsidian vault（磁盘上的普通文件夹），通过 obsidian-cli 自动化",
-      "bookmarks": "461",
+      "bookmarks": "462",
       "downloads": "112k"
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
       "description": "通过 Maton 网关管理第三方 API 路由并注入凭据，安全托管密钥",
       "bookmarks": "395",
-      "downloads": "87.7k"
+      "downloads": "87.8k"
     },
     {
       "rank": 17,
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "95.1k"
+      "downloads": "95.3k"
     },
     {
       "rank": 19,
