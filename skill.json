@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.21 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.21",
+  "period": "2026.10.22 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.22",
   "projects": [
     {
       "rank": 1,
@@ -91,7 +91,7 @@
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "配置 OpenClaw 使用 OpenRouter 免费模型，自动排序备选防限流，实现不限量免费调用",
       "bookmarks": "491",
-      "downloads": "72k"
+      "downloads": "72.1k"
     },
     {
       "rank": 11,
@@ -154,7 +154,7 @@
       "url": "https://clawhub.ai/matagul/skills/desktop-control",
       "description": "OpenClaw 高级桌面自动化：像素级鼠标控制、键盘输入、屏幕捕获、窗口管理",
       "bookmarks": "382",
-      "downloads": "62.5k"
+      "downloads": "62.6k"
     },
     {
       "rank": 18,
@@ -172,7 +172,7 @@
       "url": "https://clawhub.ai/michaelgathara/skills/youtube-watcher",
       "description": "抓取 YouTube 视频字幕，支持摘要、问答与内容提取",
       "bookmarks": "345",
-      "downloads": "55.7k"
+      "downloads": "55.8k"
     },
     {
       "rank": 20,
