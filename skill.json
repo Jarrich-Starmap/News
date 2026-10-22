@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.22 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.22",
+  "period": "2026.10.23 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.23",
   "projects": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "记录经验与错误到 Markdown 文件实现持续改进，重要学习内容可提升为工作区记忆，本期稳居 Trending 榜首",
       "bookmarks": "4k",
-      "downloads": "487k"
+      "downloads": "488k"
     },
     {
       "rank": 2,
@@ -28,7 +28,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/self-improving",
       "description": "自我反思 + 自我批评 + 自我学习 + 自组织记忆，让知识无需手动维护即可累积",
       "bookmarks": "1.3k",
-      "downloads": "212k"
+      "downloads": "213k"
     },
     {
       "rank": 4,
@@ -82,7 +82,7 @@
       "url": "https://clawhub.ai/oswalpalash/skills/ontology",
       "description": "类型化词汇 + 约束系统，以可验证图结构表示知识（Agent 记忆）",
       "bookmarks": "660",
-      "downloads": "200k"
+      "downloads": "201k"
     },
     {
       "rank": 10,
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "95.3k"
+      "downloads": "95.4k"
     },
     {
       "rank": 19,
@@ -181,7 +181,7 @@
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
       "description": "通过 Whisper CLI 本地语音转文字，无需 API key",
       "bookmarks": "341",
-      "downloads": "89.5k"
+      "downloads": "89.6k"
     }
   ]
 }
