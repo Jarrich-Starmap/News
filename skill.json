@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.23 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.23",
+  "period": "2026.10.24 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.24",
   "projects": [
     {
       "rank": 1,
@@ -100,7 +100,7 @@
       "url": "https://clawhub.ai/matrixy/skills/agent-browser-clawdbot",
       "description": "基于无障碍树快照 + ref 的确定性元素选择，实现快速浏览器自动化",
       "bookmarks": "463",
-      "downloads": "158k"
+      "downloads": "159k"
     },
     {
       "rank": 12,
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "95.4k"
+      "downloads": "95.5k"
     },
     {
       "rank": 19,
@@ -181,7 +181,7 @@
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
       "description": "通过 Whisper CLI 本地语音转文字，无需 API key",
       "bookmarks": "341",
-      "downloads": "89.6k"
+      "downloads": "89.7k"
     }
   ]
 }
