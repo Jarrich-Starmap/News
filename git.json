@@ -1,51 +1,51 @@
 {
   "title": "GitHub AI 项目周榜",
   "period": "2026.10.19 – 10.25 · 按本周新增 Star 数排序",
-  "updated": "2026.10.23",
+  "updated": "2026.10.24",
   "projects": [
     {
       "rank": 1,
       "owner": "morluto",
       "repo": "rea",
       "url": "https://github.com/morluto/rea",
-      "description": "用 AI Agent 逆向一切：从应用行为到底层二进制全面拆解，AI 驱动的逆向工程利器，本周新增约 12.9 万 Star，断层霸榜。",
-      "stars": "365k",
-      "weekly_stars": "129k"
+      "description": "AI 智能体驱动的逆向工程利器，可对应用行为直至原生二进制进行全链路逆向分析，本周新增约 106k star 登顶周榜。",
+      "stars": "372k",
+      "weekly_stars": "106k"
     },
     {
       "rank": 2,
       "owner": "debpalash",
       "repo": "VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "开源且完全本地化的 ElevenLabs 替代方案：语音克隆、语音设计、视频配音、听写转写与有声书创作，支持 646 种语言，本周热度持续。",
-      "stars": "81.5k",
-      "weekly_stars": "15.1k"
+      "description": "开源、完全本地的 ElevenLabs 替代方案，支持声音克隆、音色设计、视频配音、听写、转录与有声书创作，覆盖 646 种语言。",
+      "stars": "82.8k",
+      "weekly_stars": "13.6k"
     },
     {
       "rank": 3,
       "owner": "stablyai",
       "repo": "orca",
       "url": "https://github.com/stablyai/orca",
-      "description": "面向 100x 开发者的 AI 编排器：并排运行 Codex、Claude Code 等任意 CLI Agent，各占独立 worktree，支持移动端监控与远程运行，本周持续在榜。",
-      "stars": "103k",
-      "weekly_stars": "8.7k"
+      "description": "多智能体舰队（如 Grok Bot、Claude Code）协同工作平台，可用自己的订阅运行任意编码智能体，支持桌面、移动端与远程运行时。",
+      "stars": "104k",
+      "weekly_stars": "9.4k"
     },
     {
       "rank": 4,
       "owner": "anomalyco",
       "repo": "opencode",
       "url": "https://github.com/anomalyco/opencode",
-      "description": "开源 AI 编程 Agent：内置 build / plan 双模式与通用子代理，支持一键安装与桌面应用，本周热度上涨。",
-      "stars": "220k",
-      "weekly_stars": "6.5k"
+      "description": "开源编码智能体，面向开发者的自动化编程助手。",
+      "stars": "221k",
+      "weekly_stars": "6.8k"
     },
     {
       "rank": 5,
       "owner": "heygen-com",
       "repo": "hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "description": "写 HTML 渲染视频，专为 Agent 打造的视频生成框架，本周持续在榜。",
-      "stars": "69.9k",
+      "description": "专为智能体打造的视频生成框架：写 HTML 即可渲染出视频，降低视频内容生成门槛。",
+      "stars": "70.6k",
       "weekly_stars": "5.7k"
     },
     {
@@ -53,72 +53,81 @@
       "owner": "anthropics",
       "repo": "claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Anthropic 官方维护的高质量 Claude Code 插件目录，本周持续在榜。",
-      "stars": "43.8k",
-      "weekly_stars": "5.7k"
+      "description": "Anthropic 官方维护的 Claude Code 高质量插件目录，收录经过官方审核的生态插件。",
+      "stars": "44.1k",
+      "weekly_stars": "5.6k"
     },
     {
       "rank": 7,
-      "owner": "K-Dense-AI",
-      "repo": "scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "把任意 AI Agent 变成 AI 科学家：177 个经校验的科学技能 + 100+ 科学数据库，覆盖生物、化学、医学与药物发现，本周持续在榜。",
-      "stars": "53.9k",
-      "weekly_stars": "4.7k"
-    },
-    {
-      "rank": 8,
       "owner": "Comfy-Org",
       "repo": "ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "最强大的模块化扩散模型 GUI：基于图/节点界面的 AI 绘图工作流工具与本地推理引擎，本周热度回升上榜。",
+      "description": "最强大且模块化的扩散模型 GUI/API 与后端，采用图节点式工作流界面，宣称拥有最快的本地推理引擎，生态活跃。",
       "stars": "142k",
-      "weekly_stars": "3.9k"
+      "weekly_stars": "4.4k"
+    },
+    {
+      "rank": 8,
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "将任意 AI 智能体变成 AI 科学家：全球 25 万+ 科学家使用的科学技能库，含 177 个即用技能与 100+ 科学数据库，覆盖生物、化学、医学与药物发现，兼容 Cursor、Claude Code、Codex 等。",
+      "stars": "54.2k",
+      "weekly_stars": "4.0k"
     },
     {
       "rank": 9,
-      "owner": "HKUDS",
-      "repo": "CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "“让所有软件 Agent 原生”的开源 CLI-Hub，为 AI Agent 提供统一命令行接入能力，本周持续在榜。",
-      "stars": "56.2k",
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "原始智能体编排框架：部署多智能体群体、协调自主工作流、构建对话式 AI 系统，支持自适应记忆、自学习、联邦与向量 RAG 集成，兼容 Claude Code / Codex / Hermes 等。",
+      "stars": "78.7k",
       "weekly_stars": "3.7k"
     },
     {
       "rank": 10,
-      "owner": "ruvnet",
-      "repo": "ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "开源 Agent 编排框架：部署多智能体群组、协调自主工作流，具备自适应记忆与向量 RAG，原生集成 Claude Code / Codex，本周新上榜。",
-      "stars": "78.4k",
-      "weekly_stars": "3.6k"
-    },
-    {
-      "rank": 11,
-      "owner": "mksglu",
-      "repo": "context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "AI 编程 Agent 上下文窗口优化：压缩工具输出（最高 98%），持久化会话记忆，跨 17 个平台经 MCP + hooks 路由，本周持续在榜。",
-      "stars": "31.8k",
-      "weekly_stars": "3.0k"
-    },
-    {
-      "rank": 12,
       "owner": "akitaonrails",
       "repo": "ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "为 AI 编程 CLI 提供长期记忆的方案，并支持不同 Agent 厂商之间的任务交接，本周新上榜。",
-      "stars": "12.7k",
-      "weekly_stars": "2.8k"
+      "description": "为编码类 CLI 智能体提供长期记忆解决方案，并促进不同智能体厂商之间的上下文交接。",
+      "stars": "13.0k",
+      "weekly_stars": "3.3k"
     },
     {
-      "rank": 13,
+      "rank": 11,
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "让所有软件原生支持智能体（Agent-Native）的 CLI 框架，配套 CLI-Hub 生态。",
+      "stars": "56.5k",
+      "weekly_stars": "3.3k"
+    },
+    {
+      "rank": 12,
       "owner": "cursor",
       "repo": "plugins",
       "url": "https://github.com/cursor/plugins",
-      "description": "Cursor 插件规范与官方插件库，本周持续在榜。",
-      "stars": "13.6k",
+      "description": "Cursor 插件规范与官方插件仓库，本周新增约 2k star。",
+      "stars": "13.8k",
       "weekly_stars": "2.0k"
+    },
+    {
+      "rank": 13,
+      "owner": "android",
+      "repo": "skills",
+      "url": "https://github.com/android/skills",
+      "description": "Android 官方智能体技能仓库（Kotlin），面向移动端智能体能力的标准化技能集。",
+      "stars": "9.4k",
+      "weekly_stars": "1.4k"
+    },
+    {
+      "rank": 14,
+      "owner": "elie222",
+      "repo": "rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "description": "开源 Grok Bot 替代品，可自选模型与沙箱环境，灵活可控。",
+      "stars": "5.4k",
+      "weekly_stars": "1.2k"
     }
   ]
 }
