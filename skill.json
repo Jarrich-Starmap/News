@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.24 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.24",
+  "period": "2026.10.25 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.25",
   "projects": [
     {
       "rank": 1,
@@ -36,7 +36,7 @@
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
       "description": "Google Workspace CLI，支持 Gmail、Calendar、Drive、Contacts、Sheets、Docs（需 OAuth）",
-      "bookmarks": "953",
+      "bookmarks": "954",
       "downloads": "198k"
     },
     {
@@ -91,7 +91,7 @@
       "url": "https://clawhub.ai/shaivpidadi/skills/free-ride",
       "description": "配置 OpenClaw 使用 OpenRouter 免费模型，自动排序备选防限流，实现不限量免费调用",
       "bookmarks": "491",
-      "downloads": "72.1k"
+      "downloads": "72.2k"
     },
     {
       "rank": 11,
@@ -145,7 +145,7 @@
       "url": "https://clawhub.ai/byungkyu/skills/api-gateway",
       "description": "通过 Maton 网关管理第三方 API 路由并注入凭据，安全托管密钥",
       "bookmarks": "395",
-      "downloads": "87.8k"
+      "downloads": "87.9k"
     },
     {
       "rank": 17,
@@ -154,7 +154,7 @@
       "url": "https://clawhub.ai/matagul/skills/desktop-control",
       "description": "OpenClaw 高级桌面自动化：像素级鼠标控制、键盘输入、屏幕捕获、窗口管理",
       "bookmarks": "382",
-      "downloads": "62.6k"
+      "downloads": "62.7k"
     },
     {
       "rank": 18,
@@ -163,7 +163,7 @@
       "url": "https://clawhub.ai/ivangdavila/skills/word-docx",
       "description": "创建、检查、编辑 Word 文档与 DOCX 文件（支持修订、批注、页眉等）",
       "bookmarks": "355",
-      "downloads": "95.5k"
+      "downloads": "95.6k"
     },
     {
       "rank": 19,
