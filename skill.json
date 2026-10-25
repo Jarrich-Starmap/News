@@ -1,7 +1,7 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.10.25 · 按 ClawHub Trending 综合热度排序（前 20）",
-  "updated": "2026.10.25",
+  "period": "2026.10.26 · 按 ClawHub Trending 综合热度排序（前 20）",
+  "updated": "2026.10.26",
   "projects": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
       "description": "记录经验与错误到 Markdown 文件实现持续改进，重要学习内容可提升为工作区记忆，本期稳居 Trending 榜首",
       "bookmarks": "4k",
-      "downloads": "488k"
+      "downloads": "489k"
     },
     {
       "rank": 2,
@@ -19,7 +19,7 @@
       "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
       "description": "面向 AI Agent 的安全优先技能审查协议，安装任何 skill 前先审查风险与权限范围",
       "bookmarks": "1.3k",
-      "downloads": "279k"
+      "downloads": "280k"
     },
     {
       "rank": 3,
@@ -36,7 +36,7 @@
       "repo": "gog",
       "url": "https://clawhub.ai/steipete/skills/gog",
       "description": "Google Workspace CLI，支持 Gmail、Calendar、Drive、Contacts、Sheets、Docs（需 OAuth）",
-      "bookmarks": "954",
+      "bookmarks": "955",
       "downloads": "198k"
     },
     {
@@ -73,7 +73,7 @@
       "url": "https://clawhub.ai/steipete/skills/github",
       "description": "通过 gh CLI 与 GitHub 交互，支持 issue/pr/run 等操作",
       "bookmarks": "671",
-      "downloads": "202k"
+      "downloads": "203k"
     },
     {
       "rank": 9,
@@ -127,7 +127,7 @@
       "url": "https://clawhub.ai/steipete/skills/weather",
       "description": "获取当前天气与预报，无需 API key（两个免费服务源）",
       "bookmarks": "430",
-      "downloads": "172k"
+      "downloads": "173k"
     },
     {
       "rank": 15,
@@ -181,7 +181,7 @@
       "url": "https://clawhub.ai/steipete/skills/openai-whisper",
       "description": "通过 Whisper CLI 本地语音转文字，无需 API key",
       "bookmarks": "341",
-      "downloads": "89.7k"
+      "downloads": "89.8k"
     }
   ]
 }
