@@ -1,7 +1,7 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.10.20 – 10.26 · 按本周新增 Star 数排序",
-  "updated": "2026.10.26",
+  "period": "2026.10.21 – 10.27 · 按本周新增 Star 数排序",
+  "updated": "2026.10.27",
   "projects": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "repo": "security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "Cloudflare 官方推出的编码智能体安全审计技能，支持多阶段安全审计，产出可独立验证、机器可读的审计结论。",
-      "stars": "46.4k",
+      "stars": "48.2k",
       "weekly_stars": "15.1k"
     },
     {
@@ -18,7 +18,7 @@
       "repo": "orca",
       "url": "https://github.com/stablyai/orca",
       "description": "多智能体舰队（如 Grok Bot、Claude Code）协同工作平台，可用自己的订阅运行任意编码智能体，支持桌面、移动端与远程运行时。",
-      "stars": "105.6k",
+      "stars": "106.8k",
       "weekly_stars": "9.6k"
     },
     {
@@ -27,7 +27,7 @@
       "repo": "graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "将任意代码库（含文档、SQL Schema、配置与 PDF）转化为可查询的知识图谱，提供面向 Claude Code、Cursor、Codex、Gemini CLI 的 /graphify 技能，本地确定性 AST 解析、每条边均有解释，无需向量库。",
-      "stars": "135.0k",
+      "stars": "136.0k",
       "weekly_stars": "6.9k"
     },
     {
@@ -36,7 +36,7 @@
       "repo": "opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "开源编码智能体，面向开发者的自动化编程助手。",
-      "stars": "221.5k",
+      "stars": "221.9k",
       "weekly_stars": "5.9k"
     },
     {
@@ -45,7 +45,7 @@
       "repo": "hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "专为智能体打造的视频生成框架：写 HTML 即可渲染出视频，大幅降低视频内容生成门槛。",
-      "stars": "72.0k",
+      "stars": "72.9k",
       "weekly_stars": "5.6k"
     },
     {
@@ -54,7 +54,7 @@
       "repo": "ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "最强大且模块化的扩散模型 GUI、API 与后端，采用图节点式工作流界面，提供全球最快的本地推理引擎。",
-      "stars": "142.9k",
+      "stars": "143.2k",
       "weekly_stars": "4.8k"
     },
     {
@@ -63,7 +63,7 @@
       "repo": "ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "面向编码类 CLI 智能体的长期记忆解决方案，并促进不同智能体厂商之间的上下文交接。",
-      "stars": "13.5k",
+      "stars": "13.7k",
       "weekly_stars": "3.3k"
     },
     {
@@ -72,7 +72,7 @@
       "repo": "ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "原始智能体编排框架：部署多智能体群体、协调自主工作流、构建对话式 AI 系统，支持自适应记忆、自学习、联邦与向量 RAG 集成，原生兼容 Claude Code、Codex、Hermes 等。",
-      "stars": "79.2k",
+      "stars": "79.5k",
       "weekly_stars": "3.0k"
     },
     {
@@ -81,7 +81,7 @@
       "repo": "andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "基于 Andrej Karpathy 对 LLM 编码陷阱的观察提炼而成的单一 CLAUDE.md 文件，用于改善 Claude Code 行为。",
-      "stars": "223.7k",
+      "stars": "224.4k",
       "weekly_stars": "2.9k"
     },
     {
@@ -90,35 +90,35 @@
       "repo": "knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Anthropic 开源的知识工作者插件仓库，主要面向 Claude Cowork 场景使用。",
-      "stars": "32.9k",
+      "stars": "33.2k",
       "weekly_stars": "2.8k"
     },
     {
       "rank": 11,
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Anthropic 官方维护的 Claude Code 高质量插件目录，收录经过官方审核的生态插件。",
-      "stars": "44.5k",
-      "weekly_stars": "2.2k"
+      "owner": "AgriciDaniel",
+      "repo": "claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "面向 Claude Code 的通用 SEO 技能：26 个子技能与 19 个子智能体覆盖技术 SEO、E-E-A-T、Schema、GEO/AEO、外链、本地 SEO、电商 SEO 等，另有 9 个可选扩展接入实时 SEO 数据。",
+      "stars": "21.9k",
+      "weekly_stars": "2.5k"
     },
     {
       "rank": 12,
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents 多智能体 LLM 金融交易框架：通过大模型智能体协作完成金融交易的分析与决策。",
+      "stars": "115.7k",
+      "weekly_stars": "2.5k"
+    },
+    {
+      "rank": 13,
       "owner": "pingdotgg",
       "repo": "t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "T3 Code 智能体编排控制面：通过移动端、Web 与桌面应用掌控本机智能体，支持 Claude Code、Codex、Cursor、Grok Build、OpenCode、Google Antigravity 等订阅。",
-      "stars": "30.0k",
+      "stars": "30.4k",
       "weekly_stars": "1.8k"
-    },
-    {
-      "rank": 13,
-      "owner": "vllm-project",
-      "repo": "vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "高吞吐、内存高效的 LLM 推理与服务引擎，业界广泛使用的开源推理框架。",
-      "stars": "95.5k",
-      "weekly_stars": "1.4k"
     },
     {
       "rank": 14,
@@ -126,7 +126,7 @@
       "repo": "skills",
       "url": "https://github.com/android/skills",
       "description": "Android 官方智能体技能仓库，提供 AI 优化的模块化指令与资源，帮助智能体遵循 Android 开发最佳实践与模式。",
-      "stars": "9.7k",
+      "stars": "9.8k",
       "weekly_stars": "1.1k"
     }
   ]
