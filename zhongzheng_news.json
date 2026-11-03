@@ -1,15 +1,345 @@
 [
   {
-    "title": "多只宽基ETF十月流入创纪录",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbGdIcDk1YVFneUpka29pN3NwNWRyYXhpWXFzSF9oM1pEMWVuM1dJN0Z2VlZYbjJCSkllWWM0ZkV4WXhoOWhnSUlIcw?oc=5",
-    "source": "手机新浪网",
-    "time": "2026-11-02 08:25"
+    "title": "宽基火爆！昨日宽基ETF资金净流入508亿元",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sczc1WmNoUUtUVnRnR2hXakpJeGVsUUpVRVFCVGdRbnpRbFdzcmpGUDVKS3huN2lxTUdpV2ZWeVh5dkYwNGVSV0JlZHhVaWg5ZGRiMnh0NVNwRUVBUHc?oc=5",
+    "source": "同花顺",
+    "time": "2026-11-03 08:15"
+  },
+  {
+    "title": "11月2日中证500ETF博时基金份额增加80万份，重仓股源杰科技、长川科技、华海清科_基金提醒_雷达",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUXZSeDB0M3BQN3lVTXZFWDJ1alZ6bGE4aGdoZ2JsNGpmVmFnOVAzOU1FNEk2Xy1pQ2g1Q0Y0UVJ6cUNYVWo4ZW9HamR2a0lrQ2cyZVBKM0x6WHJ4alNWMXVB?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-03 06:51"
+  },
+  {
+    "title": "11月2日中证500ETF景顺基金份额增加400万份，重仓股源杰科技、长川科技、华海清科_基金提醒_雷达",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5d1NpUHdBcDNlMnBuSy1qeVhZcXJ2R1hwbWJKVWJTLUZKbFBndHNDeW4tMlpmdHZPZzQtYjJfcTdCQWFBWUF3VVgxOEJOMEUxSGhqbUhVdWxjeEZralE1MlJB?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-03 06:51"
+  },
+  {
+    "title": "11月2日中证500ETF嘉实基金份额增加8200万份，重仓股源杰科技、长川科技、华海清科_基金提醒_雷达",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UOE5xVERfa2c1d0VxTUUtSWlwSkJyWWttbUE1b0VRYndXUXp3R293SEtfbkxqVWZkMnZTaUZSbTliclRuaVlfSnVFUXBrNlh4dGVNQ0xTN2pReUlCbVJEZ2V3?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-03 06:50"
+  },
+  {
+    "title": "长线资金借道布局A股 宽基ETF10月以来净流入超3700亿元",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RVjNDNFBDYjJPQWJna1o0Mm1QcGl0VlEwUzVxRVBOX18xM0lwczVER0k4ZFpyUmRHS0tNNy1EVUpFWVpCb1U5bmYya3lXRHFiT0JFTU95NV9JWE1sNlQtMQ?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-03 06:47"
+  },
+  {
+    "title": "11月2日中证1000ETF易方达基金份额增加1.72亿份，重仓股剑桥科技、风华高科、云南锗业_基金提醒_雷达",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIcEUwMzlWQ2lSVVFtUE55VTYxRnBzckRid3ZCNmhReG9RTGlVTS1kc21fM1h2aXI4N3NRR3NYcVRfR0h5TFFJOXI1aXhnTFBGSFQ0NmltVEZZd0k5S1dEUUZ3?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-03 06:45"
+  },
+  {
+    "title": "11月2日中证1000ETF富国基金份额增加1.1亿份，重仓股剑桥科技、风华高科、云南锗业_基金提醒_雷达",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EV0xUb0pKU2J5QUhWa050RE9CZWlQbWcyYjhlZThNMW1XWE5XNWhyOExVMlhYYXEwbEExN1NpMzZNVlR2VjFPcmNScTJEaGl6dlJGbXhwWGFpSXFoVUlXOFNB?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-03 06:45"
+  },
+  {
+    "title": "【ETF观察】11月2日宽基指数ETF净流入508.21亿元",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LMGRmX2tLWEMzWTE3djRjTUE3NG1ETC1URXhLUHZ0ZUtuRWtjbDRqQjBYc2s3Y0o1RXBBOVE3a2hlMVRtT3NiTnM1LUJ4b00zbEp0YTZkYzBBYmlsM0ptaUF3?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-03 06:15"
+  },
+  {
+    "title": "中证500ETF富国 (159500): 富国基金管理有限公司关于旗下基金投资关联方承销期内承销证券",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UdUZnZlhMemgzbURiTVdudjVxZWtIaGF1dG41WTd3STJ0TUsySHJUSXliZFBzblBtQ2hJYkowVHpKUkxEbXRXWm1EcGplQ0lLNEJFbzRn?oc=5",
+    "source": "中财网",
+    "time": "2026-11-02 23:06"
+  },
+  {
+    "title": "中证1000ETF富国 (159629): 富国基金管理有限公司关于旗下基金投资关联方承销期内承销证券",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uMjNuMmxWcTlMNVUza3lmM3IySEdCdF82VTliVllRODMyVC1MaEZ5Rk1fX1BZeXMtbjBJMmpmTS0zTVF3REx6LTFtTExmQWxrRU9kcExn?oc=5",
+    "source": "中财网",
+    "time": "2026-11-02 23:06"
+  },
+  {
+    "title": "单月3900多亿资金涌入股票ETF",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQak90Z3FyZHdDaDlCOGFiekxQdDN1QUhzRUFSWkp0a0dhTXUyZzVpMjZfZXRCd0w1OGZNX0xyOFdDLVBCMGVTeGpGdWQzWTRkdFdidnBNQTdROVlZcUdKemhBY0hISEQ0cVBFYW1UTnpUdHhxVS0teVF1eWFQczU5b1JDaFpqNWJjZktiOXlrZw?oc=5",
+    "source": "21财经",
+    "time": "2026-11-02 22:14"
+  },
+  {
+    "title": "20:53:09【小盘风格表现强势，中证1000指数涨近3%，中证1000ETF易方达（159633）获资金关注】",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82WmtwWGRsY2VhWnJEa2ZCLWhFdXlhMTNxSldqUmlYejBIeGNERllLWUxHY29MMnM3bVo4cEU0SW5BaEh2S0J2bQ?oc=5",
+    "source": "财联社",
+    "time": "2026-11-02 20:53"
+  },
+  {
+    "title": "【11.2 ETF综述】大奇迹日！AI应用与软件全线爆发，“小盘双星”暴力吸金！",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02Q3RZQXJuTE9OdkIyMmRWV3ZBQkFJVTJ3YkRGVHlRaHJfc01YNVB2Rkg1c3BSNXJ0eHpnb2NxMExFTmdWQTlFRTdDcXpiTjhMX3RkR2RwWVY?oc=5",
+    "source": "Jiemian.com",
+    "time": "2026-11-02 18:35"
+  },
+  {
+    "title": "小盘风格表现强势，中证1000指数涨近3%，中证1000ETF易方达（159633）获资金关注",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qX2Rpb2NibTNSR3JBTkptNHptUFRzQWhqcEZkTjJsZ2lTX1BwU3dZNGVkNUg0Z1ViNDAzY1U0QlIxUG93TXgtRURqaVE?oc=5",
+    "source": "凤凰网",
+    "time": "2026-11-02 17:48"
+  },
+  {
+    "title": "BiyaPay 行情观察｜科技股回落、小盘股走强，本周财报与非农怎么看？",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bm1YaE9QNzhlTmkweGJ5N0c3My1rcTMtXzMwLWIwZTZGazFXRVFNMHhLZkg3LTN1UFhjOFYwc2hQYndZYXRKaUJsZ0Jlc0QtSWplRQ?oc=5",
+    "source": "Odaily星球日报",
+    "time": "2026-11-02 17:44"
+  },
+  {
+    "title": "宽基ETF单日成交再放量，资金已连续20日“借道”ETF入场",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95OWx3QkdSNzBMR3VsNlpEX1hUb2lGQ05CMXBkZE1TVmVtZG41aU9YQmt2U0x0T0FrMWp6QTktZkZRN0tVc1NURUZMWjVzZDFDRlRXVUxMY3R0dk5FTEJoYw?oc=5",
+    "source": "ThePaper.cn",
+    "time": "2026-11-02 17:39"
+  },
+  {
+    "title": "成交突破1295亿元！多只宽基ETF，午后显著放量，半日成交已超上日全天，五大标的合计吸金超600亿元#ETF",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzZGxTSU1LNFdrTEtzYzg1bE1wdDhFd1Y3S25lWUVhV2t6LUtGOWpiMGNMVThhZXVpNGpCX1gzb0FfUHk3ZkwzX1hDcGx6eXl1cUJySWxhTTJEMlB0QVh0dXJfMGRFSHBzanRz?oc=5",
+    "source": "财富号",
+    "time": "2026-11-02 17:34"
+  },
+  {
+    "title": "【数据看盘】多只宽基ETF上周份额大增，北向资金和机构联手抢筹捷成股份",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xeVRpR2NnWTZyaEdIZkJ0bDJNOEJ1OXN0TW5LX2x1dnVHRkZuVmQ3ODZfZENkZUR1SkRSV0s1Q1hNd1F0bFhHXw?oc=5",
+    "source": "财联社",
+    "time": "2026-11-02 17:31"
+  },
+  {
+    "title": "科技股回落、小盘股走强，本周财报与非农怎么看？｜BiyaPay行情观察",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1saExsR3EwaDVWdy1pTnM5VWtBSHhXNEhTdm1ROXZ5NkdGbjZmb0lrOWo3YWRJRUl3UmlZQnY3Zm5peFZEQ3FiX1NYcEx5QWMydDdnbm5BUjc3TThUZTJydGVB?oc=5",
+    "source": "中宏网",
+    "time": "2026-11-02 16:54"
+  },
+  {
+    "title": "#媒体原创 午后资金集中入场了吗？多只宽基ETF午后持续放量。截至13:30，科创50ETF华夏、创业板ETF易方达、沪深300ETF华泰柏瑞，3只成交额均突破100亿元，接近前一交易日全天成交额。三只头部宽基ETF同时破百亿，是10月23日以来首次出现 | 一财主播说",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVTRnQUZqelJJbW9vVG5YTnZ3WE1jMHFRNW94RnBVLVhDMnM4UWZsN2w0MnZWQllva1hjSHl3RElWcXJ3N0hYWWR4Q1lyWGlZbjBjbzA2VlNIY3duUnF5S0I0ak85YkNxYVBDRC1fY1A1eFJZaFNUcG5TaWxQTjg4NmNrU21qczJh?oc=5",
+    "source": "搜狐网",
+    "time": "2026-11-02 16:34"
+  },
+  {
+    "title": "中证1000指数ETF今日合计成交额167.44亿元，环比增加67.05%",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRV2JjRC1uZ0w4RUFLWDNmRTlhazY5RjM5dm9hU2FsNlpnUGItT3dxVGRPMWZKMTR1anNlQnE1UktBMXpQY013enQ2Rm1HQ2lFbmtQXzVMajV0NXI0SHFxYQ?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-02 16:21"
+  },
+  {
+    "title": "11月券商金股 | 震荡市道静待企稳 业绩验证回归主线",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lYi1vZnIxdUJpcGt2XzF5MDhrRG82RWJtdVloaWFrazZwVTh6TzFqMkdON05aSEFkRmVjN2lpLWxmWjdHc21ETy1xeHk0cUp0d0NjT19FNVRkYU9LSFdQRWNPeHhDc2p4aHJsMXV3WXRTb2dBcENkQw?oc=5",
+    "source": "新浪财经",
+    "time": "2026-11-02 16:09"
+  },
+  {
+    "title": "近期A股底部特征显现，低费率宽基ETF持续获资金加仓",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oQUtvejVhWlA1WGQ1QndaREJxbERDSm9CM09Iak5IbGVYaGVHQ3NoWTRqZFpxejZVOXFxdGdHRlNaQTJzOTRNWXRTUUpvY1VSTWoyYkdnekJwYnptZlZ5ZQ?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-02 15:49"
+  },
+  {
+    "title": "宽基ETF成交突破1295亿元，五大标的合计成交超600亿元",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmpmV1h4ZDE4SjR6VmZEZ3pfellOUWVSeHU2REpqYXg3ZFhDZmdwdVJBU1dwOWxDZFVPdUtiVXZsYWZXbVg4cmE2ODZkRC1JZnhUdURnUUdEQnhON3lGMzVhSVpkdkk4bTJXTkwtcEFUem05MWZ3MlJDWFZ4OE16Z2E2TDFDTDV4?oc=5",
+    "source": "搜狐网",
+    "time": "2026-11-02 15:27"
+  },
+  {
+    "title": "新方程：A股市场有望迎来兼具胜率与赔率的投资窗口",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhSSU9wTURvQ2duaHRYWUNjRG9yNEE5VE5CY25FTldEZnV2c2xaZC1UWTNYNndBc1B3cnhETTlTU285d1B0QnM5UjFMVFF5d00zRDlQbjZLYmlxODZKZlo2VldHVC1KU1BWeU0wNVdpYXp5eV9QMlJSM1ZTa1dVY0tGU1hRTUYyWmZMdUN0UQ?oc=5",
+    "source": "21财经",
+    "time": "2026-11-02 15:24"
+  },
+  {
+    "title": "稳市政策密集出台，中证1000ETF富国（159629）午后涨超3.5%",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkaDlUcnRSdmxMSXNnYkxnRURwRFBoLWxDa1ZPU1FCYjZCZ1ZZYWVTSkM5Y1JzQ2RoUkdKNDd1OUlsWlM2bnY0X05Id2JQWWpZcG1lRVJGa09yOUNGNUN0NzBB?oc=5",
+    "source": "手机网易网",
+    "time": "2026-11-02 15:00"
+  },
+  {
+    "title": "ETF月评（2026年10月）：创业板单月回撤23%，沪深300宽基迎来千亿资金抄底",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVN0F1d3RhWkdvRTZkNUdzZFRtRl9jMU8wRk5GMThfaTREYlA3ZmtPMU0xN1huMi1rRS16SXJROENUMWxkN3RYNFEtTEtOeTlXZmFzLTRPLVU1UUFK?oc=5",
+    "source": "https://www.caiwennews.com/",
+    "time": "2026-11-02 14:55"
+  },
+  {
+    "title": "雪球私募：风险偏好收缩下，权益与CTA配置价值逐步显现_私募论市",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94V2VQV0VOYnJ2QmhXQXUyVzd1VnJwdVJrRW9OWm40blg5LWhURm5FbENDSXB2VVVuaDM1a2ZmYmU1VEVJR0xJWEVmTWJTWnhqdWd6VEZLNWxudEF6cjdFeQ?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-02 14:23"
+  },
+  {
+    "title": "沪深300指数、创业板指、中证A500指数被“组团”加仓；债券ETF遭遇百亿元赎回",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUOEVrWk5RVWJzY2ZMSjBmMHZ1TUNSNVAzRXI3RUhoeWZFNDVnV04wWUdFNTB3ZXNtTGJZR3RJeXBCSnpCa1Rva2ZvTGZkekpLM1p3Q3NiTWdqdXVlb0pDalRSQ3VtWUIxRHoyQTV0VjZPeUpxOEMxTFZR?oc=5",
+    "source": "中国基金报",
+    "time": "2026-11-02 14:00"
+  },
+  {
+    "title": "近一年平均超额超8%，广发指增产品矩阵是怎么做到的？",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IODM1VndUQlhXOWhRYjhrUkQ5eERGanJMcklRN1NweVRqbmdtemJlUXc2QnB3SjQwcnVTNi0xM3dlVERaTHlCamVNR1ljcWhONlhWQ3lFVW1zcndBYzYwaQ?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-02 13:53"
+  },
+  {
+    "title": "三只宽基ETF成交额均破百亿",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MMTBlRzNQRlI5SHpsdXFZLWxoRnR0M1lRNVdEaWlveW1xVTlqWFFvTGhUSGtQbFNfajd5STBxc1lKbnUyZWFXc2VGOA?oc=5",
+    "source": "新浪网",
+    "time": "2026-11-02 13:40"
+  },
+  {
+    "title": "午后宽基ETF持续放量 3只ETF成交额超100亿",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oTHpFRlRHa2pkQmVaWDNBb3JFU1lDTW5YWDlxaUxsbUdjX2djQ1J6RjZqdG8wSDVzaENvVnJ1cmtsWFNELUhXZ3JhWkd5N1h1Y3d1Tk1VaGVxakRoQ0VUX0hB?oc=5",
+    "source": "天天基金",
+    "time": "2026-11-02 13:39"
+  },
+  {
+    "title": "宽基ETF午后成交继续抬升，科创50ETF华夏、创业板ETF易方达均破百亿",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IbFQxWXNKbFBwMzR0NS1SbGY3aVdaUFExY2FBOUZJN042bG1mUURQaXJaRmdLajdBOVQyZ3Q0aWdxcWVnWEFORGx0d0NLUHNrbFRpd1ZibTN3dzc0VlRHOVFyQ005RUNkQkE?oc=5",
+    "source": "TradingView",
+    "time": "2026-11-02 13:35"
+  },
+  {
+    "title": "宽基ETF午后成交继续抬升 科创50ETF华夏、创业板ETF易方达均破百亿",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2OXVtWDg5LUtzdUJsaUJwQmhHN1lEUXBkdm5hby0zdVNuRzBpOW5YX1J1MFBBREticGxJX2VQSzZWOEJxb3B0N0o0QlNkbWpnOThUczV5MXhSU2xEakJZaWpPSnBLcDlYTnR5Tm5aWGVXTFZGTXV0Zg?oc=5",
+    "source": "新浪财经",
+    "time": "2026-11-02 13:33"
+  },
+  {
+    "title": "部分宽基ETF显著放量 超千亿资金逢低布局",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82YnRNX0t5WnZ3Qi1SS2JpRHZkN1ZJd3c5aWdsYkVxR1NjT09FMkR4a1A1RmJ6NzJfTzFjZlIzVExQVlg4c2gzM3dCRktwVjk5TWtHNWRHVnlEajRxU3lYUGNDeGZqcElud2FWUjR3djQ?oc=5",
+    "source": "中华网",
+    "time": "2026-11-02 13:18"
+  },
+  {
+    "title": "财通金工 | 公募基金第四批业绩比较基准调整落地",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGtCRXVST0xhM3VLQjVxSUxWZjdLVF83STRLUFZNNnpyVVBmQmVEUGJzbG1KdzRfRGZsX29QZHdKVDlIWnhaZGJiSXdpaXl4dGd4Z2VGdWhGMVpUMDNudjVfWjBNWTNSX0tUbm1PTEd3TnN0SXkyREJXdndHdVZmWnk1ZUlxQTNac3A2TQ?oc=5",
+    "source": "搜狐网",
+    "time": "2026-11-02 13:15"
+  },
+  {
+    "title": "9只热门宽基ETF总成交额近500亿元",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMVk0QUNvQnNEOFQ5cVRSWm5SMjJUSXpsbXRyOWlrdDFJYjJEYkg5aUZwV2RUczVPTkg3NEZseFM5bnNsNDlRM1gyNy1acGhObnpzOC1JaDVBNUFL?oc=5",
+    "source": "www.caiwennews.com",
+    "time": "2026-11-02 13:14"
+  },
+  {
+    "title": "多只宽基ETF半日成交已超上日全天",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zSE5WdFpBZ0hjQjZkdTRFcGs1OUNGTHNIV0J0SW5qX1RFZEI2YWdISWtCa200Ykl3bWRmVjh2aW5YNkswQ0dSam1USGVBbEdtX2thdk92ZkNGTWF5bnBoeg?oc=5",
+    "source": "东方财富",
+    "time": "2026-11-02 13:08"
+  },
+  {
+    "title": "10月26日至30日，A股宽基ETF吸金，沪深300ETF易方达一周净流入173.86亿元，居亚洲首位",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14b290N1Q3bU9vMFY3c0VYeG1xT0k1ZEpjZ1pVcEpnS3AxaWFwb1RJQklPamhIa1N2Vkt1NEZnOFdnTk9tbGZ4ZXdUUmd5dDRXQU5WTjhqSmhjTVJKM3Vva09BNU93STBSS0lrMWxTSHIzSUZMOGdmbEtR?oc=5",
+    "source": "中国基金报",
+    "time": "2026-11-02 13:06"
+  },
+  {
+    "title": "异动，宽基ETF大幅放量！今天上午的两条重磅消息-更新中",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UbllUM2YtdktCbWF2Y2Fmek5pNFNWZ2QzRVBvUGNzYjhnUGhfNWVRd0w3QlNSNDI1dHcxWm45cVlLV3JEeWpLNDdWcjFUNnBrMlZNUFhQT0paVHZXZ2g2V19iUVVDY2Frbm5KbmI3MlJ0TzNBYWc?oc=5",
+    "source": "中财网",
+    "time": "2026-11-02 13:06"
+  },
+  {
+    "title": "盘中多次拉升，资金进场",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1NJaHlFbGlnbGJmazU4cEM4RkhXcWI2UlllbUpJbDY2M3U4X2t3TVZUeE5QdVNGT1lYTnQ1WUVqeHRCVFhQbGx3ZTJaWHpVTER3SW1SS21ZX1FVSUIxTTNmXzN0bktOMVlNV2hBTkF6YlR5V09sUktyS01RQ3FfSk1oYnhrVVJ5ZEpuR2FyNA?oc=5",
+    "source": "21财经",
+    "time": "2026-11-02 13:03"
+  },
+  {
+    "title": "多只宽基ETF拉升！金融科技主题ETF领涨",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iS0k5a2k3eFdoTmpQZHJRYjVnclZKNEZpZjhLVl90b3RZazVDVlBDd25YRm1TNGVQVHdpZWhXbEpYOXB2RUlmWWo1MVVtS0lLTmJhcHVnaEg4dEphYUZLSERCYWZxOV9VRXRJdG41R2ZnVHp3ODFqaFR4N0c?oc=5",
+    "source": "9fzt.com",
+    "time": "2026-11-02 13:00"
+  },
+  {
+    "title": "部分宽基ETF显著放量",
+    "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQbVRwdGRubDkwdmRDWnJXelNkZjd2MDlDMFI2ZGx6WHJhdlJ0QWltN29EWjVPMGRtWnpFWmlHVGJfWWR2S2hRZktLZkFLWS1pbTd4Sm51LU5ISUVtR0JvbDdaaWNYRDdZOTZEWHB6dFZmMmw3QmNiTmRCUG5zeUhtNmNkQWM1ZGlFcEJkN1lTZHdWbHdCQlNJMkoySlZhUTVwMTktR2dJd1U1ellaYWVadE50bDYwaU5mb282ZFVXWFZsaFM4NnFKT0ZDRVJQWEZ1TG00OFlxME5yREljZ0lJUVFLZElHc3J1ZE9DOEloOU94WERZNDgtNi1IN2s1RmRTdjdxVmhKY2d3MHJ6cWhJampFb3VoYTB5YnhiM1pxZWRLY28wRVhETWgtM3NwYTJGM3AyRmgyRGFCWEpLbWVrQTlCbklwcHRVclNGc2p3U3I1bEVrcmJFZVZzME9aU2tFYkpjeXkyYXhKVlh0djB4ZUNJcGI1aW16d280WFRzYzJ4eFUzQWNJcDYwcU9YVldWdzJiV2hxYW5VSUdnQzJSZUF6MDh6YVN0cVVVWFdKRjhxdF9xRGc?oc=5",
+    "source": "finance.sina.com.cn",
+    "time": "2026-11-02 11:59"
+  },
+  {
+    "title": "11只中证1000指数ETF涨超2%",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mdnh4ZmE2VHpRYjBYc1p3WUtZejVNdFZuZFdKVXRFOFNWZWVxSlNPYW5zWjUxVExDZWl3WmtKUW55TGIyemNaOVdSd2JrSUNCOEFqakJVV2RIMEhVZG4xag?oc=5",
+    "source": "证券之星",
+    "time": "2026-11-02 11:41"
+  },
+  {
+    "title": "【风向】小盘，大反攻！“双子星”159680、159552同步吸筹，增强策略再获青睐！",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05cGphMk5uNm5HTTRBSW51a1BUR1hJTHlVbjZ5WXB1RGQ4eW03SS1fcW9rLWl2Q2RBbnZGdnJBbnlLLWN5REktT2VMTXNOV19XUzBpN0xKTndKTTMtR2VTSmZpSkRsUHhiSml6cFktXzRvOGFXMW43Qg?oc=5",
+    "source": "新浪财经",
+    "time": "2026-11-02 11:34"
+  },
+  {
+    "title": "多只宽基ETF量价齐升",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BRFM4b3RaY18ydmdYSkdyQ2NSMHpOUDM2amlLOTJGRnhLREl5VkY3eVFEYlBfRkx0VV9wcllkMnVEaGQwaDh6MndnUQ?oc=5",
+    "source": "新浪网",
+    "time": "2026-11-02 11:27"
+  },
+  {
+    "title": "部分宽基ETF显著放量，6只ETF成交额已超50亿元！#ETF#宽基ETF#放量#基金",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkSHdKS0JicC1jVUF2RzFaaGtXcUxFWVh1bHBIWWVfZVR5UjBpVmZIMzhRQ0tyQnF4NG5rOGVDNFNuYW50UmdHTlB5V01VUVdfN3ZVcm80dXlwdFpQVlBDMFhuUS1QUEM1NUxv?oc=5",
+    "source": "财富号",
+    "time": "2026-11-02 11:24"
+  },
+  {
+    "title": "宽基ETF持续“吸金” 市场修复节奏受关注",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTNWY1VMSlBuZW1DMEhDamN0dnE3aVctbEhka2c5elJzOWNfSmx0cUlpMFhHR3dIaVcyU1p5S0wzTTdWRWJ2X01wX19SVktlWjZ2MHVCUGJkRVQyY3R6dFRWRjdrM2FrNEl5a0YyUXFyZUcyV19QYWZvUXZxVTdWM053bmtFZHlBQ2FYc0M4RQ?oc=5",
+    "source": "21财经",
+    "time": "2026-11-02 11:06"
+  },
+  {
+    "title": "A股三季报净利润5.1万亿元，同比增8.5%！盈利企稳叠加流动性充裕，中小盘修复获支撑",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEM1dTMUY4ekpZdmFlQjNlcVd5WkFITlEtQlNuYjZ5TmVBcWk5U1BielJEbGdWNjlscjdSTjNuQkZtME50ejd5Qk51NDNVVnNieUk1eHY2Mkw?oc=5",
+    "source": "Jiemian.com",
+    "time": "2026-11-02 10:46"
+  },
+  {
+    "title": "部分宽基ETF显著放量 中证1000ETF南方（512100）成交额超上一日全天",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YOFBvc0hMLU1WbkJZbXRpRkZsbE9tUHlMcWFEVXU1NE9KYUpDdGl5Qm1HV1RVVVVrTkQtREt0VTFFaXBHS190czRDaw?oc=5",
+    "source": "新浪网",
+    "time": "2026-11-02 10:28"
+  },
+  {
+    "title": "部分宽基ETF显著放量 中证1000ETF南方成交额超上一日全天",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGMVNobkRwN2o5MWdNS0RJY1JfaDFJT0VYS2tMOVkzS1UxUnFEWTIyN3B1OTRyLTNWa3Y3ZHcwSGJCYmlmeFNPZ2RJbFZtVHJKV1hEZWdCNDQxUXBYajZJNg?oc=5",
+    "source": "东方财富",
+    "time": "2026-11-02 10:23"
+  },
+  {
+    "title": "超千亿元净流入 宽基ETF成“吸金”主力",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ21VLTRwRU5kc0lGT2MtOWdvYWVPZVc0MmtNeGRuV2VadURra1FkX2F0Ym1xZDJnNHBTYmx3WHVqYUt1cWQtc19MUXI3bEJaQVV6aUdITVh0RXU5N1BFeEYtRlFrZnVCcFFJNDJfM3pLMERnbTlWTVlYWVhqUU82OHhfV2UtaHRUVlVHN0ZOTQ?oc=5",
+    "source": "21财经",
+    "time": "2026-11-02 09:12"
+  },
+  {
+    "title": "中证500ETF南方：10月30日融资净买入2664.2万元，当日排名第29",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SNjNlOS1tVjdNZEhrYUlWcnBHVXdCbERwdlRUdmozU1ZiNlByelJEc2U1ZGVKY3NKaFNxX2JRVW9jcmRWd1p1OFNaVWx2aXl2LXNOaFVkeHN6Q29WaVE?oc=5",
+    "source": "同花顺",
+    "time": "2026-11-02 09:00"
+  },
+  {
+    "title": "8只宽基ETF，10月净流入额超百亿元",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZFRDaHd4R1duM1BOVTRKdVhXd3d1ZTJpZF9yRHV1UXNPNlZQa2dHT0ZwQzU4WVZTNWd6ckh4Zzc3cUo0a1lXTHZ3WkFXUjdxRHozVzg5WGZVVzlzckpPblp3UTc4NG5pMjU1alVVTWJuanJGel9Pcg?oc=5",
+    "source": "新浪财经",
+    "time": "2026-11-02 08:53"
+  },
+  {
+    "title": "双创指数单日重挫逾4%，但ETF资金仍在逆势流入，这个组合本身就值得单独拿出来看",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyRUJGUW94b3dzaEtrblc1dnVGRVhaTkZBVzlSSG1kUlE1YmNYaEtqMmhMVW5OZ0ZOZjMzWS1EcFBqSnVJYmFRWXV3cU5WWkhMOE9tYkx6a21ObFREOWVjRnhMQzNab09jdEFZ?oc=5",
+    "source": "财富号",
+    "time": "2026-11-02 08:49"
   },
   {
     "title": "ETF规模速报 | 8只宽基ETF，10月净流入额超百亿元",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyZzlGbGp0QW1iWU5KWmpyNFE0QmFOY3dZRUVtc2F1OVIyTGN1LXJ2ZUYtS1ZncnI5RWlMN3VXelpKdjlLS1ZrdGVqQnctdjJmWUpkdHNZRURmeGltU09FSEE3WVY2dw?oc=5",
-    "source": "每日经济新闻",
-    "time": "2026-11-02 07:49"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0xWZFhST0F6YzI4YTBsbm8wX0QyX2djb3JiTTNYeWVmZElXdTRST3JkdkpUU2lOT0lmV25sTXNjcFJsUVZGcjF3T0lGbGxsQkNjWUo0d2RoZEM1T3FmX3g1V3U3QS1sQUpHNmZjNkdGVXc2VDVjNkdJT2lzZXZIMjE0d2Zjem81cmFrQ1VDcw?oc=5",
+    "source": "21财经",
+    "time": "2026-11-02 08:31"
+  },
+  {
+    "title": "多只宽基ETF十月流入创纪录",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbGdIcDk1YVFneUpka29pN3NwNWRyYXhpWXFzSF9oM1pEMWVuM1dJN0Z2VlZYbjJCSkllWWM0ZkV4WXhoOWhnSUlIcw?oc=5",
+    "source": "新浪网",
+    "time": "2026-11-02 08:25"
   },
   {
     "title": "申万宏源A股三季报分析：整体收入利润增速小幅回落红利改善双创利润增速高位放缓提供者智通财经",
@@ -30,16 +360,34 @@
     "time": "2026-11-01 18:42"
   },
   {
+    "title": "部分宽基ETF显著放量，中证1000ETF南方成交额超上一日全天",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qVldya0tyb3dhaTM4UFR0bUh5SW9TblRRb1VYZGZXQUx2c1BiMzNtalpiUzl2NVI1ejZSRUw0TnBfSTM5c2JSQkNVSlYtcDN5X2JRdFJCaGI?oc=5",
+    "source": "36Kr",
+    "time": "2026-11-01 18:19"
+  },
+  {
     "title": "鹏华价值优势LOF: 鹏华基金管理有限公司关于旗下部分基金调整业绩比较基准并修订基金合同等法律文件的公告",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KWUI0YmI5SnA0bVVWYk1IN2J2NjBGeGhneTFoR19JN292VXB6ZW9TLVg4M2EyY19WTkNvMG1GU1VUWnh4MmpRVlY4TE5GeHFRYjVZWUZ2Smgza1JHQng5YQ?oc=5",
     "source": "证券之星",
     "time": "2026-11-01 18:06"
   },
   {
+    "title": "申万宏源策略：超跌反弹条件进一步改善，中期反弹可能在岁末年初出现",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTG9YbTVMWFFNTV9WRDRnWFY5QnotaE9hZFhLeDV5SExUSmhhOEY1OUxwQldWOWxDZ3k2TzBUXzgzdnR2MnUzcnRHX0pzMTdMNXlHa2dZSXA4X0xlc1JTRm1TaEd2cnRUVzJ6T0hJZEJwaHB5T0RLZ2c4X0xnS3lHUGdLcUJXUGJWOFV4c2VB?oc=5",
+    "source": "新浪财经",
+    "time": "2026-11-01 16:35"
+  },
+  {
     "title": "ETF今日收评 | 多只宽基ETF尾盘大幅放量 港股通信息技术ETF跌超6%",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmRWlxV0VBZGJTcTVhcy11WldCZ3RMMjRqejhXeG5aVjRBNjZMOE9JZ1JuT3AxdHhUcno4SjFLYXhKX1pOY00wUURsYVZTZTl0eGFxVy16RmpscDZYOEJOcw?oc=5",
     "source": "东方财富",
     "time": "2026-10-31 20:08"
+  },
+  {
+    "title": "哈森股份：传统鞋企跨界逆袭，题材与业绩共振催生趋势妖股",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1bEVXbl9aT2hzZWhJWjhpRERGakdGUl9MMzFHRk1HdTBWVnd0eEpfWm8tRDE1eDlwdUUwYlVLMmpPWjNKbEVOb0JoX2ZtSWJlUnc?oc=5",
+    "source": "文轩新闻",
+    "time": "2026-10-31 08:02"
   },
   {
     "title": "10月30日中证500ETF嘉实基金份额减少1300万份，重仓股源杰科技、长川科技、华海清科_基金提醒_雷达",
@@ -60,20 +408,26 @@
     "time": "2026-10-31 04:12"
   },
   {
+    "title": "显著放量！资金进场了",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwLUgycE05NEF5b0o4SmVWeTlMdEtVLUdTajVPWEhMTUI2OEh5cllpTEg3VEFSTU1keTRHdEE3Y09UNjF5MXMxd29VNWJyV1hMZ1JsRjhQalZFR2pTVnF3cA?oc=5",
+    "source": "东方财富",
+    "time": "2026-10-31 03:27"
+  },
+  {
     "title": "银华大盘定开(161837): 银华基金管理股份有限公司关于旗下部分基金调整业绩比较基准并修订基金合同等法律文件",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QWUxZWDVPNXYxWDVOWXdabDFCZ3NzYU9OWll6STkwYk1VdUJwQU42R082Mi01WDRvUWFFZVFVUkZmM1dsbFE5QnZTVEk4enpuNmxqaEF3?oc=5",
     "source": "中财网",
     "time": "2026-10-31 00:20"
   },
   {
-    "title": "长盛同智LOF (160805): 长盛基金管理有限公司关于旗下部分基金调整业绩比较基准并修订基金合同等法律文件",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4SDZNeUlscHhUNnlxd1dCcUV3SVRNekRTZGVMcllwcWVaUWx6THNpRDRxSjl5RE5nYzNvcWl6dnJoUkNQUHh4cnlVSl9HSXVQa09fYlZn?oc=5",
+    "title": "南方香港LOF (160125): 南方基金管理股份有限公司关于旗下部分基金调整业绩比较基准并修订基金合同等法律文件",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZlFyZGJXY2hNREktNnpMSW9fNWUwazhpZHhrZmQ2T2JEYjhhSkVZeklGWDVFblU4dTdxd0lwekI2MjhJRXByZEFVU09uaHpwTmNYOHVR?oc=5",
     "source": "中财网",
     "time": "2026-10-30 22:48"
   },
   {
-    "title": "南方香港LOF (160125): 南方基金管理股份有限公司关于旗下部分基金调整业绩比较基准并修订基金合同等法律文件",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZlFyZGJXY2hNREktNnpMSW9fNWUwazhpZHhrZmQ2T2JEYjhhSkVZeklGWDVFblU4dTdxd0lwekI2MjhJRXByZEFVU09uaHpwTmNYOHVR?oc=5",
+    "title": "长盛同智LOF (160805): 长盛基金管理有限公司关于旗下部分基金调整业绩比较基准并修订基金合同等法律文件",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4SDZNeUlscHhUNnlxd1dCcUV3SVRNekRTZGVMcllwcWVaUWx6THNpRDRxSjl5RE5nYzNvcWl6dnJoUkNQUHh4cnlVSl9HSXVQa09fYlZn?oc=5",
     "source": "中财网",
     "time": "2026-10-30 22:48"
   },
@@ -100,6 +454,12 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVc5clZJWUVEaUo0cUxuZ3RhRERnNXhEcVZ5X1ZoVExXaGNoMWxvdnRzVHFzTFYtNGVNcmpyNDdVb3RYdHJkeUwxaFV1aEl0dFRhMzhXUm9hYkdnaHJqZHpVdFFBSVRxTUxudFgxMC1TQUFzZHEzS3ZjU3ZyNW1jYnVTbk01WnN1SGc?oc=5",
     "source": "新浪财经",
     "time": "2026-10-30 20:00"
+  },
+  {
+    "title": "芯片股剧烈分化！英伟达刷新全球市值纪录，闪迪暴涨8%破千，布油逼近110美元",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMGN5MVB5ckhyVWw2WERRN0pTX2FDSXBzLUZSZDNIMy01MVdDcjdEZGdLVlNDVWpfN1JJUGVndTc2ZGpLclVUQVBVYTVPcGlQUzN4MWJJWUkzQ3VkTzJCSUUzQTBoUVRvTUVVTWdfLXptTHhIWFc3Vmxna2NHQzV3NjljalhDSGM2QUhyMlNGbUhFZW9TdlRVbTJSbWw3eC15ZHRGb1ZLQ3FTRUNyRlI4LTlIQ1Y5TTN5WmhhSjJIY0ZpVU8tdXp5ZERVM1BHZVVIekFMRGd2X3NyZ1k2cjlsRmlJU1lnZ0MyS0ZTaW1aZmxLaVpqcUF5VHJPRXpxRjVFc2FtQU5kVlhORG5vUGJQbnBMbmU0Q25yZlp2bjZ3?oc=5",
+    "source": "finance.sina.com.cn",
+    "time": "2026-10-30 19:11"
   },
   {
     "title": "超6340亿元资金下半年净流入宽基ETF，10月净流入3490亿元",
@@ -148,6 +508,18 @@
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuYkZQaWc5WEhhbm9OcGN2TUdIT2dmbXphbTRHR3FuWnpZbzBjVUxRVXV1ZmpacVhodXJlM19HSDR1M19rSjhpTUhHTWJmcjNxMW1RdlZkMzlrb1luS2lxYmtPNE1wdw?oc=5",
     "source": "东方财富",
     "time": "2026-10-30 09:05"
+  },
+  {
+    "title": "10月29日中证1000ETF富国（159629）份额减少8600.00万份，最新份额9.15亿份，最新规模24.46亿元",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3dNUnRJd09iUmphM2RRMFdEUUtKaXJjX0lPWFJoUk9rSEVZN2hEN0dBMU1ua3N0dFU3LUZhaXBTMGlDZ1BXbUJrY3dlNGdRVlZJUFZ1eGljSVJxcmM0eDlIV2J6OWcySkZmVTZHMERucHBES0hOX2g4bW4ybGc0TG5pMUNTczNjYTFDYw?oc=5",
+    "source": "Sohu",
+    "time": "2026-10-30 09:02"
+  },
+  {
+    "title": "10月29日中证1000ETF华泰柏瑞（516300）份额减少200.00万份，最新份额5101.26万份，最新规模1.38亿元",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGRFNG4weXBvTWRla3E3dTlnbVVySExwNFk3SmM1aGEtT2t6eTR0SnplTXo5ZTNMQ0RpTkhSYXdTUkFLQ0k3NnB2bHBMTHJUU0p1TEFVUEVnSnpTT3RoeG5tVF9FMFVFeEhXSjdVNHJFUWY2bjVrMlB4RUlxNDY1U3VnZVVITUx5VzB3UG96NnlxQmc4Y1J5SXlmRQ?oc=5",
+    "source": "新浪财经",
+    "time": "2026-10-30 09:01"
   },
   {
     "title": "ETF资金流向观察|宽基ETF单日吸金171亿元，沪深300ETF、创业板ETF、科创50ETF、创业板50ETF、中证A500ETF等获增持",
@@ -226,377 +598,5 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkJ0NXlKR3kwZ0ZPMVFMenFCV1AxRXMzTTI4SGtLbnZNc2RHemZMcGN0V1ozdjhJMU1mam5wdzhyTVpJTFdpcl8zMHJNNl84SWJQdFdLZUMyTUJJVUpNTHdHbV9WRFV3dGxvZkkxNWdWdzZXMzJKXzJrc0lncmd3ZVNDcG1qUlJ4bGc?oc=5",
     "source": "新浪财经",
     "time": "2026-10-29 21:20"
-  },
-  {
-    "title": "2026年第三季度跑输基准1.15%！广发中证银行ETF王嘉时：银行基本面稳健 红利价值具韧性",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFhIUjBrUlU5X0J2cWYteV9wSVNaaTEzM09nTjI0OTRuY1YyT2o0VGNtVDhCcEZZT3FjUEduS09oTzlmc3N2Z0VPNE1ycnlKNHZoWVkxZTBLR1J2TXVncVZncWthZ21ZM3VtWHJtbmNfVDMwRkhyajlfc2RHUElwTTVHS09PeE5nOGc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 20:56"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.33%！兴业中证500ETF张诗悦：四季度中证500配置性价比凸显严控跟踪误差",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVcyNG1kNXE1b1IwY0NZdlZ3bDY3RE4zUWhLa3lWdExackhzdlI4TVRvdXluemdZSm55WG1ZaXk5cUhFVmJROFQ5UHItVGE1ZW01QUd6RGlPbFVjWGpEOFdBSUc2OGxLT2NDemxjeG80TEVXdlF2bjc1Y0did1lmNmEwYkpTdkM5dnc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 20:55"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.46%！南方中证1000ETF崔蕾：四季度中证1000存估值消化后机会",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0dza2xqVkNHdGNwWHVCWnFLMC1BQ1QzNXRaUkFzUFlWZVVqOWlLVE5VSkQyVlNMSVl6NGxkdkNuRUpZQ004ajI5LWV3X2RlQ184S3kxYWlrb0xSWEROZDR5WTAydlhDWEQtamRJcFdnVEtEUENLMWFUMF9lSDBUYW9zR3c2R1BaOHc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 20:20"
-  },
-  {
-    "title": "2026年第三季度跑赢基准2.15%！南方中证500增强策略ETF崔蕾：四季度中证500增配基本面定价机遇",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemNKa2g5dVR4Zng2ZVlXZ3ROUENfZ0VDX1czYllHVzNOTGo0SGtaYkhUNnRjSGNadUdvUWZoRVRDSnJhNGtPeVpBQ2sxU3pJX2NrMHFJN05STjZlNHBVU3Y2QVNEc01EbnhoUFNGQ2M1eHZxLUY2aWxMbXp1eTg2VV8xLTRWOWJZaEE?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 20:20"
-  },
-  {
-    "title": "2026年第三季度跑赢基准1.50%！华泰柏瑞中证500ETF联接C柳叶青：中证500中盘盈利改善，修复弹性可期",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTDJSZzJJLXBxeXFfNnprRmNrS0Rid25JV3F6Mnp4REpNd0dyMjFjcy1hSlpaTm5Fdk9KMTNnTnptdW5VamVhenVjd083ei01MnRhck12THFPV2tpY0FUak5hbFo5WnQ2QmdPeElZSURGS0RTRDNNcmpMVkVsQ0hVQ1hEUHBIc292T0E?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 20:14"
-  },
-  {
-    "title": "有资金抄底？宽基ETF尾盘突然放量！",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OUnFDWGs0b0ZrQzk5X2lGUGV0TjkzbW82ckY3Um0ySF93anROWEFHWDJmQW5TZ3UtdmwtQ294emJLbXpiMVdWNmFxbGVfWUUyT1ZDOXMwb3E2ZUxFSmZZdElmX3VERzl3VmdDRDhBSG9TMm02MnpkOTc3QmQ?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 19:02"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.09%！万家中证500指数增强发起式A乔亮：多重利好共振，A股有望震荡上行修复",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmc3SktoSC1rZkJZLWpGZkcxV1hMTUZBUUczR3VNV2ZuZlp2QWlwU0NCQzJ3VlJrRGFONkRPTEpsTUlib3FaXy05UXFRd1F6X25qV01Ydmt6X1NfMUk0N0tOWVJlZkRCVGRaSjJUVGRnTVBEMGVtWWg4dFZQWU5FUmkxSVFVY1lmTkE?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 18:12"
-  },
-  {
-    "title": "专家：A股核心资产正步入击球区 宽基ETF获资金青睐",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80YjJXUHpwVEpNUDVCa3pCaGE1ejNOb1poYTlpbHFsUzNNTThrV2QxbXNmWVhoTXNCaUtJSEZWbzd2QnpMVDVrT0pPb3lLNGRhTmsyQTdVd0otbjVJS0FNc0JGZHQ0VEE4dVdJMElJUWI?oc=5",
-    "source": "中华网",
-    "time": "2026-10-29 18:11"
-  },
-  {
-    "title": "18:07:29【小盘风格明显承压，中证1000ETF易方达（159633）连续获资金增持】",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tcmJRUkpVQ05qaENjV0FTMW5POTNCWHBMWDBfWUZnQ0cxS3dsY0hMeWxiR0pDV0JkSHN0S0dHTG5YNzh3SXZnWA?oc=5",
-    "source": "财联社",
-    "time": "2026-10-29 18:07"
-  },
-  {
-    "title": "2026年第三季度跑赢基准2.71%！景顺长城中证500指数增强A黎海威：政策积极，布局新质生产力优质标的",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1ZwQnI2NFJCeHljdER1VUJodHV4YzhPaHJGQklubWdMNWh0VkZuMUFWYS1hcVo1TWE5SFpmdlBOSGxRZEk2Y1J2Zy1hX2dNQ1VqSzZ0d2FxYldaT1NuMTlzMlh3RjhYRWNmNm44YUxKamlnMVZ6Z1FOTU1samFnem5LTUxxOXZEWmc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 17:53"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.93%！国泰海通中证1000指数增强A胡崇海：四季度A股迎修复，均衡布局结构性机会",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVVTQnpRcTJXeVRlMl9JelNmbmV0enpFSUIteG1tdmpITXMyRF9IUldXSlp4eTF3RmFsb0huQm10R2JnNXhUZFdBblc2cFpKOHFtU3FDQUk1MjRGSnZtejFXcW83cUgzb0tyeW43TFJxVmxPZTBicVA3Vnp0cGZObDB5eEU4OXFqMmc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 17:36"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.85%！国泰海通中证1000指数增强C胡崇海：四季度A股迎修复，均衡布局抓结构性机会",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFh0QWdLLVRpcjRHVnotcXdYN201WFZSdjM0UmVTQkhBbEsxTDNQWndDWlp1aHV2TWRFeG9tRF9yeGllXzcxRHlEV2RXaTVqa1B6Zm9IaldnS3puUDd0MkV6Z2xzdFBHX1FyOVp4WVA1Umd4ZDJNWk02c1VNUlVPczJ4OEEzaHF5WkE?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 17:36"
-  },
-  {
-    "title": "谁更适合做底仓？中证A500 VS 沪深300编制要素对比 | 选基小助手",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KNmNjdUJodENiWk9IU1FZeGlscUdrOTAwaE1EbFpsUHFtelJrQnVGUFNtX0xvRTNDMkxqQ0Nmd3psLXp2TXdoU0Q2bjdjLWNJNGVFZXRtd0pTMGhMV0liUDdSZkd5azZkSTVSNHQ4SEM?oc=5",
-    "source": "金融界",
-    "time": "2026-10-29 17:32"
-  },
-  {
-    "title": "财中ETF风向标｜连续8日主力资金净流出，中证1000ETF南方(512100)今日成交额40.18亿元",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0UyNWNoWlRTbFdJb003V09kbmNpQUs2LUd4UlBZM1V5UFVjNnBLRFM3REVQU0ZxUHU5dmdpeE1DZ1ZCdXpRZVBkbE5vNTVCdF9yRW5aaUxpUjBFUkJaM3pSamFYR1lzLURFX0FEYm9SREVQeExpTGZuOTBrSnQ0dg?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 17:21"
-  },
-  {
-    "title": "2026年第三季度跑赢基准11.30%！光大保德信中证500指数增强C王卫林：把握风格反转窗口发挥量化指增优势",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmtJc1pQd09Vc3ZzWFJPeXZiLV9NYnVkekdfSlVnSy1EM25JVnNJLUFORzBReGZ6S0dKdm9ZMFhkQWh1ZWNVUU1mUnFoN1R2ajJrSWk5SW1vSUJySlh0eHdFVFRSeE5rXy1JRXFPekFWX20wTExsVTdDTFl2WUNRamxYNEc2V09lb0E?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 16:47"
-  },
-  {
-    "title": "宽基ETF连续21日累计\"吸金\"3600亿，A500ETF华泰柏瑞（563360）同期日均成交额超43亿元",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeDdTOEhmTFo5WjMxaDBWVkluZkQ4cDNkZFhybGRqLXhsczdwbnQ1VEdDbzRDdnRiVGN3UUVFeld4eS1yS08tNUxxTWViemJSemZ6eWJEY0s3OTZIUFRZajRLak1aVmJvY2o2bjlCWmk0ZkdZdDhkcl8xVjc5VWV5SnlITWFhdw?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 16:37"
-  },
-  {
-    "title": "四点半观市 | 红利资产再度走强 ﻿科创板宽基ETF近一周获资金净流入187亿元",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IWHdabEZnaGhDNGgtVFQ3TzdSQ3VDLVA5dmlHN0FwVzhyQUZKUHBGTThtY21YU19jNzV3WnRaWHI3UHliWmVONy1hRm91V0E5SzFMeHU3T0ZQQWVpanhGOVZWeUlSbDJIOUkzRlN2SjVVanZkUHhGUA?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 16:37"
-  },
-  {
-    "title": "四点半观市 | 红利资产再度走强 科创板宽基ETF近一周获资金净流入187亿元",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZWJlWkloLWgwUGNIa0NFVFZtSHhUODBMd0oxVXkwRklwalZqc3NFaTFiY3poNzh2LWJIWTZGV0xUZmZXTG9LQTR4OVZLdmgwbUxnV1dkdzlHaUVLWFJjYTN4ckl0RTFHRWJkWFFMSmZXMHlhMnJlRg?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 16:37"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.72%！景顺长城中证1000指数增强C黎海威：政策托底盈利修复，中证1000增配价值",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0gzOVVwVmVFSEZkUFdtR1dqSEhKeFlDOGhlRkg2UWtpYTNzYzJKMnBTNmc5OW0wSjJ1VnlRVHBkai01ckV6bU5aQVFoQktsRmF5MW4xUzFnZmVzNXVjUldreUU2Ry1IcXVCb0JwZDZGbUlFT3VnRUNOTUlYRXhDMEJJWHdzZzhoWnc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 16:37"
-  },
-  {
-    "title": "2026年第三季度跑赢基准22.58%！大成景恒混合A苏秉毅：把握均值回归 布局深调中小盘个股",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaS1hZURQWkVWTjFRMlRVRWEtVlFLR3BWY2ZCdmRyMHBPLWNQYS1aeTdReE1YeDJSMy1ScHhoWmZqTmR5bDRORGVKdzdYaGs2cEF6RmEtXzlGNGhNbVEwNmYza0ZidmNIZy1kTmpSZFg5WW5qSVNxcWZWQlhWU0NmaGpHR0lET0k0cnc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 16:12"
-  },
-  {
-    "title": "2026年第三季度跑赢基准4.44%！中欧中证500指数增强C钱亚婷：把握风格再平衡分散化捕捉超额收益",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUtYcWR6WjhWazJuemxENW13ckJwQjlTeTd1TUZjT0NyYlhZNV9Sa1hScVlhNHFjVDNMR1N6YmdFUlF6TE5ZTXBTelIwTWl6Q3M3NndsMzBTUXp4Y2EyTV8zWnZlZVVHN1lCYmVVTG9wYkNYMUEtRkZBWmFqblhkaHItbHQ4V2ZtWnc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 15:48"
-  },
-  {
-    "title": "2026年第三季度跑赢基准1.80%！长城中证500指数增强C雷俊：优化AI多因子框架，巩固超额收益优势",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3RFc2dqal9tSmpKX1FwamJSYy1NWWZoMVdOZ0dQN2RDXy03dlJaanVEbFFRQ1RnbVRqVW9FWlpDWEtvM0dJeFdmbjl5dnE0ckVTN2lVbXRCeHFESmVFcy1EUDhlXzVJc3AwbjhFbXgybzdhVDc4ZjhBTG5kZnF6Y0ZmMFlnTXlHeVE?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 15:46"
-  },
-  {
-    "title": "2026年第三季度跑赢基准4.82%！中欧中证500指数量化增强A宋婷：把握均衡配置机会稳健捕捉超额收益",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDVrWXpvT005Tm9hTjhvUGdGc1huUVg5bWF6aWF2T2xjN0h6dGZxOEN1cUw4SVJCbWd1S0h2UU5lRVJFVkZyQzlpd2pvRjk5OGo3NDRfX29QYTVmdkxUV2NiU0tMUTRDYnhCcDV6N3pzVTNGTl9mUC1pdUV1MzVzNk9zemd0dFR2dGc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 15:36"
-  },
-  {
-    "title": "2026年第三季度跑赢基准3.30%！兴银中证500指数增强C翁子晨：发挥量化优势严控回撤，创造稳定超额回报",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVVZczUtVFJFd3NrZ2owenFDMzFFVlBEaXZvNFk5NHhMQnk3UUk3VVpmNG41akRZS2JENmRZTEF6eTVGdkZwMnJnb0FINlM2SUdZVFEwRXJ6S0xWYy1WMVFpbV94ZVIwV0NxSWp2TnJveWVvSFNKTHhsSFZMRkFJdmxGbDExNzcxd1E?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 15:14"
-  },
-  {
-    "title": "科创板宽基ETF近一周获资金净流入187亿元",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rM1BkREQwY2Q0ZG1pQjA3UTh0d0FYUGJhSVNMRl9jbC1lQ0xBNG13eURjYmJNZ3BTc0ZOZTJxMjZYZEV6MDZWd3hhNDQxSjdaSFpORDlBd3J5bEhaMkhqNXNKMWROUUI4dnNoLWd1bUNsRFk1SDhXWA?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 14:57"
-  },
-  {
-    "title": "超百亿宽基ETF，抄底!",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01V2lKTWZ2VkYybGV0ZFUzQXdVWm9GUVhkZlBUZHhTNnNtX296eElWM1ZKN3FSUEM3QmU4X3hNYmxUNXQ0V0FjQXZ4ZTUxaVdGdFVROVJENzItQ01sa2QybGhhcklqbFJ2emJCYmlyM0lJQkhjdkwzag?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 14:53"
-  },
-  {
-    "title": "2026年第三季度跑赢基准8.21%！广发中证800指数增强C李育鑫：坚持量化模型严控偏离力争持续超额",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTk5fNlI0d05NUGlzdlRQeHhiZ0tUNENKY0NfWXhuLTB0dXlpbFdSYkcwY2hMSDZGV0hlcndicmZVT3JYdW5UOXZzcnJBeEswdkUtdThWYWpnN2c2bWtKQXQyaTcxV19obmVoU1RCMTF3OTFhODNUYURIMzZQSGZLT1NvZEVaSVFEN2c?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 14:39"
-  },
-  {
-    "title": "2026年第三季度跑赢基准1.82%！民生加银中证500指数增强发起式C何江：优化量化选股，严控跟踪误差增收益",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFlVUzUtNXJNODZKZUZwUTVIVUhpZWVCTWN0bmRXZUhXay1yU3MzQmRSblVvQk5BVGRvdFdvbWJjRG5lbUwwVTR2TWFUNkFMSGgxY2FWeF93WVVKRTF5VEY2eVJRRWk0ZDNSV3dRSjBfMjEtenBwdDNtaGV4dzJwYllCa0V6eHJSSkE?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 14:35"
-  },
-  {
-    "title": "超百亿宽基ETF，抄底",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FOHVJVlJmeENsNG5uRERjMzNBSGswbThvMm5mY29aMVNmTTU2NFVOYTc5LThkWUxudTRxNkpldkpiVWZKZEZSeTNkX05XMmt6?oc=5",
-    "source": "凤凰网财经",
-    "time": "2026-10-29 14:17"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.43%！广发中证1000ETF联接F罗国庆：三季度市场调整，坚守指数跟踪运作",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDR4SEpGY01iQU9pbXFMaFA5Q1RCaHhrQ3pSanRWMmRPVUdSaXhvSXVYQUdSRXI5VHJVU2NobWM4cnNjc3FJaHJvWFBRbXU1c1E5dW9PN3NHUURPWlotU09mSDhoYWZ0aHR6UlFBQlkyT2QyM0xVbW4zNTNKTUNXY2lhdUVwTUZUR1E?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 14:17"
-  },
-  {
-    "title": "2026年第三季度跑赢基准2.11%！天弘中证500指数量化增强A刘笑明：跟踪中证500 量化选股力争超额收益",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnE0T2R4OTdmbk1sZVNXUnRJUEl4dG1mdWhySG1uQnZKMFJNRXZxVVViZVVndG1iOGtaNTF0V1dwQzdyVVVuVjN3U3lwRkFTUGo5b0p2dkxSbnJCM0E3cW1BOHBvaUhvREl6NkpRUnZWekl6bEhRZ01zamZVTG9RamhONExYS29UU2c?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 13:58"
-  },
-  {
-    "title": "2026年第三季度跑赢基准1.09%！天弘中证500指数增强Y杨超：跟踪中证500 力争持续获取超额收益",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVNZSDRVUFlpaG02Wm5SRi1RQ05DLUpremMtUFhqQXJUVjhONE9yQVRhVlpWajF1WjNUVzlFME84Y3pmdDY2a0pWajcwUVNpVHRxVlh1UXg1Um1wSnFCTENydzRmTTJxMmdBWlYxYXFyNk1LTXVkNGpSSWVMel9FbU5KVS1XaHFjTGc?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 13:52"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.95%！天弘中证500指数增强C杨超：跟踪中证500 力争持续获取超额收益",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXJNWHFmMFZJbVFjWkFvQnlxbTI3c0IyM21DMTlPT3RwRnlyV0FUdEZyaDQzNDJUQ09kbzMyeHR0LXFJRzZEd0syQjd4NEFXOElSNF9NLWQxZENRT2pjVTJBMzdGMTlkVHJlcFBjdS1taFQtaWxnbDRyVm91cm9haWVXdi1TU0RrZFE?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 13:52"
-  },
-  {
-    "title": "科创板宽基ETF近一周资金净流入187亿元",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPXzN3aExhbGg2SXFSQ0VFSmN4SjA3Z2RGbzhKT0l3MXprN1NzLWhBdm5kcGxQTDhzY2I0YW1wZW5zOFlSM2t2SVRDN2tXVnAxWnZEZHhuR3o1ZVZndUF6YXlGSVJuN0twbWxna1BBQ0d3cVNDa3Q2VQ?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 13:45"
-  },
-  {
-    "title": "2026年第三季度跑赢基准0.89%！方正富邦中证500ETF联接A于润泽：四季度市场震荡整固，挖掘结构性机会",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPamd1SEVOUThOWmV4WWFWS3A5bEVtY0JXeHpUbmMxOUQ1dE5pYUVpdFlvZEp4MTZnWHF5UERObWpEZzFkbjZMcUFSOGVHNWxsT1U1UDVibXN2Nm1FVHh6VUd2RXV3QTRWMFlSeVVQM2VxY05sb3EtMjd6Q2V3UkZYYUpwdURZdGhvdVE?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 13:38"
-  },
-  {
-    "title": "中证500ETF南方：10月28日融资买入2.66亿元，融资融券余额29.48亿元",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXhidVE3T3RNYTYxWVdNWlBpNmtmUGFjQU85VzFnM3FZaWR3RkI0ak9lZzFSdHNCQk1DTFBVeFlHQThFbzlQM1B2NFZIRUN5TWNDbEZhRWpLYTlhczJjcnBsXzU0Tnc4Z3pVdDdrRElhZ1Q0d3pKVTliem81dU1HRXhKZElUTGpB?oc=5",
-    "source": "搜狐网",
-    "time": "2026-10-29 13:32"
-  },
-  {
-    "title": "多只宽基ETF放量",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rdXZrSFpBTkh2T2xIYUxDQnFfdUhOX1EwYU5oQllYLUxfSlZsazRBc095aml1V0t3ckowT3lYUUVkZWhBejgxcTlsaUZiNktqNzVlYzFjYXItbHloYl9WWA?oc=5",
-    "source": "东方财富",
-    "time": "2026-10-29 13:18"
-  },
-  {
-    "title": "午后多只宽基ETF放量回升！",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkhsOFByZWNUenF2dkZaSWQtOXA0MHNZa2tNdzB4RU1NeTAzM3ByeF9YdkRSSGJBMjVWX0hQMEc0djlWMVZkaXBYX2NHN1BDSHE3Q3JMUFppd2hFUVpxRDFfMGd3OVdCR3Q1ZTRSYllhV3VySlYtb3gzZUs4b0l4TlBmUWYxQkxi?oc=5",
-    "source": "搜狐网",
-    "time": "2026-10-29 13:15"
-  },
-  {
-    "title": "多只宽基ETF放量回升",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ240VkpRVHA5M2l1UFlTQnJzMG1YVl93YTFtYV9aUEVPVzhEbEtGblRsR1JyMTNjTFpLU1F3cEJ5ZUJra3RNaUFYOGMxeUdLdUJ0eDY5UklCTmJxTUlyR0ZpdzVEa3dyMEYzN2RNSm50XzJ4SzBoLUFtbGlkWUR6RA?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 13:11"
-  },
-  {
-    "title": "中证500ETF富国（159500）跌2.49%，半日成交额747.04万元",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnczSnRVRnQ3UHVsNFYyLVY4SVY0Q0VWU2VQV2t6bTcyaVJKWFlhaTBZSENVYWFVaGw0RVFVbFAwY1BlSldwQmRxWDRKZWVYQlc5cExMUkJCQ3dxS1YzNDA0UmNCYTktU0dkS1J5VDZiVm1LZUFJMVo4S3lNWVNzLVBEQS03T3NRdGl4Z3R0TWJpYWJuWHdwYg?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 11:35"
-  },
-  {
-    "title": "中证500ETF方正富邦（510550）跌2.79%，半日成交额185.82万元",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3BvNjd5NVhGX2szU2psNVRBa2ExX3gwaVg1bzN4dzdrRDRhZjRLaFpTOGdFRVhvR1h3NklqNHphbnFRcGIyekgxc1hBajEyalBEeGREN052U0tkZndzQjZBMHFLSTc0VXRnLWNZVjRZdXM3aDNrNVRsM3h4UGpOTk5kWWY0SWpRLW9paE5mcTQxY1NYay1rZg?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 11:31"
-  },
-  {
-    "title": "估值消化之后，中证500指数背后的中盘宽基配置逻辑正在切换-E点即通",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMElsYzRaX3BSMExCZkFNRjZrZjRYRjhqUGtWOWlwZDdPNTd4b0g1VG5EYnZvRHRNcXhqMlI3b09ITi1idXk2TVo3ajNjWHNYbnRqVm9mb2RkU3g5VG1Pc2QyWDFzblNIckMwLWRqNkk?oc=5",
-    "source": "金融界",
-    "time": "2026-10-29 10:07"
-  },
-  {
-    "title": "科技成长深度回调，红利逆势走强，港股红利ETF博时(513690)跟踪指数早盘涨近1%",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qT2tkb1JoSU5OWEFMb05rSktoNVdhdC01SGRCRXpaMnlIdDB2alNxcWpoOW1NbGYwZlFrQm1jWnhUcjM4MVUtTmNvSjFqT19QSTFHWVBhYkk?oc=5",
-    "source": "Jiemian.com",
-    "time": "2026-10-29 10:04"
-  },
-  {
-    "title": "中证500ETF富国（159500）开盘跌0.50%，重仓股源杰科技跌2.14%，长川科技跌1.83%",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUtUWnVfdnpZcTNuc2prVUZwM0todGxidU9TN2VKdGNNY2F5RTEyb0luUmtTYnN4U05xZ3U3dkdHcXphYjZla0E2eTgyaklkeTJBRlIwY3R4N3lBbzNKYVdYZ1dtcTgybjdXZzBKS2F2MU50ODF5ZzVFS1BFRkQxckVWbUxGX2NfRWFLUWVBa09RUVRmVTYxMg?oc=5",
-    "source": "新浪财经",
-    "time": "2026-10-29 09:34"
-  },
-  {
-    "title": "中证1000ETF华夏（159845）开盘跌0.62%，重仓股剑桥科技跌2.16%，风华高科跌1.14%",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUxhT3BwMmctbDFmbVNtTm16VThCQ0QzcTB4NWJQRzhHRDNmanBKUXlZanJfVnZRRHpBS3VrMm0xX3IyV3ZBWHBMZ1NYMllZaUN0WFBJc3VGTnM1OHRSbWZHWG9rODVmVWtQLVRCRUtuZnJ6cEs3U2Rsa2d5RTZIcjRoVGUwRjB3V1NtRGxXV2NLbWd0UE9DWUFLQ3EyR2hmRi1vLQ?oc=5",
-    "source": "搜狐网",
-    "time": "2026-10-29 09:31"
-  },
-  {
-    "title": "ETF资金流向观察|宽基ETF吸金101亿元，A500ETF、沪深300ETF、中证1000ETF等获集中增持",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aQVVfMkRQRzQ3U3BpV0hJR1pYRkI4OXRZZTg3WEhhcUY4bTZxZUhoMWtERDA1VkxkaHcxM0FPQWl4R1FzQ2F5RUlMQ21pSWEtMmtoLUhJVmVZMDExRXFybg?oc=5",
-    "source": "证券之星",
-    "time": "2026-10-29 08:58"
-  },
-  {
-    "title": "ETF资金流向观察|宽基ETF吸金101亿元,A500ETF、沪深300ETF、中证1000ETF等获集中增持",
-    "url": "https://finance.jrj.com.cn/2026/10/29085858920216.shtml",
-    "source": "金融界",
-    "time": "2026-10-29 08:58"
-  },
-  {
-    "title": "10月28日中证1000ETF易方达基金份额增加2800万份，重仓股剑桥科技、风华高科、云南锗业",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pMU9nMnBPTldNcnhSelE4dHUzclVic0M5Q3JOaVRDbW1FSDM1Ym5YRU9kUE1jN2JKbzludl96TkZXYU5veGhzbGM5U28tWllmbTF4dnB1d3ZHN0RrOFFCXzRB?oc=5",
-    "source": "证券之星",
-    "time": "2026-10-29 08:10"
-  },
-  {
-    "title": "10月28日中证1000ETF富国基金份额增加1600万份，重仓股剑桥科技、风华高科、云南锗业_基金提醒_雷达",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leFVGOVNzcWxPaHlNMEkzNkVvdnJkR1Z5TUladUI5Yk85c1Y2NnFVSXZlUU5LeDFNMVRMZS16amR0YTNGdExvNHE1N0x5d2cyXzRPTjk3b09BUlp0cTY5bFlB?oc=5",
-    "source": "证券之星",
-    "time": "2026-10-29 08:10"
-  },
-  {
-    "title": "华夏中证500ETF(512500)10月29日申赎清单调整:丽珠集团增持居前,云天励飞减持居前",
-    "url": "https://finance.sina.cn/2026-10-29/detail-iniwvwre2885614.d.html",
-    "source": "新浪财经",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "三季报点评:中证500ETF鹏华基金季度涨幅-16.04%",
-    "url": "https://4g.stockstar.com/detail/RB2026102900007694",
-    "source": "证券之星",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "三季报点评:中信保诚中证500指数增强A基金季度涨幅-12.74%",
-    "url": "https://stock.stockstar.com/RB2026102900008439.shtml",
-    "source": "证券之星",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "ETF资金流|资金净流入A500ETF、沪深300ETF、中证1000ETF、华宝添益ETF、公司债ETF、创业板50ETF等",
-    "url": "https://www.gelonghui.com/live/2734988",
-    "source": "格隆汇",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "10月28日最受青睐股票ETF:易方达中证A500ETF获净申购20.87亿元,嘉实沪深300ETF获净申购15.71亿元(名单)",
-    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfshzj/2026-10-29/doc-iniwvwra6147386.shtml",
-    "source": "新浪财经",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "涨得越猛被卖得越狠?这类ETF前三季度规模增超3200亿元,份额却狂掉2200亿份",
-    "url": "https://www.chanyedi.com/news/664848.html",
-    "source": "产业地网",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "科技情绪转折来了?SK海力士超强财报提振!半导体+光模块携手上攻!硬科技宽基——双创50指数大涨3.6%!",
-    "url": "https://t.10jqka.com.cn/pid_713769829.shtml",
-    "source": "同花顺",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "申万宏源:美债扰动!市场迎来大变局",
-    "url": "https://mt5official.com/html/54f84799098.html",
-    "source": "MT5官方",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "中金 | 公募三季报回顾:加仓红利,减仓科技",
-    "url": "https://finance.sina.com.cn/stock/stockzmt/2026-10-29/doc-iniwvwra6115716.shtml",
-    "source": "新浪财经",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "【庚语四季】价值风格出现再平衡,积极挖掘市场结构性机会",
-    "url": "https://finance.sina.cn/fund/jjgdxw/2026-10-29/detail-iniwvwri5461891.d.html",
-    "source": "新浪财经",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "三季报公募持仓曝光 AI集体降温",
-    "url": "https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwvftp9249873.shtml",
-    "source": "新浪财经",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "九泰久福量化A净值上涨3.32%",
-    "url": "https://finance.sina.com.cn/money/fund/aiassistant/jzyd/2026-10-29/doc-iniwvsie6174620.shtml",
-    "source": "新浪财经",
-    "time": "2026-10-29 08:00"
-  },
-  {
-    "title": "三季报点评:国投瑞银中证全指自由现金流指数发起式A基金季度涨幅2.20%",
-    "url": "https://stock.stockstar.com/RB2026102900010985.shtml",
-    "source": "证券之星",
-    "time": "2026-10-29 08:00"
   }
 ]
