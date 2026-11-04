@@ -1,97 +1,97 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.10.28 – 11.03 · 按本周新增 Star 数排序",
-  "updated": "2026.11.03",
+  "period": "2026.10.29 – 11.04 · 按本周新增 Star 数排序",
+  "updated": "2026.11.04",
   "projects": [
     {
       "rank": 1,
       "owner": "pbakaus",
       "repo": "impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "description": "为编码 Agent 提供的「设计词汇表」：用打磨与大胆的视觉方向引导 Agent 产出高质量 UI，在发布前拦截 AI 味设计，本周以 12k Star 登顶。",
-      "stars": "100.3k",
-      "weekly_stars": "12k"
+      "description": "面向编码 Agent 的设计语汇工具：以 polish/bolder 指导输出风格，以 critique/audit 做设计评审，在发布前拦截 AI 低质内容（AI slop）。",
+      "stars": "101.3k",
+      "weekly_stars": "11.8k"
     },
     {
       "rank": 2,
       "owner": "Nutlope",
       "repo": "hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "description": "面向 Claude Code、Cursor、Codex 的反 AI 味（Anti-AI-slop）设计技能，帮助 AI 编码代理产出更有设计感的界面，本周新增 11.6k Star 紧随其后。",
-      "stars": "45.8k",
-      "weekly_stars": "11.6k"
+      "description": "专为 Claude Code、Cursor、Codex 打造的反 AI 低质输出设计技能，显著提升 Agent 生成内容的质感与原创性。",
+      "stars": "46.8k",
+      "weekly_stars": "10.5k"
     },
     {
       "rank": 3,
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "Cloudflare 开源的编码 Agent 安全审计技能，支持多阶段安全审计并输出可独立校验的机器可读审计结论，本周新增 10.1k Star。",
-      "stars": "57.2k",
-      "weekly_stars": "10.1k"
-    },
-    {
-      "rank": 4,
       "owner": "pingdotgg",
       "repo": "t3code",
       "url": "https://github.com/pingdotgg/t3code",
-      "description": "Agent 控制面板（harness control surface）：通过 iOS/Android/Web/桌面端 App 统一控制本机的 Claude Code、Codex、Cursor、OpenCode 等编码代理。",
-      "stars": "41.1k",
-      "weekly_stars": "6.9k"
+      "description": "T3 生态新一代编码工具（TypeScript），本周关注度飙升，为开发 Agent 提供更顺手的编码体验。",
+      "stars": "43.9k",
+      "weekly_stars": "9.8k"
+    },
+    {
+      "rank": 4,
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "Cloudflare 开源的编码 Agent 多阶段安全审计技能，输出可独立验证的机器可读审计结果，为 AI 生成代码把好安全关。",
+      "stars": "58.0k",
+      "weekly_stars": "9.2k"
     },
     {
       "rank": 5,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent 运行环境（harness）性能优化系统：整合 Skills、instincts、记忆、安全与研究优先开发流程，支持 Claude Code、Codex、Cursor 等主流代理。",
-      "stars": "295.4k",
-      "weekly_stars": "6.3k"
-    },
-    {
-      "rank": 6,
-      "owner": "obra",
-      "repo": "superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "obra 开源的 Agentic 技能框架与软件开发方法论，为编码代理注入系统化技能体系，本周热度回升新增 5.9k Star。",
-      "stars": "311.1k",
-      "weekly_stars": "5.9k"
-    },
-    {
-      "rank": 7,
       "owner": "thedotmack",
       "repo": "claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "description": "跨会话持久上下文记忆工具：自动捕获 Agent 每次会话内容并用 AI 压缩，把相关上下文注入未来会话，兼容 Claude Code、Codex、Gemini 等多款代理。",
-      "stars": "110.5k",
-      "weekly_stars": "5.9k"
+      "description": "跨会话持久上下文记忆工具：自动捕获 Agent 会话中的全部活动，经 AI 压缩后注入未来会话，兼容 Claude Code、Codex、Gemini 等多款 Agent。",
+      "stars": "111.6k",
+      "weekly_stars": "7.3k"
+    },
+    {
+      "rank": 6,
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "面向编码 Agent 的性能优化系统（harness）：整合技能、直觉、记忆、安全与研究优先的开发能力，支持 Claude Code、Codex、Cursor 等。",
+      "stars": "296.4k",
+      "weekly_stars": "6.2k"
+    },
+    {
+      "rank": 7,
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "可落地的 Agentic 技能框架与软件开发方法论，帮助构建更可靠的自主编码工作流。",
+      "stars": "311.7k",
+      "weekly_stars": "6.0k"
     },
     {
       "rank": 8,
       "owner": "JetBrains",
       "repo": "thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
-      "description": "JetBrains 出品的轻量级 IDE，内置 pi 编程代理，可随个人工作流自动定制开发环境，主打沉浸式 vibe coding 体验。",
-      "stars": "7.1k",
-      "weekly_stars": "5.8k"
+      "description": "JetBrains 出品的轻量真实 IDE：围绕个人工作方式自适应定制，主打 Vibe Coding 体验，让编程更贴合直觉。",
+      "stars": "7.4k",
+      "weekly_stars": "4.8k"
     },
     {
       "rank": 9,
       "owner": "TauricResearch",
       "repo": "TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "基于多智能体（Multi-Agents）LLM 的金融交易框架，通过 Agent 协作模拟量化交易分析与决策流程。",
-      "stars": "119.9k",
-      "weekly_stars": "5.4k"
+      "description": "多 Agent LLM 金融交易框架：基于大语言模型的多智能体协作，用于金融交易策略研究与自动化决策。",
+      "stars": "120.3k",
+      "weekly_stars": "4.6k"
     },
     {
       "rank": 10,
-      "owner": "Leonxlnx",
-      "repo": "taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "为编码 Agent 注入「审美」的技能包：提供艺术方向、参考图与浏览器检查，替代千篇一律的 AI 生成页面。",
-      "stars": "108.5k",
-      "weekly_stars": "5.3k"
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "根据 Andrej Karpathy 对 LLM 编码陷阱的观察提炼的 CLAUDE.md，以单文件改进 Claude Code 的编码行为与质量。",
+      "stars": "229.0k",
+      "weekly_stars": "4.4k"
     }
   ]
 }
