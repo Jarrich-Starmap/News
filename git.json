@@ -1,97 +1,115 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.10.29 – 11.04 · 按本周新增 Star 数排序",
-  "updated": "2026.11.04",
+  "period": "2026.10.30 – 11.05 · 按本周新增 Star 数排序",
+  "updated": "2026.11.05",
   "projects": [
     {
       "rank": 1,
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "面向编码 Agent 的设计语汇工具：以 polish/bolder 指导输出风格，以 critique/audit 做设计评审，在发布前拦截 AI 低质内容（AI slop）。",
-      "stars": "101.3k",
-      "weekly_stars": "11.8k"
-    },
-    {
-      "rank": 2,
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "专为 Claude Code、Cursor、Codex 打造的反 AI 低质输出设计技能，显著提升 Agent 生成内容的质感与原创性。",
-      "stars": "46.8k",
-      "weekly_stars": "10.5k"
-    },
-    {
-      "rank": 3,
       "owner": "pingdotgg",
       "repo": "t3code",
       "url": "https://github.com/pingdotgg/t3code",
-      "description": "T3 生态新一代编码工具（TypeScript），本周关注度飙升，为开发 Agent 提供更顺手的编码体验。",
-      "stars": "43.9k",
-      "weekly_stars": "9.8k"
+      "description": "Agent 控制面板（harness control surface）：通过 iOS/Android/Web/桌面端 App 统一控制本机的 Claude Code、Codex、Cursor、OpenCode 等编码代理，本周以 12.5k Star 登顶。",
+      "stars": "46.1k",
+      "weekly_stars": "12.5k"
+    },
+    {
+      "rank": 2,
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "为编码 Agent 提供的「设计词汇表」：用打磨与大胆的视觉方向引导 Agent 产出高质量 UI，在发布前拦截 AI 味设计，本周新增 11.4k Star。",
+      "stars": "102.5k",
+      "weekly_stars": "11.4k"
+    },
+    {
+      "rank": 3,
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "面向 Claude Code、Cursor、Codex 的反 AI 味（Anti-AI-slop）设计技能，帮助 AI 编码代理产出更有设计感的界面，本周新增 8.8k Star。",
+      "stars": "47.7k",
+      "weekly_stars": "8.8k"
     },
     {
       "rank": 4,
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "Cloudflare 开源的编码 Agent 多阶段安全审计技能，输出可独立验证的机器可读审计结果，为 AI 生成代码把好安全关。",
-      "stars": "58.0k",
-      "weekly_stars": "9.2k"
-    },
-    {
-      "rank": 5,
       "owner": "thedotmack",
       "repo": "claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "description": "跨会话持久上下文记忆工具：自动捕获 Agent 会话中的全部活动，经 AI 压缩后注入未来会话，兼容 Claude Code、Codex、Gemini 等多款 Agent。",
-      "stars": "111.6k",
-      "weekly_stars": "7.3k"
+      "description": "跨会话持久上下文记忆工具：自动捕获 Agent 每次会话内容并用 AI 压缩，把相关上下文注入未来会话，兼容 Claude Code、Codex、Gemini 等多款代理。",
+      "stars": "112.6k",
+      "weekly_stars": "8.0k"
     },
     {
-      "rank": 6,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "面向编码 Agent 的性能优化系统（harness）：整合技能、直觉、记忆、安全与研究优先的开发能力，支持 Claude Code、Codex、Cursor 等。",
-      "stars": "296.4k",
-      "weekly_stars": "6.2k"
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "owner": "obra",
       "repo": "superpowers",
       "url": "https://github.com/obra/superpowers",
-      "description": "可落地的 Agentic 技能框架与软件开发方法论，帮助构建更可靠的自主编码工作流。",
-      "stars": "311.7k",
+      "description": "obra 开源的 Agentic 技能框架与软件开发方法论，为编码代理注入系统化技能体系，本周新增 6.0k Star。",
+      "stars": "312.3k",
       "weekly_stars": "6.0k"
+    },
+    {
+      "rank": 6,
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "为编码 Agent 注入「审美」的技能包：提供艺术方向、参考图与浏览器检查，替代千篇一律的 AI 生成页面，本周新增 6.0k Star。",
+      "stars": "109.9k",
+      "weekly_stars": "6.0k"
+    },
+    {
+      "rank": 7,
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "将 Andrej Karpathy 对 LLM 编码陷阱的观察沉淀为单个 CLAUDE.md，改善 Claude Code 行为，本周新增 3.9k Star。",
+      "stars": "229.4k",
+      "weekly_stars": "3.9k"
     },
     {
       "rank": 8,
       "owner": "JetBrains",
       "repo": "thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
-      "description": "JetBrains 出品的轻量真实 IDE：围绕个人工作方式自适应定制，主打 Vibe Coding 体验，让编程更贴合直觉。",
-      "stars": "7.4k",
-      "weekly_stars": "4.8k"
+      "description": "JetBrains 出品的轻量级 IDE，内置 pi 编程代理，可随个人工作流自动定制开发环境，主打沉浸式 vibe coding 体验。",
+      "stars": "7.6k",
+      "weekly_stars": "3.9k"
     },
     {
       "rank": 9,
-      "owner": "TauricResearch",
-      "repo": "TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "多 Agent LLM 金融交易框架：基于大语言模型的多智能体协作，用于金融交易策略研究与自动化决策。",
-      "stars": "120.3k",
-      "weekly_stars": "4.6k"
+      "owner": "AgriciDaniel",
+      "repo": "claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "面向 Claude Code 的通用 SEO 技能：26 个子技能 + 19 个子代理覆盖技术 SEO、E-E-A-T、schema、本地 SEO 等全链路，本周新增 3.8k Star。",
+      "stars": "26.6k",
+      "weekly_stars": "3.8k"
     },
     {
       "rank": 10,
-      "owner": "multica-ai",
-      "repo": "andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "根据 Andrej Karpathy 对 LLM 编码陷阱的观察提炼的 CLAUDE.md，以单文件改进 Claude Code 的编码行为与质量。",
-      "stars": "229.0k",
-      "weekly_stars": "4.4k"
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "世界首个开源 Agentic 视频制作系统：12 条生产级流水线，Agent 自主完成策划、剪辑与合成，本周新增 3.5k Star。",
+      "stars": "76.4k",
+      "weekly_stars": "3.5k"
+    },
+    {
+      "rank": 11,
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Anthropic 官方的 Agent Skills 公共仓库，沉淀可复用的技能定义与实现规范，本周新增 3.0k Star。",
+      "stars": "187.4k",
+      "weekly_stars": "3.0k"
+    },
+    {
+      "rank": 12,
+      "owner": "jakubkrehel",
+      "repo": "skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "description": "帮助 Agent 构建优质界面的技能集合，覆盖组件审美与交互打磨，本周新增 1.8k Star。",
+      "stars": "10.8k",
+      "weekly_stars": "1.8k"
     }
   ]
 }
