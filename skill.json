@@ -1,97 +1,97 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.11.01 · 按 ClawHub Trending 近 24h 下载量排序（前 10）",
-  "updated": "2026.11.01",
+  "period": "2026.11.07 · 按 ClawHub Trending 综合热度排序（前 10；skills-sh 源无 24h 下载，列「—」，热度见 bookmarks）",
+  "updated": "2026.11.07",
   "projects": [
     {
       "rank": 1,
       "owner": "xixu-me",
       "repo": "xdrop",
       "url": "https://clawhub.ai/xixu-me/skills/xdrop",
-      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流；本期以近 24h 下载量 1.2k 居 Trending 榜首",
+      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流；本期以近 24h 下载 1.0k 居 Trending 榜首。",
       "bookmarks": "294",
-      "downloads": "1.2k"
+      "downloads": "1k"
     },
     {
       "rank": 2,
-      "owner": "pskoett",
-      "repo": "self-improving-agent",
-      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "将经验、错误与纠正写入记忆文件实现持续改进：命令失败时捕获教训、复用并提升为工作区记忆，累计安装量 18.5k 居首",
-      "bookmarks": "18.5k",
-      "downloads": "249"
+      "owner": "skills-shell",
+      "repo": "ai-image-generation",
+      "url": "https://clawhub.ai/skills-sh/skills-shell/superpowers/ai-image-generation",
+      "description": "通过 inference.sh CLI 调用 50+ AI 模型生成图像，skills.sh 生态累计安装 28.9k 居前列。",
+      "bookmarks": "28.9k",
+      "downloads": "—"
     },
     {
       "rank": 3,
-      "owner": "shichuanqiong",
-      "repo": "swarmdm",
-      "url": "https://clawhub.ai/shichuanqiong/skills/swarmdm",
-      "description": "智能体间 A2A 私信网络：agent 获永久地址、离线可达、私信到达自动唤醒，支持搜索好友、传文件、群聊与论坛",
-      "bookmarks": "0",
-      "downloads": "155"
+      "owner": "telegraphic-dev",
+      "repo": "a2a-exposed-setup",
+      "url": "https://clawhub.ai/telegraphic-dev/skills/a2a-exposed-setup",
+      "description": "部署/重配置 a2a-exposed Cloudflare Worker，为已支持 A2A 的智能体配置唤醒 webhook、轮询或公网入口。",
+      "bookmarks": "1",
+      "downloads": "98"
     },
     {
       "rank": 4,
-      "owner": "cournot-ai",
-      "repo": "cournot",
-      "url": "https://clawhub.ai/cournot-ai/skills/cournot",
-      "description": "Cournot 情报技能：用自然语言向 AI 询问加密事件，返回结构化概率、被评估的具体主张及背后信源",
-      "bookmarks": "1",
-      "downloads": "238"
+      "owner": "pskoett",
+      "repo": "self-improving-agent",
+      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
+      "description": "将经验、错误与纠正写入记忆文件实现持续改进：命令失败时捕获教训并沉淀为工作区记忆，累计安装 18.5k。",
+      "bookmarks": "18.5k",
+      "downloads": "304"
     },
     {
       "rank": 5,
-      "owner": "spclaudehome",
-      "repo": "skill-vetter",
-      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
-      "description": "安全优先的技能审查协议，安装任何 skill（ClawHub / GitHub / 其他来源）前检查红旗、权限范围与可疑模式，累计安装 12.3k",
-      "bookmarks": "12.3k",
-      "downloads": "186"
+      "owner": "skills-shell",
+      "repo": "ai-video-generation",
+      "url": "https://clawhub.ai/skills-sh/skills-shell/superpowers/ai-video-generation",
+      "description": "通过 inference.sh CLI 调用 40+ AI 模型生成视频，skills.sh 生态累计安装 28.9k。",
+      "bookmarks": "28.9k",
+      "downloads": "—"
     },
     {
       "rank": 6,
-      "owner": "bustes01",
-      "repo": "text-to-image-free",
-      "url": "https://clawhub.ai/bustes01/skills/text-to-image-free",
-      "description": "免费 AI 文生图，无需 API key，经 Pollinations.ai 免费接口支持多模型，将文字描述转为图像",
-      "bookmarks": "33",
-      "downloads": "181"
+      "owner": "cournot-ai",
+      "repo": "cournot",
+      "url": "https://clawhub.ai/cournot-ai/skills/cournot",
+      "description": "用自然语言向 AI 询问加密事件，返回结构化概率、被评估的具体主张及背后信源。",
+      "bookmarks": "1",
+      "downloads": "263"
     },
     {
       "rank": 7,
-      "owner": "jujitao",
-      "repo": "memory-never-forget",
-      "url": "https://clawhub.ai/jujitao/skills/memory-never-forget",
-      "description": "双层记忆系统（待办执行层 + 知识策略层），含 Dream/Refinement 精炼机制（v4.13）避免遗忘",
-      "bookmarks": "181",
-      "downloads": "161"
+      "owner": "designed-by-ai",
+      "repo": "design-mobile-apps",
+      "url": "https://clawhub.ai/skills-sh/designed-by-ai/skills/design-mobile-apps",
+      "description": "通过 Sleek 的 REST API 从简报设计移动 App 界面，skills.sh 生态累计安装 21.7k。",
+      "bookmarks": "21.7k",
+      "downloads": "—"
     },
     {
       "rank": 8,
-      "owner": "vargai",
-      "repo": "kling-4-prompting",
-      "url": "https://clawhub.ai/vargai/skills/kling-4-prompting",
-      "description": "教授如何为 Kling 4 写提示词生成电影感视频：先构图再给 2–4 关键帧与导演提示，覆盖参考图/多镜头/失败修复",
-      "bookmarks": "0",
-      "downloads": "119"
+      "owner": "sakib-dalal",
+      "repo": "halftone-art",
+      "url": "https://clawhub.ai/sakib-dalal/skills/halftone-art",
+      "description": "为 Web 生成半调点阵艺术，支持 CSS、canvas、SVG 与 React 实现。",
+      "bookmarks": "1",
+      "downloads": "93"
     },
     {
       "rank": 9,
-      "owner": "steipete",
-      "repo": "github",
-      "url": "https://clawhub.ai/steipete/skills/github",
-      "description": "通过 gh CLI 与 GitHub 交互，支持 gh issue / gh pr / gh run / gh api 等 issue、PR、CI 运行与高级查询，累计安装 7.7k",
-      "bookmarks": "7.7k",
-      "downloads": "160"
-    },
-    {
-      "rank": 10,
       "owner": "wanikua",
       "repo": "thinking-frameworks",
       "url": "https://clawhub.ai/wanikua/skills/thinking-frameworks",
-      "description": "提供 20 种人类思维框架（批判性思维、第一性原理、红队、设计思维等）辅助结构化深度分析与决策",
-      "bookmarks": "43",
-      "downloads": "149"
+      "description": "提供 20 种人类思维框架（批判性思维、第一性原理、红队、设计思维等）辅助结构化深度分析与决策。",
+      "bookmarks": "44",
+      "downloads": "240"
+    },
+    {
+      "rank": 10,
+      "owner": "heygen-com",
+      "repo": "hyperframes",
+      "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/hyperframes",
+      "description": "HyperFrames 插件技能：按插件执行规则运行、以 CLI 事件信标上报使用，skills.sh 生态累计安装 17.7k。",
+      "bookmarks": "17.7k",
+      "downloads": "—"
     }
   ]
 }
