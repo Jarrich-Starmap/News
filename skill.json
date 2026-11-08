@@ -1,51 +1,51 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
   "period": "2026.11.07 · 按 ClawHub Trending 综合热度排序（前 10；skills-sh 源无 24h 下载，列「—」，热度见 bookmarks）",
-  "updated": "2026.11.07",
+  "updated": "2026.11.08",
   "projects": [
     {
       "rank": 1,
       "owner": "xixu-me",
       "repo": "xdrop",
       "url": "https://clawhub.ai/xixu-me/skills/xdrop",
-      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流；本期以近 24h 下载 1.0k 居 Trending 榜首。",
+      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流；本期以近 24h 下载 1.2k 居 Trending 榜首。",
       "bookmarks": "294",
-      "downloads": "1k"
+      "downloads": "1.2k"
     },
     {
       "rank": 2,
       "owner": "skills-shell",
       "repo": "ai-image-generation",
       "url": "https://clawhub.ai/skills-sh/skills-shell/superpowers/ai-image-generation",
-      "description": "通过 inference.sh CLI 调用 50+ AI 模型生成图像，skills.sh 生态累计安装 28.9k 居前列。",
-      "bookmarks": "28.9k",
+      "description": "通过 inference.sh CLI 调用 50+ AI 模型生成图像，skills.sh 生态累计安装 30.0k 居前列。",
+      "bookmarks": "30.0k",
       "downloads": "—"
     },
     {
       "rank": 3,
-      "owner": "telegraphic-dev",
-      "repo": "a2a-exposed-setup",
-      "url": "https://clawhub.ai/telegraphic-dev/skills/a2a-exposed-setup",
-      "description": "部署/重配置 a2a-exposed Cloudflare Worker，为已支持 A2A 的智能体配置唤醒 webhook、轮询或公网入口。",
+      "owner": "hillstreet-ph",
+      "repo": "hillstreet-integrations-mobile",
+      "url": "https://clawhub.ai/hillstreet-ph/skills/hillstreet-integrations-mobile",
+      "description": "Hillstreet 移动端集成技能，封装移动应用相关的接口、自动化与工作流；以近 24h 下载 115 首次冲入 Trending 前 10。",
       "bookmarks": "1",
-      "downloads": "98"
+      "downloads": "115"
     },
     {
       "rank": 4,
-      "owner": "pskoett",
-      "repo": "self-improving-agent",
-      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "将经验、错误与纠正写入记忆文件实现持续改进：命令失败时捕获教训并沉淀为工作区记忆，累计安装 18.5k。",
-      "bookmarks": "18.5k",
-      "downloads": "304"
+      "owner": "bustes01",
+      "repo": "text-to-image-free",
+      "url": "https://clawhub.ai/bustes01/skills/text-to-image-free",
+      "description": "免费文生图技能，调用开放模型将文本提示转为图像；以近 24h 下载 260 进入 Trending 前 10。",
+      "bookmarks": "34",
+      "downloads": "260"
     },
     {
       "rank": 5,
       "owner": "skills-shell",
       "repo": "ai-video-generation",
       "url": "https://clawhub.ai/skills-sh/skills-shell/superpowers/ai-video-generation",
-      "description": "通过 inference.sh CLI 调用 40+ AI 模型生成视频，skills.sh 生态累计安装 28.9k。",
-      "bookmarks": "28.9k",
+      "description": "通过 inference.sh CLI 调用 40+ AI 模型生成视频，skills.sh 生态累计安装 30.0k。",
+      "bookmarks": "30.0k",
       "downloads": "—"
     },
     {
@@ -53,44 +53,44 @@
       "owner": "cournot-ai",
       "repo": "cournot",
       "url": "https://clawhub.ai/cournot-ai/skills/cournot",
-      "description": "用自然语言向 AI 询问加密事件，返回结构化概率、被评估的具体主张及背后信源。",
+      "description": "用自然语言向 AI 询问加密事件，返回结构化概率、被评估的具体主张及背后信源；以近 24h 下载 238 入榜。",
       "bookmarks": "1",
-      "downloads": "263"
+      "downloads": "238"
     },
     {
       "rank": 7,
       "owner": "designed-by-ai",
       "repo": "design-mobile-apps",
       "url": "https://clawhub.ai/skills-sh/designed-by-ai/skills/design-mobile-apps",
-      "description": "通过 Sleek 的 REST API 从简报设计移动 App 界面，skills.sh 生态累计安装 21.7k。",
-      "bookmarks": "21.7k",
+      "description": "通过 Sleek 的 REST API 从简报设计移动 App 界面，skills.sh 生态累计安装 20.9k。",
+      "bookmarks": "20.9k",
       "downloads": "—"
     },
     {
       "rank": 8,
-      "owner": "sakib-dalal",
-      "repo": "halftone-art",
-      "url": "https://clawhub.ai/sakib-dalal/skills/halftone-art",
-      "description": "为 Web 生成半调点阵艺术，支持 CSS、canvas、SVG 与 React 实现。",
+      "owner": "hillstreet-ph",
+      "repo": "nexu-open-design",
+      "url": "https://clawhub.ai/hillstreet-ph/skills/nexu-open-design",
+      "description": "Hillstreet 开放设计技能，提供可复用的设计资源与自动化流程；以近 24h 下载 112 进入 Trending 前 10。",
       "bookmarks": "1",
-      "downloads": "93"
+      "downloads": "112"
     },
     {
       "rank": 9,
-      "owner": "wanikua",
-      "repo": "thinking-frameworks",
-      "url": "https://clawhub.ai/wanikua/skills/thinking-frameworks",
-      "description": "提供 20 种人类思维框架（批判性思维、第一性原理、红队、设计思维等）辅助结构化深度分析与决策。",
-      "bookmarks": "44",
-      "downloads": "240"
+      "owner": "pskoett",
+      "repo": "self-improving-agent",
+      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
+      "description": "将经验、错误与纠正写入记忆文件实现持续改进：命令失败时捕获教训并沉淀为工作区记忆，累计安装 18.5k；以近 24h 下载 233 入榜。",
+      "bookmarks": "18.5k",
+      "downloads": "233"
     },
     {
       "rank": 10,
-      "owner": "heygen-com",
-      "repo": "hyperframes",
-      "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/hyperframes",
-      "description": "HyperFrames 插件技能：按插件执行规则运行、以 CLI 事件信标上报使用，skills.sh 生态累计安装 17.7k。",
-      "bookmarks": "17.7k",
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "url": "https://clawhub.ai/skills-sh/vercel-labs/agent-browser/agent-browser",
+      "description": "Vercel Labs 智能体浏览器技能，让 AI 自主操控网页完成浏览与交互任务；skills.sh 生态累计安装 15.9k。",
+      "bookmarks": "15.9k",
       "downloads": "—"
     }
   ]
