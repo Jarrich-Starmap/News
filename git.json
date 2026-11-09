@@ -1,69 +1,69 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.11.03 – 11.09 · 按本周新增 Star 数排序",
-  "updated": "2026.11.09",
+  "period": "2026.11.09 – 11.15 · 按本周新增 Star 数排序",
+  "updated": "2026.11.10",
   "projects": [
     {
       "rank": 1,
       "owner": "pingdotgg",
       "repo": "t3code",
       "url": "https://github.com/pingdotgg/t3code",
-      "description": "Agent 运行控制面板（agent harness control surface）：用 iOS/Android App、网页与 Electron 桌面端远程操控本机的 Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity 等编码代理，本周 17.1k Star 继续稳居榜首。",
-      "stars": "52.2k",
-      "weekly_stars": "17.1k"
+      "description": "Agent 运行控制面板（agent harness control surface）：用 iOS/Android App、网页与 Electron 桌面端远程操控本机的 Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity 等编码代理，本周 15.4k Star 继续稳居榜首。",
+      "stars": "53.7k",
+      "weekly_stars": "15.4k"
     },
     {
       "rank": 2,
       "owner": "vercel-labs",
       "repo": "agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Vercel Labs 出品的计算机使用（Computer Use）CLI：通过操作系统无障碍树（accessibility tree）让 AI Agent 直接「看见」并操作 macOS / Windows / Linux 上的桌面应用，本周新晋榜单即拿下 13.9k Star。",
-      "stars": "19.5k",
-      "weekly_stars": "13.9k"
+      "description": "Vercel Labs 的计算机使用（Computer Use）CLI：基于操作系统无障碍树（accessibility API）让 AI Agent 直接「看见」并操作 macOS / Windows / Linux 桌面应用，主打自动化与 computer-use 场景，本周新增 13.7k Star 升至第二。",
+      "stars": "20.3k",
+      "weekly_stars": "13.7k"
     },
     {
       "rank": 3,
       "owner": "cloudflare",
       "repo": "security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "Cloudflare 开源的安全审计 Agent 技能：把编码代理变成安全审计员，分侦察、覆盖式挖掘、候选验证、结构化输出、独立记录核验等六个阶段，由隔离 Agent 协同完成漏洞发现与可机器验证的结论，本周新增 10.4k Star。",
-      "stars": "66.6k",
-      "weekly_stars": "10.4k"
+      "description": "Cloudflare 开源的安全审计 Agent 技能：把编码代理变成安全审计员，分多个阶段做覆盖式漏洞挖掘，结论经独立核验且为机器可读，本周新增 10.6k Star。",
+      "stars": "67.8k",
+      "weekly_stars": "10.6k"
     },
     {
       "rank": 4,
       "owner": "mattpocock",
       "repo": "skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "Matt Pocock 直接公开自己 .agents 目录下的实战技能集「Skills for Real Engineers」，聚焦 TypeScript 工程实践与 AI 编码协作，持续保持在榜单前列，本周新增 9.7k Star。",
-      "stars": "318.4k",
-      "weekly_stars": "9.7k"
+      "description": "Matt Pocock 公开自己 .agents 目录下的实战技能集「Skills for Real Engineers」，聚焦真实工程场景下的 AI 编码协作，长期稳居榜单前列，本周新增 9.6k Star。",
+      "stars": "319.5k",
+      "weekly_stars": "9.6k"
     },
     {
       "rank": 5,
       "owner": "NVIDIA",
       "repo": "auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "NVIDIA 开源的语义本体库：从企业元数据自动构建基于知识图谱的推理层，跨系统统一指标口径，并通过 MCP、CLI、API 暴露给任意 Agent 框架，解决 Agent 分析「答得快但数字不对」的可靠性问题，本周新晋榜单并新增 9.0k Star。",
-      "stars": "10.2k",
-      "weekly_stars": "9.0k"
+      "description": "NVIDIA 开源的语义本体框架：在数据之上构建基于知识图谱的推理层，实现确定性的查询生成、更好的上下文检索与更可解释的 AI，面向 LLM 与 Agent 工作流，本周新增 9.3k Star。",
+      "stars": "10.9k",
+      "weekly_stars": "9.3k"
     },
     {
       "rank": 6,
       "owner": "D4Vinci",
       "repo": "Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "现代化网页抓取框架：从单次请求到整站大规模爬取一站覆盖，主打自适应解析与低门槛上手，方便喂给 AI Agent 做数据采集，本周新增 8.7k Star。",
-      "stars": "99.7k",
-      "weekly_stars": "8.7k"
+      "description": "现代化网页抓取框架：从单次请求到整站大规模爬取一站覆盖，主打自适应解析与低门槛上手，方便喂给 AI Agent 做数据采集，本周新增 8.3k Star。",
+      "stars": "100.4k",
+      "weekly_stars": "8.3k"
     },
     {
       "rank": 7,
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "给编码 Agent 的「设计词汇表」：用 polish / bolder 引导视觉风格、critique / audit 做设计评审，在 AI 生成界面落地前拦截 AI 味，本周新增 7.6k Star。",
-      "stars": "106.0k",
+      "owner": "milind-soni",
+      "repo": "OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "开源版 Grok Bot 替代方案：为机器人提供可自主操作的虚拟机环境（Docker / Electron 技术栈），让 Bot 能在隔离 VM 内完成真实任务，本周新增 7.6k Star。",
+      "stars": "19.5k",
       "weekly_stars": "7.6k"
     },
     {
@@ -71,45 +71,45 @@
       "owner": "thedotmack",
       "repo": "claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "description": "跨会话持久上下文记忆：自动捕获 Agent 每次会话内容并用 AI 压缩，把相关上下文注入未来会话，兼容 Claude Code、Codex、Gemini、Copilot 等，本周新增 7.5k Star。",
-      "stars": "114.8k",
-      "weekly_stars": "7.5k"
+      "description": "跨会话持久上下文记忆：自动捕获 Agent 每次会话内容并用 AI 压缩，把相关上下文注入未来会话，兼容 Claude Code、Codex、Gemini、Copilot 等，本周新增 6.4k Star。",
+      "stars": "115.3k",
+      "weekly_stars": "6.4k"
     },
     {
       "rank": 9,
-      "owner": "milind-soni",
-      "repo": "OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "开源版 Grok Bot 替代方案：为机器人提供可自主操作的虚拟机环境，让 Bot 能在隔离 VM 内完成真实任务，本周新增 7.1k Star。",
-      "stars": "18.0k",
-      "weekly_stars": "7.1k"
-    },
-    {
-      "rank": 10,
       "owner": "Nutlope",
       "repo": "hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "description": "面向 Claude Code、Cursor、Codex 的反 AI 味（Anti-AI-slop）设计技能，帮助编码代理产出更有设计感的界面，本周新增 6.6k Star。",
-      "stars": "50.8k",
-      "weekly_stars": "6.6k"
+      "description": "面向 Claude Code、Cursor、Codex 的反 AI 味（Anti-AI-slop）设计技能，帮助编码代理产出更有设计感的界面，本周新增 6.4k Star。",
+      "stars": "51.6k",
+      "weekly_stars": "6.4k"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "owner": "Donchitos",
       "repo": "Claude-Code-Game-Studios",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "description": "把 Claude Code 变成完整游戏工作室：49 个 AI Agent、72 个工作流技能，按真实工作室层级与流程搭建协作体系，本周新增 5.7k Star。",
-      "stars": "36.9k",
-      "weekly_stars": "5.7k"
+      "description": "把 Claude Code 变成完整游戏工作室：49 个 AI Agent、72 个工作流技能，按真实工作室层级与流程搭建协作体系，本周新增 5.2k Star。",
+      "stars": "37.4k",
+      "weekly_stars": "5.2k"
+    },
+    {
+      "rank": 11,
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Anthropic 官方的 Agent Skills 公共仓库，作为技能规范与示例的参考实现，是各类编码代理技能生态的上游源头，本周新进榜并新增 3.2k Star。",
+      "stars": "190.6k",
+      "weekly_stars": "3.2k"
     },
     {
       "rank": 12,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "定位为「Agent harness 操作系统」的性能优化体系：以技能、 instincts、记忆、安全与研究优先流程改造 Claude Code 等编码代理，配套 npm 包与 GitHub App 分发，本周新增 5.5k Star。",
-      "stars": "299.6k",
-      "weekly_stars": "5.5k"
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "面向并行 AI Agent 工作流的 Git worktree 管理 CLI：让多个编码代理各自在独立 worktree 中开工、互不干扰，本周新进榜并新增 2.3k Star。",
+      "stars": "12.2k",
+      "weekly_stars": "2.3k"
     }
   ]
 }
