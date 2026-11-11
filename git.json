@@ -1,133 +1,133 @@
 {
   "title": "GitHub AI 项目周榜",
   "period": "2026.11.09 – 11.15 · 按本周新增 Star 数排序",
-  "updated": "2026.11.11",
+  "updated": "2026.11.12",
   "projects": [
     {
       "rank": 1,
-      "owner": "pingdotgg",
-      "repo": "t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "Agent 运行控制面板（agent harness control surface）：用 iOS/Android App、网页与 Electron 桌面端远程操控本机的 Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity 等编码代理，本周 13.4k Star 继续稳居榜首。",
-      "stars": "55.4k",
-      "weekly_stars": "13.4k"
-    },
-    {
-      "rank": 2,
-      "owner": "vercel-labs",
-      "repo": "agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Vercel Labs 的计算机使用（Computer Use）CLI：基于操作系统无障碍树（accessibility API）让 AI Agent 直接「看见」并操作 macOS / Windows / Linux 桌面应用，主打自动化与 computer-use 场景，本周新增 12.1k Star 升至第二。",
-      "stars": "21.2k",
-      "weekly_stars": "12.1k"
-    },
-    {
-      "rank": 3,
       "owner": "cloudflare",
       "repo": "security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "Cloudflare 开源的安全审计 Agent 技能：把编码代理变成安全审计员，分多个阶段做覆盖式漏洞挖掘，结论经独立核验且为机器可读，本周新增 10.7k Star。",
-      "stars": "68.9k",
-      "weekly_stars": "10.7k"
+      "description": "Cloudflare 开源的安全审计 Agent 技能：把编码代理变成多阶段安全审计员，覆盖式挖掘漏洞，结论经独立核验且输出机器可读报告。零宣传纯实用，本周以 1.1 万新增 Star 反超登顶。",
+      "stars": "70.1k",
+      "weekly_stars": "11k"
     },
     {
-      "rank": 4,
-      "owner": "NVIDIA",
-      "repo": "auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "NVIDIA 开源的语义本体框架：在数据之上构建基于知识图谱的推理层，实现确定性的查询生成、更好的上下文检索与更可解释的 AI，面向 LLM 与 Agent 工作流，本周新增 10.2k Star。",
-      "stars": "11.4k",
-      "weekly_stars": "10.2k"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "owner": "mattpocock",
       "repo": "skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "Matt Pocock 公开自己 .agents 目录下的实战技能集「Skills for Real Engineers」，聚焦真实工程场景下的 AI 编码协作，长期稳居榜单前列，本周新增 9.8k Star。",
-      "stars": "320.7k",
-      "weekly_stars": "9.8k"
+      "description": "Matt Pocock 公开自己 .agents 目录下的实战技能集「Skills for Real Engineers」，聚焦真实工程场景的 AI 编码协作，仍是 Agent Skills 生态里被抄作业最多的样板，本周新增 9.9k Star。",
+      "stars": "321.8k",
+      "weekly_stars": "9.9k"
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "owner": "NVIDIA",
+      "repo": "auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "NVIDIA 开源的语义本体框架：在数据之上构建基于知识图谱的推理层，实现确定性查询生成、更好的上下文检索与更可解释的 AI，面向 LLM 与 Agent 工作流。本周新增 9.6k Star，稳居前三。",
+      "stars": "11.8k",
+      "weekly_stars": "9.6k"
+    },
+    {
+      "rank": 4,
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Vercel Labs 的计算机使用 CLI：基于操作系统无障碍树让 AI Agent 直接「看见」并操作 macOS / Windows / Linux 桌面应用，主打自动化与 computer-use 场景，本周新增 9.5k Star。",
+      "stars": "21.9k",
+      "weekly_stars": "9.5k"
+    },
+    {
+      "rank": 5,
       "owner": "milind-soni",
       "repo": "OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "开源版 Grok Bot 替代方案：为 Bot 提供可操作的虚拟机环境，让智能体在隔离沙箱里真正执行任务，本周新增 8.3k Star。",
-      "stars": "20.5k",
-      "weekly_stars": "8.3k"
+      "description": "开源版 Grok Bot 替代方案：为 Bot 提供一台可操作的虚拟机环境，让智能体在隔离沙箱里真正执行任务，本周新增 9k Star。",
+      "stars": "21.1k",
+      "weekly_stars": "9k"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "owner": "D4Vinci",
       "repo": "Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "现代化网页抓取框架：从单次请求到整站大规模爬取一站覆盖，主打自适应解析与低门槛上手，方便喂给 AI Agent 做数据采集，本周新增 8.2k Star。",
-      "stars": "101k",
-      "weekly_stars": "8.2k"
+      "description": "现代化网页抓取框架：从单次请求到整站大规模爬取一站覆盖，主打自适应解析与低门槛上手，是喂给 AI Agent 做数据采集的主力工具，本周新增 7.3k Star。",
+      "stars": "101.6k",
+      "weekly_stars": "7.3k"
     },
     {
-      "rank": 8,
-      "owner": "thedotmack",
-      "repo": "claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "跨会话的 Agent 持久记忆层：自动捕获 Claude Code、Codex、Gemini、Copilot、OpenCode 等代理的工作过程，用 AI 压缩后回注到后续会话，本周新增 5.1k Star。",
-      "stars": "115.7k",
-      "weekly_stars": "5.1k"
-    },
-    {
-      "rank": 9,
-      "owner": "Donchitos",
-      "repo": "Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "description": "把 Claude Code 改造成完整游戏开发工作室：内置 49 个 AI 角色 Agent、72 个工作流技能与一套协作机制，复刻真实工作室的层级分工，本周新增 4.3k Star。",
-      "stars": "38k",
-      "weekly_stars": "4.3k"
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "owner": "anthropics",
       "repo": "skills",
       "url": "https://github.com/anthropics/skills",
-      "description": "Anthropic 官方的 Agent Skills 公共仓库，集中发布可复用的技能定义与示例，是生态内技能编写的参考标准，本周新增 3.8k Star。",
-      "stars": "192.1k",
-      "weekly_stars": "3.8k"
+      "description": "Anthropic 官方的 Agent Skills 公共仓库，集中发布可复用的技能定义与示例，是生态内技能编写的参考标准，本周新增 5k Star 重回榜单。",
+      "stars": "193k",
+      "weekly_stars": "5k"
     },
     {
-      "rank": 11,
+      "rank": 8,
+      "owner": "Donchitos",
+      "repo": "Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "把 Claude Code 改造成完整游戏开发工作室：内置 49 个 AI 角色 Agent、72 个工作流技能与一套协作机制，复刻真实工作室的层级分工，本周新增 3.7k Star。",
+      "stars": "38.4k",
+      "weekly_stars": "3.7k"
+    },
+    {
+      "rank": 9,
       "owner": "vercel-labs",
       "repo": "agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Vercel Labs 的浏览器自动化 CLI：为 AI Agent 提供可脚本化的网页浏览与交互能力，与 agent-desktop 同属其 computer-use 布局，本周新增 3k Star。",
-      "stars": "49.1k",
-      "weekly_stars": "3k"
+      "description": "Vercel Labs 的浏览器自动化 CLI：为 AI Agent 提供可脚本化的网页浏览与交互能力，与 agent-desktop 同属其 computer-use 布局，本周新增 3.6k Star。",
+      "stars": "49.7k",
+      "weekly_stars": "3.6k"
+    },
+    {
+      "rank": 10,
+      "owner": "zed-industries",
+      "repo": "zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Rust 编写的高性能多人协作代码编辑器，近年把 AI Agent 面板与内联助手做进核心工作流，是「AI 原生编辑器」的主要竞争者，本周新增 2.3k Star。",
+      "stars": "94.7k",
+      "weekly_stars": "2.3k"
+    },
+    {
+      "rank": 11,
+      "owner": "herdrdev",
+      "repo": "herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "定位为「编码 Agent 运行其上的运行时」，为多智能体提供统一的执行底座与会话管理，本周新增 2.2k Star。",
+      "stars": "50.3k",
+      "weekly_stars": "2.2k"
     },
     {
       "rank": 12,
-      "owner": "max-sixty",
-      "repo": "worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Git worktree 管理 CLI，专为并行 AI Agent 工作流设计，让多个代理在不同工作树上同时干活而不互相干扰，本周新增 2.4k Star。",
-      "stars": "12.4k",
-      "weekly_stars": "2.4k"
-    },
-    {
-      "rank": 13,
-      "owner": "anomalyco",
-      "repo": "hex",
-      "url": "https://github.com/anomalyco/hex",
-      "description": "面向 macOS / Windows / Linux 的本地语音听写工具，主打低延迟与隐私优先的语音转文字输入，本周新增 2k Star。",
-      "stars": "6.1k",
+      "owner": "google",
+      "repo": "skills",
+      "url": "https://github.com/google/skills",
+      "description": "Google 官方的 Agent Skills 仓库，覆盖其各产品与技术栈的技能定义，与 Anthropic skills 形成事实上的双标准格局，本周新增 2k Star。",
+      "stars": "23.9k",
       "weekly_stars": "2k"
     },
     {
+      "rank": 13,
+      "owner": "DIYgod",
+      "repo": "pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "description": "知名开发者 DIYgod 的新项目：让 AI Agent 直接操控你的手机，同时把人保留在回环中随时接管，本周新上榜即拿下 1.9k Star。",
+      "stars": "1.9k",
+      "weekly_stars": "1.9k"
+    },
+    {
       "rank": 14,
-      "owner": "The-PR-Agent",
-      "repo": "pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "description": "经典开源 PR 审查工具 PR-Agent 的新家：自动生成 PR 描述、代码评审与改进建议，作者强调这是原版而非 Qodo 免费版，本周新增 1.8k Star。",
-      "stars": "15.8k",
-      "weekly_stars": "1.8k"
+      "owner": "google-deepmind",
+      "repo": "mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "DeepMind 的经典物理仿真器：多关节动力学与接触仿真，是强化学习、机器人控制与具身智能研究的基础设施，本周新增 1.1k Star。",
+      "stars": "17.6k",
+      "weekly_stars": "1.1k"
     }
   ]
 }
