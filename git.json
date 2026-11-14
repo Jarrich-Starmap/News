@@ -1,105 +1,114 @@
 {
   "title": "GitHub AI 项目周榜",
   "period": "2026.11.09 – 11.15 · 按本周新增 Star 数排序",
-  "updated": "2026.11.14",
+  "updated": "2026.11.15",
   "projects": [
     {
       "rank": 1,
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "Cloudflare 开源的安全审计 Agent 技能：把编码代理变成多阶段安全审计员，覆盖式挖掘漏洞，结论经独立核验后输出机器可读报告，本周新增 10.7k Star 守住榜首。",
-      "stars": "71.7k",
-      "weekly_stars": "10.7k"
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "跨设备远程控制 Claude Code / Codex 等编码代理的编排层：桌面与手机都能接管终端里的 AI 任务，本周新增 10.1k Star 位列榜首。",
+      "stars": "60.4k",
+      "weekly_stars": "10.1k"
     },
     {
       "rank": 2,
       "owner": "milind-soni",
       "repo": "OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "开源版 Grok Bot 替代方案：为 Bot 配一台可操作的虚拟机，让智能体在隔离环境中真正执行任务，本周新增 9.1k Star 稳居第二。",
-      "stars": "22.1k",
-      "weekly_stars": "9.1k"
+      "description": "开源版 Grok Bot 替代方案：为 Bot 配一台可操作的虚拟机，让智能体在隔离环境中真正执行任务，本周新增 7.8k Star。",
+      "stars": "22.7k",
+      "weekly_stars": "7.8k"
     },
     {
       "rank": 3,
-      "owner": "mattpocock",
-      "repo": "skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Matt Pocock 公开 .agents 目录下的实战技能集「Skills for Real Engineers」，聚焦真实工程场景的 AI 编码协作，仍是 Agent Skills 生态被抄作业最多的样板，本周新增 8.7k Star，累计突破 32 万。",
-      "stars": "323.7k",
-      "weekly_stars": "8.7k"
-    },
-    {
-      "rank": 4,
-      "owner": "vercel-labs",
-      "repo": "agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Vercel Labs 的计算机使用 CLI：让 AI Agent 直接「看见」并操作桌面应用，是 computer-use 赛道的核心工具之一，本周新增 6.4k Star。",
-      "stars": "23.2k",
-      "weekly_stars": "6.4k"
-    },
-    {
-      "rank": 5,
       "owner": "anthropics",
       "repo": "skills",
       "url": "https://github.com/anthropics/skills",
-      "description": "Anthropic 官方的 Agent Skills 公共仓库，集中发布可复用技能定义与示例，是生态内技能编写的参考标准，本周新增 6.1k Star。",
-      "stars": "194.1k",
-      "weekly_stars": "6.1k"
+      "description": "Anthropic 官方的 Agent Skills 公共仓库，集中发布可复用技能定义与示例，是生态内技能编写的参考标准，本周新增 6.2k Star，累计逼近 20 万。",
+      "stars": "194.5k",
+      "weekly_stars": "6.2k"
+    },
+    {
+      "rank": 4,
+      "owner": "google",
+      "repo": "elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "description": "Google 开源、用于「与 Agent 一起设计与评审软件」的插件，把架构评审与设计讨论交给编码代理协同完成，本周新增 5.6k Star。",
+      "stars": "19k",
+      "weekly_stars": "5.6k"
+    },
+    {
+      "rank": 5,
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Vercel Labs 的浏览器自动化 CLI：为 AI Agent 提供可脚本化的网页浏览与交互能力，与 agent-desktop 同属其 computer-use 布局，本周新增 4.4k Star。",
+      "stars": "51.1k",
+      "weekly_stars": "4.4k"
     },
     {
       "rank": 6,
       "owner": "NVIDIA",
       "repo": "auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "NVIDIA 开源的语义本体框架：在数据之上构建基于知识图谱的推理层，实现确定性查询生成与更优的上下文检索，面向 LLM 与 Agent 工作流，本周新增 5.8k Star。",
-      "stars": "12.5k",
-      "weekly_stars": "5.8k"
+      "description": "NVIDIA 开源的语义本体框架：在数据之上构建基于知识图谱的推理层，实现确定性查询生成与更优的上下文检索，面向 LLM 与 Agent 工作流，本周新增 4.1k Star。",
+      "stars": "12.8k",
+      "weekly_stars": "4.1k"
     },
     {
       "rank": 7,
-      "owner": "google",
-      "repo": "elephant-goldfish-model",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "description": "Google 开源、用于「与 Agent 一起设计与评审软件」的插件，把架构评审与设计讨论交给编码代理协同完成，本周新上榜即拿下 5.6k Star。",
-      "stars": "18.5k",
-      "weekly_stars": "5.6k"
-    },
-    {
-      "rank": 8,
-      "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Vercel Labs 的浏览器自动化 CLI：为 AI Agent 提供可脚本化的网页浏览与交互能力，与 agent-desktop 同属其 computer-use 布局，本周新增 4.6k Star 并突破 5 万总 Star。",
-      "stars": "50.6k",
-      "weekly_stars": "4.6k"
-    },
-    {
-      "rank": 9,
       "owner": "ZhuLinsen",
       "repo": "daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情聚合、实时新闻解读、决策看板与自动推送，支持零成本定时运行，本周新增 3.6k Star。",
-      "stars": "71.5k",
-      "weekly_stars": "3.6k"
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情聚合、实时新闻解读、决策看板与自动推送，支持零成本定时运行，本周新增 3.8k Star。",
+      "stars": "72.2k",
+      "weekly_stars": "3.8k"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "owner": "addyosmani",
       "repo": "agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Addy Osmani 维护的 AI 编码代理技能集，主打生产级工程实践（重构、测试、评审等场景可直接复用），本周新增 3.2k Star，总 Star 已破 11 万。",
-      "stars": "117.1k",
+      "description": "Addy Osmani 维护的 AI 编码代理技能集，主打生产级工程实践（重构、测试、评审等场景可直接复用），本周新增 3.5k Star，总 Star 已破 11 万。",
+      "stars": "117.5k",
+      "weekly_stars": "3.5k"
+    },
+    {
+      "rank": 9,
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Chrome 团队的 Web 最佳实践指导包：把最新规范与用法实时喂给编码 Agent，减少过时 API 幻觉，本周新上榜即拿下 3.4k Star。",
+      "stars": "5.7k",
+      "weekly_stars": "3.4k"
+    },
+    {
+      "rank": 10,
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频，是 AIGC 内容生产的高星常客，本周新增 3.2k Star。",
+      "stars": "143.5k",
       "weekly_stars": "3.2k"
     },
     {
       "rank": 11,
-      "owner": "zed-industries",
-      "repo": "zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Rust 编写的高性能多人协作代码编辑器，已把 AI Agent 面板与内联助手做进核心工作流，是「AI 原生编辑器」的主要竞争者，本周新增 2.3k Star。",
-      "stars": "94.9k",
+      "owner": "ranxianglei",
+      "repo": "billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "上下文压缩插件：长程单会话（数十亿 token 级）与 100K 小窗口都能高效吞吐，直击 Agent 长任务的上下文瓶颈，本周新增 3.0k Star。",
+      "stars": "7.4k",
+      "weekly_stars": "3.0k"
+    },
+    {
+      "rank": 12,
+      "owner": "homeassistant-ai",
+      "repo": "ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "面向 Home Assistant 的 MCP 服务端：让 Claude、ChatGPT 等 AI 助手直接配置与自动化智能家居，本周新增 2.3k Star。",
+      "stars": "7.8k",
       "weekly_stars": "2.3k"
     }
   ]
