@@ -1,96 +1,96 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.11.07 · 按 ClawHub Trending 综合热度排序（前 10；skills-sh 源无 24h 下载，列「—」，热度见 bookmarks）",
-  "updated": "2026.11.08",
+  "period": "2026.11.14 · 按 ClawHub Trending 综合热度排序（前 10；skills-sh 源无 24h 下载，列「—」，热度见 bookmarks）",
+  "updated": "2026.11.14",
   "projects": [
     {
       "rank": 1,
-      "owner": "xixu-me",
-      "repo": "xdrop",
-      "url": "https://clawhub.ai/xixu-me/skills/xdrop",
-      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流；本期以近 24h 下载 1.2k 居 Trending 榜首。",
-      "bookmarks": "294",
-      "downloads": "1.2k"
+      "owner": "clawcall-dev",
+      "repo": "clawcall-dev",
+      "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
+      "description": "AI 语音通话技能：让智能体代表用户拨打美国电话、处理语音菜单与转接、确认/改期/取消/预订/跟进订单、转接真人、留言或接入实时通话，并可配置 ClawCall 语音/人设/号码；本期以近 24h 下载 1.0k 居 Trending 榜首。",
+      "bookmarks": "691",
+      "downloads": "1.0k"
     },
     {
       "rank": 2,
-      "owner": "skills-shell",
-      "repo": "ai-image-generation",
-      "url": "https://clawhub.ai/skills-sh/skills-shell/superpowers/ai-image-generation",
-      "description": "通过 inference.sh CLI 调用 50+ AI 模型生成图像，skills.sh 生态累计安装 30.0k 居前列。",
-      "bookmarks": "30.0k",
+      "owner": "bankai-skills",
+      "repo": "ai-video-generation",
+      "url": "https://clawhub.ai/skills-sh/bankai-skills/superpowers/ai-video-generation",
+      "description": "通过 inference.sh 的 belt CLI 调用 40+ AI 模型生成视频（文生视频、图生视频、数字人/口型同步、视频编辑等）；skills.sh 生态累计安装 30.2k 居前列。",
+      "bookmarks": "30.2k",
       "downloads": "—"
     },
     {
       "rank": 3,
-      "owner": "hillstreet-ph",
-      "repo": "hillstreet-integrations-mobile",
-      "url": "https://clawhub.ai/hillstreet-ph/skills/hillstreet-integrations-mobile",
-      "description": "Hillstreet 移动端集成技能，封装移动应用相关的接口、自动化与工作流；以近 24h 下载 115 首次冲入 Trending 前 10。",
+      "owner": "qiakai",
+      "repo": "repoviz",
+      "url": "https://clawhub.ai/qiakai/skills/repoviz",
+      "description": "扫描任意代码库或逻辑，即时生成架构图、流程图、桑基图、时序图、思维导图等可视化图表，输出可嵌入 Markdown 的零依赖渲染链接，并支持导出本地 SVG/PNG/交互式 HTML；本期以近 24h 下载 112 进入 Trending 前 10。",
       "bookmarks": "1",
-      "downloads": "115"
+      "downloads": "112"
     },
     {
       "rank": 4,
-      "owner": "bustes01",
-      "repo": "text-to-image-free",
-      "url": "https://clawhub.ai/bustes01/skills/text-to-image-free",
-      "description": "免费文生图技能，调用开放模型将文本提示转为图像；以近 24h 下载 260 进入 Trending 前 10。",
-      "bookmarks": "34",
-      "downloads": "260"
+      "owner": "xixu-me",
+      "repo": "xdrop",
+      "url": "https://clawhub.ai/xixu-me/skills/xdrop",
+      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流，支持 --quiet/--json/--expires-in/--output 等 CLI 参数与本地加解密；本期以近 24h 下载 1.0k 居 Trending 前列。",
+      "bookmarks": "294",
+      "downloads": "1.0k"
     },
     {
       "rank": 5,
-      "owner": "skills-shell",
-      "repo": "ai-video-generation",
-      "url": "https://clawhub.ai/skills-sh/skills-shell/superpowers/ai-video-generation",
-      "description": "通过 inference.sh CLI 调用 40+ AI 模型生成视频，skills.sh 生态累计安装 30.0k。",
-      "bookmarks": "30.0k",
+      "owner": "bankai-skills",
+      "repo": "ai-image-generation",
+      "url": "https://clawhub.ai/skills-sh/bankai-skills/superpowers/ai-image-generation",
+      "description": "通过 inference.sh 的 belt CLI 调用 50+ AI 模型生成图像（含 GPT-Image、FLUX、Gemini、Seedream、Reve 等，支持文生图/编辑/重绘）；skills.sh 生态累计安装 30.2k。",
+      "bookmarks": "30.2k",
       "downloads": "—"
     },
     {
       "rank": 6,
-      "owner": "cournot-ai",
-      "repo": "cournot",
-      "url": "https://clawhub.ai/cournot-ai/skills/cournot",
-      "description": "用自然语言向 AI 询问加密事件，返回结构化概率、被评估的具体主张及背后信源；以近 24h 下载 238 入榜。",
-      "bookmarks": "1",
-      "downloads": "238"
+      "owner": "bustes01",
+      "repo": "text-to-image-free",
+      "url": "https://clawhub.ai/bustes01/skills/text-to-image-free",
+      "description": "免费文生图技能，调用 Pollinations.ai 免费 API 将文本转为图像，无需 API Key、零成本，支持 sana/flux/turbo/dreamshaper 多模型；本期以近 24h 下载 281 进入 Trending 前 10。",
+      "bookmarks": "35",
+      "downloads": "281"
     },
     {
       "rank": 7,
       "owner": "designed-by-ai",
       "repo": "design-mobile-apps",
       "url": "https://clawhub.ai/skills-sh/designed-by-ai/skills/design-mobile-apps",
-      "description": "通过 Sleek 的 REST API 从简报设计移动 App 界面，skills.sh 生态累计安装 20.9k。",
-      "bookmarks": "20.9k",
+      "description": "通过 Sleek 的 REST API 从简报快速设计移动 App 界面并获取 HTML 与渲染图；skills.sh 生态累计安装 21.2k。",
+      "bookmarks": "21.2k",
       "downloads": "—"
     },
     {
       "rank": 8,
-      "owner": "hillstreet-ph",
-      "repo": "nexu-open-design",
-      "url": "https://clawhub.ai/hillstreet-ph/skills/nexu-open-design",
-      "description": "Hillstreet 开放设计技能，提供可复用的设计资源与自动化流程；以近 24h 下载 112 进入 Trending 前 10。",
+      "owner": "qiakai",
+      "repo": "air-chart",
+      "url": "https://clawhub.ai/qiakai/skills/air-chart",
+      "description": "查询 OpenAQ 全球空气质量监测数据并渲染高精度 SVG 趋势图表，支持单城趋势、多城对比（最多 4 城）、多参数与多站点快照，自动优先政府参考级站点并叠加 WHO 指导线；本期以近 24h 下载 106 进入 Trending 前 10。",
       "bookmarks": "1",
-      "downloads": "112"
+      "downloads": "106"
     },
     {
       "rank": 9,
       "owner": "pskoett",
       "repo": "self-improving-agent",
       "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "将经验、错误与纠正写入记忆文件实现持续改进：命令失败时捕获教训并沉淀为工作区记忆，累计安装 18.5k；以近 24h 下载 233 入榜。",
+      "description": "将经验、错误与纠正写入 Markdown 笔记实现持续改进，重要结论可提升为工作区记忆；累计安装 18.5k；本期以近 24h 下载 262 入榜。",
       "bookmarks": "18.5k",
-      "downloads": "233"
+      "downloads": "262"
     },
     {
       "rank": 10,
       "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "url": "https://clawhub.ai/skills-sh/vercel-labs/agent-browser/agent-browser",
-      "description": "Vercel Labs 智能体浏览器技能，让 AI 自主操控网页完成浏览与交互任务；skills.sh 生态累计安装 15.9k。",
-      "bookmarks": "15.9k",
+      "repo": "find-skills",
+      "url": "https://clawhub.ai/skills-sh/vercel-labs/skills/find-skills",
+      "description": "Vercel Labs 技能发现工具，帮助从开放智能体技能生态中检索并安装技能，提供 npx skills find/add 命令与质量核验建议；skills.sh 生态累计安装 18.0k。",
+      "bookmarks": "18.0k",
       "downloads": "—"
     }
   ]
