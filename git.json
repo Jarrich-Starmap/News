@@ -1,41 +1,41 @@
 {
   "title": "GitHub AI 项目周榜",
   "period": "2026.11.17 – 11.23 · 按本周新增 Star 数排序",
-  "updated": "2026.11.19",
+  "updated": "2026.11.20",
   "projects": [
     {
       "rank": 1,
-      "owner": "meta",
-      "repo": "astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "Meta 开源的设计系统 astryx：组件与设计令牌完全可自定义，并针对 AI 代理做了适配（agent ready），代理可直接读懂并生成风格统一的界面，本周新增 8.7k Star 继续稳居榜首，累计突破 30k。",
-      "stars": "30.5k",
-      "weekly_stars": "8.7k"
-    },
-    {
-      "rank": 2,
       "owner": "GoogleChrome",
       "repo": "modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Chrome 团队维护的现代 Web 最佳实践知识源，让编码代理始终保持对最新 Web 规范与推荐写法的掌握，本周新增 7.0k Star 升至第二。",
-      "stars": "8.8k",
-      "weekly_stars": "7.0k"
+      "description": "Chrome 团队维护的现代 Web 最佳实践知识源，让编码代理持续同步最新 Web 规范与推荐写法，本周新增 7.3k Star 反超登顶。",
+      "stars": "9.1k",
+      "weekly_stars": "7.3k"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "owner": "dream-num",
       "repo": "univer",
       "url": "https://github.com/dream-num/univer",
-      "description": "Univer Office SDK：把表格编辑、计算、协作与文件处理能力嵌入自有产品，开源内核可扩展，原生面向人与 AI 代理共建的「AI 办公室」，本周新增 5.8k Star。",
-      "stars": "29.8k",
-      "weekly_stars": "5.8k"
+      "description": "Univer Office SDK：把表格编辑、计算、协作与文件处理能力嵌入自有产品，开源内核可扩展，原生面向人与 AI 代理共建的「AI 办公室」，本周新增 6.8k Star 升至第二。",
+      "stars": "30.4k",
+      "weekly_stars": "6.8k"
+    },
+    {
+      "rank": 3,
+      "owner": "meta",
+      "repo": "astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "Meta 开源的设计系统 astryx：组件与设计令牌完全可自定义，并针对 AI 代理做了适配（agent ready），代理可直接读懂并生成风格统一的界面，本周新增 6.3k Star，累计突破 30.9k。",
+      "stars": "30.9k",
+      "weekly_stars": "6.3k"
     },
     {
       "rank": 4,
       "owner": "affaan-m",
       "repo": "ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent harness 性能优化系统，整合技能、本能（instinct）、记忆与安全等能力层，用于提升编码代理的执行效率与稳定性，本周新增 5.3k Star，累计已超 30 万。",
+      "description": "Agent harness 性能优化系统，整合技能、本能（instinct）、记忆、安全与研究等能力层，用于提升编码代理的执行效率与稳定性，本周新增 5.3k Star，累计已超 30 万。",
       "stars": "306.3k",
       "weekly_stars": "5.3k"
     },
@@ -53,12 +53,21 @@
       "owner": "Leonxlnx",
       "repo": "taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "给编码代理补上「审美」的技能包，涵盖艺术指导、参考图检索与浏览器取色等环节，让代理产出的界面不再千篇一律，本周新增 4.8k Star 首度上榜。",
+      "description": "给编码代理补上「审美」的技能包，涵盖艺术指导、参考图检索与浏览器取色校验等环节，让代理产出的界面不再千篇一律，本周新增 4.8k Star。",
       "stars": "118.3k",
       "weekly_stars": "4.8k"
     },
     {
       "rank": 7,
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "阿里开源的混合架构代码评审工具：确定性流水线 + LLM Agent 双引擎，支持行级精确评论与多语言内置规则（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic 接口，本周新增 4.4k Star。",
+      "stars": "54.3k",
+      "weekly_stars": "4.4k"
+    },
+    {
+      "rank": 8,
       "owner": "milind-soni",
       "repo": "OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
@@ -67,22 +76,13 @@
       "weekly_stars": "4.3k"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "owner": "addyosmani",
       "repo": "agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Addy Osmani 整理的生产级 AI 编码代理工程技能集，覆盖需求拆解、测试、代码评审等工程实践，本周新增 3.9k Star。",
       "stars": "118.9k",
       "weekly_stars": "3.9k"
-    },
-    {
-      "rank": 9,
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里开源的混合架构代码评审工具：确定性流水线 + LLM Agent 双引擎，支持行级精确评论与多语言内置规则（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic 接口，本周新增 3.7k Star。",
-      "stars": "54.1k",
-      "weekly_stars": "3.7k"
     },
     {
       "rank": 10,
@@ -95,48 +95,48 @@
     },
     {
       "rank": 11,
-      "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Vercel 实验室推出的浏览器自动化 CLI，专为 AI 代理设计，用命令行驱动网页操作与信息提取，本周新增 3.4k Star。",
-      "stars": "52.6k",
-      "weekly_stars": "3.4k"
+      "owner": "Tencent",
+      "repo": "LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "腾讯开源的自托管工作流引擎，用于编排 CodeBuddy、Codex 与 Claude Code 等编码代理的交付流程，内置脚本执行与人工审批关卡，本周新增 3.6k Star 首次上榜。",
+      "stars": "4.0k",
+      "weekly_stars": "3.6k"
     },
     {
       "rank": 12,
-      "owner": "tradermonty",
-      "repo": "claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "面向股票投资者与交易员的 Claude Code 技能集，提供行情分析、技术图表、经济日历、选股筛选与交易策略开发能力，本周新增 3.0k Star。",
-      "stars": "7.0k",
-      "weekly_stars": "3.0k"
-    },
-    {
-      "rank": 13,
-      "owner": "ChromeDevTools",
-      "repo": "chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "把 Chrome DevTools 以 MCP 服务的形式开放给编码代理，代理可直接读取页面性能、网络请求与控制台数据来完成调试，本周新增 2.9k Star。",
-      "stars": "58.2k",
-      "weekly_stars": "2.9k"
-    },
-    {
-      "rank": 14,
       "owner": "backnotprop",
       "repo": "plannotator",
       "url": "https://github.com/backnotprop/plannotator",
-      "description": "面向 agent 协作流程的工作台：支持需求 shaping、决策、规划、标注与代码评审，并能一键把全部反馈回传给代理，本周新增 2.9k Star。",
-      "stars": "13.4k",
-      "weekly_stars": "2.9k"
+      "description": "面向 agent 协作流程的工作台：支持需求 shaping、决策、规划、标注与代码评审，并能一键把全部反馈回传给代理，本周新增 3.3k Star。",
+      "stars": "13.6k",
+      "weekly_stars": "3.3k"
+    },
+    {
+      "rank": 13,
+      "owner": "tradermonty",
+      "repo": "claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "面向股票投资者与交易员的 Claude Code 技能集，提供行情分析、技术图表、经济日历、选股筛选与交易策略开发能力，本周新增 3.2k Star。",
+      "stars": "7.2k",
+      "weekly_stars": "3.2k"
+    },
+    {
+      "rank": 14,
+      "owner": "ag-ui-protocol",
+      "repo": "ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI 代理-用户交互协议：为 Agent 与前端应用之间定义标准通信层，让代理的思考过程、状态与操作可被实时呈现与接管，本周新增 3.2k Star。",
+      "stars": "20.6k",
+      "weekly_stars": "3.2k"
     },
     {
       "rank": 15,
-      "owner": "blader",
-      "repo": "humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "去除文本「AI 生成痕迹」的代理技能，改写机械表达，让代理写出的内容更接近自然写作，本周新增 2.9k Star。",
-      "stars": "70.7k",
-      "weekly_stars": "2.9k"
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "把 Chrome DevTools 以 MCP 服务的形式开放给编码代理，代理可直接读取页面性能、网络请求与控制台数据来完成调试，本周新增 3.1k Star。",
+      "stars": "58.3k",
+      "weekly_stars": "3.1k"
     }
   ]
 }
