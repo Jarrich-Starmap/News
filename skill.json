@@ -1,97 +1,97 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.11.15 · 按 ClawHub Trending 综合热度排序（前 10；本期权榜全为 clawhub 源，均含真实 24h 下载量，downloads 即近 24h 下载，bookmarks 即累计安装）",
-  "updated": "2026.11.15",
+  "period": "2026.11.21 · 按 ClawHub Trending 综合热度排序（前 10；本期全为 clawhub 源，其中 2 项来自 rising lane；downloads 为近 24h 下载量，bookmarks 为累计安装量）",
+  "updated": "2026.11.21",
   "projects": [
     {
       "rank": 1,
-      "owner": "xixu-me",
-      "repo": "xdrop",
-      "url": "https://clawhub.ai/xixu-me/skills/xdrop",
-      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流，支持 CLI 参数与本地加解密；本期以近 24h 下载 1.0k 登顶 Trending 榜首。",
-      "bookmarks": "294",
-      "downloads": "1.0k"
-    },
-    {
-      "rank": 2,
       "owner": "clawcall-dev",
       "repo": "clawcall-dev",
       "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
-      "description": "AI 语音通话技能（ClawCall）：让智能体代表用户拨打美国电话、处理语音菜单与转接、确认/改期/取消/预订/跟进订单、转接真人、留言或接入实时通话，并可配置 ClawCall 语音/人设/号码；本期以近 24h 下载 1.0k 居 Trending 前列。",
-      "bookmarks": "691",
-      "downloads": "1.0k"
+      "description": "AI 语音通话技能（ClawCall）：让智能体代表用户拨打美国电话、处理等待与语音菜单、确认/改期/取消/预订/跟进/查询订单、转接真人、留言或把用户接入实时通话，并可配置 ClawCall 语音/人设/号码、轮询呼入电话或绑定 API Key（不适用于短信、邮件与国际通话）；本期以近 24h 下载 1.1k 重登 Trending 榜首。",
+      "bookmarks": "692",
+      "downloads": "1.1k"
+    },
+    {
+      "rank": 2,
+      "owner": "xixu-me",
+      "repo": "xdrop",
+      "url": "https://clawhub.ai/xixu-me/skills/xdrop",
+      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流，支持 CLI 参数与本地加解密；本期以近 24h 下载 728 由上期 #1 退居 #2。",
+      "bookmarks": "294",
+      "downloads": "728"
     },
     {
       "rank": 3,
-      "owner": "thiennhant95",
-      "repo": "undo-first",
-      "url": "https://clawhub.ai/thiennhant95/skills/undo-first",
-      "description": "为 AI 智能体提供可逆操作基础设施：在任何产生副作用的动作（写/删/移动文件、改配置、git push、发消息等）之前先行介入，提供撤销能力；本期以近 24h 下载 98 进入 Trending 前 10。",
-      "bookmarks": "1",
-      "downloads": "98"
+      "owner": "selectxx",
+      "repo": "git-fast-content-search",
+      "url": "https://clawhub.ai/selectxx/skills/git-fast-content-search",
+      "description": "在 Git 项目与普通文件中快速检索字面文本，适合大仓库内的精准内容定位；本期以 rising lane 新进 Trending 前 10（近 24h 下载 82，累计安装 0）。",
+      "bookmarks": "0",
+      "downloads": "82"
     },
     {
       "rank": 4,
       "owner": "bustes01",
       "repo": "text-to-image-free",
       "url": "https://clawhub.ai/bustes01/skills/text-to-image-free",
-      "description": "免费文生图技能，调用 Pollinations.ai 免费 API 将文本转为图像，无需 API Key、零成本，支持多模型；本期以近 24h 下载 272 由 #6 升至 #4。",
-      "bookmarks": "35",
-      "downloads": "272"
+      "description": "免费文生图技能，调用 Pollinations.ai 免费 API 将文本描述转为图像，无需 API Key、零成本，支持多模型；本期以近 24h 下载 616 稳居 #4。",
+      "bookmarks": "36",
+      "downloads": "616"
     },
     {
       "rank": 5,
-      "owner": "cournot-ai",
-      "repo": "cournot",
-      "url": "https://clawhub.ai/cournot-ai/skills/cournot",
-      "description": "提供预测市场的概率计算、分歧度排名与预付通话能力（Cournot）；本期以近 24h 下载 252 新进 Trending 前 10。",
-      "bookmarks": "2",
-      "downloads": "252"
-    },
-    {
-      "rank": 6,
       "owner": "jujitao",
       "repo": "memory-never-forget",
       "url": "https://clawhub.ai/jujitao/skills/memory-never-forget",
-      "description": "记忆系统（v4.13）：采用双层级结构（待办用于执行、知识用于策略）并具备 Dream/Refinement 记忆机制；累计安装 183；本期以近 24h 下载 237 新进 Trending 前 10。",
-      "bookmarks": "183",
-      "downloads": "237"
+      "description": "记忆系统（v4.13）：采用双层级结构（待办用于执行、知识用于策略）并具备 Dream/Refinement 记忆机制；累计安装 185；本期以近 24h 下载 493 由 #6 升至 #5。",
+      "bookmarks": "185",
+      "downloads": "493"
+    },
+    {
+      "rank": 6,
+      "owner": "pskoett",
+      "repo": "self-improving-agent",
+      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
+      "description": "将经验、错误与纠正写入笔记实现持续改进：命令失败、用户纠正假设、能力缺失、知识过时或发现更优方法时记录，并在重大任务前回顾已存指南、复用与提升、按实际情况重新校验；累计安装 18.5k；本期以近 24h 下载 245 由 #9 升至 #6。",
+      "bookmarks": "18.5k",
+      "downloads": "245"
     },
     {
       "rank": 7,
       "owner": "wanikua",
       "repo": "thinking-frameworks",
       "url": "https://clawhub.ai/wanikua/skills/thinking-frameworks",
-      "description": "提供结构化的深度分析与决策能力，内置 20 种人类思维框架（如批判性思维、第一性原理、红队演练、设计思维等）；累计安装 45；本期以近 24h 下载 213 新进 Trending 前 10。",
-      "bookmarks": "45",
-      "downloads": "213"
+      "description": "提供结构化的深度分析与决策能力，内置 20 种人类思维框架（如批判性思维、第一性原理、红队演练、设计思维等）；累计安装 46；本期以近 24h 下载 240 稳居 #7。",
+      "bookmarks": "46",
+      "downloads": "240"
     },
     {
       "rank": 8,
-      "owner": "telegraphic-dev",
-      "repo": "a2a-exposed-setup",
-      "url": "https://clawhub.ai/telegraphic-dev/skills/a2a-exposed-setup",
-      "description": "用于部署/重部署/配置 a2a-exposed 的 Cloudflare Worker、唤醒 Webhook、轮询或为已支持 A2A 协议的智能体搭建公开门面，亦可在 a2a.exposed 上创建托管智能体（读/回消息请用 a2a-exposed）；本期以近 24h 下载 93 新进 Trending 前 10。",
-      "bookmarks": "1",
-      "downloads": "93"
+      "owner": "unione",
+      "repo": "unione-migrate",
+      "url": "https://clawhub.ai/unione/skills/unione-migrate",
+      "description": "将邮件发送从 SendGrid、Mailgun、Resend、Postmark 等迁移至 UniOne：自动映射发送调用、SMTP 配置与邮件头、模板、Webhook 事件与抑制名单，覆盖 @sendgrid/mail、mailgun.js、resend、postmark 等 SDK 及各家 SMTP 中继；本期以 rising lane 新进 #8（近 24h 下载 80）。",
+      "bookmarks": "0",
+      "downloads": "80"
     },
     {
       "rank": 9,
-      "owner": "pskoett",
-      "repo": "self-improving-agent",
-      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "将经验、错误与纠正写入笔记实现持续改进：命令失败、用户纠正假设、能力缺失、知识过时或发现更优方法时记录，并在重大任务前回顾已存指南、复用与提升；累计安装 18.5k；本期以近 24h 下载 211 留居 #9。",
-      "bookmarks": "18.5k",
-      "downloads": "211"
+      "owner": "russellshen1992",
+      "repo": "2o-verification",
+      "url": "https://clawhub.ai/russellshen1992/skills/2o-verification",
+      "description": "为 AI 智能体提供人工验证能力：通过 2O API 将断言、草稿回复或观察请求提交给人类领域专家，返回结构化的判定结论；累计安装 25；本期以近 24h 下载 184 新进 Trending 前 10。",
+      "bookmarks": "25",
+      "downloads": "184"
     },
     {
       "rank": 10,
-      "owner": "apidojo-io",
-      "repo": "tiktok-scraper",
-      "url": "https://clawhub.ai/apidojo-io/skills/tiktok-scraper",
-      "description": "抓取 TikTok 数据的高效方案，经数万企业级客户验证；支持获取视频、主页、标签、音乐、评论及基于位置的帖文，覆盖帖子/主页/评论/地点四类专用抓取器；本期以近 24h 下载 193 新进 Trending 前 10。",
-      "bookmarks": "1",
-      "downloads": "193"
+      "owner": "spclaudehome",
+      "repo": "skill-vetter",
+      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
+      "description": "以安全为先的技能审查方案：在安装 ClawHub、GitHub 等来源的技能前，检查红旗信号、权限范围与可疑模式，降低引入风险；累计安装 12.3k；本期以近 24h 下载 171 重返 Trending 前 10。",
+      "bookmarks": "12.3k",
+      "downloads": "171"
     }
   ]
 }
