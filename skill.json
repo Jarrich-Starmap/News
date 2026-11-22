@@ -1,97 +1,97 @@
 {
   "title": "ClawHub 热门 SKILL 榜",
-  "period": "2026.11.21 · 按 ClawHub Trending 综合热度排序（前 10；本期全为 clawhub 源，其中 2 项来自 rising lane；downloads 为近 24h 下载量，bookmarks 为累计安装量）",
-  "updated": "2026.11.21",
+  "period": "2026.11.22 · 按 ClawHub Trending 综合热度排序（前 10；本期全为 clawhub 源，其中 2 项来自 rising lane；downloads 为近 24h 下载量，bookmarks 为累计安装量）",
+  "updated": "2026.11.22",
   "projects": [
     {
       "rank": 1,
-      "owner": "clawcall-dev",
-      "repo": "clawcall-dev",
-      "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
-      "description": "AI 语音通话技能（ClawCall）：让智能体代表用户拨打美国电话、处理等待与语音菜单、确认/改期/取消/预订/跟进/查询订单、转接真人、留言或把用户接入实时通话，并可配置 ClawCall 语音/人设/号码、轮询呼入电话或绑定 API Key（不适用于短信、邮件与国际通话）；本期以近 24h 下载 1.1k 重登 Trending 榜首。",
-      "bookmarks": "692",
-      "downloads": "1.1k"
-    },
-    {
-      "rank": 2,
       "owner": "xixu-me",
       "repo": "xdrop",
       "url": "https://clawhub.ai/xixu-me/skills/xdrop",
-      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流，支持 CLI 参数与本地加解密；本期以近 24h 下载 728 由上期 #1 退居 #2。",
+      "description": "通过终端经 Xdrop 服务器发送或获取文件，自动化加密分享链接工作流，支持 CLI 参数与本地加解密；本期以近 24h 下载 949 由上期 #2 升至榜首。",
       "bookmarks": "294",
-      "downloads": "728"
+      "downloads": "949"
     },
     {
-      "rank": 3,
-      "owner": "selectxx",
-      "repo": "git-fast-content-search",
-      "url": "https://clawhub.ai/selectxx/skills/git-fast-content-search",
-      "description": "在 Git 项目与普通文件中快速检索字面文本，适合大仓库内的精准内容定位；本期以 rising lane 新进 Trending 前 10（近 24h 下载 82，累计安装 0）。",
-      "bookmarks": "0",
-      "downloads": "82"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "owner": "bustes01",
       "repo": "text-to-image-free",
       "url": "https://clawhub.ai/bustes01/skills/text-to-image-free",
-      "description": "免费文生图技能，调用 Pollinations.ai 免费 API 将文本描述转为图像，无需 API Key、零成本，支持多模型；本期以近 24h 下载 616 稳居 #4。",
-      "bookmarks": "36",
-      "downloads": "616"
+      "description": "免费文生图技能，调用 Pollinations.ai 免费 API 将文本描述转为图像，无需 API Key、零成本，支持多模型；本期以近 24h 下载 527 由 #4 升至 #2。",
+      "bookmarks": "37",
+      "downloads": "527"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "owner": "logic",
+      "repo": "qed-bot",
+      "url": "https://clawhub.ai/logic/skills/qed-bot",
+      "description": "查询 AI 在数学领域的真实成果与证据强度：qed.bot 是 AI 数学主张的公共登记库（涵盖 Erdős 问题、千禧年大奖难题、纪录界限与形式化定理），每条主张按自主性、证据与忠实度分级，所引 Lean 证明会被重新构建而非照单全收；可核实 AI 是否解决了某问题、某项 AI 证明的可信度、记录保持者与公告披露程度，或检查 Lean 证明文件中的 sorry 与非标准公理；本期以 rising lane 新进 Trending 前 10（近 24h 下载 111，累计安装 1）。",
+      "bookmarks": "1",
+      "downloads": "111"
+    },
+    {
+      "rank": 4,
       "owner": "jujitao",
       "repo": "memory-never-forget",
       "url": "https://clawhub.ai/jujitao/skills/memory-never-forget",
-      "description": "记忆系统（v4.13）：采用双层级结构（待办用于执行、知识用于策略）并具备 Dream/Refinement 记忆机制；累计安装 185；本期以近 24h 下载 493 由 #6 升至 #5。",
+      "description": "记忆系统（v4.13）：采用双层级结构（待办用于执行、知识用于策略）并具备 Dream/Refinement 记忆机制；累计安装 185；本期以近 24h 下载 488 由 #5 升至 #4。",
       "bookmarks": "185",
-      "downloads": "493"
+      "downloads": "488"
+    },
+    {
+      "rank": 5,
+      "owner": "clawcall-dev",
+      "repo": "clawcall-dev",
+      "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
+      "description": "AI 语音通话技能（ClawCall）：让智能体代表用户拨打美国电话、处理等待与语音菜单、确认/改期/取消/预订/跟进/查询订单、转接真人、留言或把用户接入实时通话，并可配置 ClawCall 语音/人设/号码、轮询呼入电话或绑定 API Key（不适用于短信、邮件与国际通话）；本期以近 24h 下载 252 由榜首降至 #5。",
+      "bookmarks": "693",
+      "downloads": "252"
     },
     {
       "rank": 6,
-      "owner": "pskoett",
-      "repo": "self-improving-agent",
-      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
-      "description": "将经验、错误与纠正写入笔记实现持续改进：命令失败、用户纠正假设、能力缺失、知识过时或发现更优方法时记录，并在重大任务前回顾已存指南、复用与提升、按实际情况重新校验；累计安装 18.5k；本期以近 24h 下载 245 由 #9 升至 #6。",
-      "bookmarks": "18.5k",
-      "downloads": "245"
-    },
-    {
-      "rank": 7,
       "owner": "wanikua",
       "repo": "thinking-frameworks",
       "url": "https://clawhub.ai/wanikua/skills/thinking-frameworks",
-      "description": "提供结构化的深度分析与决策能力，内置 20 种人类思维框架（如批判性思维、第一性原理、红队演练、设计思维等）；累计安装 46；本期以近 24h 下载 240 稳居 #7。",
-      "bookmarks": "46",
-      "downloads": "240"
+      "description": "提供结构化的深度分析与决策能力，内置 20 种人类思维框架（如批判性思维、第一性原理、红队演练、设计思维等）；累计安装 47；本期以近 24h 下载 246 由 #7 升至 #6。",
+      "bookmarks": "47",
+      "downloads": "246"
+    },
+    {
+      "rank": 7,
+      "owner": "pskoett",
+      "repo": "self-improving-agent",
+      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
+      "description": "将经验、错误与纠正写入笔记实现持续改进：命令失败、用户纠正假设、能力缺失、知识过时或发现更优方法时记录，并在重大任务前回顾已存指南、复用与提升、按实际情况重新校验；累计安装 18.5k；本期以近 24h 下载 195 由 #6 降至 #7。",
+      "bookmarks": "18.5k",
+      "downloads": "195"
     },
     {
       "rank": 8,
-      "owner": "unione",
-      "repo": "unione-migrate",
-      "url": "https://clawhub.ai/unione/skills/unione-migrate",
-      "description": "将邮件发送从 SendGrid、Mailgun、Resend、Postmark 等迁移至 UniOne：自动映射发送调用、SMTP 配置与邮件头、模板、Webhook 事件与抑制名单，覆盖 @sendgrid/mail、mailgun.js、resend、postmark 等 SDK 及各家 SMTP 中继；本期以 rising lane 新进 #8（近 24h 下载 80）。",
+      "owner": "troioi-vn",
+      "repo": "bias-lens",
+      "url": "https://clawhub.ai/troioi-vn/skills/bias-lens",
+      "description": "识别并高亮类似「目录偏差」（catalog bias）的推理模式，帮助发现论证中因分类与枚举方式导致的选择性偏差；本期以 rising lane 新进 Trending 前 10（近 24h 下载 88，累计安装 0）。",
       "bookmarks": "0",
-      "downloads": "80"
+      "downloads": "88"
     },
     {
       "rank": 9,
       "owner": "russellshen1992",
       "repo": "2o-verification",
       "url": "https://clawhub.ai/russellshen1992/skills/2o-verification",
-      "description": "为 AI 智能体提供人工验证能力：通过 2O API 将断言、草稿回复或观察请求提交给人类领域专家，返回结构化的判定结论；累计安装 25；本期以近 24h 下载 184 新进 Trending 前 10。",
+      "description": "为 AI 智能体提供人工验证能力：通过 2O API 将断言、草稿回复或观察请求提交给人类领域专家，返回结构化的判定结论；累计安装 25；本期以近 24h 下载 194 稳居 #9。",
       "bookmarks": "25",
-      "downloads": "184"
+      "downloads": "194"
     },
     {
       "rank": 10,
-      "owner": "spclaudehome",
-      "repo": "skill-vetter",
-      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
-      "description": "以安全为先的技能审查方案：在安装 ClawHub、GitHub 等来源的技能前，检查红旗信号、权限范围与可疑模式，降低引入风险；累计安装 12.3k；本期以近 24h 下载 171 重返 Trending 前 10。",
-      "bookmarks": "12.3k",
-      "downloads": "171"
+      "owner": "apidojo-io",
+      "repo": "instagram-scraper",
+      "url": "https://clawhub.ai/apidojo-io/skills/instagram-scraper",
+      "description": "快速低成本抓取 Instagram 数据（经数万客户与企业团队验证）：可获取帖子、Reels、主页、话题标签、地点、评论以及用户/粉丝数据，提供五个专用 actor 覆盖各类抓取场景；本期以近 24h 下载 156 新进 Trending 前 10。",
+      "bookmarks": "4",
+      "downloads": "156"
     }
   ]
 }
