@@ -1,142 +1,142 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.11.18 – 11.24 · 按本周新增 Star 数排序",
-  "updated": "2026.11.24",
+  "period": "2026.11.19 – 11.25 · 按本周新增 Star 数排序",
+  "updated": "2026.11.25",
   "projects": [
     {
       "rank": 1,
       "owner": "elementalsouls",
       "repo": "Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "Claude Code 漏洞挖掘技能包：内置 82 个技能、15 条 slash 命令与 681 个已披露仓库漏洞作参考语料，覆盖外网红队与漏洞赏金全流程，本周再揽 11.3k Star 蝉联榜首。",
-      "stars": "19.4k",
-      "weekly_stars": "11.3k"
+      "description": "Claude Code 漏洞挖掘技能包：84 个技能、15 条 slash 命令与 681 个已披露仓库漏洞语料，覆盖外网红队与漏洞赏金全流程，本周再揽 12.3k Star 蝉联榜首。",
+      "stars": "21.1k",
+      "weekly_stars": "12.3k"
     },
     {
       "rank": 2,
-      "owner": "dream-num",
-      "repo": "univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "Univer Office SDK：把表格编辑、计算、协作与文件处理能力嵌入自有产品，原生面向人与 AI 代理共建的「AI 办公室」，本周新增 6.4k Star 稳守第二。",
-      "stars": "31.4k",
-      "weekly_stars": "6.4k"
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "代理技能框架与软件开发方法论：把规划、实现、评审等环节固化成可装载的技能集，让编码代理按统一方法论干活，本周新增 6.9k Star 新进榜即夺第二。",
+      "stars": "325.8k",
+      "weekly_stars": "6.9k"
     },
     {
       "rank": 3,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent harness 性能优化系统：把技能、直觉、记忆、安全与调研优先的开发流程打包成可复用的代理运行时，让编码代理长期保持稳定表现，本周新增 5.4k Star 连续第三。",
-      "stars": "309.4k",
-      "weekly_stars": "5.4k"
+      "owner": "mattpocock",
+      "repo": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "TypeScript 社区作者开源的工程技能集：直接取自其 .agents 目录，主打「给真正的工程师用」的代理技能，可与主流编码代理配合，本周新增 5.7k Star 新进榜居第三。",
+      "stars": "332.1k",
+      "weekly_stars": "5.7k"
     },
     {
       "rank": 4,
       "owner": "mvanhorn",
       "repo": "last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI 代理技能：横跨 Reddit、X、YouTube、HN、Polymarket 与全网检索任一话题的最近动态，再综合成一份要点报告，本周新增 4.7k Star 由第六升至第四。",
-      "stars": "73.3k",
-      "weekly_stars": "4.7k"
+      "description": "AI 代理技能：横跨 Reddit、X、YouTube、HN、Polymarket 与全网检索任一话题的最近 30 天动态，再综合成一份要点报告，本周新增 5.4k Star 稳守第四。",
+      "stars": "74.0k",
+      "weekly_stars": "5.4k"
     },
     {
       "rank": 5,
-      "owner": "Tencent",
-      "repo": "LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "description": "腾讯开源的自托管编码代理交付工作流：在沙箱工作区内与代理对话、跑可复用的标准作业流程（SOP），人工审批后才放行合并，本周新增 4.3k Star 退至第五。",
-      "stars": "5.9k",
-      "weekly_stars": "4.3k"
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "Agent harness 性能优化系统：把技能、直觉、记忆、安全与调研优先的开发流程打包成可复用的代理运行时，让编码代理长期保持稳定表现，本周新增 5.3k Star 由第三退至第五。",
+      "stars": "310.1k",
+      "weekly_stars": "5.3k"
     },
     {
       "rank": 6,
-      "owner": "anthropics",
-      "repo": "skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Agent Skills 官方公共仓库，收录可直接被 Claude 等代理装载的技能定义与示例，是当下代理技能生态的基础参考，本周新增 3.9k Star 由第七升至第六。",
-      "stars": "199.4k",
-      "weekly_stars": "3.9k"
+      "owner": "dream-num",
+      "repo": "univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Univer Office SDK：把表格编辑、计算、协作与文件处理能力嵌入自有产品，原生面向人与 AI 代理共建的「AI 办公室」，本周新增 4.3k Star 由第二降至第六。",
+      "stars": "31.7k",
+      "weekly_stars": "4.3k"
     },
     {
       "rank": 7,
-      "owner": "kajisho5",
-      "repo": "ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "给编码代理用的本地视频编辑器：42 个 FFmpeg 工具配机器可读契约与 MCP server，支持 Claude Code 直接剪片，本周新增 3.7k Star 由第十二跃升至第七。",
-      "stars": "10.1k",
-      "weekly_stars": "3.7k"
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "两小时从零训出 64M 小模型的开源教程与完整代码：数据、预训练、SFT 与评测全链路可复现，适合作为大模型入门实操项目，本周新增 3.9k Star 由第十三跃升至第七。",
+      "stars": "70.1k",
+      "weekly_stars": "3.9k"
     },
     {
       "rank": 8,
-      "owner": "milind-soni",
-      "repo": "OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "开源的 Grok Bot 替代方案：侧边栏每个 bot 都是本地运行的真实代理（Claude / Codex），自带人格、模型、云电脑与已接入应用，本周新增 3.7k Star 由第十升至第八。",
-      "stars": "27.1k",
-      "weekly_stars": "3.7k"
+      "owner": "kajisho5",
+      "repo": "ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "给编码代理用的本地视频编辑器：42 个 FFmpeg 工具配机器可读契约与 MCP server，支持 Claude Code 直接剪片，本周新增 3.9k Star 守住第八。",
+      "stars": "10.6k",
+      "weekly_stars": "3.9k"
     },
     {
       "rank": 9,
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里开源的混合架构代码评审工具：确定性流水线 + LLM Agent 双引擎，支持行级精确评论与多语言内置规则（NPE、线程安全、XSS、SQL 注入），本周新增 3.7k Star 退至第九。",
-      "stars": "55.6k",
+      "owner": "zhouxiaoka",
+      "repo": "autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip：一个链接一键出片的开源 AI 视频剪辑桌面工具，把播客、访谈、课程等长视频自动剪成短视频，并生成字幕、封面与发布文案，适配抖音、小红书、TikTok、Reels、YouTube Shorts，本周新增 3.7k Star 由第十五升至第九。",
+      "stars": "15.2k",
       "weekly_stars": "3.7k"
     },
     {
       "rank": 10,
-      "owner": "meta",
-      "repo": "astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "Meta 开源的设计系统：组件与设计令牌完全可自定义，并针对 AI 代理做了适配（agent ready），代理可直接读懂并生成风格统一的界面，本周新增 3.6k Star 由第九降至第十。",
-      "stars": "32.5k",
-      "weekly_stars": "3.6k"
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Agent Skills 官方公共仓库，收录可直接被 Claude 等代理装载的技能定义与示例，是当下代理技能生态的基础参考，本周新增 3.7k Star 由第六退至第十。",
+      "stars": "199.9k",
+      "weekly_stars": "3.7k"
     },
     {
       "rank": 11,
-      "owner": "ag-ui-protocol",
-      "repo": "ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "description": "AG-UI：代理与用户交互协议，把 Agent 的事件流、状态与前端组件打通，让代理能力直接嵌入 Web 应用，本周新增 3.6k Star 稳守第十一。",
-      "stars": "21.3k",
+      "owner": "Tencent",
+      "repo": "LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "腾讯开源的自托管编码代理交付工作流：在沙箱工作区内与代理对话、跑可复用的标准作业流程（SOP），人工审批后才放行合并，本周新增 3.6k Star 由第五降至第十一。",
+      "stars": "6.0k",
       "weekly_stars": "3.6k"
     },
     {
       "rank": 12,
-      "owner": "GoogleChrome",
-      "repo": "modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Chrome 团队维护的现代 Web 最佳实践知识源，让编码代理持续同步最新 Web 规范与推荐写法，本周新增 3.6k Star 由第五降至第十二。",
-      "stars": "10.5k",
-      "weekly_stars": "3.6k"
+      "owner": "meta",
+      "repo": "astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "Meta 开源的设计系统：组件与设计令牌完全可自定义，并针对 AI 代理做了适配（agent ready），代理可直接读懂并生成风格统一的界面，本周新增 3.2k Star 由第十降至第十二。",
+      "stars": "32.8k",
+      "weekly_stars": "3.2k"
     },
     {
       "rank": 13,
-      "owner": "jingyaogong",
-      "repo": "minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "两小时从零训出 64M 小模型的开源教程与完整代码：数据、预训练、SFT 与评测全链路可复现，适合作为大模型入门实操项目，本周新增 3.3k Star 由第十五升至第十三。",
-      "stars": "69.4k",
-      "weekly_stars": "3.3k"
+      "owner": "milind-soni",
+      "repo": "OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "开源的 Grok Bot 替代方案：侧边栏每个 bot 都是本地运行的真实代理（Claude / Codex），自带人格、模型、云电脑与已接入应用，本周新增 3.1k Star 由第八降至第十三。",
+      "stars": "27.5k",
+      "weekly_stars": "3.1k"
     },
     {
       "rank": 14,
-      "owner": "backnotprop",
-      "repo": "plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "面向代理协作的规划与评审工作台：塑形需求、做决策、标注、审阅代码并把反馈一键回传给代理，本周新增 2.8k Star 退至第十四。",
-      "stars": "14.6k",
-      "weekly_stars": "2.8k"
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "阿里开源的混合架构代码评审工具：确定性流水线 + LLM Agent 双引擎，支持行级精确评论与多语言内置规则（NPE、线程安全、XSS、SQL 注入），本周新增 3.0k Star 由第九降至第十四。",
+      "stars": "56.0k",
+      "weekly_stars": "3.0k"
     },
     {
       "rank": 15,
-      "owner": "zhouxiaoka",
-      "repo": "autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip：一个链接一键出片的开源 AI 视频剪辑桌面工具，把播客、访谈、课程等长视频自动剪成短视频，并生成字幕、封面与发布文案，适配抖音、小红书、TikTok、Reels、B 站，本周新增 2.8k Star 首次入榜第十五。",
-      "stars": "14.3k",
-      "weekly_stars": "2.8k"
+      "owner": "ag-ui-protocol",
+      "repo": "ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI：代理与用户交互协议，把 Agent 的事件流、状态与前端组件打通，让代理能力直接嵌入 Web 应用，本周新增 3.0k Star 由第十一降至第十五。",
+      "stars": "21.5k",
+      "weekly_stars": "3.0k"
     }
   ]
 }
