@@ -1,51 +1,51 @@
 {
   "title": "GitHub AI 项目周榜",
-  "period": "2026.11.21 – 11.27 · 按本周新增 Star 数排序",
-  "updated": "2026.11.27",
+  "period": "2026.11.22 – 11.28 · 按本周新增 Star 数排序",
+  "updated": "2026.11.28",
   "projects": [
     {
       "rank": 1,
       "owner": "elementalsouls",
       "repo": "Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "Claude Code 漏洞挖掘技能包：85 个技能、16 条 slash 命令与 681 条已披露漏洞报告语料，覆盖外网红队与漏洞赏金全流程，本周再揽 11.9k Star 连续登顶。",
-      "stars": "24.2k",
-      "weekly_stars": "11.9k"
+      "description": "Claude Code 漏洞挖掘技能包：85 个技能、16 条 slash 命令与 681 条已披露漏洞报告语料，覆盖外网红队与漏洞赏金全流程，本周再揽 11.7k Star 连续登顶。",
+      "stars": "25.7k",
+      "weekly_stars": "11.7k"
     },
     {
       "rank": 2,
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI 代理技能：横跨 Reddit、X、YouTube、HN、Polymarket 与全网检索任一话题的最近 30 天动态，再综合成要点报告，本周新增 5.3k Star 稳居第二。",
-      "stars": "75.6k",
-      "weekly_stars": "5.3k"
-    },
-    {
-      "rank": 3,
       "owner": "zhouxiaoka",
       "repo": "autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "开源版 OpusClip 替代：本地优先的 AI 视频切片工具并内置 MCP server，一条链接一键出片、零订阅，本周新增 5.3k Star 由第四升至第三。",
-      "stars": "16.8k",
-      "weekly_stars": "5.3k"
+      "description": "开源版 OpusClip 替代：本地优先的 AI 视频切片工具，内置 MCP server，一条链接一键出片、零订阅，本周新增 5.2k Star 由第三升至第二。",
+      "stars": "17.5k",
+      "weekly_stars": "5.2k"
+    },
+    {
+      "rank": 3,
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI 代理技能：横跨 Reddit、X、YouTube、HN、Polymarket 与全网检索任一话题的最近 30 天动态，再综合成要点报告，本周新增 5.2k Star 由第二降至第三。",
+      "stars": "76.3k",
+      "weekly_stars": "5.2k"
     },
     {
       "rank": 4,
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "Agent harness 性能优化系统：把技能、直觉、记忆、安全与调研优先的开发流程打包成可复用代理运行时，让编码代理长期保持稳定表现，本周新增 4.6k Star 位列第四。",
-      "stars": "311.2k",
-      "weekly_stars": "4.6k"
-    },
-    {
-      "rank": 5,
       "owner": "jingyaogong",
       "repo": "minimind",
       "url": "https://github.com/jingyaogong/minimind",
-      "description": "两小时从零训练 64M 参数大模型：覆盖数据准备、预训练到推理部署的完整开源教程，是入门 LLM 全链路最省成本的选择，本周新增 4.5k Star 维持第五。",
-      "stars": "71.5k",
+      "description": "两小时从零训练 64M 参数大模型：覆盖数据准备、预训练到推理部署的完整开源教程，入门 LLM 全链路最省成本的选择，本周新增 4.5k Star 由第五升至第四。",
+      "stars": "72.2k",
+      "weekly_stars": "4.5k"
+    },
+    {
+      "rank": 5,
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "Agent harness 性能优化系统：把技能、直觉、记忆、安全与调研优先的开发流程打包成可复用代理运行时，让编码代理长期稳定表现，本周新增 4.5k Star 由第四降至第五。",
+      "stars": "311.7k",
       "weekly_stars": "4.5k"
     },
     {
@@ -53,8 +53,8 @@
       "owner": "anthropics",
       "repo": "skills",
       "url": "https://github.com/anthropics/skills",
-      "description": "Anthropic 官方 Agent Skills 仓库：公开技能规范与示例合集，可被 Claude 及各路编码代理直接复用，本周新增 3.4k Star 位列第六。",
-      "stars": "200.9k",
+      "description": "Anthropic 官方 Agent Skills 仓库：公开技能规范与示例合集，可被 Claude 及各路编码代理直接复用，本周新增 3.4k Star 维持第六。",
+      "stars": "201.4k",
       "weekly_stars": "3.4k"
     },
     {
@@ -62,17 +62,17 @@
       "owner": "kajisho5",
       "repo": "ffmpeg-skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "面向编码代理的本地视频编辑技能：42 个 FFmpeg 工具配机器可读契约与 MCP server，在 Claude Code、Cursor 中直接剪片，本周新增 3.0k Star 由第九升至第七。",
-      "stars": "11.4k",
+      "description": "面向编码代理的本地视频编辑技能：42 个 FFmpeg 工具配机器可读契约与 MCP server，在 Claude Code、Cursor 中直接剪片，本周新增 3.0k Star 维持第七。",
+      "stars": "11.8k",
       "weekly_stars": "3.0k"
     },
     {
       "rank": 8,
-      "owner": "meta",
-      "repo": "astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "Meta 开源设计系统：组件与设计令牌完全可定制，并为 agent 就绪做了结构约定，本周新增 2.6k Star 由第十升至第八。",
-      "stars": "33.3k",
+      "owner": "milind-soni",
+      "repo": "OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "开源版 Grok Bot 替代：自带虚拟机让机器人像人一样操作真实网页、完成任务，本周新增 2.6k Star 由第十升至第八。",
+      "stars": "28.5k",
       "weekly_stars": "2.6k"
     },
     {
@@ -80,63 +80,63 @@
       "owner": "google-labs-code",
       "repo": "stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "Google Labs 的 Agent Skills 库：遵循 Agent Skills 开放标准，与 Stitch MCP server 配合直接从需求生成 UI 设计，本周新增 2.6k Star 由第十三升至第九。",
-      "stars": "13.2k",
-      "weekly_stars": "2.6k"
+      "description": "Google Labs 的 Agent Skills 库：遵循 Agent Skills 开放标准，与 Stitch MCP server 配合直接从需求生成 UI 设计，本周新增 2.5k Star 维持第九。",
+      "stars": "13.5k",
+      "weekly_stars": "2.5k"
     },
     {
       "rank": 10,
-      "owner": "milind-soni",
-      "repo": "OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "开源版 Grok Bot 替代：自带虚拟机让机器人像人一样在真实环境中操作网页、完成任务，本周新增 2.6k Star 由第十一升至第十。",
-      "stars": "28.1k",
-      "weekly_stars": "2.6k"
+      "owner": "meta",
+      "repo": "astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "Meta 开源设计系统：组件与设计令牌完全可定制，并为 agent 就绪做了结构约定，本周新增 2.4k Star 由第八降至第十。",
+      "stars": "33.5k",
+      "weekly_stars": "2.4k"
     },
     {
       "rank": 11,
-      "owner": "Tencent",
-      "repo": "LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "description": "腾讯开源自托管工作流：统一编排 CodeBuddy、Codex 与 Claude Code，用脚本加人工审批关卡完成编码代理交付，本周新增 2.3k Star 由第八降至第十一。",
-      "stars": "6.0k",
-      "weekly_stars": "2.3k"
-    },
-    {
-      "rank": 12,
-      "owner": "dream-num",
-      "repo": "univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "Univer Office SDK：把表格编辑、计算、协同与文件处理能力嵌入自有产品，用于搭建 AI 原生办公套件，本周新增 2.3k Star 由第七降至第十二。",
-      "stars": "31.9k",
-      "weekly_stars": "2.3k"
-    },
-    {
-      "rank": 13,
-      "owner": "GoogleChrome",
-      "repo": "modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "GoogleChrome 出品：让编码代理持续跟进最新 Web 最佳实践的规则与知识源，减少过时写法，本周新增 2.3k Star 由第十四升至第十三。",
-      "stars": "11.2k",
-      "weekly_stars": "2.3k"
-    },
-    {
-      "rank": 14,
       "owner": "alibaba",
       "repo": "open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "description": "阿里开源企业级代码评审工具：确定性流水线加 LLM Agent 的混合架构，经阿里规模验证的安全高效评审方案，本周新增 2.3k Star 由第十二降至第十四。",
-      "stars": "56.6k",
-      "weekly_stars": "2.3k"
+      "description": "阿里开源企业级代码评审工具：确定性流水线加 LLM Agent 的混合架构，经阿里规模验证的安全高效评审方案，本周新增 2.2k Star 由第十四升至第十一。",
+      "stars": "56.9k",
+      "weekly_stars": "2.2k"
+    },
+    {
+      "rank": 12,
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "GoogleChrome 出品：让编码代理持续跟进最新 Web 最佳实践的规则与知识源，减少过时写法，本周新增 2.2k Star 由第十三升至第十二。",
+      "stars": "11.4k",
+      "weekly_stars": "2.2k"
+    },
+    {
+      "rank": 13,
+      "owner": "dream-num",
+      "repo": "univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Univer Office SDK：把表格编辑、计算、协同与文件处理能力嵌入自有产品，用于搭建 AI 原生办公套件，本周新增 2.1k Star 由第十二降至第十三。",
+      "stars": "32.0k",
+      "weekly_stars": "2.1k"
+    },
+    {
+      "rank": 14,
+      "owner": "nexu-io",
+      "repo": "opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "description": "AI 游戏生成平台：面向 agent 的 Unity/Unreal 替代，内置 100+ 爆款小游戏可改，接入 20 余种编码代理（Claude Code、Codex、DeepSeek 等）一句话出可玩游戏，本周新上榜即揽 2.1k Star。",
+      "stars": "2.1k",
+      "weekly_stars": "2.1k"
     },
     {
       "rank": 15,
-      "owner": "backnotprop",
-      "repo": "plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "与 Agent 保持同步的协作工作台：可视化拆解任务、决策、规划、标注与代码评审，一键把反馈回传给代理，本周新增 1.8k Star 维持第十五。",
-      "stars": "15.2k",
-      "weekly_stars": "1.8k"
+      "owner": "Tencent",
+      "repo": "LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "腾讯开源自托管工作流：统一编排 CodeBuddy、Codex 与 Claude Code，用脚本加人工审批关卡完成编码代理交付，本周新增 2.1k Star 由第十一降至第十五。",
+      "stars": "6.1k",
+      "weekly_stars": "2.1k"
     }
   ]
 }
